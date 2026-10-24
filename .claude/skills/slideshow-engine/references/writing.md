@@ -63,5 +63,7 @@ Field rules:
 - `text_mode`: `stroke` (white text, black outline, the classic TikTok look), `background` (black text on a white box), or `plain`.
 - `position`: `upper` (about 30% down, the default for hooks), `middle`, or `lower` (stays above the bottom 20%).
 - `image`: a path relative to the set folder, or a path starting with `01-app/assets/` for screenshots.
+- Optional colour fields: `bg` (solid background when `image` is empty), `text_color` (text fill in any mode), `box_color` (box fill in `background` mode).
+- `placeholder: true` marks a screenshot that hasn't been supplied. The renderer refuses to render a set while any slide has it.
 
 Also write `slides.md`: a plain list of each slide's text and image direction, plus the caption, for the user to read at the gate.

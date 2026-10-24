@@ -68,7 +68,7 @@ def base_image(set_dir, project, slide, bg):
             return fit_on_blur(img) if is_screenshot(rel, slide) else cover(img)
     if rel:
         print(f"warning: slide {slide.get('n')}: image not found ({rel}), using solid background", file=sys.stderr)
-    return Image.new("RGB", (W, H), bg)
+    return Image.new("RGB", (W, H), slide.get("bg") or bg)
 
 
 def wrap(draw, text, font, max_width):
@@ -102,18 +102,19 @@ def draw_text(img, slide, font_path):
     center_y = int(H * POSITIONS.get(slide.get("position", "upper"), 0.30))
     top = max(SAFE_TOP, min(center_y - block_h // 2, SAFE_BOTTOM - block_h))
     region = img.crop((0, top, W, top + block_h)).convert("L").resize((1, 1))
-    plain_fill = "black" if region.getpixel((0, 0)) > 150 else "white"
+    plain_fill = slide.get("text_color") or ("black" if region.getpixel((0, 0)) > 150 else "white")
+    box_fill = slide.get("box_color") or "white"
     for i, line in enumerate(lines):
         tw = draw.textlength(line, font=font)
         x, y = (W - tw) / 2, top + i * line_h
         if mode == "background":
             pad = 14
-            draw.rounded_rectangle((x - pad, y - pad // 2, x + tw + pad, y + line_h - pad // 2), 12, fill="white")
-            draw.text((x, y), line, font=font, fill="black")
+            draw.rounded_rectangle((x - pad, y - pad // 2, x + tw + pad, y + line_h - pad // 2), 12, fill=box_fill)
+            draw.text((x, y), line, font=font, fill=slide.get("text_color") or "black")
         elif mode == "plain":
             draw.text((x, y), line, font=font, fill=plain_fill)
         else:
-            draw.text((x, y), line, font=font, fill="white", stroke_width=max(3, size // 14), stroke_fill="black")
+            draw.text((x, y), line, font=font, fill=slide.get("text_color") or "white", stroke_width=max(3, size // 14), stroke_fill="black")
     return img
 
 
