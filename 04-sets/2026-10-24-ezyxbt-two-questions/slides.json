@@ -1,0 +1,88 @@
+{
+  "set_id": "2026-10-24-ezyxbt-two-questions",
+  "status": "rendered, awaiting gate 3: initial messaging-angle test (not validated audience language; not a proven format)",
+  "test": "messaging angle",
+  "angle": "founder: the two questions every session (last time / today's target) → building EARND",
+  "idea": "Founder adaptation of the forgotten-weights angle. Own hooks and visuals, not a copy of the @earndapp set.",
+  "format": "founder-photo-questions",
+  "trend": "none",
+  "hook_id": "F1-01",
+  "persona": "Persona 1: The inconsistent tracker",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1080",
+  "caption": "two questions before every set",
+  "hashtags": [
+    "#gymtok",
+    "#buildinpublic",
+    "#progressiveoverload"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "app_slide": null,
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "01-app/founder-photos/ezy-02.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop only, no edits",
+      "shot_crop": [
+        0.06,
+        0.233,
+        0.94,
+        0.893
+      ],
+      "text": "what did you lift last time?",
+      "text_mode": "stroke",
+      "position": "top"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "01-app/founder-photos/ezy-14.png",
+      "image_direction": "REAL FOUNDER PHOTO: crop only, no edits",
+      "shot_crop": [
+        0.0,
+        0.13,
+        1.0,
+        0.5914
+      ],
+      "text": "what are you aiming for today?",
+      "text_mode": "stroke",
+      "position": "lower"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "01-app/founder-photos/ezy-10.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop only, no edits",
+      "shot_crop": [
+        0.265,
+        0.24,
+        0.735,
+        0.5925
+      ],
+      "text": "if you can't answer both, you're guessing.",
+      "text_mode": "stroke",
+      "position": "lower"
+    },
+    {
+      "n": 4,
+      "role": "cta",
+      "image": "01-app/founder-photos/ezy-01.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop only, no edits",
+      "shot_crop": [
+        0.06,
+        0.12,
+        0.681,
+        0.586
+      ],
+      "text": "EARND answers both before every set.\ni'm building EARND. follow @earndapp for the launch.",
+      "text_mode": "stroke",
+      "position": "top"
+    }
+  ]
+}
