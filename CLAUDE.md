@@ -1,8 +1,8 @@
-# [APP NAME] Slideshow Engine
+# EARND Slideshow Engine
 
 slideshow-engine: v1
 
-This folder runs TikTok and Instagram slideshows for [APP NAME] using the `slideshow-engine` skill.
+This folder runs TikTok and Instagram slideshows for EARND using the `slideshow-engine` skill.
 
 ## Where things live
 
