@@ -14,6 +14,20 @@ EARND is a muscle-building app with a simple four-day Upper/Lower programme, fle
 - **Between sessions:** check progress, or move workouts to days they're available.
 
 ## Magic moment
+Opening an exercise and knowing exactly what to aim for, based on your last session.
+
+On screen (the main app-slide screenshot):
+- Machine Chest Press
+- Last session: 100 kg × 7, 100 kg × 6
+- Today's target: "100 kg × 8 on your first set."
+- Two set rows with 100 kg already filled in, empty rep fields, and completion checkmarks.
+- Completing a set automatically starts the rest timer.
+
+The shot centres on **previous performance → today's target → easy logging**.
+
+The thought we want: *"I don't have to remember my last workout or guess what to do today."*
+
+Scheduling and progress charts support this. They aren't the main selling moment.
 
 ## Pains
 
