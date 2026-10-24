@@ -95,5 +95,15 @@ Claim rules for payoff slides:
 - Say users can *see how their performance has changed*. Never "know it's working": logging alone doesn't establish muscle growth.
 
 ## Pricing
+- **Price:** £9.99/month or £49.99/year. No weekly plan, no lifetime option, no free trial.
+- **Paywall (planned, not yet confirmed as built):** onboarding → programme summary → paywall before the first workout. The summary shows the four-day Upper/Lower structure and the chosen training days, without the per-exercise preview.
+- **Platform:** iOS first. Android not confirmed for launch.
+- **Markets:** sold internationally, English-language marketing. Initial content testing focuses on the UK, US, Canada, and Australia. That's a starting focus, not a limit on availability.
+
+**Funnel to track (purchases, not trials):**
+content views → profile visits → store visits → installs → onboarding completed → paywall viewed → paid subscription → first workout completed
+
+- **Before launch:** measure profile visits and launch interest.
+- **After launch:** use the full funnel to find the drop-off. Low purchases alone don't tell you whether content, onboarding, or the paywall is the problem.
 
 ## Pain bank
