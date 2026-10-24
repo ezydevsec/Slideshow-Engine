@@ -4,7 +4,7 @@
 
 > **Not publish-ready.** Slide 4 is a screenshot placeholder. The renderer refuses this set until the real `exercise-target.png` is supplied.
 
-- **Account:** official EARND brand account
+- **Account:** @earndapp (brand; settings in `06-queue/accounts.json`)
 - **Persona:** Persona 2: The busy returning lifter
 - **Caption:** less time planning. a clear workout to follow.
 - **Hashtags:** #gymtok #upperlowersplit #workoutplan #gymbeginner

@@ -1,6 +1,6 @@
 # Writing mode
 
-Writes one slideshow set per idea. Read `winners.md` and `failure-log.md` first, every time.
+Writes one slideshow set per idea, for one account. Read `winners.md`, `failure-log.md`, and the account's entry in `06-queue/accounts.json` first, every time. Use that account's voice, visual template, CTA for the current phase, and disclosure. A version for another account is a separate set with its own hooks and visuals.
 
 ## Step 1: Hooks
 
@@ -41,6 +41,8 @@ Write `04-sets/YYYY-MM-DD-slug/slides.json`:
   "trend": "celebrity reunion",
   "hook_id": "H07",
   "persona": "Persona 1",
+  "account": "@handle from 06-queue/accounts.json",
+  "account_type": "brand | founder | theme",
   "caption": "astra really said what my friends wouldn't",
   "hashtags": ["#astrology", "#zodiac", "#relationships"],
   "sound": {"mode": "trending", "note": ""},

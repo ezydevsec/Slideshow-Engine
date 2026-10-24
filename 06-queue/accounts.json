@@ -1,0 +1,84 @@
+{
+  "_readme": "Account settings for every posting account. Every set's slides.json names exactly one account by handle. Copy the account's visual template into the slides, use its voice, and end with its CTA for the current phase. Fields marked TO CONFIRM are not decided yet: ask before using them.",
+  "phase": "prelaunch",
+  "launch": {
+    "download_url": null,
+    "note": "Stays null until launch. Download CTAs are only allowed once phase is 'launched' and this is set."
+  },
+  "global_rules": [
+    "Never invent user experiences, testimonials, or independent endorsements, on any account.",
+    "Never present our own promotional pages as independent recommendations. Every account owned or run by us discloses that tie (see each account's disclosure).",
+    "Every post needs approval in chat before it is queued, and approval in the posting tool's dashboard before it publishes.",
+    "Our accounts never comment on, like, or reply to each other's posts.",
+    "Don't add posting workload or new accounts until a format shows repeatable results on an existing account."
+  ],
+  "types": {
+    "brand": "The official EARND account. Speaks as EARND: direct product language.",
+    "founder": "The founder's personal account. First person as the person building EARND. Only real experiences the founder has confirmed.",
+    "theme": "A topic page run by the EARND team. Useful content first; any EARND mention is clearly our own product, never a neutral recommendation."
+  },
+  "accounts": [
+    {
+      "handle": "@earndapp",
+      "type": "brand",
+      "status": "active",
+      "platforms": "TO CONFIRM (TikTok, Instagram, or both)",
+      "posting_tool_ids": {},
+      "voice": "Lowercase hooks in the audience's language; slide 4 onward in direct EARND product language (\"EARND shows...\", \"EARND puts...\"). No first-person user claims.",
+      "visual_template": {
+        "name": "black-and-lime",
+        "bg": "#0B0B0B",
+        "hook_and_cta_text": "#C6FF00",
+        "middle_text": "#FFFFFF",
+        "app_slide": "black text on a #C6FF00 box over the real screenshot",
+        "text_mode": "plain (app slide: background)",
+        "note": "Colour hexes are stand-ins until the exact EARND brand colours are supplied."
+      },
+      "cta": {
+        "prelaunch": "EARND launches soon. Follow for the launch.",
+        "launched": "TO CONFIRM at launch",
+        "destination_prelaunch": "follow @earndapp",
+        "destination_launched": "launch.download_url"
+      },
+      "disclosure": "The account is EARND itself, so the tie is self-evident. Bio: TO CONFIRM.",
+      "personas": ["Persona 1: The inconsistent tracker", "Persona 2: The busy returning lifter"]
+    },
+    {
+      "handle": "@ezyxbt",
+      "type": "founder",
+      "status": "active",
+      "platforms": "TO CONFIRM",
+      "posting_tool_ids": {},
+      "voice": "TO CONFIRM. Default: first person as the person building EARND (\"i'm building EARND because...\"). Only experiences the founder has confirmed as real.",
+      "visual_template": "TO CONFIRM. Must be distinct from @earndapp's black-and-lime template.",
+      "cta": {
+        "prelaunch": "TO CONFIRM. Proposed: \"i'm building EARND. it launches soon. follow @earndapp for the launch.\"",
+        "launched": "TO CONFIRM at launch",
+        "destination_prelaunch": "TO CONFIRM (follow @ezyxbt or @earndapp)",
+        "destination_launched": "launch.download_url"
+      },
+      "disclosure": "Every post that mentions EARND says the poster is building it (\"i'm building\", \"my app\"). Bio states founder of EARND. Exact bio: TO CONFIRM.",
+      "personas": "TO CONFIRM"
+    }
+  ],
+  "planned_accounts": {
+    "_note": "Future theme pages. Add one here only after a format shows repeatable results. Each needs its own hooks and visuals, adapted from scratch, not copies of @earndapp sets.",
+    "template": {
+      "handle": "TO CONFIRM",
+      "type": "theme",
+      "status": "planned",
+      "platforms": "TO CONFIRM",
+      "posting_tool_ids": {},
+      "voice": "TO CONFIRM, from the matching persona's voice.",
+      "visual_template": "TO CONFIRM. Must be distinct from the brand and founder templates.",
+      "cta": {
+        "prelaunch": "TO CONFIRM. Must name EARND as our own product (e.g. \"we're building EARND. follow @earndapp for the launch.\").",
+        "launched": "TO CONFIRM at launch",
+        "destination_prelaunch": "follow @earndapp",
+        "destination_launched": "launch.download_url"
+      },
+      "disclosure": "Bio states the page is run by the EARND team (e.g. \"by @earndapp\"). Any EARND mention says it's ours.",
+      "personas": "one persona per theme page"
+    }
+  }
+}

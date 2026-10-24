@@ -8,7 +8,8 @@
   "trend": "none",
   "hook_id": "H2-01",
   "persona": "Persona 2: The busy returning lifter",
-  "account": "official EARND brand account",
+  "account": "@earndapp",
+  "account_type": "brand",
   "caption": "less time planning. a clear workout to follow.",
   "hashtags": [
     "#gymtok",

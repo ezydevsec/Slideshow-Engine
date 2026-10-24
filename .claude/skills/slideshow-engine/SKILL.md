@@ -47,6 +47,7 @@ Never chain from step 8 into queueing without an explicit yes in chat.
 - **App placement:** default slide 3 or 4, inside the story, in first person ("i've been using this app that..."). If moving it earlier raises conversion but costs views, move it back.
 - **Length:** 5 to 10 slides. One idea per slide. Under 25 words per slide. Every slide gives a reason to swipe.
 - **Real UI only.** App slides use screenshots from `01-app/assets/`. Never generate an app interface.
+- **Accounts.** Every set belongs to one account in `06-queue/accounts.json` and follows its voice, template, CTA, and disclosure. Never present our own pages as independent recommendations. Never invent user experiences, testimonials, or endorsements.
 - **No coordinated engagement.** Never plan comments, likes, or replies between our own accounts. Never create Humanpost comment or Amplify tasks.
 - **AI disclosure.** Any set with a generated image gets `ai_images: true`, and the Humanpost post notes tell the poster to turn on TikTok's AI-generated content label.
 - **Trend safety.** Skip tragedies, deaths, disasters, crime victims, politics, and minors. Skip any trend where the bridge to the app feels forced.

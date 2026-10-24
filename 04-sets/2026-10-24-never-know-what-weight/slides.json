@@ -8,7 +8,8 @@
   "trend": "none",
   "hook_id": "H1-02",
   "persona": "Persona 1: The inconsistent tracker",
-  "account": "official EARND brand account",
+  "account": "@earndapp",
+  "account_type": "brand",
   "caption": "progressive overload is easier when you know the number to beat",
   "hashtags": [
     "#gymtok",

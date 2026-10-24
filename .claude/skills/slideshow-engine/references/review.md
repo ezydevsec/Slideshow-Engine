@@ -4,7 +4,7 @@ Decides what to kill, what to fix, and what to milk. Ends at GATE 4.
 
 ## Step 1: Pull the numbers
 
-1. From Humanpost: post analytics for every post in the last 7 days of manifests (views, likes, comments, shares, saves, post URL). Append to `07-results/performance.csv`.
+1. From Humanpost or each platform's analytics: every post in the last 7 days, **per account**. Append to `07-results/performance.csv` (`date,account,platform,post_id,post_url,set_id,messaging_angle,views,profile_visits,likes,comments,shares,saves,app_questions,attributable_purchases`). Leave any metric the source doesn't provide blank, never 0. Fill `attributable_purchases` only where a store or link actually measures it.
 2. Count "what app is this" style comments per post if the analytics expose comment text. Otherwise leave `app_questions` blank.
 3. Revenue: daily installs, trials, and revenue into `07-results/revenue.csv`, from a RevenueCat export or API, App Store Connect, or the user pasting numbers.
 
@@ -14,7 +14,7 @@ Decides what to kill, what to fix, and what to milk. Ends at GATE 4.
 python3 <skill>/scripts/results_join.py --project .
 ```
 
-This writes `07-results/weekly-YYYY-MM-DD.csv` with one row per set: total views, saves, shares, account count, best post, and an estimated install share. Installs are spread across each day's posts by view share, so treat them as directional. They are not true attribution.
+This writes `07-results/weekly-YYYY-MM-DD.csv` with one row per account and set: views, profile visits, attributable purchases, engagement, best post, and an estimated install share. Unmeasured metrics stay blank. Compare accounts separately: a brand, founder, and theme page have different baselines. Installs are spread across each day's posts by view share, so treat them as directional. They are not true attribution.
 
 ## Step 3: Bucket every set
 

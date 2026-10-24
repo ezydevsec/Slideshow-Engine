@@ -5,15 +5,19 @@ Usage:
   python3 results_join.py [--project .] [--days 7]
 
 Reads:
-  06-queue/*-manifest.csv         set_id,post_id,account_id,platform,format,trend,hook_id,queued_at,status
-  07-results/performance.csv      date,set_id,account_id,platform,post_url,views,likes,comments,shares,saves,app_questions
+  06-queue/*-manifest.csv         set_id,post_id,account,account_id,platform,format,trend,hook_id,messaging_angle,queued_at,status
+  07-results/performance.csv      date,account,platform,post_id,post_url,set_id,messaging_angle,views,profile_visits,likes,comments,shares,saves,app_questions,attributable_purchases
   07-results/revenue.csv          date,installs,trials,revenue
 
 Writes:
-  07-results/weekly-YYYY-MM-DD.csv, one row per set
+  07-results/weekly-YYYY-MM-DD.csv, one row per account and set
 
-Installs are spread across each day's posts by view share. That's a rough
-estimate for comparing sets, not true attribution.
+Reporting is kept separate per account. A metric with no recorded values stays
+blank instead of showing 0, so "not measured" is never read as "zero".
+
+est_installs spreads each day's installs across that day's posts by view share.
+That's a rough estimate for comparing sets, not true attribution. Use
+attributable_purchases where the platform or store can actually measure it.
 """
 import argparse
 import csv
@@ -22,12 +26,14 @@ import glob
 import os
 from collections import defaultdict
 
+METRICS = ("views", "profile_visits", "likes", "comments", "shares", "saves", "app_questions", "attributable_purchases")
+
 
 def num(v):
     try:
-        return float(v or 0)
-    except ValueError:
-        return 0.0
+        return float(v)
+    except (TypeError, ValueError):
+        return None
 
 
 def read(path):
@@ -35,6 +41,11 @@ def read(path):
         return []
     with open(path, newline="") as f:
         return list(csv.DictReader(f))
+
+
+def total(values):
+    vals = [v for v in values if v is not None]
+    return int(sum(vals)) if vals else ""
 
 
 def main():
@@ -55,46 +66,40 @@ def main():
 
     day_views = defaultdict(float)
     for r in perf:
-        day_views[r["date"]] += num(r["views"])
+        day_views[r["date"]] += num(r.get("views")) or 0
 
-    sets = defaultdict(lambda: defaultdict(float))
-    accounts = defaultdict(set)
-    best = {}
+    groups = defaultdict(list)
     for r in perf:
-        s, v = r["set_id"], num(r["views"])
-        for k in ("views", "likes", "comments", "shares", "saves", "app_questions"):
-            sets[s][k] += num(r.get(k))
-        sets[s]["posts"] += 1
-        accounts[s].add(r["account_id"])
-        rev = revenue.get(r["date"])
-        if rev and day_views[r["date"]]:
-            share = v / day_views[r["date"]]
-            sets[s]["est_installs"] += share * num(rev.get("installs"))
-            sets[s]["est_trials"] += share * num(rev.get("trials"))
-        if v > best.get(s, (0, ""))[0]:
-            best[s] = (v, r.get("post_url", ""))
+        groups[(r.get("account", ""), r["set_id"])].append(r)
 
     out = os.path.join(p, "07-results", f"weekly-{dt.date.today().isoformat()}.csv")
-    cols = ["set_id", "format", "trend", "hook_id", "posts", "accounts", "views", "views_per_post",
-            "saves", "shares", "comments", "app_questions", "est_installs", "est_trials", "best_post_views", "best_post_url"]
+    cols = ["account", "set_id", "messaging_angle", "format", "trend", "hook_id", "posts", *METRICS,
+            "views_per_post", "est_installs", "best_post_views", "best_post_id", "best_post_url"]
     rows = []
-    for s, t in sets.items():
-        m = meta.get(s, {})
-        rows.append({
-            "set_id": s, "format": m.get("format", ""), "trend": m.get("trend", ""), "hook_id": m.get("hook_id", ""),
-            "posts": int(t["posts"]), "accounts": len(accounts[s]), "views": int(t["views"]),
-            "views_per_post": int(t["views"] / t["posts"]) if t["posts"] else 0,
-            "saves": int(t["saves"]), "shares": int(t["shares"]), "comments": int(t["comments"]),
-            "app_questions": int(t["app_questions"]),
-            "est_installs": round(t["est_installs"], 1), "est_trials": round(t["est_trials"], 1),
-            "best_post_views": int(best.get(s, (0, ""))[0]), "best_post_url": best.get(s, (0, ""))[1],
-        })
-    rows.sort(key=lambda r: r["views"], reverse=True)
+    for (account, set_id), posts in groups.items():
+        m = meta.get(set_id, {})
+        row = {"account": account, "set_id": set_id, "posts": len(posts),
+               "messaging_angle": next((r["messaging_angle"] for r in posts if r.get("messaging_angle")), m.get("messaging_angle", "")),
+               "format": m.get("format", ""), "trend": m.get("trend", ""), "hook_id": m.get("hook_id", "")}
+        for k in METRICS:
+            row[k] = total(num(r.get(k)) for r in posts)
+        row["views_per_post"] = int(row["views"] / len(posts)) if row["views"] != "" else ""
+        est = []
+        for r in posts:
+            rev, v = revenue.get(r["date"]), num(r.get("views"))
+            if rev and v is not None and day_views[r["date"]] and num(rev.get("installs")) is not None:
+                est.append(v / day_views[r["date"]] * num(rev.get("installs")))
+        row["est_installs"] = round(sum(est), 1) if est else ""
+        best = max(posts, key=lambda r: num(r.get("views")) or 0)
+        row["best_post_views"] = total([num(best.get("views"))])
+        row["best_post_id"], row["best_post_url"] = best.get("post_id", ""), best.get("post_url", "")
+        rows.append(row)
+    rows.sort(key=lambda r: (r["account"], -(r["views"] or 0)))
     with open(out, "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols)
         w.writeheader()
         w.writerows(rows)
-    print(f"{len(rows)} sets -> {out}")
+    print(f"{len(rows)} account/set rows -> {out}")
 
 
 if __name__ == "__main__":

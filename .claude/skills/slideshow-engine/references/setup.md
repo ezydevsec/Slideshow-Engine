@@ -27,8 +27,9 @@ Copy `<skill>/assets/CLAUDE.template.md` to `CLAUDE.md` and fill in the app name
 
 Seed the CSVs with headers:
 
-- `06-queue/queue.csv`: `set_id,status,approved_on,accounts,notes`
-- `07-results/performance.csv`: `date,set_id,account_id,platform,post_url,views,likes,comments,shares,saves,app_questions`
+- `06-queue/queue.csv`: `set_id,account,status,approved_on,notes`
+- `06-queue/accounts.json`: one entry per posting account (see `references/distribution.md`)
+- `07-results/performance.csv`: `date,account,platform,post_id,post_url,set_id,messaging_angle,views,profile_visits,likes,comments,shares,saves,app_questions,attributable_purchases`
 - `07-results/revenue.csv`: `date,installs,trials,revenue`
 
 ## Step 2: App brief interview
