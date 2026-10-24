@@ -73,6 +73,10 @@ def base_image(set_dir, project, slide, bg):
         path = os.path.join(root, rel)
         if rel and os.path.exists(path):
             img = Image.open(path).convert("RGB")
+            crop = slide.get("shot_crop")
+            if crop:  # [left, top, right, bottom] as fractions of the source; crop only, no edits
+                img = img.crop((round(crop[0] * img.width), round(crop[1] * img.height),
+                                round(crop[2] * img.width), round(crop[3] * img.height)))
             return fit_on_blur(img, slide.get("shot_area")) if is_screenshot(rel, slide) else cover(img)
     if rel:
         print(f"warning: slide {slide.get('n')}: image not found ({rel}), using solid background", file=sys.stderr)

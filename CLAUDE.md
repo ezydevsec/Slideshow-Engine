@@ -31,7 +31,7 @@ default_app_slide: 4
 - Never present our own promotional pages as independent recommendations. Founder and theme-page posts say EARND is ours.
 - The app enters on slide 3 or 4 by default, in the account's voice (brand: direct EARND product language).
 - Report every post per account: account, post ID, messaging angle, views, profile visits, attributable purchases where measurable. Leave unavailable metrics blank, never 0.
-- Don't add posting workload or new accounts until a format shows repeatable results. More accounts alone don't show which message sells EARND.
+- @earndapp and @ezyxbt run in parallel (approved 2026-10-24). Don't add theme pages or more posting workload until a format shows repeatable results. More accounts alone don't show which message sells EARND.
 - 5 to 10 slides. One idea per slide. Under 25 words per slide.
 - Never invent app UI. Only real screenshots from `01-app/assets/`.
 - Read `07-results/winners.md` and `07-results/failure-log.md` before writing any set.
