@@ -74,6 +74,25 @@ No user comparisons confirmed yet.
 Kept separate from the list above. None of these brands is confirmed to run successful TikTok photo-mode posts or Instagram carousels. Hevy's shareable workout and progress graphics are useful inspiration for showing real training data, but they aren't evidence of a brand slideshow campaign. Small lifting-education pages may be better format sources than big workout apps. Research mode fills this list with proven outliers.
 
 ## After
+The payoff is less uncertainty and a clear record of progress.
+
+In their words:
+1. "i walk in, open the app, and know what i'm training."
+2. "i know what i lifted last time and what i'm aiming for today."
+3. "i can actually see whether i'm progressing."
+4. "if i miss a day, i move the workout and carry on."
+5. "i've got one plan to follow instead of picking a new routine every week."
+
+**Strongest payoff slide:**
+> Walk in with a plan.
+> Know your next target.
+> Leave with every set logged.
+
+**Numeric example:** "Last session: 100 kg × 7. Today: 100 kg × 8." Label it as an example of one extra rep. Never imply everyone improves every session.
+
+Claim rules for payoff slides:
+- Say users can *see when they've improved* and *know their next target*. Never "numbers go up every week."
+- Say users can *see how their performance has changed*. Never "know it's working": logging alone doesn't establish muscle growth.
 
 ## Pricing
 
