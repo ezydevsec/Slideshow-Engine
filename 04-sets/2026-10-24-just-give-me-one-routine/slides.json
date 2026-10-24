@@ -1,0 +1,79 @@
+{
+  "set_id": "2026-10-24-just-give-me-one-routine",
+  "status": "draft: initial creative test (not validated audience language, not a proven format)",
+  "idea": "Brief pain hook H2-01 (copy hypothesis)",
+  "format": "pain-funnel-test",
+  "trend": "none",
+  "hook_id": "H2-01",
+  "persona": "Persona 2: The busy returning lifter",
+  "caption": "just tell me what to do in the gym 😭",
+  "hashtags": [
+    "#gymtok",
+    "#upperlowersplit",
+    "#workoutplan",
+    "#gymbeginner"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "app_slide": 4,
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "images/slide-01.jpg",
+      "image_direction": "REAL PHOTO from the user's library (no generation yet): empty gym bench, gym bag and water bottle. Shot on iPhone, natural gym light, no faces, no logos.",
+      "text": "every workout app wants me to build my own routine. just give me one",
+      "text_mode": "stroke",
+      "position": "upper"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "images/slide-02.jpg",
+      "image_direction": "REAL PHOTO from the user's library (no generation yet): empty gym bench, gym bag and water bottle. Shot on iPhone, natural gym light, no faces, no logos.",
+      "text": "i don't want to design a programme. i want to walk in and train",
+      "text_mode": "stroke",
+      "position": "upper"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "images/slide-03.jpg",
+      "image_direction": "REAL PHOTO from the user's library (no generation yet): empty gym bench, gym bag and water bottle. Shot on iPhone, natural gym light, no faces, no logos.",
+      "text": "getting back into the gym, i spent more time planning than lifting",
+      "text_mode": "stroke",
+      "position": "upper"
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "01-app/assets/exercise-target.png",
+      "image_direction": "REAL SCREENSHOT. PLACEHOLDER: exercise-target.png (Machine Chest Press screen) not supplied yet. Do not render or publish until the real asset is in 01-app/assets/.",
+      "placeholder": true,
+      "text": "found an app with one plan: four days, upper/lower. every exercise shows what to aim for",
+      "text_mode": "background",
+      "position": "upper"
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "images/slide-05.jpg",
+      "image_direction": "REAL PHOTO from the user's library (no generation yet): empty gym bench, gym bag and water bottle. Shot on iPhone, natural gym light, no faces, no logos.",
+      "text": "open today's workout. see last session. log the set. done.",
+      "text_mode": "stroke",
+      "position": "upper"
+    },
+    {
+      "n": 6,
+      "role": "cta",
+      "image": "images/slide-06.jpg",
+      "image_direction": "REAL PHOTO from the user's library (no generation yet): empty gym bench, gym bag and water bottle. Shot on iPhone, natural gym light, no faces, no logos.",
+      "text": "one plan to follow.\nEARND launches soon. Follow for the launch.",
+      "text_mode": "stroke",
+      "position": "upper"
+    }
+  ]
+}

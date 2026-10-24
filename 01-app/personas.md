@@ -1,6 +1,6 @@
 # EARND personas (provisional)
 
-> **Provisional.** Built only from `app-brief.md`. No interviews, customer quotes, or purchase data behind them yet. Everything marked *Assumption* is a guess to test. Refine from real comments and purchase behaviour.
+> **Provisional, approved at Gate 1 (2026-10-24).** Built only from `app-brief.md`. No interviews, customer quotes, or purchase data behind them yet. Everything marked *Assumption* is a guess to test. Refine from real comments and purchase behaviour.
 >
 > **Hooks below are copy hypotheses we wrote, not audience quotes.** The pain bank holds 0 verified quotes until source material is accessible.
 
@@ -33,8 +33,8 @@ Wants a ready-made programme and needs training days to fit a changing schedule.
 
 - **Situation:** 18–35, coming back after a break or fitting the gym around shifts, study, or a changing work week. Doesn't want to design a programme. *Assumption:* trains 2–4 times a week, depending on the week.
 - **Main frustration:** every app wants them to build their own routine, and fixed splits fall apart as soon as a day is missed. Spends more time deciding what to train than training. (Brief pains 5, 6, 7, 9, 10.)
-- **Buying trigger:** a simple four-day Upper/Lower plan they just follow, plus moving a workout to the day they're free. *Assumption:* the trigger is the "just give me one plan" relief more than scheduling detail.
-- **Objection:** "what if i can't train four days every week?" (Brief objection 3.) Show flexible days and rescheduling, and be clear the programme still has four sessions. Secondary: "can i try it before paying?" (no free trial, brief objection 2).
+- **Buying trigger:** a simple four-day Upper/Lower plan they just follow, plus moving any of the four sessions to the day they're free. *Assumption:* the trigger is the "just give me one plan" relief more than scheduling detail.
+- **Objection:** "what if i can't train four days every week?" (Brief objection 3.) Show that the four prescribed sessions can be moved to available days. The programme does not adapt to fewer sessions, so never imply it does. Secondary: "can i try it before paying?" (no free trial, brief objection 2).
 - **EARND screen:** the programme summary with the four-day Upper/Lower structure and chosen training days, and the reschedule flow. **No screenshot of either exists yet.** Until one does, this persona's sets use the magic-moment screen.
 - **Voice (assumption):** lowercase, tired-but-motivated, references to shifts, uni, and "getting back into it".
 - **Warm-up search terms (assumption):** getting back in the gym, beginner workout plan, 4 day upper lower, gym routine for busy people, workout plan for shift workers.

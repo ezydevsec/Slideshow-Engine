@@ -31,6 +31,9 @@ default_app_slide: 4
 - Nothing is queued without my approval in chat, and nothing posts without my approval in the Humanpost dashboard.
 - Our accounts never comment on or engage with each other.
 - EARND has no free trial. Weekly reviews track paid subscriptions, not trials (the `trials` column in `07-results/revenue.csv` stays blank). Locate drop-offs with the funnel in `01-app/app-brief.md` → Pricing.
+- Prelaunch: every set ends with the CTA "EARND launches soon. Follow for the launch." No download CTA, no trial references.
+- Scheduling: users move the four prescribed sessions to available days. Never say the programme adapts to fewer sessions.
+- Prelaunch voice: posters haven't used EARND, so never write "i've been using this app". Use "found an app that..." or describe the app directly.
 - No physique promises. Hooks and payoffs talk about tracking, targets, and having a plan. Users "can see when they've improved," never "numbers go up every week" or "know it's working."
 
 ## Learned rules

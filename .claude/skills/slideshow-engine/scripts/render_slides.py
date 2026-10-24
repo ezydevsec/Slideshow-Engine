@@ -139,6 +139,9 @@ def main():
     with open(spec_path) as f:
         spec = json.load(f)
     slides = sorted(spec["slides"], key=lambda s: s["n"])
+    held = [s["n"] for s in slides if s.get("placeholder")]
+    if held:
+        sys.exit(f"refusing to render: slides {held} are screenshot placeholders. Add the real asset and remove \"placeholder\" first.")
     if not 2 <= len(slides) <= 20:
         print(f"warning: {len(slides)} slides (Humanpost accepts 2 to 20)", file=sys.stderr)
 
