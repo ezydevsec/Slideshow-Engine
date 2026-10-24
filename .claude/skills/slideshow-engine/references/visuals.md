@@ -43,6 +43,8 @@ The renderer:
 
 Optional flags: `--font <path.ttf>`, `--bg "#F4EFE6"` (color for slides with no image).
 
+The renderer also checks the set's account in `06-queue/accounts.json` (`scripts/account_status.py`). If that account has unconfirmed required settings, it refuses that set only. Run `python3 <skill>/scripts/account_status.py --project .` to see every account's readiness.
+
 ## Step 4: Check
 
 Open the contact sheet. Check:

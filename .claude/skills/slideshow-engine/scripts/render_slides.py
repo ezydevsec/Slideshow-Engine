@@ -119,13 +119,36 @@ def draw_text(img, slide, font_path):
 
 
 def contact_sheet(paths, out):
-    thumbs = [Image.open(p).resize((270, 480)) for p in paths]
+    th = round(270 * H / W)
+    thumbs = [Image.open(p).resize((270, th)) for p in paths]
     per_row = 7
     rows = (len(thumbs) + per_row - 1) // per_row
-    sheet = Image.new("RGB", (per_row * 280 - 10 if rows > 1 else len(thumbs) * 280 - 10, rows * 490 - 10), "white")
+    sheet = Image.new("RGB", (per_row * 280 - 10 if rows > 1 else len(thumbs) * 280 - 10, rows * (th + 10) - 10), "white")
     for i, t in enumerate(thumbs):
-        sheet.paste(t, ((i % per_row) * 280, (i // per_row) * 490))
+        sheet.paste(t, ((i % per_row) * 280, (i // per_row) * (th + 10)))
     sheet.save(out, quality=85)
+
+
+def set_canvas(canvas):
+    global W, H, SAFE_TOP, SAFE_BOTTOM
+    W, H = (int(x) for x in canvas.lower().split("x"))
+    SAFE_TOP, SAFE_BOTTOM = int(H * 0.10), int(H * 0.80)
+
+
+def check_account_ready(project, spec):
+    """Block rendering when the set's own account isn't ready. Other accounts don't matter."""
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import account_status
+    cfg = account_status.load(project)
+    handle = spec.get("account")
+    if cfg is None or not handle:
+        print("warning: no account set or no 06-queue/accounts.json; skipping account readiness check", file=sys.stderr)
+        return
+    blockers, warnings, _ = account_status.check(cfg, handle)
+    for w in warnings:
+        print(f"warning: {handle}: {w}", file=sys.stderr)
+    if blockers:
+        sys.exit(f"refusing to render: {handle} is not ready: " + "; ".join(blockers))
 
 
 def main():
@@ -139,6 +162,8 @@ def main():
     spec_path = os.path.join(a.set_dir, "slides.json")
     with open(spec_path) as f:
         spec = json.load(f)
+    set_canvas(spec.get("canvas", "1080x1920"))
+    check_account_ready(a.project, spec)
     slides = sorted(spec["slides"], key=lambda s: s["n"])
     held = [s["n"] for s in slides if s.get("placeholder")]
     if held:
