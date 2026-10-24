@@ -57,6 +57,21 @@ Hypotheses, in priority order. None are confirmed by user feedback yet. Update t
 | 5 | "logging every set sounds like more time on my phone." | Show weight already filled in: enter reps, tap complete, rest timer starts. |
 
 ## Competitors
+No user comparisons confirmed yet.
+
+**What people might use instead of EARND**
+
+| Competitor | Role |
+|---|---|
+| Hevy, Strong | Likely alternatives for people who already log their workouts. |
+| STNDRD, TrainHeroic | Design and training-experience references used when shaping EARND. |
+| Maxed AI | Closest reference for onboarding, programme preview, and paywall. |
+| Fitbod, Boostcamp, Alpha Progression, JEFIT | Still to investigate. |
+| Notes app, spreadsheets, creator programmes | What people already use to organise training. Switching costs effort even when the current system is basic. |
+
+**Slideshow content references**
+
+Kept separate from the list above. None of these brands is confirmed to run successful TikTok photo-mode posts or Instagram carousels. Hevy's shareable workout and progress graphics are useful inspiration for showing real training data, but they aren't evidence of a brand slideshow campaign. Small lifting-education pages may be better format sources than big workout apps. Research mode fills this list with proven outliers.
 
 ## After
 
