@@ -107,3 +107,17 @@ content views → profile visits → store visits → installs → onboarding co
 - **After launch:** use the full funnel to find the drop-off. Low purchases alone don't tell you whether content, onboarding, or the paywall is the problem.
 
 ## Pain bank
+**Audience research, not EARND customer feedback.** Public posts and competitor reviews from lifters in EARND's target audience. No quote here comes from an EARND user.
+
+Rules:
+- Exact quotes only, copied from the source page. No paraphrasing, no invented quotes, no duplicates.
+- Every quote has a source link, date, and app or community.
+- Rewritten hooks go in the `Hook rewrite` column only, never in the `Quote` column.
+- `Stance`: **supports** = backs EARND's positioning; **challenges** = an objection or a reason EARND may not fit.
+
+Categories: forgotten weights · unclear progression · inconsistent schedules · programme hopping · logging friction · subscription objections
+
+| # | Quote (exact) | Source link | Date | App / community | Category | Context | Stance | Hook rewrite |
+|---|---|---|---|---|---|---|---|---|
+
+**Status (2026-10-24):** 0 of 50 collected. This session's network blocks Reddit, the App Store, Google Play and the fitness forums, so no quote could be checked against its source page. See the setup notes in chat.
