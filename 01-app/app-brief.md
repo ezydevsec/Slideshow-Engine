@@ -30,6 +30,20 @@ The thought we want: *"I don't have to remember my last workout or guess what to
 Scheduling and progress charts support this. They aren't the main selling moment.
 
 ## Pains
+In the user's own words. These are hook hypotheses until the numbers back them.
+
+1. "i can't remember what i lifted last time" **(test first)**
+2. "i know what exercises to do, but not what weight or reps to aim for" **(test first)**: ties straight to the magic-moment screenshot
+3. "do i add weight or keep trying to get more reps?"
+4. "i keep changing programmes because i don't know if mine's working"
+5. "i spend more time deciding what to train than actually training"
+6. "i need a workout plan that fits my shifts"
+7. "i missed a workout—do i skip it or move everything?"
+8. "my notes app is full of numbers and i still can't tell if i'm improving"
+9. "every workout app wants me to build my own routine. just give me one" **(test first)**
+10. "i'm back in the gym and need a simple plan to follow"
+
+Claim boundary: EARND tracks and drives progress in the gym. It does not promise physique change, which also depends on food, recovery, and consistency. Keep hooks on tracking, targets, and plans, not "look the same after months."
 
 ## Objections
 
