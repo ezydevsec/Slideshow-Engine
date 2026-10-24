@@ -46,6 +46,15 @@ In the user's own words. These are hook hypotheses until the numbers back them.
 Claim boundary: EARND tracks and drives progress in the gym. It does not promise physique change, which also depends on food, recovery, and consistency. Keep hooks on tracking, targets, and plans, not "look the same after months."
 
 ## Objections
+Hypotheses, in priority order. None are confirmed by user feedback yet. Update this list as comments, tester feedback, and purchase behaviour show the real blockers.
+
+| # | Objection (their words) | What EARND needs to demonstrate |
+|---|---|---|
+| 1 | "why pay when notes or a free app does the same thing?" | Previous performance, a clear next target, and automatic timers together. Show the convenience, don't list features. |
+| 2 | "can i try it before paying? i don't know if it's any good." | No free trial, so clear footage of a complete workout flow and an honest programme preview are essential. |
+| 3 | "what if i can't train four days every week?" | Flexible training days and straightforward rescheduling. Be clear the programme still has four sessions. |
+| 4 | "i already have a routine i like. why would i switch?" | Position EARND for people who want a structured Upper/Lower programme. Exercise alternatives help, but it won't suit every split. Don't argue with split loyalists. |
+| 5 | "logging every set sounds like more time on my phone." | Show weight already filled in: enter reps, tap complete, rest timer starts. |
 
 ## Competitors
 
