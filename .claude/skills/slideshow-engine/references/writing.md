@@ -63,7 +63,8 @@ Write `04-sets/YYYY-MM-DD-slug/slides.json`:
 Field rules:
 - `role`: `hook` for slide 1, `cta` for the last slide, `middle` for everything else.
 - `text_mode`: `stroke` (white text, black outline, the classic TikTok look), `background` (black text on a white box), or `plain`.
-- `position`: `upper` (about 30% down, the default for hooks), `middle`, or `lower` (stays above the bottom 20%).
+- `position`: `top` (about 19% down), `upper` (about 30% down, the default for hooks), `middle`, or `lower` (stays above the bottom 20%).
+- `shot_area` (screenshot slides): `[top, bottom]` canvas fractions to fit the screenshot into, e.g. `[0.31, 0.97]` with `position: top` so the text never covers the UI.
 - `image`: a path relative to the set folder, or a path starting with `01-app/assets/` for screenshots.
 - Optional colour fields: `bg` (solid background when `image` is empty), `text_color` (text fill in any mode), `box_color` (box fill in `background` mode).
 - `canvas` (top level): `1080x1920` by default; use the account template's canvas (e.g. `1080x1080` for square).

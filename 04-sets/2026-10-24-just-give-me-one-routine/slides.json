@@ -1,6 +1,6 @@
 {
   "set_id": "2026-10-24-just-give-me-one-routine",
-  "status": "draft: initial messaging-angle test (not a controlled hook-only test; not validated audience language; not a proven format)",
+  "status": "rendered, awaiting gate 3: initial messaging-angle test (not a controlled hook-only test; not validated audience language; not a proven format)",
   "test": "messaging angle",
   "angle": "no ready-made plan → one Upper/Lower programme with targets",
   "idea": "Brief pain hook H2-01 (copy hypothesis)",
@@ -61,14 +61,17 @@
       "n": 4,
       "role": "middle",
       "image": "01-app/assets/exercise-target.png",
-      "image_direction": "REAL SCREENSHOT. PLACEHOLDER: exercise-target.png (Machine Chest Press screen) not supplied yet. Do not render or publish until the real asset is in 01-app/assets/.",
-      "placeholder": true,
+      "image_direction": "REAL SCREENSHOT: exercise-target.png (Machine Chest Press)",
       "bg": "#0B0B0B",
       "text_color": "#0B0B0B",
       "box_color": "#C6FF00",
       "text_mode": "background",
       "text": "EARND's Upper/Lower programme: four sessions, with targets based on your history.",
-      "position": "upper"
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ]
     },
     {
       "n": 5,

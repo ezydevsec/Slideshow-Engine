@@ -1,6 +1,6 @@
 {
   "set_id": "2026-10-24-never-know-what-weight",
-  "status": "draft: initial messaging-angle test (not a controlled hook-only test; not validated audience language; not a proven format)",
+  "status": "rendered, awaiting gate 3: initial messaging-angle test (not a controlled hook-only test; not validated audience language; not a proven format)",
   "test": "messaging angle",
   "angle": "unclear progression → next target from recorded performance",
   "idea": "Brief pain hook H1-02 (copy hypothesis)",
@@ -61,14 +61,17 @@
       "n": 4,
       "role": "middle",
       "image": "01-app/assets/exercise-target.png",
-      "image_direction": "REAL SCREENSHOT. PLACEHOLDER: exercise-target.png (Machine Chest Press screen) not supplied yet. Do not render or publish until the real asset is in 01-app/assets/.",
-      "placeholder": true,
+      "image_direction": "REAL SCREENSHOT: exercise-target.png (Machine Chest Press)",
       "bg": "#0B0B0B",
       "text_color": "#0B0B0B",
       "box_color": "#C6FF00",
       "text_mode": "background",
       "text": "EARND shows your next target based on your recorded performance.",
-      "position": "upper"
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ]
     },
     {
       "n": 5,

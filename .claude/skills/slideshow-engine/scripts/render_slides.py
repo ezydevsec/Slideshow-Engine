@@ -20,7 +20,7 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 W, H = 1080, 1920
 SAFE_TOP, SAFE_BOTTOM = int(H * 0.10), int(H * 0.80)
-POSITIONS = {"upper": 0.30, "middle": 0.50, "lower": 0.70}
+POSITIONS = {"top": 0.19, "upper": 0.30, "middle": 0.50, "lower": 0.70}
 FONT_CANDIDATES = [
     "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
     "/System/Library/Fonts/Helvetica.ttc",
@@ -51,11 +51,19 @@ def cover(img):
     return img.crop((left, top, left + W, top + H))
 
 
-def fit_on_blur(img):
+def fit_on_blur(img, area=None):
+    """Fit a screenshot uncropped on a blurred copy of itself.
+
+    area: optional [top, bottom] as fractions of the canvas height. The
+    screenshot is fitted inside that band, leaving room for text above it.
+    """
     bg = cover(img).filter(ImageFilter.GaussianBlur(40))
-    scale = min(W * 0.9 / img.width, SAFE_BOTTOM * 0.95 / img.height)
+    top, bottom = (int(H * area[0]), int(H * area[1])) if area else (None, None)
+    max_h = bottom - top if area else SAFE_BOTTOM * 0.95
+    scale = min(W * 0.9 / img.width, max_h / img.height)
     fg = img.resize((round(img.width * scale), round(img.height * scale)), Image.LANCZOS)
-    bg.paste(fg, ((W - fg.width) // 2, (H - fg.height) // 2))
+    y = top if area else (H - fg.height) // 2
+    bg.paste(fg, ((W - fg.width) // 2, y))
     return bg
 
 
@@ -65,7 +73,7 @@ def base_image(set_dir, project, slide, bg):
         path = os.path.join(root, rel)
         if rel and os.path.exists(path):
             img = Image.open(path).convert("RGB")
-            return fit_on_blur(img) if is_screenshot(rel, slide) else cover(img)
+            return fit_on_blur(img, slide.get("shot_area")) if is_screenshot(rel, slide) else cover(img)
     if rel:
         print(f"warning: slide {slide.get('n')}: image not found ({rel}), using solid background", file=sys.stderr)
     return Image.new("RGB", (W, H), slide.get("bg") or bg)

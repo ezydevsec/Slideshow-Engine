@@ -29,6 +29,10 @@ The thought we want: *"I don't have to remember my last workout or guess what to
 
 Scheduling and progress charts support this. They aren't the main selling moment.
 
+**Supplied screenshot (`01-app/assets/exercise-target.png`, 2026-10-24):** shows "Previous: 100 kg × 7, 100 kg × 6", "Beat 100 kg × 7 — Target 8 reps", Set 1 logged at 100 kg × 8 with a tick, Set 2 still empty (weight not pre-filled), and the rest timer running ("Resting · 1:47"). Copy must match what this screen shows: don't claim weights are pre-filled until a screenshot shows it.
+
+Other screens supplied: `progress-chest-press.png` (best set, est. 1RM, best-set chart, recent sessions), `train-week-overview.png` (today's workout, week strip with rest days, "3 of 4 sessions this week"), `workout-complete-progressed.png` (session summary, per-exercise progression, new PR). None shows moving a session to another day.
+
 ## Pains
 In the user's own words. These are hook hypotheses until the numbers back them.
 

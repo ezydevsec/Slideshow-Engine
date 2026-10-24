@@ -1,8 +1,8 @@
 # 2026-10-24-just-give-me-one-routine
 
-> **DRAFT: initial messaging-angle test.** Angle: no ready-made plan → one Upper/Lower programme with targets. One of three angle tests; slides 1–5 differ between sets, so this is not a controlled hook-only test. Hook H2-01 is a copy hypothesis, not validated audience language. Format `pain-funnel-test` is not proven.
+> **Rendered, awaiting gate 3: initial messaging-angle test.** Angle: no ready-made plan → one Upper/Lower programme with targets. One of three angle tests; slides 1–5 differ between sets, so this is not a controlled hook-only test. Hook H2-01 is a copy hypothesis, not validated audience language. Format `pain-funnel-test` is not proven.
 
-> **Not publish-ready.** Slide 4 is a screenshot placeholder. The renderer refuses this set until the real `exercise-target.png` is supplied.
+> Slide 4 uses the real `01-app/assets/exercise-target.png`. Previews and contact sheet are in `final/`. Not approved for posting yet.
 
 - **Account:** @earndapp (brand; settings in `06-queue/accounts.json`)
 - **Persona:** Persona 2: The busy returning lifter
@@ -16,6 +16,6 @@
 | 1 | hook | i don't want to build a workout routine. just give me one. | brand black |
 | 2 | middle | i don't want to design a programme. i want to walk in and train | brand black |
 | 3 | middle | a clear exercise list. set targets. somewhere to log them. | brand black |
-| 4 | middle | EARND's Upper/Lower programme: four sessions, with targets based on your history. | **[SCREENSHOT PLACEHOLDER: exercise-target.png]** |
+| 4 | middle | EARND's Upper/Lower programme: four sessions, with targets based on your history. | real screenshot: exercise-target.png |
 | 5 | middle | open today's workout. see last session. log the set. done. | brand black |
 | 6 | cta | one plan to follow. / EARND launches soon. Follow for the launch. | brand black |
