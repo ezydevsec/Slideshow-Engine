@@ -28,10 +28,20 @@
       "handle": "@earndapp",
       "type": "brand",
       "status": "active",
-      "platforms": ["tiktok"],
-      "inactive_platforms": ["instagram (inactive until confirmed)"],
+      "platforms": [
+        "tiktok"
+      ],
+      "inactive_platforms": [
+        "instagram (inactive until confirmed)"
+      ],
       "posting_tool_ids": {},
-      "required": ["platforms", "voice", "visual_template", "cta.prelaunch", "disclosure"],
+      "required": [
+        "platforms",
+        "voice",
+        "visual_template",
+        "cta.prelaunch",
+        "disclosure"
+      ],
       "voice": "Lowercase hooks in the audience's language; the app slide onward in direct EARND product language (\"EARND shows...\", \"EARND puts...\"). No first-person user claims.",
       "visual_template": {
         "name": "black-and-lime",
@@ -50,21 +60,34 @@
       },
       "disclosure": "The account is EARND itself, so the tie is self-evident.",
       "bio": null,
-      "personas": ["Persona 1: The inconsistent tracker", "Persona 2: The busy returning lifter"]
+      "personas": [
+        "Persona 1: The inconsistent tracker",
+        "Persona 2: The busy returning lifter"
+      ]
     },
     {
       "handle": "@ezyxbt",
       "type": "founder",
       "status": "active",
-      "platforms": ["tiktok"],
-      "inactive_platforms": ["instagram (inactive until confirmed)"],
+      "platforms": [
+        "tiktok"
+      ],
+      "inactive_platforms": [
+        "instagram (inactive until confirmed)"
+      ],
       "posting_tool_ids": {},
-      "required": ["platforms", "voice", "visual_template", "cta.prelaunch", "disclosure"],
+      "required": [
+        "platforms",
+        "voice",
+        "visual_template",
+        "cta.prelaunch",
+        "disclosure"
+      ],
       "voice": "Direct, casual, first person, as EARND's founder. Only experiences the founder has confirmed as real.",
       "visual_template": {
         "name": "founder-photo-square",
         "canvas": "1080x1080",
-        "images": "The founder's real gym photos only. Never generated images. Crop and resize only: no retouching, filters that alter appearance, or any edit to the founder's face.",
+        "images": "The founder's real gym photos only, from 01-app/founder-photos/. For every set, pick the strongest, most relevant photos for each slide (see 01-app/founder-photo-catalog.md). Crop and resize only: the founder's face and physique stay unchanged. Never generated images. If no supplied photo fits a slide, ask the founder for more instead of forcing a weak fit.",
         "text": "Minimal. White text with black stroke (adjust once real photos are in).",
         "slide_count_labels": false,
         "earnd_promotion": "Final slide only. Earlier slides don't mention EARND."
@@ -89,7 +112,14 @@
       "status": "planned",
       "platforms": "TO CONFIRM",
       "posting_tool_ids": {},
-      "required": ["handle", "platforms", "voice", "visual_template", "cta.prelaunch", "disclosure"],
+      "required": [
+        "handle",
+        "platforms",
+        "voice",
+        "visual_template",
+        "cta.prelaunch",
+        "disclosure"
+      ],
       "voice": "TO CONFIRM, from the matching persona's voice.",
       "visual_template": "TO CONFIRM. Must be distinct from the brand and founder templates.",
       "cta": {

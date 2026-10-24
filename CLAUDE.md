@@ -26,7 +26,7 @@ default_app_slide: 4
 - Optimize each post for views. Judge formats weekly on total downloads.
 - Accounts are configured in `06-queue/accounts.json` (handle, type, voice, visual template, CTA and destination, disclosure). Every set is written for exactly one account and names it in `slides.json` → `account`. Never use a field marked TO CONFIRM without asking.
 - Readiness is per account: `python3 .claude/skills/slideshow-engine/scripts/account_status.py`. An account with unconfirmed required settings blocks only its own sets.
-- Founder (@ezyxbt) photos: the founder's real gym photos only. Crop and resize, never edit the founder's face or generate images of them.
+- Founder (@ezyxbt) photos: always pick the strongest, most relevant of the founder's supplied photos for each slide (`01-app/founder-photo-catalog.md`). Crop and resize only: face and physique unchanged, never generated. Crop out other gym members. If none fit, ask the founder for more photos.
 - Adapting a set for another account means a new set with its own hooks and visuals in that account's voice and template, never a copy.
 - Never present our own promotional pages as independent recommendations. Founder and theme-page posts say EARND is ours.
 - The app enters on slide 3 or 4 by default, in the account's voice (brand: direct EARND product language).
