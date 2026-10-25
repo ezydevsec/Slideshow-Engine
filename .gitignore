@@ -2,6 +2,5 @@ __pycache__/
 *.pyc
 .DS_Store
 
-# Founder photos and @ezyxbt renders stay local: the repo is public
-01-app/founder-photos/
+# @ezyxbt renders stay local (founder photos are committed with the founder's OK, 2026-10-25)
 04-sets/*-ezyxbt-*/final/

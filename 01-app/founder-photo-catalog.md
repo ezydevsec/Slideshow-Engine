@@ -1,6 +1,6 @@
 # @ezyxbt photo catalog
 
-Founder's real gym photos, supplied 2026-10-24. Files live in `01-app/founder-photos/` and are **not committed** (the repo is public). If that folder is missing in a new session, ask the founder to re-send the photos.
+Founder's real gym photos, supplied 2026-10-24. The first supply (ezy-01 to ezy-16, below) was kept local and isn't in the repo; ask the founder to re-send it if needed. The second supply's 22 keepers are committed in `01-app/founder-photos/batch-0N/` with the founder's OK (2026-10-25), with metadata stripped.
 
 Pick the strongest, most relevant photo for each slide. Crop and resize only: face and physique unchanged. Crop out other gym members.
 
@@ -30,7 +30,7 @@ Pick the strongest, most relevant photo for each slide. Crop and resize only: fa
 
 ## Second supply, 2026-10-25: keepers only (22 of 132)
 
-The founder sent 132 photos (batches b1–b9) and asked to keep only the best. Everything not listed here is cut: other people in frame, changing rooms (the gym's no-photos sign is visible), home shots, near-duplicates, or weaker frames. Kept files live in `01-app/founder-photos/batch-0N/bN-XX.jpg` (not committed). All 22 keepers are saved (2026-10-25). Numbering follows the upload order; earlier chat reviews of batches 3, 4 and 7 used shifted numbers, so trust this table, not those reviews.
+The founder sent 132 photos (batches b1–b9) and asked to keep only the best. Everything not listed here is cut: other people in frame, changing rooms (the gym's no-photos sign is visible), home shots, near-duplicates, or weaker frames. Kept files live in `01-app/founder-photos/batch-0N/bN-XX.jpg` (committed). All 22 keepers are saved (2026-10-25). Numbering follows the upload order; earlier chat reviews of batches 3, 4 and 7 used shifted numbers, so trust this table, not those reviews.
 
 | Use | Keepers | Notes |
 |---|---|---|
