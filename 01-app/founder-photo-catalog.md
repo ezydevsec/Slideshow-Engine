@@ -28,18 +28,18 @@ Pick the strongest, most relevant photo for each slide. Crop and resize only: fa
 - Training mid-set, not posing.
 - More shots with no one else in frame.
 
-## Second supply, 2026-10-25: keepers only (24 of 132)
+## Second supply, 2026-10-25: keepers only (22 of 132)
 
-The founder sent 132 photos (batches b1–b9) and asked to keep only the best. Everything not listed here is cut: other people in frame, changing rooms (the gym's no-photos sign is visible), home shots, near-duplicates, or weaker frames. Kept files live in `01-app/founder-photos/batch-0N/bN-XX.jpg` (not committed). Only b1-09 and b1-11 are saved so far; ask the founder to re-send the others when a set needs them.
+The founder sent 132 photos (batches b1–b9) and asked to keep only the best. Everything not listed here is cut: other people in frame, changing rooms (the gym's no-photos sign is visible), home shots, near-duplicates, or weaker frames. Kept files live in `01-app/founder-photos/batch-0N/bN-XX.jpg` (not committed). All 22 keepers are saved (2026-10-25). Numbering follows the upload order; earlier chat reviews of batches 3, 4 and 7 used shifted numbers, so trust this table, not those reviews.
 
 | Use | Keepers | Notes |
 |---|---|---|
-| Hook / founder intro | b7-14, b7-15, b7-16, b8-10, b7-11 | Face visible, clean frame, best light. Physique-forward: not next to EARND copy. Crop phone-screenshot bars off b7-14 to b7-16 |
-| "Where were my numbers" / pain | b6-11, b6-13, b4-11, b8-03 | Looking down at phone or unsure. Screen not visible: never present as using EARND. b8-03 needs a tight crop |
+| Hook / founder intro | b7-15, b7-16, b7-12, b8-10 | Face visible, best light. Physique-forward: not next to EARND copy. Crop phone-screenshot bars off b7-15/b7-16; crop the blurred figure at right in b7-12 |
+| "Where were my numbers" / pain | b6-11, b6-13, b8-03 | Looking down at phone or unsure. Screen not visible: never present as using EARND. b8-03 needs a tight crop |
 | Gym floor | b5-16, b6-03, b5-02 | Racks and plates, no one else in frame |
-| Next to EARND copy / CTA | b6-08, b5-14, b3-09, b4-04 | Relaxed, not physique-led |
+| Next to EARND copy / CTA | b6-08, b5-14, b3-10, b4-04 | Relaxed, not physique-led |
 | Space for text | b1-09, b1-11, b4-15, b5-15 | Under the stairs, plain brick wall |
-| Calm portrait | b4-12, b4-10, b5-01, b5-03 | Face visible, clean |
+| Calm portrait | b4-10, b4-12, b5-01, b5-03 | Face visible, clean |
 
 ### Still missing
 - EARND open on the phone with the exercise screen readable at the gym.
