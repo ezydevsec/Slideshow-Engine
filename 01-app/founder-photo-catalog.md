@@ -28,27 +28,18 @@ Pick the strongest, most relevant photo for each slide. Crop and resize only: fa
 - Training mid-set, not posing.
 - More shots with no one else in frame.
 
-## Second supply, 2026-10-25 (132 photos, batches b1–b9)
+## Second supply, 2026-10-25: keepers only (24 of 132)
 
-Saved locally as `01-app/founder-photos/batch-0N/bN-XX.jpg` in the order the founder sent them. Only batch 1 is saved so far; if a batch folder is missing, ask the founder to re-send it. Same rules as above: pick the strongest, most relevant photo per slide, crop and resize only.
+The founder sent 132 photos (batches b1–b9) and asked to keep only the best. Everything not listed here is cut: other people in frame, changing rooms (the gym's no-photos sign is visible), home shots, near-duplicates, or weaker frames. Kept files live in `01-app/founder-photos/batch-0N/bN-XX.jpg` (not committed). Only b1-09 and b1-11 are saved so far; ask the founder to re-send the others when a set needs them.
 
-### Shortlist (use these first)
-| Use | Pick | Why |
+| Use | Keepers | Notes |
 |---|---|---|
-| Hook / founder intro | b7-14, b7-15, b7-16, b8-10, b7-11 | Face visible, no one else in frame, best light. Physique-forward: not next to EARND copy |
-| "Where were my numbers" / pain slides | b6-10 to b6-14, b4-11, b8-03 (tight crop) | Looking down at the phone or unsure. Screen not visible: never present as using EARND |
-| Gym-floor establishing | b5-16, b6-03, b5-02 | Racks and plates, clean frame |
-| Next to EARND copy / CTA | b6-08, b5-13, b5-14, b3-09, b4-04 | Relaxed, not physique-led |
-| Lots of space for text | b1-09 to b1-12, b4-15, b5-15 | Under the stairs, small in frame, plain brick wall |
-| Calm portrait, face visible | b4-12, b4-10, b5-01, b5-03 | Clean |
-
-### Usable with a crop (other people in frame)
-b1-04 to b1-07, b2-06, b2-08, b2-12, b4-05, b5-07 to b5-12, b6-05 to b6-07, b7-06 to b7-10, b7-12, b8-05, b8-07 to b8-09, b8-13 to b8-15, b9-03, b9-04 (left half). Crop out every face; skip the photo if a clean crop isn't possible.
-
-### Do not use for slides
-- Changing-room shots (b2-02 to b2-05, b3-12, b6-15, b6-16, b7-01, b7-02, b8-01, b8-06, b8-16): Buzz Gym's "No photos or filming in changing areas" sign is visible in b6-15/b6-16.
-- Home shots (b7-03 to b7-05, b8-02): not gym content, physique-led.
-- b1-01 (face pixelated), b2-01 / b3-08 / b9-02 (face close in foreground), b8-04, b8-11, b8-12 (faces of others can't be cropped cleanly), b9-01 (duplicate of b8-15).
+| Hook / founder intro | b7-14, b7-15, b7-16, b8-10, b7-11 | Face visible, clean frame, best light. Physique-forward: not next to EARND copy. Crop phone-screenshot bars off b7-14 to b7-16 |
+| "Where were my numbers" / pain | b6-11, b6-13, b4-11, b8-03 | Looking down at phone or unsure. Screen not visible: never present as using EARND. b8-03 needs a tight crop |
+| Gym floor | b5-16, b6-03, b5-02 | Racks and plates, no one else in frame |
+| Next to EARND copy / CTA | b6-08, b5-14, b3-09, b4-04 | Relaxed, not physique-led |
+| Space for text | b1-09, b1-11, b4-15, b5-15 | Under the stairs, plain brick wall |
+| Calm portrait | b4-12, b4-10, b5-01, b5-03 | Face visible, clean |
 
 ### Still missing
 - EARND open on the phone with the exercise screen readable at the gym.
