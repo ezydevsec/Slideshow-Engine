@@ -1,0 +1,125 @@
+{
+  "format": "text-on-colour-education",
+  "trend": "none",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "status": "awaiting gate 3",
+  "set_id": "2026-10-26-earndapp-lifts-havent-moved",
+  "idea": "Questions: lifts haven't moved in a month",
+  "hook_id": "TC-04",
+  "persona": "Persona 1: The inconsistent tracker",
+  "app_slide": 7,
+  "caption": "be honest with number 2",
+  "hashtags": [
+    "#gymtok",
+    "#gymtips",
+    "#plateau",
+    "#progressiveoverload"
+  ],
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "questions to ask if your lifts haven't moved in a month",
+      "position": "middle"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid lime, no photo",
+      "bg": "#C6FF00",
+      "text_mode": "plain",
+      "text_color": "#0B0B0B",
+      "text": "1. are you doing the same exercises, with the same setup, each week?",
+      "position": "middle"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "2. do you know what you lifted last time, or are you guessing?",
+      "position": "middle"
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid lime, no photo",
+      "bg": "#C6FF00",
+      "text_mode": "plain",
+      "text_color": "#0B0B0B",
+      "text": "3. are you aiming for one more rep, or just repeating last week?",
+      "position": "middle"
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "4. are you getting your planned sessions in, even if you move the days?",
+      "position": "middle"
+    },
+    {
+      "n": 6,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid lime, no photo",
+      "bg": "#C6FF00",
+      "text_mode": "plain",
+      "text_color": "#0B0B0B",
+      "text": "5. are you sleeping and eating enough to recover?",
+      "position": "middle"
+    },
+    {
+      "n": 7,
+      "role": "middle",
+      "image": "01-app/assets/exercise-target.png",
+      "image_direction": "REAL SCREENSHOT: exercise-target.png (Machine Chest Press)",
+      "bg": "#0B0B0B",
+      "text_color": "#0B0B0B",
+      "box_color": "#C6FF00",
+      "text_mode": "background",
+      "text": "questions 2 and 3 are what EARND answers on every exercise: last session and today's target.",
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ],
+      "shot_crop": [
+        0,
+        0.14,
+        1,
+        0.56
+      ]
+    },
+    {
+      "n": 8,
+      "role": "cta",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "know your last session. know your target.\nEARND launches soon. Follow for the launch.",
+      "position": "middle"
+    }
+  ]
+}

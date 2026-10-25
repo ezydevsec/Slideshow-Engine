@@ -1,0 +1,114 @@
+{
+  "format": "text-on-colour-education",
+  "trend": "none",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "status": "awaiting gate 3",
+  "set_id": "2026-10-26-earndapp-notes-app-mistakes",
+  "idea": "Mistakes: tracking workouts in the notes app",
+  "hook_id": "TC-05",
+  "persona": "Persona 1: The inconsistent tracker",
+  "app_slide": 6,
+  "caption": "the notes app was never built for this",
+  "hashtags": [
+    "#gymtok",
+    "#gymtips",
+    "#workouttracker",
+    "#gymnotes"
+  ],
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "4 mistakes people make tracking workouts in their notes app",
+      "position": "middle"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid lime, no photo",
+      "bg": "#C6FF00",
+      "text_mode": "plain",
+      "text_color": "#0B0B0B",
+      "text": "1. a new note every session.\na month later you can't find anything.",
+      "position": "middle"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "2. numbers with no exercise names.\nexample: \"100 7 6\" means nothing in three weeks.",
+      "position": "middle"
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid lime, no photo",
+      "bg": "#C6FF00",
+      "text_mode": "plain",
+      "text_color": "#0B0B0B",
+      "text": "3. writing it up at home.\nyou'll round, guess, or skip it.",
+      "position": "middle"
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "4. no target before the set.\nso you just repeat last week.",
+      "position": "middle"
+    },
+    {
+      "n": 6,
+      "role": "middle",
+      "image": "01-app/assets/exercise-target.png",
+      "image_direction": "REAL SCREENSHOT: exercise-target.png (Machine Chest Press)",
+      "bg": "#0B0B0B",
+      "text_color": "#0B0B0B",
+      "box_color": "#C6FF00",
+      "text_mode": "background",
+      "text": "EARND keeps each exercise's last session beside today's target. nothing to scroll for.",
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ],
+      "shot_crop": [
+        0,
+        0.14,
+        1,
+        0.56
+      ]
+    },
+    {
+      "n": 7,
+      "role": "cta",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "one place for every set.\nEARND launches soon. Follow for the launch.",
+      "position": "middle"
+    }
+  ]
+}

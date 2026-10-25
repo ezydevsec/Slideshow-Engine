@@ -1,0 +1,166 @@
+{
+  "format": "top5-countdown",
+  "trend": "none",
+  "persona": "Founder content (follows the founder's training)",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1080",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "app_slide": 7,
+  "status": "awaiting gate 3 \u00b7 DRAFT RANKING: founder confirms these picks",
+  "set_id": "2026-10-26-ezyxbt-top5-legs",
+  "idea": "Top-5 countdown: legs for people who train alone",
+  "hook_id": "T5-03",
+  "caption": "for the days you train alone. what's your #1?",
+  "hashtags": [
+    "#gymtok",
+    "#legday",
+    "#gymtips",
+    "#progressiveoverload"
+  ],
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "01-app/founder-photos/batch-05/b5-16.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged",
+      "shot_crop": [
+        0,
+        0.12,
+        1,
+        0.87
+      ],
+      "text": "top 5 leg exercises for people who train alone, ranked",
+      "text_mode": "stroke",
+      "position": "top"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "01-app/founder-photos/batch-05/b5-15.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged",
+      "shot_crop": [
+        0,
+        0.05,
+        1,
+        0.8
+      ],
+      "text": "ranked for beginner to intermediate lifters:\nsmall jumps, a setup you can repeat, safe to train alone.",
+      "text_mode": "stroke",
+      "position": "top"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "01-app/founder-photos/batch-06/b6-03.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged",
+      "shot_crop": [
+        0.1,
+        0.05,
+        0.9,
+        0.65
+      ],
+      "text": "#5 barbell back squat\ngreat lift, but heavy sets alone need the safeties set right every time.",
+      "text_mode": "stroke",
+      "position": "lower"
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "01-app/founder-photos/batch-05/b5-02.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged",
+      "shot_crop": [
+        0,
+        0.15,
+        1,
+        0.9
+      ],
+      "text": "#4 walking lunges\nspace and step length change, so sessions are hard to compare.",
+      "text_mode": "stroke",
+      "position": "lower"
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "01-app/founder-photos/batch-04/b4-12.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged",
+      "shot_crop": [
+        0,
+        0.25,
+        1,
+        1.0
+      ],
+      "text": "#3 bulgarian split squat\nbalance limits the load early. add reps before weight.",
+      "text_mode": "stroke",
+      "position": "lower"
+    },
+    {
+      "n": 6,
+      "role": "middle",
+      "image": "01-app/founder-photos/batch-05/b5-03.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged",
+      "shot_crop": [
+        0,
+        0.1,
+        1,
+        0.85
+      ],
+      "text": "#2 romanian deadlift\nsmall plate jumps. keep the same depth each week so it compares.",
+      "text_mode": "stroke",
+      "position": "lower"
+    },
+    {
+      "n": 7,
+      "role": "middle",
+      "image": "01-app/assets/exercise-target.png",
+      "image_direction": "REAL SCREENSHOT: exercise-target.png (Machine Chest Press)",
+      "shot_crop": [
+        0,
+        0.14,
+        1,
+        0.56
+      ],
+      "shot_area": [
+        0.44,
+        0.99
+      ],
+      "text": "bonus tip: you can't beat last week if you can't see it.\ni'm building EARND for that.",
+      "text_mode": "stroke",
+      "position": "top"
+    },
+    {
+      "n": 8,
+      "role": "middle",
+      "image": "01-app/founder-photos/batch-06/b6-13.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged",
+      "shot_crop": [
+        0,
+        0.2,
+        1,
+        0.95
+      ],
+      "text": "#1 leg press\nsame seat, safety stops, small plate jumps. the easiest to repeat and beat.",
+      "text_mode": "stroke",
+      "position": "lower"
+    },
+    {
+      "n": 9,
+      "role": "cta",
+      "image": "01-app/founder-photos/batch-06/b6-08.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged",
+      "shot_crop": [
+        0,
+        0.15,
+        1,
+        0.9
+      ],
+      "text": "i'm building EARND.\nfollow @earndapp for the launch.",
+      "text_mode": "stroke",
+      "position": "top"
+    }
+  ]
+}

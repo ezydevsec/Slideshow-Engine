@@ -16,6 +16,7 @@ This folder runs TikTok and Instagram slideshows for EARND using the `slideshow-
 ## Settings
 
 daily_batch_size: 10
+posting_cadence: 2–3 posts per account per day (founder, 2026-10-25)
 winner_variation_share: 0.6
 trend_communities: [r/..., r/...]
 banned_words: []
