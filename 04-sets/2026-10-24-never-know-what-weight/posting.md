@@ -1,6 +1,6 @@
 # Posting pack: 2026-10-24-never-know-what-weight
 
-**Status: awaiting gate-3 approval. Don't post until approved in chat.**
+**Status: approved at gate 3 on 2026-10-25. Ready to post.**
 
 - **Account:** @earndapp (TikTok)
 - **Upload, in order:** `final/preview/slide-01.jpg` … `slide-06.jpg` (text already on the slides)

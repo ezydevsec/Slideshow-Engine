@@ -1,6 +1,6 @@
 # 2026-10-24-ezyxbt-two-questions
 
-> **Rendered, awaiting gate 3: initial messaging-angle test** for @ezyxbt (founder). Its own hooks and visuals, adapted for the founder account, not a copy of an @earndapp set. Hook F1-01 is a copy hypothesis. Format `founder-photo-questions` is not proven.
+> **Approved 2026-10-25: initial messaging-angle test** for @ezyxbt (founder). Its own hooks and visuals, adapted for the founder account, not a copy of an @earndapp set. Hook F1-01 is a copy hypothesis. Format `founder-photo-questions` is not proven.
 
 > Founder photos and this set's `final/` renders are local only (gitignored: the repo is public). Photos are crop-only: no edits to the founder's face, no generated images. Crops exclude other gym members.
 

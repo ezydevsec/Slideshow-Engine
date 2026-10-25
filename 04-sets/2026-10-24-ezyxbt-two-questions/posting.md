@@ -1,6 +1,6 @@
 # Posting pack: 2026-10-24-ezyxbt-two-questions
 
-**Status: awaiting gate-3 approval. Don't post until approved in chat.**
+**Status: approved at gate 3 on 2026-10-25. Ready to post.**
 
 - **Account:** @ezyxbt (TikTok)
 - **Upload, in order:** `final/preview/slide-01.jpg` … `slide-04.jpg` (text already on the slides) (square)

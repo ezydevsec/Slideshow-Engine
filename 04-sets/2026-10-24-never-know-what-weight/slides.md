@@ -1,6 +1,6 @@
 # 2026-10-24-never-know-what-weight
 
-> **Rendered, awaiting gate 3: initial messaging-angle test.** Angle: unclear progression → next target from recorded performance. One of three angle tests; slides 1–5 differ between sets, so this is not a controlled hook-only test. Hook H1-02 is a copy hypothesis, not validated audience language. Format `pain-funnel-test` is not proven.
+> **Approved 2026-10-25: initial messaging-angle test.** Angle: unclear progression → next target from recorded performance. One of three angle tests; slides 1–5 differ between sets, so this is not a controlled hook-only test. Hook H1-02 is a copy hypothesis, not validated audience language. Format `pain-funnel-test` is not proven.
 
 > Slide 4 uses the real `01-app/assets/exercise-target.png`. Previews and contact sheet are in `final/`. Not approved for posting yet.
 
