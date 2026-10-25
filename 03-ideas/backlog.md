@@ -13,7 +13,7 @@ Not a controlled hook-only test: each set changes the angle across slides 1–5.
 ## @ezyxbt (founder), approved 2026-10-25
 - [ ] 2026-10-24 | founder adaptation of forgotten weights | format: founder-photo-questions | hook: "what did you lift last time?" (F1-01) | EARND on final slide | set: 04-sets/2026-10-24-ezyxbt-two-questions
 
-## Batch 2026-10-25 (awaiting gate 3)
+## Batch 2026-10-25 (approved 2026-10-25, ready to post)
 - [ ] top5-countdown | @ezyxbt | hook T5-01 "top 5 chest exercises, ranked by how easy they are to progress on" | EARND on slide 7 (bonus tip) | set: 04-sets/2026-10-25-ezyxbt-top5-chest
 - [ ] top5-countdown | @ezyxbt | hook T5-02 "top 5 back exercises, ranked by how easy they are to progress on" | EARND on slide 7 | set: 04-sets/2026-10-25-ezyxbt-top5-back
 - [ ] text-on-colour-education (questions) | @earndapp | hook TC-01 "5 questions to ask before you switch programmes again" | app slide 7 | set: 04-sets/2026-10-25-earndapp-5-questions-switch
