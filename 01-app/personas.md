@@ -2,7 +2,7 @@
 
 > **Provisional, approved at Gate 1 (2026-10-24).** Built only from `app-brief.md`. No interviews, customer quotes, or purchase data behind them yet. Everything marked *Assumption* is a guess to test. Refine from real comments and purchase behaviour.
 >
-> **Hooks below are copy hypotheses we wrote, not audience quotes.** The pain bank holds 0 verified quotes until source material is accessible.
+> **Hooks below are copy hypotheses we wrote, not audience quotes.** The pain bank now holds 50 verified audience-research quotes (2026-10-25); none come from EARND users.
 
 ---
 
