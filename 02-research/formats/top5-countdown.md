@@ -22,7 +22,7 @@ Account: @ezyxbt (founder). Founder photos only, crop and resize only.
 1. **Hook** on the strongest portrait: "top 5 [muscle] exercises, ranked by [criterion]".
 2. **Setup** (replaces the reference's "before" photo, which implied a transformation): the criteria and who the ranking is for.
 3. **#5**, 4. **#4**, 5. **#3**, 6. **#2**: exercise name, then one line of reasoning against the stated criteria.
-7. **Bonus tip = EARND**, second-to-last, where the references place their app. Founder relationship in the same slide ("i'm building EARND…"). Relaxed photo, not a physique shot.
+7. **Bonus tip = EARND**, second-to-last, where the references place their app (they show the app on a phone). Real screenshot from `01-app/assets/`, crop only. Founder relationship in the same slide ("i'm building EARND…").
 8. **#1**: the pick and why, against the criteria.
 9. **CTA**: "i'm building EARND. follow @earndapp for the launch."
 

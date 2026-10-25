@@ -16,8 +16,8 @@
    _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b7-12.jpg_
 6. (middle, 16 words) #2 chest-supported row / the pad stops the swing, so each session compares cleanly to the last.  
    _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b8-10.jpg_
-7. (middle, 20 words) bonus tip: if you can't compare sessions, you can't progress. / i'm building EARND to show last session beside today's target.  
-   _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b4-15.jpg_
+7. (middle, 15 words) bonus tip: if you can't compare sessions, you can't progress. / i'm building EARND for that.  
+   _REAL SCREENSHOT: exercise-target.png (Machine Chest Press): exercise-target.png_
 8. (middle, 16 words) #1 lat pulldown / pin stack, small jumps, the same setup every time. the easiest to beat.  
    _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b4-10.jpg_
 9. (cta, 8 words) i'm building EARND. / follow @earndapp for the launch.  

@@ -16,8 +16,8 @@
    _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b6-13.jpg_
 6. (middle, 16 words) #2 barbell bench press / small plate jumps. use a spotter or safeties when you go heavy.  
    _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b6-03.jpg_
-7. (middle, 20 words) bonus tip: none of this works if you forget last session. / i'm building EARND to show it beside today's target.  
-   _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b6-08.jpg_
+7. (middle, 16 words) bonus tip: none of this works if you forget last session. / i'm building EARND for that.  
+   _REAL SCREENSHOT: exercise-target.png (Machine Chest Press): exercise-target.png_
 8. (middle, 17 words) #1 machine chest press / same seat, same pin, small jumps. the easiest one to repeat and beat.  
    _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b5-01.jpg_
 9. (cta, 8 words) i'm building EARND. / follow @earndapp for the launch.  

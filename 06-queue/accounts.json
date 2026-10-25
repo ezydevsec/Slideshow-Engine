@@ -90,7 +90,8 @@
         "images": "The founder's real gym photos only, from 01-app/founder-photos/. For every set, pick the strongest, most relevant photos for each slide (see 01-app/founder-photo-catalog.md; 22 keepers committed 2026-10-25). Crop and resize only: the founder's face and physique stay unchanged. Never generated images. If no supplied photo fits a slide, ask the founder for more instead of forcing a weak fit.",
         "text": "Minimal. White text with black stroke (adjust once real photos are in).",
         "slide_count_labels": false,
-        "earnd_promotion": "Wherever the format's reference structure introduces the app (e.g. the top-5 countdown's second-to-last bonus-tip slide), always as the founder's own product ('i'm building EARND'). The final slide is the founder CTA. Physique-forward photos never sit next to EARND copy. (Changed 2026-10-25 from 'final slide only'.)"
+        "earnd_promotion": "Wherever the format's reference structure introduces the app (e.g. the top-5 countdown's second-to-last bonus-tip slide), always as the founder's own product ('i'm building EARND'). The final slide is the founder CTA. Physique-forward photos never sit next to EARND copy. (Changed 2026-10-25 from 'final slide only'.)",
+        "app_screens": "On the slide where EARND appears, use a real screenshot from 01-app/assets/ (crop only, never altered or generated). All other slides use the founder's photos. (Added 2026-10-25.)"
       },
       "cta": {
         "prelaunch": "i'm building EARND. follow @earndapp for the launch.",

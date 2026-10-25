@@ -116,17 +116,21 @@
     {
       "n": 7,
       "role": "middle",
-      "image": "01-app/founder-photos/batch-06/b6-08.jpg",
-      "image_direction": "REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged",
+      "image": "01-app/assets/exercise-target.png",
+      "image_direction": "REAL SCREENSHOT: exercise-target.png (Machine Chest Press)",
       "shot_crop": [
         0,
-        0.15,
+        0.14,
         1,
-        0.9
+        0.56
       ],
-      "text": "bonus tip: none of this works if you forget last session.\ni'm building EARND to show it beside today's target.",
+      "text": "bonus tip: none of this works if you forget last session.\ni'm building EARND for that.",
       "text_mode": "stroke",
-      "position": "top"
+      "position": "top",
+      "shot_area": [
+        0.44,
+        0.99
+      ]
     },
     {
       "n": 8,
