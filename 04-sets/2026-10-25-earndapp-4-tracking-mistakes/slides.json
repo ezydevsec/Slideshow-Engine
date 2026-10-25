@@ -1,0 +1,114 @@
+{
+  "format": "text-on-colour-education",
+  "trend": "none",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "app_slide": 6,
+  "status": "awaiting gate 3",
+  "set_id": "2026-10-25-earndapp-4-tracking-mistakes",
+  "idea": "Mistakes + practical tracking advice",
+  "hook_id": "TC-02",
+  "persona": "Persona 1: The inconsistent tracker",
+  "caption": "number 3 is the one everyone does",
+  "hashtags": [
+    "#gymtok",
+    "#gymtips",
+    "#workouttracker",
+    "#progressiveoverload"
+  ],
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "4 tracking mistakes that make your progress look random",
+      "position": "middle"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid lime, no photo",
+      "bg": "#C6FF00",
+      "text_mode": "plain",
+      "text_color": "#0B0B0B",
+      "text": "1. only writing the weight.\nexample: 100 kg \u00d7 6 and 100 kg \u00d7 9 are very different sessions.",
+      "position": "middle"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "2. switching machines or seat settings.\nif the setup changes, the numbers don't compare.",
+      "position": "middle"
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid lime, no photo",
+      "bg": "#C6FF00",
+      "text_mode": "plain",
+      "text_color": "#0B0B0B",
+      "text": "3. logging after you leave.\nyou'll round, guess, or forget a set.",
+      "position": "middle"
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "4. starting a set with no target.\nif you don't know what to beat, you'll repeat last week.",
+      "position": "middle"
+    },
+    {
+      "n": 6,
+      "role": "middle",
+      "image": "01-app/assets/exercise-target.png",
+      "image_direction": "REAL SCREENSHOT: exercise-target.png (Machine Chest Press)",
+      "bg": "#0B0B0B",
+      "text_color": "#0B0B0B",
+      "box_color": "#C6FF00",
+      "text_mode": "background",
+      "text": "EARND shows your previous sets and today's target before you lift, and starts the rest timer when you log a set.",
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ],
+      "shot_crop": [
+        0,
+        0.14,
+        1,
+        0.56
+      ]
+    },
+    {
+      "n": 7,
+      "role": "cta",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "same setup. a clear target. every set logged.\nEARND launches soon. Follow for the launch.",
+      "position": "middle"
+    }
+  ]
+}

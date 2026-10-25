@@ -47,3 +47,13 @@ default_app_slide: 4
 ## Learned rules
 
 (Added after each weekly review. Newest at the top.)
+
+**2026-10-25 (founder decisions, gate 2)**
+- EARND goes where the format's reference structure introduces the app (e.g. a second-to-last "bonus tip" slide), not on a fixed slide. Every mention says EARND is ours; @ezyxbt still ends on the founder CTA.
+- Keep the 10-slide cap. Long tier lists and illustrated plan sheets wait in the backlog; never squeeze them into unreadable layouts.
+- No transformation or "before" slides. Never imply EARND produced the founder's physique.
+- Rankings state their criterion and audience. No invented scores, no scientific claims, never "universally best". The founder confirms his own rankings before approval.
+- Describe formats by observed reach across accounts, never as proven sales formats. Keep reach and purchases separate in every report.
+- "Usual views" = median views of the account's recent posts in the pull. Flag samples under 20 posts or covering under 2 weeks.
+- No new research round until the current batch is posted and measured.
+- Tools: recommend an Apify, Higgsfield or Humanpost upgrade only when it removes a real bottleneck, with the cost and what it unlocks. Never subscribe or raise spend automatically.

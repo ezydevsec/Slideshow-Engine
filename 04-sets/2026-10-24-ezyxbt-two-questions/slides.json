@@ -1,8 +1,8 @@
 {
   "set_id": "2026-10-24-ezyxbt-two-questions",
-  "status": "approved 2026-10-25: initial messaging-angle test (not validated audience language; not a proven format)",
+  "status": "approved 2026-10-25: initial messaging-angle test (not validated audience language; not a proven format) \u00b7 photos swapped 2026-10-25 to the committed keepers (copy unchanged): founder to glance at the contact sheet before posting",
   "test": "messaging angle",
-  "angle": "founder: the two questions every session (last time / today's target) → building EARND",
+  "angle": "founder: the two questions every session (last time / today's target) \u2192 building EARND",
   "idea": "Founder adaptation of the forgotten-weights angle. Own hooks and visuals, not a copy of the @earndapp set.",
   "format": "founder-photo-questions",
   "trend": "none",
@@ -27,13 +27,13 @@
     {
       "n": 1,
       "role": "hook",
-      "image": "01-app/founder-photos/ezy-02.jpg",
-      "image_direction": "REAL FOUNDER PHOTO: crop only, no edits",
+      "image": "01-app/founder-photos/batch-01/b1-09.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged",
       "shot_crop": [
-        0.06,
-        0.233,
-        0.94,
-        0.893
+        0,
+        0.05,
+        1,
+        0.8
       ],
       "text": "what did you lift last time?",
       "text_mode": "stroke",
@@ -42,13 +42,13 @@
     {
       "n": 2,
       "role": "middle",
-      "image": "01-app/founder-photos/ezy-14.png",
-      "image_direction": "REAL FOUNDER PHOTO: crop only, no edits",
+      "image": "01-app/founder-photos/batch-08/b8-10.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged",
       "shot_crop": [
-        0.0,
-        0.13,
-        1.0,
-        0.5914
+        0.1,
+        0.2,
+        0.9,
+        0.8
       ],
       "text": "what are you aiming for today?",
       "text_mode": "stroke",
@@ -57,13 +57,13 @@
     {
       "n": 3,
       "role": "middle",
-      "image": "01-app/founder-photos/ezy-10.jpg",
-      "image_direction": "REAL FOUNDER PHOTO: crop only, no edits",
+      "image": "01-app/founder-photos/batch-06/b6-11.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged",
       "shot_crop": [
-        0.265,
-        0.24,
-        0.735,
-        0.5925
+        0,
+        0.12,
+        1,
+        0.87
       ],
       "text": "if you can't answer both, you're guessing.",
       "text_mode": "stroke",
@@ -72,13 +72,13 @@
     {
       "n": 4,
       "role": "cta",
-      "image": "01-app/founder-photos/ezy-01.jpg",
-      "image_direction": "REAL FOUNDER PHOTO: crop only, no edits",
+      "image": "01-app/founder-photos/batch-01/b1-11.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged",
       "shot_crop": [
-        0.06,
-        0.12,
-        0.681,
-        0.586
+        0,
+        0,
+        1,
+        0.75
       ],
       "text": "EARND answers both before every set.\ni'm building EARND. follow @earndapp for the launch.",
       "text_mode": "stroke",

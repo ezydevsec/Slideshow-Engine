@@ -1,0 +1,125 @@
+{
+  "format": "text-on-colour-education",
+  "trend": "none",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "app_slide": 7,
+  "status": "awaiting gate 3",
+  "set_id": "2026-10-25-earndapp-5-questions-switch",
+  "idea": "Questions angle: before you switch programmes (programme hopping pain)",
+  "hook_id": "TC-01",
+  "persona": "Persona 2: The busy returning lifter",
+  "caption": "save this for the next time you want a new programme",
+  "hashtags": [
+    "#gymtok",
+    "#gymtips",
+    "#workoutplan",
+    "#progressiveoverload"
+  ],
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "5 questions to ask before you switch programmes again",
+      "position": "middle"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid lime, no photo",
+      "bg": "#C6FF00",
+      "text_mode": "plain",
+      "text_color": "#0B0B0B",
+      "text": "1. have you run it long enough to see a trend?",
+      "position": "middle"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "2. can you say what you lifted on each exercise last session?",
+      "position": "middle"
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid lime, no photo",
+      "bg": "#C6FF00",
+      "text_mode": "plain",
+      "text_color": "#0B0B0B",
+      "text": "3. do you know what you're aiming for today?",
+      "position": "middle"
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "4. are you doing every session it asks for, or skipping the ones you don't like?",
+      "position": "middle"
+    },
+    {
+      "n": 6,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid lime, no photo",
+      "bg": "#C6FF00",
+      "text_mode": "plain",
+      "text_color": "#0B0B0B",
+      "text": "5. are you actually stuck, or just bored?",
+      "position": "middle"
+    },
+    {
+      "n": 7,
+      "role": "middle",
+      "image": "01-app/assets/exercise-target.png",
+      "image_direction": "REAL SCREENSHOT: exercise-target.png (Machine Chest Press)",
+      "bg": "#0B0B0B",
+      "text_color": "#0B0B0B",
+      "box_color": "#C6FF00",
+      "text_mode": "background",
+      "text": "can't answer 2 and 3? that's a tracking problem. EARND shows last session and today's target on every exercise.",
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ],
+      "shot_crop": [
+        0,
+        0.14,
+        1,
+        0.56
+      ]
+    },
+    {
+      "n": 8,
+      "role": "cta",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "one plan. last session beside today's target.\nEARND launches soon. Follow for the launch.",
+      "position": "middle"
+    }
+  ]
+}
