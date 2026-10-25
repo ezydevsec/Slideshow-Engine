@@ -27,3 +27,17 @@
 1. **Swipe inbox (free):** paste TikTok slideshow links or screenshots you come across into `02-research/swipe/inbox/`. The engine scores and breaks them down.
 2. **Retry the date-filtered search later:** the device-id error may be temporary on the Actor's side. A 10-result test costs about $0.05.
 3. **Larger plain search:** about $4–5 for ~1,000 results plus medians. Needs a paid Apify plan or next month's credit, and your approval.
+
+## Update: founder-supplied accounts (same day)
+
+The founder supplied three accounts. Pulled the last 30 posts of each with Apify's TikTok profile scraper ($0.22) and scored each post against its account's median views.
+
+| Account | Slideshows / 30 | Median views | Result |
+|---|---|---|---|
+| @gymbratzzzz (gym tips, 71K followers) | 30 | 6,779 | **5 qualify** (50K+, 3x+, last 30 days): 1.5M (221x), 252K (37x), 82.7K, 78.9K, 52.9K |
+| @getastraapp (astrology app, 19.7K followers) | 30 | 61,250 | 6 posts of 2.9M–3.9M, but all Feb–Mar 2024 (the account hasn't posted since). Outside the 30-day rule: kept as a reference |
+| @plug_ai | 20 | 15,000 | Outliers are videos, not slideshows. Nothing kept |
+
+Gallery: `2026-10-25-gallery.html` (11 slideshows), data in `2026-10-25-raw.json`. Slide image links come from TikTok's CDN and expire after a few days.
+
+Neither structure has appeared on 3+ different accounts yet, so neither counts as **validated**.
