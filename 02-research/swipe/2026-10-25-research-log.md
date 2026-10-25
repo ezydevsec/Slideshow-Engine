@@ -41,3 +41,19 @@ The founder supplied three accounts. Pulled the last 30 posts of each with Apify
 Gallery: `2026-10-25-gallery.html` (11 slideshows), data in `2026-10-25-raw.json`. Slide image links come from TikTok's CDN and expire after a few days.
 
 Neither structure has appeared on 3+ different accounts yet, so neither counts as **validated**.
+
+## Update 2: nine more founder-supplied accounts
+
+Last 20 posts of each, $0.67. 17 new slideshows qualify (50K+, 3x+, last 30 days); 4 more kept as older references. Gallery now holds 32.
+
+| Format | Seen on (qualifying or reference) | Best result | Notes |
+|---|---|---|---|
+| **Top-5 ranked countdown** ("top 5 PEAK exercises for X", each rated x/10, a "bonus/pro tip: track your progressive overload, I use [app]" slide near the end) | @creed.lifter (3.4M, 3.1M, 1.9M; Feb–May), @aaliyahwellness (171.6K 46x, 112.7K 30x), @gymbratzzzz (same tip-slide app plug) | 3.4M | **Validated (3 accounts).** Real photo backgrounds, no illustrations needed. The tip slide pitches tracking + progressive overload, which is EARND's job |
+| **Exercise tier list** (F → S tiers, one exercise per slide, illustration + 1-line verdict) | @arrowfitnessapp (812K, 519K, 394K, 304K), @liftx.app (chest tier list) | 812K (72x) | Two app accounts. 18–22 slides, over our 10-slide cap. Needs exercise illustrations |
+| **Plan sheets** ("build your upper day: pick one per slide", "push / pull / legs" day sheets) | @bluebro.fit (73.4K), @liftx.app (83.5K, 55.5K, 55K), @gymbratzzzz (zone-by-zone) | 83.5K | Validated (3). Matches EARND's "just give me a plan" pain. Needs illustrations |
+| **Text on colour + app on last slide** ("5 questions I'm too scared to ask", "most to least likely to…") | @sandrawritesthis (6 outliers, 507K top), @getastraapp (2024) | 507K (37x) | Text only, cheap to make. Last slide: search the app by name |
+| Self-improvement steps (4–6 slides) | @thcowboyproject (1.4M, June) | 1.4M | Reference only |
+
+@adamxbukhari posts videos only. @mayaviefit's slideshow outlier is a lifestyle photo dump with no app.
+
+Caution: several accounts present an app as a personal recommendation ("I use X app and I love it"). Ours must say EARND is ours.
