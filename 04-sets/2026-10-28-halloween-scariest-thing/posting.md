@@ -1,6 +1,6 @@
 # Posting pack: 2026-10-28-halloween-scariest-thing
 
-**Status: draft, awaiting gate 3. Must post by Sat Oct 31 (Halloween).**
+**Status: approved at gate 3 on 2026-10-28. Post manually by Sat Oct 31 (Halloween). Video version recommended.**
 
 Two versions; post **one**, not both (same account, same copy):
 - **A. Photo slideshow:** `final/preview/slide-01.jpg` … `slide-06.jpg`

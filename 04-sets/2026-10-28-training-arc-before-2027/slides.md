@@ -1,6 +1,6 @@
 # 2026-10-28-training-arc-before-2027
 
-> Draft, awaiting gate 3. Format `pain-funnel-test` (not proven). Hook is a copy hypothesis.
+> **Approved 2026-10-28 at gate 3.** Manual posting. Format `pain-funnel-test` (not proven). Hook is a copy hypothesis.
 
 - **Account:** @earndapp (brand)
 - **Persona:** Persona 1: The inconsistent tracker
