@@ -60,3 +60,16 @@ Added 2026-10-28 from two TikToks the founder supplied. Status: **not tested**. 
 1. Account: test on @earndapp first (recommended; standing rule: no new theme pages until a format repeats) or create a new theme account now (all fields TO CONFIRM until approved).
 2. Character: approve an original character design (name, look, accent colour) before any generation.
 3. Medium: slideshow first (default), or video with a voice.
+
+## Who else uses it (web check 2026-10-28)
+
+Web search only; TikTok isn't well indexed, so this is incomplete. View counts come from aggregator pages and are approximate.
+
+- **Baki gym-motivation edits:** a large, ongoing niche ("Baki motivation edits", "Baki in gym", "typa guys you see at the gym Baki"). Almost all are fan edits of copyrighted anime footage. One example has about 73.5K likes.
+- **CapCut "Baki filter":** AI muscle-filter trend on GymTok photos.
+- **A fitness app is already marketing with it:** "Arise AI" uses a Baki edit, with an app-store discount code in the description. That's a competitor using the copyrighted footage route.
+- **Format reference creator:** runs it as a series ("How To Force Your Skinny Arms To Grow PART 1" is also on YouTube Shorts).
+- **Animated or manga explainers:** "Muscles and Mangas" on YouTube, plus small TikTok creators doing animated form tutorials. No large account found doing faceless anime-character narrated explainers on TikTok. Either it's underused or search can't see it.
+- **Next step for real numbers:** an Apify TikTok scrape (connector needs authorizing) or 5–10 examples saved from TikTok search into `02-research/swipe/inbox/`.
+
+Sources: tiktok.com/discover/baki-motivation-edits, tiktok.com/discover/baki-in-gym, tiktok.com/discover/baki-ai-filter, tiktok.com/discover/anime-gym-workout, youtube.com/shorts/3sajBtRIScw, youtube.com/channel/UCe9DP-XD37WReADogezyyRg
