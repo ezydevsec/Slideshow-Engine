@@ -20,41 +20,41 @@
     "mode": "specific",
     "note": "PeriTune \"Halloween ・ cute horror song\" (rising)"
   },
-  "ai_images": false,
+  "ai_images": true,
   "app_slide": 4,
   "slides": [
     {
       "n": 1,
       "role": "hook",
-      "image": "",
-      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "image": "images/slide-01.jpg",
+      "image_direction": "GENERATED (Higgsfield z_image): empty bench, lime jack-o'-lantern, foggy dark gym, manga style",
       "bg": "#0B0B0B",
-      "text_mode": "plain",
+      "text_mode": "stroke",
       "text_color": "#C6FF00",
       "text": "the scariest thing in the gym this halloween:",
-      "position": "upper"
+      "position": "top"
     },
     {
       "n": 2,
       "role": "middle",
-      "image": "",
-      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "image": "images/slide-02.jpg",
+      "image_direction": "GENERATED: barbell on rack with cobwebs, dark gym, manga style",
       "bg": "#0B0B0B",
-      "text_mode": "plain",
+      "text_mode": "stroke",
       "text_color": "#FFFFFF",
       "text": "walking up to the bench with no idea what you lifted last week",
-      "position": "upper"
+      "position": "top"
     },
     {
       "n": 3,
       "role": "middle",
-      "image": "",
-      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "image": "images/slide-03.jpg",
+      "image_direction": "GENERATED: chalked hand hesitating over weight plates, manga style",
       "bg": "#0B0B0B",
-      "text_mode": "plain",
+      "text_mode": "stroke",
       "text_color": "#FFFFFF",
       "text": "so you guess. too light? too heavy? the horror.",
-      "position": "upper"
+      "position": "top"
     },
     {
       "n": 4,
@@ -81,24 +81,25 @@
     {
       "n": 5,
       "role": "middle",
-      "image": "",
-      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "image": "images/slide-05.jpg",
+      "image_direction": "GENERATED: weight plates with lime glowing pumpkin, manga style",
       "bg": "#0B0B0B",
-      "text_mode": "plain",
+      "text_mode": "stroke",
       "text_color": "#FFFFFF",
       "text": "example:\nlast time: 100 kg × 7\ntoday's target: 100 kg × 8\nno guessing",
-      "position": "upper"
+      "position": "top"
     },
     {
       "n": 6,
       "role": "cta",
-      "image": "",
-      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "image": "images/slide-06.jpg",
+      "image_direction": "GENERATED: lifter from behind walking toward lime-lit gym doorway, no face, manga style",
       "bg": "#0B0B0B",
-      "text_mode": "plain",
+      "text_mode": "stroke",
       "text_color": "#C6FF00",
       "text": "nothing scary about a plan.\nEARND launches soon. Follow for the launch.",
-      "position": "upper"
+      "position": "top"
     }
-  ]
+  ],
+  "look": "illustrated (test vs plain black-and-lime control)"
 }

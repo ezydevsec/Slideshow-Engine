@@ -9,7 +9,7 @@
 - **Caption:** scarier than any haunted house tbh 🎃
 - **Hashtags:** #gymtok #halloween #gymhumor #progressiveoverload
 - **Sound:** PeriTune "Halloween ・ cute horror song" (rising)
-- **Look:** black-and-lime template; slide 4 real screenshot with lime box.
+- **Look:** ILLUSTRATED test: Higgsfield manga-style Halloween gym art on slides 1, 2, 3, 5, 6 (ai_images: true, TikTok AI label on); slide 4 real screenshot. Motion version: `final/halloween-motion.mp4`.
 
 | # | Role | Text | Image |
 |---|---|---|---|
