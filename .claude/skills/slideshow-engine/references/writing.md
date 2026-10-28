@@ -67,6 +67,7 @@ Field rules:
 - `shot_crop` (screenshot slides): `[left, top, right, bottom]` fractions of the source image, to zoom in on the part that matters. Crop only: never alter the interface or numbers.
 - `shot_area` (screenshot slides): `[top, bottom]` canvas fractions to fit the screenshot into, e.g. `[0.31, 0.97]` with `position: top` so the text never covers the UI.
 - `image`: a path relative to the set folder, or a path starting with `01-app/assets/` for screenshots.
+- `font_size` (optional): text size in px; defaults to 72 for the hook and 58 for other slides.
 - Optional colour fields: `bg` (solid background when `image` is empty), `text_color` (text fill in any mode), `box_color` (box fill in `background` mode).
 - `canvas` (top level): `1080x1920` by default; use the account template's canvas (e.g. `1080x1080` for square).
 - `placeholder: true` marks a screenshot that hasn't been supplied. The renderer refuses to render a set while any slide has it.

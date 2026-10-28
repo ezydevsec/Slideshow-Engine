@@ -1,0 +1,120 @@
+{
+  "trend": "none",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "sound": {
+    "mode": "trending",
+    "note": "pick a sound from a recent high-view gym slideshow; Commercial Music Library if Business account"
+  },
+  "ai_images": false,
+  "status": "awaiting gate 3",
+  "set_id": "2026-10-28-earndapp-one-programme-you-follow",
+  "format": "pain-funnel-test",
+  "idea": "Winner variation: plan angle in the original pain-funnel format",
+  "hook_id": "H2-05",
+  "persona": "Persona 2: The busy returning lifter",
+  "app_slide": 4,
+  "caption": "the best programme is the one you actually run",
+  "hashtags": [
+    "#gymtok",
+    "#workoutplan",
+    "#upperlowersplit",
+    "#programhopping"
+  ],
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "i don't need a new programme every month. i need one i'll actually follow.",
+      "position": "middle",
+      "font_size": 96
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "new split. new app. new spreadsheet. three weeks later, start again.",
+      "position": "middle",
+      "font_size": 70
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "what helps: four sessions a week, the same exercises, and a target for each one.",
+      "position": "middle",
+      "font_size": 70
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "01-app/assets/train-week-overview.png",
+      "image_direction": "REAL SCREENSHOT: train-week-overview.png",
+      "bg": "#0B0B0B",
+      "text_color": "#0B0B0B",
+      "box_color": "#C6FF00",
+      "text_mode": "background",
+      "text": "EARND's four-day Upper/Lower programme. open it, see today's session, start.",
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ],
+      "shot_crop": [
+        0,
+        0.06,
+        1,
+        0.76
+      ],
+      "font_size": 62
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "01-app/assets/exercise-target.png",
+      "image_direction": "REAL SCREENSHOT: exercise-target.png",
+      "bg": "#0B0B0B",
+      "text_color": "#0B0B0B",
+      "box_color": "#C6FF00",
+      "text_mode": "background",
+      "text": "every exercise shows last session and today's target.",
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ],
+      "shot_crop": [
+        0,
+        0.14,
+        1,
+        0.56
+      ],
+      "font_size": 62
+    },
+    {
+      "n": 6,
+      "role": "cta",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "one plan to follow.\nEARND launches soon. Follow for the launch.",
+      "position": "middle",
+      "font_size": 80
+    }
+  ]
+}

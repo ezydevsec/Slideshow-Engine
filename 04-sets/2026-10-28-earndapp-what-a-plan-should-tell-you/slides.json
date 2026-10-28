@@ -1,0 +1,121 @@
+{
+  "trend": "none",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "sound": {
+    "mode": "trending",
+    "note": "pick a sound from a recent high-view gym slideshow; Commercial Music Library if Business account"
+  },
+  "ai_images": false,
+  "status": "awaiting gate 3",
+  "set_id": "2026-10-28-earndapp-what-a-plan-should-tell-you",
+  "format": "text-on-colour-education",
+  "idea": "Winner variation: plan angle (just give me one routine, 676 views)",
+  "hook_id": "TC-06",
+  "persona": "Persona 2: The busy returning lifter",
+  "app_slide": 6,
+  "caption": "if your plan can't answer these, it's not a plan",
+  "hashtags": [
+    "#gymtok",
+    "#workoutplan",
+    "#upperlowersplit",
+    "#gymbeginner"
+  ],
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "4 things a workout plan should tell you before you walk in",
+      "position": "middle",
+      "font_size": 96
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid lime, no photo",
+      "bg": "#C6FF00",
+      "text_mode": "plain",
+      "text_color": "#0B0B0B",
+      "text": "1. what you're training today",
+      "position": "middle",
+      "font_size": 70
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "2. which exercises, in what order",
+      "position": "middle",
+      "font_size": 70
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid lime, no photo",
+      "bg": "#C6FF00",
+      "text_mode": "plain",
+      "text_color": "#0B0B0B",
+      "text": "3. how many sets and reps",
+      "position": "middle",
+      "font_size": 70
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "4. what you lifted last time, and what to beat",
+      "position": "middle",
+      "font_size": 70
+    },
+    {
+      "n": 6,
+      "role": "middle",
+      "image": "01-app/assets/train-week-overview.png",
+      "image_direction": "REAL SCREENSHOT: train-week-overview.png",
+      "bg": "#0B0B0B",
+      "text_color": "#0B0B0B",
+      "box_color": "#C6FF00",
+      "text_mode": "background",
+      "text": "EARND gives you a four-day Upper/Lower plan. today's workout, ready to start.",
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ],
+      "shot_crop": [
+        0,
+        0.06,
+        1,
+        0.76
+      ],
+      "font_size": 62
+    },
+    {
+      "n": 7,
+      "role": "cta",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "walk in with a plan.\nEARND launches soon. Follow for the launch.",
+      "position": "middle",
+      "font_size": 80
+    }
+  ]
+}

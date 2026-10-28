@@ -106,7 +106,7 @@ def draw_text(img, slide, font_path):
     img = img.copy()
     draw = ImageDraw.Draw(img)
     mode = slide.get("text_mode", "stroke")
-    size = 72 if slide.get("role") == "hook" else 58
+    size = slide.get("font_size") or (72 if slide.get("role") == "hook" else 58)
     font = load_font(font_path, size)
     lines = wrap(draw, text, font, W * 0.82)
     line_h = int(size * 1.25)
