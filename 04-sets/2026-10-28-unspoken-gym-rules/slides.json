@@ -1,0 +1,138 @@
+{
+  "set_id": "2026-10-28-unspoken-gym-rules",
+  "status": "draft 2026-10-28: awaiting approval (gate 3)",
+  "test": "format",
+  "angle": "gym etiquette list → last rule is knowing your numbers → notes app vs EARND",
+  "idea": "Format test: gym-rules-list (from the @stronger_gymapp outlier)",
+  "format": "gym-rules-list",
+  "trend": "none",
+  "hook_id": "R1-01",
+  "persona": "Persona 1: The inconsistent tracker",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "caption": "which rule does your gym break the most?",
+  "hashtags": [
+    "#gymtok",
+    "#gymetiquette",
+    "#gymrules",
+    "#progressiveoverload"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "app_slide": 8,
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "unspoken gym rules",
+      "position": "upper"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "1. rerack your weights. every time.",
+      "position": "upper"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "2. wipe the bench when you're done.",
+      "position": "upper"
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "3. no curls in the squat rack when it's busy.",
+      "position": "upper"
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "4. resting on a machine? let people work in.",
+      "position": "upper"
+    },
+    {
+      "n": 6,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "5. know what you lifted last time. guessing isn't a plan.",
+      "position": "upper"
+    },
+    {
+      "n": 7,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "the usual log: a notes app full of numbers you scroll past mid-set.",
+      "position": "upper"
+    },
+    {
+      "n": 8,
+      "role": "middle",
+      "image": "01-app/assets/exercise-target.png",
+      "image_direction": "REAL SCREENSHOT: exercise-target.png (Machine Chest Press)",
+      "bg": "#0B0B0B",
+      "text_color": "#0B0B0B",
+      "box_color": "#C6FF00",
+      "text_mode": "background",
+      "text": "EARND shows what you lifted last time and the target to beat today.",
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ],
+      "shot_crop": [
+        0,
+        0.14,
+        1,
+        0.56
+      ]
+    },
+    {
+      "n": 9,
+      "role": "cta",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "rule 5, sorted.\nEARND launches soon. Follow for the launch.",
+      "position": "upper"
+    }
+  ]
+}

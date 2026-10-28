@@ -12,3 +12,11 @@ Not a controlled hook-only test: each set changes the angle across slides 1–5.
 
 ## @ezyxbt (founder), approved 2026-10-25
 - [ ] 2026-10-24 | founder adaptation of forgotten weights | format: founder-photo-questions | hook: "what did you lift last time?" (F1-01) | EARND on final slide | set: 04-sets/2026-10-24-ezyxbt-two-questions
+
+## Format tests from competitor research (drafted 2026-10-28, awaiting approval)
+- [ ] 2026-10-28 | format test | format: gym-rules-list | hook: "unspoken gym rules" (R1-01) | app on slide 8 | @earndapp | set: 04-sets/2026-10-28-unspoken-gym-rules
+  - variation: "unspoken gym rules nobody tells beginners" (R1-02)
+  - variation: "unspoken rules of the squat rack" (R1-05)
+- [ ] 2026-10-28 | format test | format: founder-hot-take | hook: "unpopular opinion: your notes app isn't a training log" (F2-01) | EARND on final slide | @ezyxbt | set: 04-sets/2026-10-28-ezyxbt-notes-app-take
+  - variation: "your notes app is lying to you" (F2-04)
+  - variation: "\"just add weight\" isn't a plan" (F2-06)

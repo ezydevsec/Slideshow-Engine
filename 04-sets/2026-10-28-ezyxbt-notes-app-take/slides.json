@@ -1,0 +1,64 @@
+{
+  "set_id": "2026-10-28-ezyxbt-notes-app-take",
+  "status": "draft 2026-10-28: awaiting approval (gate 3). Not rendered: founder photos are not in this session.",
+  "test": "format",
+  "angle": "founder hot take: notes app isn't a training log → building EARND",
+  "idea": "Format test: founder-hot-take (from @strongermobile)",
+  "format": "founder-hot-take",
+  "trend": "none",
+  "hook_id": "F2-01",
+  "persona": "Persona 1: The inconsistent tracker",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1080",
+  "caption": "notes app or a real log? tell me i'm wrong",
+  "hashtags": [
+    "#gymtok",
+    "#buildinpublic",
+    "#progressiveoverload"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "app_slide": null,
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "01-app/founder-photos/ezy-08.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop only, no edits. Seated mirror selfie, phone in hand (fits the notes-app take). Set shot_crop at render; keep distant people out.",
+      "text": "unpopular opinion: your notes app isn't a training log",
+      "text_mode": "stroke",
+      "position": "top"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "01-app/founder-photos/ezy-06.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop only, no edits. Seated mirror selfie, olive tee. Crop to the left half to remove the people at right.",
+      "text": "it stores numbers. it doesn't tell you what to beat today.",
+      "text_mode": "stroke",
+      "position": "top"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "01-app/founder-photos/ezy-13.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop only, no edits. Close-up wrapping hands, about to train. Crop to centre-left; no faces.",
+      "text": "so the set starts with a guess.",
+      "text_mode": "stroke",
+      "position": "lower"
+    },
+    {
+      "n": 4,
+      "role": "cta",
+      "image": "01-app/founder-photos/ezy-01.jpg",
+      "image_direction": "REAL FOUNDER PHOTO: crop only, no edits. Clean wall above for the longer CTA text. Not a physique shot.",
+      "text": "i'm building EARND: your last session and today's target, before every set.\nfollow @earndapp for the launch.",
+      "text_mode": "stroke",
+      "position": "top"
+    }
+  ]
+}
