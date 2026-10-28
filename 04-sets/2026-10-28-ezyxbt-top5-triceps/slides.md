@@ -17,7 +17,7 @@
 6. (middle, 13 words) #2 close-grip bench press / small plate jumps. use safeties when you train alone.  
    _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b5-01.jpg_
 7. (middle, 16 words) bonus tip: know your last set before you start this one. / i'm building EARND for that.  
-   _REAL SCREENSHOT: exercise-target.png: exercise-target.png_
+   _REAL SCREENSHOT: exercise-target-rest-v2.png: exercise-target-rest-v2.png_
 8. (middle, 15 words) #1 cable pushdown / same attachment, same pin, small jumps. the easiest to repeat and beat.  
    _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b6-03.jpg_
 9. (cta, 8 words) i'm building EARND. / follow @earndapp for the launch.  

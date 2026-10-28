@@ -17,7 +17,7 @@
 6. (middle, 13 words) #2 romanian deadlift / small plate jumps. keep the same depth so it compares.  
    _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b4-04.jpg_
 7. (middle, 15 words) bonus tip: one more rep than last time still counts. / i'm building EARND for that.  
-   _REAL SCREENSHOT: exercise-target.png: exercise-target.png_
+   _REAL SCREENSHOT: exercise-target-rest-v2.png: exercise-target-rest-v2.png_
 8. (middle, 16 words) #1 seated leg curl / fixed path, pin stack, small jumps. the easiest to repeat and beat.  
    _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b6-11.jpg_
 9. (cta, 8 words) i'm building EARND. / follow @earndapp for the launch.  

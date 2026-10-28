@@ -116,13 +116,13 @@
     {
       "n": 7,
       "role": "middle",
-      "image": "01-app/assets/exercise-target.png",
-      "image_direction": "REAL SCREENSHOT: exercise-target.png",
+      "image": "01-app/assets/exercise-target-rest-v2.png",
+      "image_direction": "REAL SCREENSHOT: exercise-target-rest-v2.png",
       "shot_crop": [
         0,
-        0.14,
+        0.17,
         1,
-        0.56
+        0.58
       ],
       "shot_area": [
         0.44,

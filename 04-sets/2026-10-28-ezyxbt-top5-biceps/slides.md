@@ -17,7 +17,7 @@
 6. (middle, 15 words) #2 cable curl / small pin jumps and steady tension. stacks vary, so stay on one.  
    _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b6-11.jpg_
 7. (middle, 15 words) bonus tip: track every set, not just the heaviest one. / i'm building EARND for that.  
-   _REAL SCREENSHOT: exercise-target.png: exercise-target.png_
+   _REAL SCREENSHOT: exercise-target-rest-v2.png: exercise-target-rest-v2.png_
 8. (middle, 16 words) #1 machine preacher curl / fixed path, no swing, small jumps. the easiest to repeat and beat.  
    _REAL FOUNDER PHOTO: crop and resize only, face and physique unchanged: b4-10.jpg_
 9. (cta, 8 words) i'm building EARND. / follow @earndapp for the launch.  

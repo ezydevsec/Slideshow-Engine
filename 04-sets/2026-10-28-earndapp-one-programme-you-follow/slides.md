@@ -11,8 +11,8 @@
 3. (middle, 15 words) what helps: four sessions a week, the same exercises, and a target for each one.  
    _BRAND BACKGROUND: solid black, no photo_
 4. (middle, 10 words) EARND's four-day Upper/Lower programme. open it, see today's session, start.  
-   _REAL SCREENSHOT: train-week-overview.png: train-week-overview.png_
+   _REAL SCREENSHOT: train-week-v2.png: train-week-v2.png_
 5. (middle, 8 words) every exercise shows last session and today's target.  
-   _REAL SCREENSHOT: exercise-target.png: exercise-target.png_
+   _REAL SCREENSHOT: exercise-target-rest-v2.png: exercise-target-rest-v2.png_
 6. (cta, 11 words) one plan to follow. / EARND launches soon. Follow for the launch.  
    _BRAND BACKGROUND: solid black, no photo_

@@ -15,6 +15,6 @@
 5. (middle, 10 words) 4. what you lifted last time, and what to beat  
    _BRAND BACKGROUND: solid black, no photo_
 6. (middle, 12 words) EARND gives you a four-day Upper/Lower plan. today's workout, ready to start.  
-   _REAL SCREENSHOT: train-week-overview.png: train-week-overview.png_
+   _REAL SCREENSHOT: train-week-v2.png: train-week-v2.png_
 7. (cta, 12 words) walk in with a plan. / EARND launches soon. Follow for the launch.  
    _BRAND BACKGROUND: solid black, no photo_

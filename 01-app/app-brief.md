@@ -33,6 +33,13 @@ Scheduling and progress charts support this. They aren't the main selling moment
 
 Other screens supplied: `progress-chest-press.png` (best set, est. 1RM, best-set chart, recent sessions), `train-week-overview.png` (today's workout, week strip with rest days, "3 of 4 sessions this week"), `workout-complete-progressed.png` (session summary, per-exercise progression, new PR). None shows moving a session to another day.
 
+**New screenshots (2026-10-28, from the founder; newer UI, prefer these):**
+- `train-week-v2.png`: Upper B, "Workout in progress · 1 of 12 sets logged", Resume Workout, week strip (Upper A / Lower A / Upper B / rest / Lower B), "0 of 4 lifting sessions". Use for plan and schedule slides.
+- `exercise-target-rest-v2.png`: "Previous: 102,5 kg × 8 · Add 1 rep — target 9 total at 102,5 kg", Set 1 logged, Set 2 weight shown with reps empty, rest timer 2:09. Use for target slides.
+- `recovery-day-calendar-v2.png`: Recovery day (start cardio / take rest day) with a date picker open. **Unconfirmed:** whether this moves a session to another day. Don't use it for scheduling claims until the founder confirms.
+- `exercise-shoulder-press-v2.png`: Machine Shoulder Press. **Data mismatch:** Set 1 shows 102,5 kg but previous is 57,5 kg. Crop to the previous/target card only, or don't use.
+- Set 2's weight is filled in on both exercise screens. Still don't claim "pre-filled weights" until the founder confirms that's app behaviour rather than demo data.
+
 ## Pains
 In the user's own words. These are hook hypotheses until the numbers back them.
 

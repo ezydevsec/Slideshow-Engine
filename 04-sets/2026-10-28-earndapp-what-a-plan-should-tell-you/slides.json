@@ -85,8 +85,8 @@
     {
       "n": 6,
       "role": "middle",
-      "image": "01-app/assets/train-week-overview.png",
-      "image_direction": "REAL SCREENSHOT: train-week-overview.png",
+      "image": "01-app/assets/train-week-v2.png",
+      "image_direction": "REAL SCREENSHOT: train-week-v2.png",
       "bg": "#0B0B0B",
       "text_color": "#0B0B0B",
       "box_color": "#C6FF00",
@@ -101,7 +101,7 @@
         0,
         0.06,
         1,
-        0.76
+        0.66
       ],
       "font_size": 62
     },
