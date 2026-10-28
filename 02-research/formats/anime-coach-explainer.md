@@ -73,3 +73,30 @@ Web search only; TikTok isn't well indexed, so this is incomplete. View counts c
 - **Next step for real numbers:** an Apify TikTok scrape (connector needs authorizing) or 5–10 examples saved from TikTok search into `02-research/swipe/inbox/`.
 
 Sources: tiktok.com/discover/baki-motivation-edits, tiktok.com/discover/baki-in-gym, tiktok.com/discover/baki-ai-filter, tiktok.com/discover/anime-gym-workout, youtube.com/shorts/3sajBtRIScw, youtube.com/channel/UCe9DP-XD37WReADogezyyRg
+
+## TikTok data (Apify scrape 2026-10-28)
+
+Scraped both reference profiles (top 30 each by popularity) and the top 30 posts in 5 hashtags. Keyword search returned nothing (blocked), so hashtags were used instead.
+
+**Hashtag size (total views):** #bakiedit 1.2B · #gymanime 546M · #animegym 473M · #gymanimation 16.7M · #bakimotivation 8.5M
+
+**Format reference, @h.a.m.e.e.d.k.h.a.n1** (47.4K followers, 33 videos, first post about 2026-09-20, bio "You're training arc begins here.")
+- Skinny arms 4.5M views (Sep 23) · shoulders 1.4M · forearms 669K · V-taper 548K · grip 426K
+- Splits each topic into Part 1–4. Videos run 63–148 s.
+- **Decaying fast:** posts from Oct 21–24 got 5.6K–11.7K views.
+
+**Voice reference, @kvxgo** (16.6K followers, 43 videos, first post about 2026-08-25)
+- 1.3M / 1.1M / 1.1M / 900K / 800K views in late Aug–Sep. Clips run 13–35 s. Captions are the hook line ("Because you're weak.", "There is always someone hungrier than you.").
+- **Also decaying:** posts from Oct 19–22 got 32K–45K views.
+
+**Small accounts breaking out** (low followers, big views; the niche rewards content over account size):
+- @randomcutz2: 355 followers, 532K views (Baki edit)
+- @velsyn0: 680 followers, 495K
+- @pain0fthegym: 1.9K followers, 602K
+- @montul.teg: 6.2K followers, 1.8M
+- @forgomation: 3.2K followers, 692K on Oct 18, a 68 s **animated** gym video in #gymanimation/#animegym
+- @eightlimbnation: 9.2K followers, 1.1M (Sep) and 642K (Oct 15)
+
+**Other animated gym explainer accounts:** @yourfitnessmotivator (1M, 78 s), @elevation.mindset (640K followers, 4M), @artsyogee (729K followers, 3M), plus brand-new copycats (@animations6262, posting 30–120 s animations Oct 25–26 with under 250 views).
+
+**Read:** demand is large and still producing breakouts from tiny accounts. But both references peaked in September and are now cooling, and copycats are arriving. A test should go out soon and look different from them (own character, tracking angle), not be a clone.
