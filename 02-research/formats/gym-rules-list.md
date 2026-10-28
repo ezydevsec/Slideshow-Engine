@@ -4,8 +4,10 @@ Status: testing (**not validated**: seen on 1 account, needs 3+)
 Account: @earndapp
 Examples:
 - https://www.tiktok.com/@stronger_gymapp/photo/7464909833293106464 (caption "unspoken rules", 5.1M views, about 954x the account median of ~5.3K, 55K saves vs 4.6K shares. Source: gethandler.ai outlier breakdown, 2026-10. Slide images not inspected: TikTok blocked direct fetches, so the slide text below is our own, not a transcription.)
+- https://www.tiktok.com/@_fleurfitness/video/7613818450573577505 ("6 unwritten gym rules..", 142.6K views, 2026-03; account median ~1.3K. No app.)
+- https://www.tiktok.com/@zway.fitness/video/7686667098713541919 (5 unwritten rules, 58.6K views, 2026-09-18; account median 154. No app.)
 
-Research note: found through web search on 2026-10-28, not the Apify outlier pass. Re-check against real outlier data once Apify is re-authorised, and add 2 more examples before calling it validated.
+Apify scan 2026-10-28 (`02-research/swipe/2026-10-28-competitor-scan.md`): the rules-list structure appears on 3 accounts, so the topic travels. But none of the posts is from the last 30 days, the two newer examples don't sell an app, and the source account (@stronger_gymapp) now has a median of 4.5K views with no recent post above 13K. It's a cheap test, not a proven seller.
 
 ## Slide by slide
 1. **Hook.** "unspoken gym rules" title card. Lime on black, upper. The premise lifters already argue about.
