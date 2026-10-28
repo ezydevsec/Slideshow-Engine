@@ -24,7 +24,7 @@ On screen from the first second. Real screen recordings only: never mocked or ge
 3. no notes app. no guessing.
 4. walk in. open today's workout. beat last time.
 5. pov: you know exactly what to beat today
-6. the only thing on my phone at the gym
+6. the only app you need open at the gym
 7. last time: 100 kg × 7. today: 8. (example)
 8. stop scrolling your notes between sets
 9. what your rest timer should look like
