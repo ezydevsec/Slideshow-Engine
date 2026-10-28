@@ -1,0 +1,98 @@
+{
+  "set_id": "2026-10-28-edu-progression-rule-dark",
+  "status": "draft 2026-10-28: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "look_test": "light vs dark (same copy)",
+  "angle": "EARND's real progression rule (reps → load → repeat) → EARND tells you when",
+  "canvas": "1080x1350",
+  "caption": "save this for your next session",
+  "hashtags": [
+    "#progressiveoverload",
+    "#gymtips",
+    "#musclebuildingtips",
+    "#strengthtraining"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is Higgsfield-generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "THE ONLY",
+          false
+        ],
+        [
+          "PROGRESSION",
+          true
+        ],
+        [
+          "RULE YOU NEED",
+          false
+        ]
+      ],
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "STEP 1",
+      "title": "PICK A WEIGHT YOU CAN DO FOR 4 CLEAN REPS",
+      "body": "Clean means full range of motion, controlled, no swinging.",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "STEP 2",
+      "title": "KEEP THE WEIGHT. ADD REPS.",
+      "example": "100 kg × 5\n→ 100 kg × 6\n→ 100 kg × 7",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "STEP 3",
+      "title": "OWN 8 CLEAN REPS? ADD WEIGHT.",
+      "example": "100 kg × 8\n→ 105 kg × 4–5",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "STEP 4",
+      "title": "BUILD BACK TO 8. REPEAT.",
+      "body": "Reps → load → repeat. That's the whole system.",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "THE RULE",
+      "title": "IF YOUR FORM BREAKS, YOU HAVEN'T EARNED THE INCREASE.",
+      "body": "Execution → reps → load. In that order.",
+      "mascot": true
+    },
+    {
+      "type": "app",
+      "title": "EARND TELLS YOU WHEN",
+      "body": "After every workout: add a rep, or increase the load.",
+      "shot": "01-app/assets/workout-complete-progressed.png",
+      "crop": [
+        0,
+        0.57,
+        1,
+        0.86
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "STOP GUESSING WHEN TO GO UP.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true
+    }
+  ]
+}

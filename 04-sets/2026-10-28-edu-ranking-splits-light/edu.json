@@ -1,0 +1,269 @@
+{
+  "set_id": "2026-10-28-edu-ranking-splits-light",
+  "status": "draft 2026-10-28: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "light",
+  "look_test": "light vs dark (same copy)",
+  "angle": "split ranking → 4-day upper/lower → EARND is a 4-day upper/lower",
+  "canvas": "1080x1350",
+  "caption": "ranking every gym split from worst to best. where does yours land?",
+  "hashtags": [
+    "#gymsplit",
+    "#workoutsplit",
+    "#upperlower",
+    "#gymtips",
+    "#musclebuildingtips"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is Higgsfield-generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "RANKING EVERY",
+          false
+        ],
+        [
+          "GYM SPLIT",
+          true
+        ],
+        [
+          "WORST → BEST",
+          false
+        ]
+      ],
+      "mascot": true
+    },
+    {
+      "type": "rank",
+      "rank": 6,
+      "title": "BRO SPLIT",
+      "stars": 1.5,
+      "body": "Each muscle once a week. Long sessions, low frequency.",
+      "days": [
+        [
+          "MON",
+          "CHEST"
+        ],
+        [
+          "TUE",
+          "BACK"
+        ],
+        [
+          "WED",
+          "DELTS"
+        ],
+        [
+          "THU",
+          "ARMS"
+        ],
+        [
+          "FRI",
+          "LEGS"
+        ]
+      ]
+    },
+    {
+      "type": "rank",
+      "rank": 5,
+      "title": "FULL BODY",
+      "stars": 2.5,
+      "body": "Each muscle 3x a week, but every session is long and draining.",
+      "days": [
+        [
+          "MON",
+          "FULL"
+        ],
+        [
+          "TUE",
+          "REST"
+        ],
+        [
+          "WED",
+          "FULL"
+        ],
+        [
+          "THU",
+          "REST"
+        ],
+        [
+          "FRI",
+          "FULL"
+        ]
+      ]
+    },
+    {
+      "type": "rank",
+      "rank": 4,
+      "title": "ARNOLD",
+      "stars": 3,
+      "body": "Lots of volume, but 6 days a week is hard to keep up.",
+      "days": [
+        [
+          "M",
+          "CHEST BACK"
+        ],
+        [
+          "T",
+          "DELTS ARMS"
+        ],
+        [
+          "W",
+          "LEGS"
+        ],
+        [
+          "T",
+          "CHEST BACK"
+        ],
+        [
+          "F",
+          "DELTS ARMS"
+        ],
+        [
+          "S",
+          "LEGS"
+        ],
+        [
+          "S",
+          "REST"
+        ]
+      ]
+    },
+    {
+      "type": "rank",
+      "rank": 3,
+      "title": "PPL x2",
+      "stars": 3.5,
+      "body": "Each muscle twice a week, but six sessions is a lot to fit in.",
+      "days": [
+        [
+          "M",
+          "PUSH"
+        ],
+        [
+          "T",
+          "PULL"
+        ],
+        [
+          "W",
+          "LEGS"
+        ],
+        [
+          "T",
+          "PUSH"
+        ],
+        [
+          "F",
+          "PULL"
+        ],
+        [
+          "S",
+          "LEGS"
+        ],
+        [
+          "S",
+          "REST"
+        ]
+      ]
+    },
+    {
+      "type": "rank",
+      "rank": 2,
+      "title": "PPL + UL",
+      "stars": 4,
+      "body": "Twice-a-week frequency in five days. Great if you can train 5x.",
+      "days": [
+        [
+          "M",
+          "PUSH"
+        ],
+        [
+          "T",
+          "PULL"
+        ],
+        [
+          "W",
+          "LEGS"
+        ],
+        [
+          "T",
+          "REST"
+        ],
+        [
+          "F",
+          "UPPER"
+        ],
+        [
+          "S",
+          "LOWER"
+        ],
+        [
+          "S",
+          "REST"
+        ]
+      ]
+    },
+    {
+      "type": "rank",
+      "rank": 1,
+      "title": "UPPER/LOWER",
+      "stars": 4.5,
+      "body": "Each muscle twice a week in just four sessions. Short, focused, repeatable.",
+      "days": [
+        [
+          "M",
+          "UPPER"
+        ],
+        [
+          "T",
+          "LOWER"
+        ],
+        [
+          "W",
+          "REST"
+        ],
+        [
+          "T",
+          "UPPER"
+        ],
+        [
+          "F",
+          "LOWER"
+        ],
+        [
+          "S",
+          "REST"
+        ],
+        [
+          "S",
+          "REST"
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": "EARND IS A 4-DAY UPPER / LOWER",
+      "body": "Open today's session and see what to beat on every set.",
+      "shot": "01-app/assets/train-week-overview.png",
+      "crop": [
+        0,
+        0.05,
+        1,
+        0.76
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "PICK A SPLIT YOU CAN ACTUALLY KEEP.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true
+    }
+  ]
+}
