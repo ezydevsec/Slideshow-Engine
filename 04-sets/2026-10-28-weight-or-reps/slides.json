@@ -1,0 +1,104 @@
+{
+  "set_id": "2026-10-28-weight-or-reps",
+  "status": "draft 2026-10-28: awaiting gate 3",
+  "angle": "add weight or reps? → beat reps first → EARND's per-exercise next step after each workout",
+  "idea": "backlog 2026-10-28 (none (evergreen pain 3, H1-04))",
+  "format": "pain-funnel-test",
+  "trend": "none (evergreen pain 3, H1-04)",
+  "hook_id": "H1-04",
+  "persona": "Persona 1: The inconsistent tracker",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "caption": "the eternal gym question",
+  "hashtags": [
+    "#progressiveoverload",
+    "#gymtok",
+    "#gymtips",
+    "#hypertrophy"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": "trending"
+  },
+  "ai_images": false,
+  "app_slide": 4,
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "do i add weight or try for more reps? i never know",
+      "position": "upper"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "so you jump too heavy and fail, or repeat the same set for months",
+      "position": "upper"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "the simple version: beat your reps first. the weight comes after.",
+      "position": "upper"
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "01-app/assets/workout-complete-progressed.png",
+      "image_direction": "REAL SCREENSHOT: workout-complete-progressed.png",
+      "bg": "#0B0B0B",
+      "text_color": "#0B0B0B",
+      "box_color": "#C6FF00",
+      "text_mode": "background",
+      "text": "after each workout, EARND shows your next step for every exercise.",
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ],
+      "shot_crop": [
+        0,
+        0.58,
+        1,
+        0.755
+      ]
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "example:\nchest press: load increase earned\nrow: add 1 rep next time\nno guessing either way",
+      "position": "upper"
+    },
+    {
+      "n": 6,
+      "role": "cta",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "know your next move before you load the bar.\nEARND launches soon. Follow for the launch.",
+      "position": "upper"
+    }
+  ]
+}

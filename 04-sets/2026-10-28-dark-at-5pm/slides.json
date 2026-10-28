@@ -1,0 +1,104 @@
+{
+  "set_id": "2026-10-28-dark-at-5pm",
+  "status": "draft 2026-10-28: awaiting gate 3",
+  "angle": "dark evenings → don't waste the session guessing → every set's target from last session",
+  "idea": "backlog 2026-10-28 (Clocks went back (UK Oct 25, US Nov 1): dark evenings)",
+  "format": "pain-funnel-test",
+  "trend": "Clocks went back (UK Oct 25, US Nov 1): dark evenings",
+  "hook_id": "T-1028-02",
+  "persona": "Persona 1: The inconsistent tracker",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "caption": "the clocks went back and so did my motivation",
+  "hashtags": [
+    "#gymtok",
+    "#gymmotivation",
+    "#winterarc",
+    "#progressiveoverload"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": "trending"
+  },
+  "ai_images": false,
+  "app_slide": 4,
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "it's dark at 5pm now and my gym motivation left with the sun",
+      "position": "upper"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "if you're dragging yourself there in the dark, don't waste the session guessing",
+      "position": "upper"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "walk in already knowing what to beat",
+      "position": "upper"
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "01-app/assets/exercise-target.png",
+      "image_direction": "REAL SCREENSHOT: exercise-target.png",
+      "bg": "#0B0B0B",
+      "text_color": "#0B0B0B",
+      "box_color": "#C6FF00",
+      "text_mode": "background",
+      "text": "EARND shows the target to beat on every set, from your last session.",
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ],
+      "shot_crop": [
+        0,
+        0.14,
+        1,
+        0.56
+      ]
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "example:\nset 1 last time: 100 kg × 7\ntoday: beat it with 8",
+      "position": "upper"
+    },
+    {
+      "n": 6,
+      "role": "cta",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "dark outside. clear plan inside.\nEARND launches soon. Follow for the launch.",
+      "position": "upper"
+    }
+  ]
+}

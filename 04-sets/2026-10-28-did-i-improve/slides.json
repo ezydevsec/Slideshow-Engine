@@ -1,0 +1,104 @@
+{
+  "set_id": "2026-10-28-did-i-improve",
+  "status": "draft 2026-10-28: awaiting gate 3",
+  "angle": "can't say if you're stronger → feeling isn't a number → workout summary shows what you beat",
+  "idea": "backlog 2026-10-28 (none (evergreen pain 8))",
+  "format": "pain-funnel-test",
+  "trend": "none (evergreen pain 8)",
+  "hook_id": "T-1028-06",
+  "persona": "Persona 1: The inconsistent tracker",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "caption": "'yeah i think so' is not an answer",
+  "hashtags": [
+    "#gymtok",
+    "#progressiveoverload",
+    "#gymprogress",
+    "#workouttracker"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": "trending"
+  },
+  "ai_images": false,
+  "app_slide": 4,
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "my gym friend asked if i'm stronger than last month. i had no idea",
+      "position": "upper"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "i train every week. i just never wrote anything down",
+      "position": "upper"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "turns out 'feeling stronger' isn't a number",
+      "position": "upper"
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "01-app/assets/workout-complete-progressed.png",
+      "image_direction": "REAL SCREENSHOT: workout-complete-progressed.png",
+      "bg": "#0B0B0B",
+      "text_color": "#0B0B0B",
+      "box_color": "#C6FF00",
+      "text_mode": "background",
+      "text": "EARND ends every workout showing what you beat: PRs, added reps, load increases.",
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ],
+      "shot_crop": [
+        0,
+        0.26,
+        1,
+        0.85
+      ]
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "example:\nnew PR: chest press, 100 kg × 8\n3 exercises beat their previous best",
+      "position": "upper"
+    },
+    {
+      "n": 6,
+      "role": "cta",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "next time someone asks, you'll know.\nEARND launches soon. Follow for the launch.",
+      "position": "upper"
+    }
+  ]
+}

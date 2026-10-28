@@ -1,0 +1,104 @@
+{
+  "set_id": "2026-10-28-halloween-scariest-thing",
+  "status": "draft 2026-10-28: awaiting gate 3",
+  "angle": "Halloween → guessing weights is the real horror → last session beside today's target",
+  "idea": "backlog 2026-10-28 (Halloween (expires 2026-10-31))",
+  "format": "pain-funnel-test",
+  "trend": "Halloween (expires 2026-10-31)",
+  "hook_id": "T-1028-01",
+  "persona": "Persona 1: The inconsistent tracker",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "caption": "scarier than any haunted house tbh 🎃",
+  "hashtags": [
+    "#gymtok",
+    "#halloween",
+    "#gymhumor",
+    "#progressiveoverload"
+  ],
+  "sound": {
+    "mode": "specific",
+    "note": "PeriTune \"Halloween ・ cute horror song\" (rising)"
+  },
+  "ai_images": false,
+  "app_slide": 4,
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "the scariest thing in the gym this halloween:",
+      "position": "upper"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "walking up to the bench with no idea what you lifted last week",
+      "position": "upper"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "so you guess. too light? too heavy? the horror.",
+      "position": "upper"
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "01-app/assets/exercise-target.png",
+      "image_direction": "REAL SCREENSHOT: exercise-target.png",
+      "bg": "#0B0B0B",
+      "text_color": "#0B0B0B",
+      "box_color": "#C6FF00",
+      "text_mode": "background",
+      "text": "EARND shows your last session beside today's target.",
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ],
+      "shot_crop": [
+        0,
+        0.14,
+        1,
+        0.56
+      ]
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "example:\nlast time: 100 kg × 7\ntoday's target: 100 kg × 8\nno guessing",
+      "position": "upper"
+    },
+    {
+      "n": 6,
+      "role": "cta",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "nothing scary about a plan.\nEARND launches soon. Follow for the launch.",
+      "position": "upper"
+    }
+  ]
+}

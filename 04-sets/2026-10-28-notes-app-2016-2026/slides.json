@@ -1,0 +1,104 @@
+{
+  "set_id": "2026-10-28-notes-app-2016-2026",
+  "status": "draft 2026-10-28: awaiting gate 3",
+  "angle": "notes-app logging since 2016 → can't tell if improving → session history and best-set chart",
+  "idea": "backlog 2026-10-28 (2026 is the new 2016)",
+  "format": "pain-funnel-test",
+  "trend": "2026 is the new 2016",
+  "hook_id": "T-1028-04",
+  "persona": "Persona 1: The inconsistent tracker",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "caption": "some things should stay in 2016",
+  "hashtags": [
+    "#gymtok",
+    "#2016",
+    "#gymnotes",
+    "#workouttracker"
+  ],
+  "sound": {
+    "mode": "specific",
+    "note": "trending 2016 throwback sound"
+  },
+  "ai_images": false,
+  "app_slide": 4,
+  "slides": [
+    {
+      "n": 1,
+      "role": "hook",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "2016 me: tracked my lifts in the notes app",
+      "position": "upper"
+    },
+    {
+      "n": 2,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "2026 me: still tracking my lifts in the notes app",
+      "position": "upper"
+    },
+    {
+      "n": 3,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "400 notes later and i still can't tell if i'm improving",
+      "position": "upper"
+    },
+    {
+      "n": 4,
+      "role": "middle",
+      "image": "01-app/assets/progress-chest-press.png",
+      "image_direction": "REAL SCREENSHOT: progress-chest-press.png",
+      "bg": "#0B0B0B",
+      "text_color": "#0B0B0B",
+      "box_color": "#C6FF00",
+      "text_mode": "background",
+      "text": "EARND shows every session for an exercise, with your best set charted.",
+      "position": "top",
+      "shot_area": [
+        0.31,
+        0.97
+      ],
+      "shot_crop": [
+        0,
+        0.32,
+        1,
+        0.79
+      ]
+    },
+    {
+      "n": 5,
+      "role": "middle",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#FFFFFF",
+      "text": "example:\naug 17: 90 kg × 8\nsep 7: 100 kg × 8\nyou can see the change",
+      "position": "upper"
+    },
+    {
+      "n": 6,
+      "role": "cta",
+      "image": "",
+      "image_direction": "BRAND BACKGROUND: solid black, no photo",
+      "bg": "#0B0B0B",
+      "text_mode": "plain",
+      "text_color": "#C6FF00",
+      "text": "same gym. better notes.\nEARND launches soon. Follow for the launch.",
+      "position": "upper"
+    }
+  ]
+}
