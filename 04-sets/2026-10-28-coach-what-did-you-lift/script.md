@@ -1,6 +1,6 @@
 # Test video: "what did you lift?" (the Coach)
 
-- **Status:** DRAFT. Awaiting founder approval of the script. Nothing generated yet.
+- **Status:** DRAFT. Test animatic built 2026-10-28 (`test/coach-test-animatic.mp4`): one Coach still (z_image) plus the Vlad voiceover (seed_audio), with cuts, captions and the screenshot zoom done locally. 2.25 credits spent. Awaiting founder review.
 - **Account:** @earndapp (brand)
 - **Format:** narrated video, anime coach explainer (`02-research/formats/anime-coach-explainer.md`). This is a short test of the look and voice before any full explainer.
 - **Character:** the Coach, "Baki energy" version (spec below)
