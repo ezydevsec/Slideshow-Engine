@@ -11,7 +11,7 @@ Source: `02-research/swipe/2026-10-28-competitor-scan.md`. The scan only found o
 ## Shot by shot (15 to 30 seconds)
 1. **0–2s hook.** Phone in hand at the gym, EARND open on today's exercise. Text overlay hook.
 2. **Log a set.** Real screen recording: previous performance → target → enter reps → tick → rest timer starts.
-3. **Train.** The set itself, filmed so no other gym members are identifiable.
+3. **Train.** The set itself, filmed as hands-only POV (bar, handles, plates). No faces.
 4. **Back to the phone.** Next set, or the workout-complete screen.
 5. **End card.** "EARND launches soon. Follow for the launch."
 
@@ -32,8 +32,8 @@ On screen from the first second. Real screen recordings only: never mocked or ge
 
 ## Needs before a first set
 - A real screen recording of logging a set in EARND. Screenshots alone can't carry this format.
-- Real gym footage. Founder footage keeps faces and physique unedited and other gym members out of frame.
-- Your approval to add video to an engine built for slideshows.
+- Gym footage with no identifiable person: hands and phone only, or the screen recording alone. The founder won't appear on camera (decision 2026-10-28). Keep other gym members out of frame.
+- Video is approved for @earndapp only (decision 2026-10-28). @ezyxbt stays slideshows.
 
 ## Notes
 - Numbers in overlays are labelled "example".

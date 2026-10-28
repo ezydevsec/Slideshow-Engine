@@ -5,7 +5,7 @@ Account: @ezyxbt only
 Examples:
 - @strongermobile (Stronger, workout tracker). Founder-run; reported 725 posts in 295 days, 98% of top posts are slideshows, 11 posts over 1M views. Example hooks: "Grandpa was right", "Skipping legs…", "Suddenly I realized", "Showing up in the gym". Source: shortimize.com breakdown. No individual post links or slide images inspected yet.
 
-Apify scan 2026-10-28 (`02-research/swipe/2026-10-28-competitor-scan.md`): @strongermobile's last 30 posts are all slideshows, with a median of 2,402 views. The best was 8,241 (3.4x), with no hits. The growth story is from an earlier period. The strongest founder example now is a video: @joechenn demoing his own tracker, 956K views at 39x his median. Treat this slideshow format as low priority, behind `app-in-gym-pov`.
+Apify scan 2026-10-28 (`02-research/swipe/2026-10-28-competitor-scan.md`): @strongermobile's last 30 posts are all slideshows, with a median of 2,402 views. The best was 8,241 (3.4x), with no hits. The growth story is from an earlier period. The strongest founder example now is a video: @joechenn demoing his own tracker, 956K views at 39x his median. Video is off the table for @ezyxbt (founder decision 2026-10-28), so this stays the founder account's main format to test. Judge it on its own results, not Stronger's.
 
 ## Slide by slide
 1. **Hook.** Real founder gym photo + a short take lifters will argue with. 3 to 8 words.

@@ -63,7 +63,8 @@
       "personas": [
         "Persona 1: The inconsistent tracker",
         "Persona 2: The busy returning lifter"
-      ]
+      ],
+      "formats": "Open to testing formats beyond slideshows, including video (founder decision 2026-10-28). Real app footage only."
     },
     {
       "handle": "@ezyxbt",
@@ -101,7 +102,8 @@
       "disclosure": "The final slide's CTA says the founder is building EARND. Bio should say so too.",
       "bio": null,
       "bio_proposed": "Training. Building EARND. Launch updates → @earndapp",
-      "personas": "Not set. Founder content follows the founder's real training, not a persona."
+      "personas": "Not set. Founder content follows the founder's real training, not a persona.",
+      "formats": "Slideshows only, with the founder's real photos. No video and no on-camera recording (founder decision 2026-10-28)."
     }
   ],
   "planned_accounts": {
