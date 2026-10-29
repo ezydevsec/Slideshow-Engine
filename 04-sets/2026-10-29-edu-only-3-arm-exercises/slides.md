@@ -1,6 +1,6 @@
 # 2026-10-29-edu-only-3-arm-exercises
 
-> Draft, awaiting gate 3. Format `edu-template-slideshow`, **light** look. 1080×1350. Source: `edu.json`, rendered with `scripts/edu_render.py`.
+> **Approved 2026-10-29 at gate 3.** Manual posting. Format `edu-template-slideshow`, **light** look. 1080×1350. Source: `edu.json`, rendered with `scripts/edu_render.py`.
 
 - **Account:** @earndapp (brand)
 - **Angle:** arm grows in 3 directions → 1 exercise each → track each one in EARND

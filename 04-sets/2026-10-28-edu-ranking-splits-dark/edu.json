@@ -263,7 +263,8 @@
       "type": "cta",
       "title": "PICK A SPLIT YOU CAN ACTUALLY KEEP.",
       "body": "EARND launches soon. Follow for the launch.",
-      "mascot": true
+      "mascot": true,
+      "pose": "pointing"
     }
   ]
 }

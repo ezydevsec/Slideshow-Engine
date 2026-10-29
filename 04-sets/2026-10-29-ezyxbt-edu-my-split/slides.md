@@ -1,6 +1,6 @@
 # 2026-10-29-ezyxbt-edu-my-split
 
-> Draft, awaiting gate 3. Format `edu-template-slideshow`, founder version: **dark** look, 1080×1350, the founder's real photos (crop and resize only).
+> **Approved 2026-10-29 at gate 3.** Manual posting. Format `edu-template-slideshow`, founder version: **dark** look, 1080×1350, the founder's real photos (crop and resize only).
 
 - **Account:** @ezyxbt (founder)
 - **Angle:** founder's own 4-day upper/lower, first person, real photos → final slide: i'm building EARND

@@ -1,6 +1,6 @@
 {
   "set_id": "2026-10-29-edu-arm-exercise-tier-list",
-  "status": "draft 2026-10-29: awaiting gate 3",
+  "status": "approved 2026-10-29 at gate 3 (manual posting)",
   "format": "edu-template-slideshow",
   "account": "@earndapp",
   "account_type": "brand",
@@ -53,7 +53,8 @@
       "kicker": "S TIER",
       "title": "OVERHEAD TRICEPS EXTENSION",
       "body": "Trains the long head of the triceps in a stretch. Most people skip it.",
-      "mascot": true
+      "mascot": true,
+      "pose": "overhead-triceps-extension"
     },
     {
       "type": "steps",
@@ -61,14 +62,15 @@
       "title": "HAMMER CURL · CABLE PUSHDOWN",
       "body": "Hammer curls hit the brachialis on the side of the arm. Pushdowns are easy to progress.",
       "mascot": true,
-      "pose": "triceps-pushdown"
+      "pose": "hammer-curl"
     },
     {
       "type": "steps",
       "kicker": "C TIER",
       "title": "CONCENTRATION CURL · KICKBACK",
       "body": "Fine, but hard to load heavy. Easy to plateau on.",
-      "mascot": true
+      "mascot": true,
+      "pose": "thinking"
     },
     {
       "type": "steps",
@@ -134,7 +136,8 @@
       "type": "cta",
       "title": "WHERE WOULD YOU PUT YOUR FAVOURITE?",
       "body": "EARND launches soon. Follow for the launch.",
-      "mascot": true
+      "mascot": true,
+      "pose": "thinking"
     }
   ]
 }

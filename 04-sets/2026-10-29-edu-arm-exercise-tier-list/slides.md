@@ -1,6 +1,6 @@
 # 2026-10-29-edu-arm-exercise-tier-list
 
-> Draft, awaiting gate 3. Format `edu-template-slideshow`, **dark** look. 1080×1350. Source: `edu.json`, rendered with `scripts/edu_render.py`.
+> **Approved 2026-10-29 at gate 3.** Manual posting. Format `edu-template-slideshow`, **dark** look. 1080×1350. Source: `edu.json`, rendered with `scripts/edu_render.py`.
 
 - **Account:** @earndapp (brand)
 - **Angle:** arm exercise tier list → EARND's programme includes the S-tier curls → target to beat

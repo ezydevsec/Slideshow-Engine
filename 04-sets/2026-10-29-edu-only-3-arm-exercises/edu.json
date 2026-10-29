@@ -1,6 +1,6 @@
 {
   "set_id": "2026-10-29-edu-only-3-arm-exercises",
-  "status": "draft 2026-10-29: awaiting gate 3",
+  "status": "approved 2026-10-29 at gate 3 (manual posting)",
   "format": "edu-template-slideshow",
   "account": "@earndapp",
   "account_type": "brand",
@@ -45,7 +45,8 @@
       "kicker": "THE IDEA",
       "title": "YOUR ARM HAS 3 DIRECTIONS: HEIGHT, WIDTH, DEPTH.",
       "body": "Train one exercise for each.",
-      "mascot": true
+      "mascot": true,
+      "pose": "thinking"
     },
     {
       "type": "steps",
@@ -62,7 +63,8 @@
       "title": "HAMMER CURL",
       "body": "Palms facing each other. Hits the brachialis on the side of the arm.",
       "example": "2 × 4–8",
-      "mascot": true
+      "mascot": true,
+      "pose": "hammer-curl"
     },
     {
       "type": "steps",
@@ -70,7 +72,8 @@
       "title": "OVERHEAD TRICEPS EXTENSION",
       "body": "Triceps, the back of the arm, trained in a stretch.",
       "example": "2 × 4–8",
-      "mascot": true
+      "mascot": true,
+      "pose": "overhead-triceps-extension"
     },
     {
       "type": "steps",
@@ -97,7 +100,8 @@
       "type": "cta",
       "title": "SAVE THIS FOR ARM DAY.",
       "body": "EARND launches soon. Follow for the launch.",
-      "mascot": true
+      "mascot": true,
+      "pose": "pointing"
     }
   ]
 }

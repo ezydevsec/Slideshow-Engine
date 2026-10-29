@@ -1,6 +1,6 @@
 {
   "set_id": "2026-10-29-edu-upper-lower-programme",
-  "status": "draft 2026-10-29: awaiting gate 3",
+  "status": "approved 2026-10-29 at gate 3 (manual posting)",
   "format": "edu-template-slideshow",
   "account": "@earndapp",
   "account_type": "brand",
@@ -156,7 +156,8 @@
       "type": "cta",
       "title": "SAVE THIS FOR YOUR NEXT SESSION.",
       "body": "EARND launches soon. Follow for the launch.",
-      "mascot": true
+      "mascot": true,
+      "pose": "pointing"
     }
   ]
 }

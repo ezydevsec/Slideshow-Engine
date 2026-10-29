@@ -1,6 +1,6 @@
 # 2026-10-29-ezyxbt-edu-how-i-progress
 
-> Draft, awaiting gate 3. Format `edu-template-slideshow`, founder version: **light** look, 1080×1350, the founder's real photos (crop and resize only).
+> **Approved 2026-10-29 at gate 3.** Manual posting. Format `edu-template-slideshow`, founder version: **light** look, 1080×1350, the founder's real photos (crop and resize only).
 
 - **Account:** @ezyxbt (founder)
 - **Angle:** founder's own progression rule, first person, real photos → final slide: i'm building EARND

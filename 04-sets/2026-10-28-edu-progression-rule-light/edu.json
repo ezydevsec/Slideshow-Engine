@@ -97,7 +97,8 @@
       "type": "cta",
       "title": "STOP GUESSING WHEN TO GO UP.",
       "body": "EARND launches soon. Follow for the launch.",
-      "mascot": true
+      "mascot": true,
+      "pose": "pointing"
     }
   ]
 }
