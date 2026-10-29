@@ -1,5 +1,25 @@
 # Mascot pose pack: prompts for higgsfield.ai
 
+> **2026-10-29: mascot v2 replaces the manga fighter.** Reference: `01-app/brand/mascot-v2-reference.jpg` (charcoal-black faceless figure, lime sweatband, wristbands and waistband; the worked muscle is coloured lime). Use the v2 prefix below. The fighter-based prompts further down are kept for history only.
+
+**v2 prefix (attach `mascot-v2-reference.jpg`):**
+> High-quality digital fitness illustration, semi-realistic anatomy with detailed muscle definition, smooth painterly cel shading, crisp dark outlines, soft rim lighting. Same character as the reference image: faceless athletic male, solid deep charcoal-black matte skin with cool grey highlights, smooth featureless head, lime green (#C6FF00) sweatband, lime wristbands, black training shorts with a lime waistband. The muscle being trained is coloured bright lime green (#C6FF00) with its own shading, as on an anatomy chart; everything else stays charcoal. Plain flat off-white background, full body visible, centred, side or three-quarter view so the movement is clear. No text, no letters, no logos.
+
+**v2 scene lines (lime muscle in brackets):**
+- **v01** seated on a machine chest press, pushing the handles forward *(chest lime)*
+- **v02** seated at a lat pulldown, pulling the bar to his upper chest *(lats lime)*
+- **v03** chest-supported dumbbell row on an incline bench, elbows back *(upper back lime)*
+- **v04** dumbbell lateral raise, arms out at shoulder height *(side delts lime)*
+- **v05** preacher curl, curling up *(biceps lime)*
+- **v06** cable triceps pushdown, arms extended *(triceps lime)*
+- **v07** hack squat at the bottom position *(quads lime)*
+- **v08** barbell hip thrust, hips up *(glutes lime)*
+- **v09** Romanian deadlift, hips back, bar at knees *(hamstrings lime)*
+- **v10** standing, one hand on chin, thinking *(no lime muscle)*
+- **v11** pointing at the viewer *(no lime muscle)*
+- **v12** standing with arms open wide, palms forward, presenting *(no lime muscle; cover pose)*
+
+
 Model **Nano Banana Pro**, **9:16**, count 2. **Attach `04-sets/2026-10-28-explainer-ep1-arms-width/frames/f00-character-reference.jpg` as reference on every pose.**
 A plain light background lets me cut him out cleanly for the light and dark templates. Exercises match EARND's real programme (`01-app/programme.md`).
 Name the downloads `p01.png` … `p12.png`. Re-roll anything with garbled text, warped hands, or a face that doesn't match.
