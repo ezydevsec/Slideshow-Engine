@@ -1,0 +1,118 @@
+{
+  "set_id": "2026-10-29-ezyxbt-edu-how-i-progress",
+  "status": "draft 2026-10-29: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "mark": "@ezyxbt",
+  "theme": "light",
+  "angle": "founder's own progression rule, first person, real photos → final slide: i'm building EARND",
+  "canvas": "1080x1350",
+  "caption": "the only rule i follow for progress",
+  "hashtags": [
+    "#progressiveoverload",
+    "#gymtips",
+    "#strengthtraining",
+    "#musclebuildingtips"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "photos_note": "founder's real photos from 01-app/founder-photos (git-ignored), crop and resize only",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "HOW I",
+          false
+        ],
+        [
+          "PROGRESS",
+          true
+        ],
+        [
+          "EVERY LIFT",
+          false
+        ]
+      ],
+      "photo": {
+        "file": "b5-02.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ],
+        "crop": [
+          0,
+          0.14,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "STEP 1",
+      "title": "I PICK A WEIGHT I CAN DO FOR 4 CLEAN REPS.",
+      "photo": {
+        "file": "b6-11.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "STEP 2",
+      "title": "SAME WEIGHT. I ADD REPS.",
+      "example": "100 kg × 5 → 6 → 7",
+      "photo": {
+        "file": "b5-16.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "STEP 3",
+      "title": "8 CLEAN REPS? THEN I ADD WEIGHT.",
+      "example": "100 kg × 8 → 105 kg × 4–5",
+      "photo": {
+        "file": "b5-01.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "THE RULE",
+      "title": "IF MY FORM BREAKS, I HAVEN'T EARNED THE INCREASE.",
+      "photo": {
+        "file": "b1-11.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "title": "THAT'S THE WHOLE SYSTEM.",
+      "body": "i'm building EARND. follow @earndapp for the launch.",
+      "photo": {
+        "file": "b4-10.jpg",
+        "focus": [
+          0.45,
+          0.15
+        ]
+      }
+    }
+  ]
+}

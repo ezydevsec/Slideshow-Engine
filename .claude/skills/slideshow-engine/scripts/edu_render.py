@@ -76,13 +76,24 @@ def stars(img, x, y, val, th):
             img.paste(lay, (0, 0), Image.composite(lay, Image.new("RGBA", img.size), mask).split()[3])
             if th is THEMES["light"]: star(d, cx, y + r, r, None, (26, 26, 26))
 
-def brand(d, th):
-    d.text((M, 54), "EARND", font=font(ANTON, 40), fill=th["ink"])
+def brand(d, th, mark="EARND"):
+    if mark: d.text((M, 54), mark, font=font(ANTON, 40) if mark == "EARND" else font(INTER_B, 34), fill=th["ink"])
 
 def mascot(img, box, path):
     m = Image.open(path).convert("RGBA"); x0, y0, x1, y1 = box
     s = min((x1 - x0) / m.width, (y1 - y0) / m.height); m = m.resize((int(m.width * s), int(m.height * s)), Image.LANCZOS)
     img.paste(m, (x0 + (x1 - x0 - m.width) // 2, y1 - m.height), m)
+
+def photo(img, box, project, spec):
+    """Real photo panel: crop + resize only (founder-photo rule), rounded corners. spec: {"file", "focus": [fx, fy], "crop": [l,t,r,b]}."""
+    x0, y0, x1, y1 = [int(v) for v in box]; bw, bh = x1 - x0, y1 - y0
+    if bw < 200 or bh < 200: return
+    ph = Image.open(os.path.join(project, "01-app/founder-photos", spec["file"])).convert("RGB")
+    c = spec.get("crop", [0, 0, 1, 1]); ph = ph.crop((int(c[0] * ph.width), int(c[1] * ph.height), int(c[2] * ph.width), int(c[3] * ph.height)))
+    s = max(bw / ph.width, bh / ph.height); ph = ph.resize((int(ph.width * s) + 1, int(ph.height * s) + 1), Image.LANCZOS)
+    fx, fy = spec.get("focus", [0.5, 0.4]); cx = min(max(fx * ph.width - bw / 2, 0), ph.width - bw); cy = min(max(fy * ph.height - bh / 2, 0), ph.height - bh)
+    ph = ph.crop((int(cx), int(cy), int(cx) + bw, int(cy) + bh))
+    mask = Image.new("L", (bw, bh), 0); ImageDraw.Draw(mask).rounded_rectangle((0, 0, bw, bh), 36, fill=255); img.paste(ph, (x0, y0), mask)
 
 def example_tag(d, x, y, th):
     f = font(INTER_B, 30); t = "example"
@@ -97,12 +108,13 @@ def render(setdir, project):
     for f_ in os.listdir(out): os.remove(os.path.join(out, f_))
     pages = []
     for n, s in enumerate(spec["slides"], 1):
-        img = Image.new("RGB", (W, H), th["bg"]); d = ImageDraw.Draw(img); brand(d, th); t = s["type"]
+        img = Image.new("RGB", (W, H), th["bg"]); d = ImageDraw.Draw(img); brand(d, th, spec.get("mark", "EARND")); t = s["type"]
         if t == "cover":
             f = font(ANTON, 128); y = 170
             for text, acc in s["lines"]:
                 tw = d.textlength(text, font=f); accent_text(d, ((W - tw) / 2, y), text, f, th, acc); y += 150
-            if s.get("mascot"): mascot(img, (M, y + 10, W - M, H), mas)
+            if s.get("photo"): photo(img, (M, y + 20, W - M, H - 60), project, s["photo"])
+            elif s.get("mascot"): mascot(img, (M, y + 10, W - M, H), mas)
         elif t in ("rank", "grid"):
             f = font(ANTON, 96); x = M
             if s.get("rank"):
@@ -158,8 +170,9 @@ def render(setdir, project):
             if s.get("body"): y = para(d, s["body"], font(INTER_M, 44), M, y, W - 2 * M, th["soft"]) + 40
             if s.get("example"):
                 y = example_tag(d, M, y, th) + 24
-                para(d, s["example"], font(INTER_B, 56), M, y, W - 2 * M, th["ink"], 1.35)
-            if s.get("mascot"): mascot(img, (W // 2 + 40, max(y + 20, H - 620), W - 20, H), mas)
+                y = para(d, s["example"], font(INTER_B, 56), M, y, W - 2 * M, th["ink"], 1.35)
+            if s.get("photo"): photo(img, (M, y + 20, W - M, H - 60), project, s["photo"])
+            elif s.get("mascot"): mascot(img, (W // 2 + 40, max(y + 20, H - 620), W - 20, H), mas)
         elif t == "app":
             y = para(d, s["title"], font(ANTON, 80), M, 150, W - 2 * M, th["ink"], 1.12) + 24
             if s.get("body"): y = para(d, s["body"], font(INTER_M, 40), M, y, W - 2 * M, th["soft"]) + 90
@@ -176,7 +189,8 @@ def render(setdir, project):
                 fb = font(INTER_B, 48)
                 for ln in wrap(d, s["body"], fb, W - 2 * M):
                     accent_text(d, (M, y), ln, fb, th, True); y += 80
-            if s.get("mascot"): mascot(img, (M, y + 30, W - M, H), mas)
+            if s.get("photo"): photo(img, (M, y + 30, W - M, H - 60), project, s["photo"])
+            elif s.get("mascot"): mascot(img, (M, y + 30, W - M, H), mas)
         p = os.path.join(out, f"slide-{n:02d}.jpg"); img.save(p, quality=93); pages.append(img)
     th_w = 360; sheet = Image.new("RGB", (th_w * len(pages) + 10 * (len(pages) - 1), int(th_w * H / W)), (255, 255, 255))
     for i, pg in enumerate(pages): sheet.paste(pg.resize((th_w, int(th_w * H / W))), (i * (th_w + 10), 0))

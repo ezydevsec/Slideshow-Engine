@@ -1,0 +1,169 @@
+{
+  "set_id": "2026-10-29-ezyxbt-edu-my-split",
+  "status": "draft 2026-10-29: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "mark": "@ezyxbt",
+  "theme": "dark",
+  "angle": "founder's own 4-day upper/lower, first person, real photos → final slide: i'm building EARND",
+  "canvas": "1080x1350",
+  "caption": "the exact split i run. save it",
+  "hashtags": [
+    "#upperlower",
+    "#workoutsplit",
+    "#gymroutine",
+    "#gymtips"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "photos_note": "founder's real photos from 01-app/founder-photos (git-ignored), crop and resize only",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "THE 4-DAY SPLIT",
+          false
+        ],
+        [
+          "I ACTUALLY",
+          true
+        ],
+        [
+          "TRAIN",
+          false
+        ]
+      ],
+      "photo": {
+        "file": "b7-15.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "WHY THIS ONE",
+      "title": "4 DAYS A WEEK. SHORT SESSIONS.",
+      "body": "upper, lower, rest, upper, lower. easy to repeat every week.",
+      "example": "2 × 4–8 per exercise",
+      "photo": {
+        "file": "b6-13.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "grid",
+      "title": "MY WEEK",
+      "body": "four sessions, three rest days.",
+      "days": [
+        [
+          "M",
+          "UPPER A"
+        ],
+        [
+          "T",
+          "LOWER A"
+        ],
+        [
+          "W",
+          "REST"
+        ],
+        [
+          "T",
+          "UPPER B"
+        ],
+        [
+          "F",
+          "LOWER B"
+        ],
+        [
+          "S",
+          "REST"
+        ],
+        [
+          "S",
+          "REST"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "DAY 1",
+      "title": "UPPER A",
+      "note": "2 × 4–8 each",
+      "example": true,
+      "items": [
+        "Machine Chest Press",
+        "Pulldown",
+        "Chest-Supported Row",
+        "Lateral Raise",
+        "Preacher Curl",
+        "Poliquin Pushdown"
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "DAY 2",
+      "title": "LOWER A",
+      "note": "2 × 4–8 each",
+      "example": true,
+      "items": [
+        "Calf Press",
+        "Seated Leg Curl",
+        "Leg Extension",
+        "Adductor Machine",
+        "Hip Thrust"
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "DAY 4",
+      "title": "UPPER B",
+      "note": "2 × 4–8 each",
+      "example": true,
+      "items": [
+        "Machine Shoulder Press",
+        "Pullover",
+        "Shrug",
+        "Pec Deck",
+        "Bayesian Curl",
+        "Triceps Extension"
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "DAY 5",
+      "title": "LOWER B",
+      "note": "2 × 4–8 each",
+      "example": true,
+      "items": [
+        "Calf Press",
+        "Unilateral Leg Curl",
+        "Unilateral Leg Extension",
+        "RDL",
+        "Pendulum / Hack Squat"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "SAVE IT FOR YOUR NEXT SESSION.",
+      "body": "i'm building EARND. follow @earndapp for the launch.",
+      "photo": {
+        "file": "b7-16.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    }
+  ]
+}
