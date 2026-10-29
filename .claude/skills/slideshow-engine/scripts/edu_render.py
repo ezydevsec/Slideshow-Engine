@@ -82,7 +82,12 @@ def brand(d, th, mark="EARND"):
 def mascot(img, box, path):
     m = Image.open(path).convert("RGBA"); x0, y0, x1, y1 = box
     s = min((x1 - x0) / m.width, (y1 - y0) / m.height); m = m.resize((int(m.width * s), int(m.height * s)), Image.LANCZOS)
-    img.paste(m, (x0 + (x1 - x0 - m.width) // 2, y1 - m.height), m)
+    px, py = x0 + (x1 - x0 - m.width) // 2, y1 - m.height
+    if sum(img.getpixel((5, 5))) < 100:  # dark theme: soft spotlight so the graphite mascot reads
+        glow = Image.new("L", img.size, 0); gd = ImageDraw.Draw(glow)
+        gd.ellipse((px - m.width * 0.15, py + m.height * 0.05, px + m.width * 1.15, py + m.height * 1.05), fill=150)
+        glow = glow.filter(ImageFilter.GaussianBlur(70)); img.paste(Image.new("RGB", img.size, (95, 102, 112)), (0, 0), glow)
+    img.paste(m, (px, py), m)
 
 def photo(img, box, project, spec):
     """Real photo panel: crop + resize only (founder-photo rule), rounded corners. spec: {"file", "focus": [fx, fy], "crop": [l,t,r,b]}."""
@@ -103,11 +108,12 @@ def example_tag(d, x, y, th):
 
 def render(setdir, project):
     spec = json.load(open(os.path.join(setdir, "edu.json"))); th = THEMES[spec["theme"]]
-    mas = os.path.join(project, spec.get("mascot", "01-app/brand/mascot-final-cutout.png"))
+    default_mas = mas = os.path.join(project, spec.get("mascot", "01-app/brand/poses/cover-arms-open-cutout.png"))
     out = os.path.join(setdir, "final", "preview"); os.makedirs(out, exist_ok=True)
     for f_ in os.listdir(out): os.remove(os.path.join(out, f_))
     pages = []
     for n, s in enumerate(spec["slides"], 1):
+        mas = os.path.join(project, f"01-app/brand/poses/{s['pose']}-cutout.png") if s.get("pose") else default_mas
         img = Image.new("RGB", (W, H), th["bg"]); d = ImageDraw.Draw(img); brand(d, th, spec.get("mark", "EARND")); t = s["type"]
         if t == "cover":
             f = font(ANTON, 128); y = 170

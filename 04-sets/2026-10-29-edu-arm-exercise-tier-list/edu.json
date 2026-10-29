@@ -45,7 +45,8 @@
       "kicker": "S TIER",
       "title": "PREACHER CURL · BAYESIAN CURL",
       "body": "Hard on the biceps where they're stretched. Strict, easy to load, hard to cheat.",
-      "mascot": true
+      "mascot": true,
+      "pose": "preacher-curl"
     },
     {
       "type": "steps",
@@ -59,7 +60,8 @@
       "kicker": "A TIER",
       "title": "HAMMER CURL · CABLE PUSHDOWN",
       "body": "Hammer curls hit the brachialis on the side of the arm. Pushdowns are easy to progress.",
-      "mascot": true
+      "mascot": true,
+      "pose": "triceps-pushdown"
     },
     {
       "type": "steps",

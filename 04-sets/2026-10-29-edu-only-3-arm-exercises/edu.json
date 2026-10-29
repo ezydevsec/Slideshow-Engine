@@ -53,7 +53,8 @@
       "title": "PREACHER CURL",
       "body": "Biceps. Arm locked on the pad, so no swinging.",
       "example": "2 × 4–8",
-      "mascot": true
+      "mascot": true,
+      "pose": "preacher-curl"
     },
     {
       "type": "steps",
@@ -76,7 +77,8 @@
       "kicker": "THE RULE",
       "title": "OWN 8 CLEAN REPS, THEN ADD WEIGHT.",
       "body": "Execution → reps → load.",
-      "mascot": true
+      "mascot": true,
+      "pose": "chest-press"
     },
     {
       "type": "app",
