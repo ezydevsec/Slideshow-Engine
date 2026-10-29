@@ -1,0 +1,115 @@
+{
+  "set_id": "2026-10-30-ezyxbt-edu-session-rules",
+  "status": "draft 2026-10-29 (for posting 2026-10-30+): awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "theme": "light",
+  "angle": "founder's own session rules from his programme (2 working sets, 2–3 min rest, warm-ups don't count, execution → reps → load)",
+  "canvas": "1080x1350",
+  "caption": "the rules i follow every session",
+  "hashtags": [
+    "#gymtips",
+    "#progressiveoverload",
+    "#strengthtraining",
+    "#upperlower"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "4 RULES I",
+          false
+        ],
+        [
+          "FOLLOW",
+          true
+        ],
+        [
+          "EVERY SESSION",
+          false
+        ]
+      ],
+      "photo": {
+        "file": "b7-16.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "RULE 1",
+      "title": "2 WORKING SETS PER EXERCISE.",
+      "body": "4–8 clean reps each. that's it.",
+      "example": "2 × 4–8",
+      "photo": {
+        "file": "b6-03.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "RULE 2",
+      "title": "2–3 MINUTES REST BETWEEN WORKING SETS.",
+      "body": "so the second set is actually good.",
+      "photo": {
+        "file": "b6-08.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "RULE 3",
+      "title": "WARM-UPS DON'T COUNT.",
+      "body": "do as many as you need. only working sets get logged.",
+      "photo": {
+        "file": "b1-09.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "RULE 4",
+      "title": "EXECUTION → REPS → LOAD.",
+      "body": "in that order. never the other way round.",
+      "photo": {
+        "file": "b7-15.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THESE FOR YOUR NEXT SESSION.",
+      "body": "i'm building EARND. follow @earndapp for the launch.",
+      "photo": {
+        "file": "b3-10.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      }
+    }
+  ],
+  "mark": "@ezyxbt",
+  "photos_note": "founder's real photos, crop and resize only"
+}

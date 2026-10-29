@@ -157,6 +157,32 @@ def render(setdir, project):
                 d.ellipse((M, cy, M + 72, cy + 72), fill=LIME); n_ = str(i); fn2 = font(ANTON, 46)
                 d.text((M + 36 - d.textlength(n_, font=fn2) / 2, cy + 6), n_, font=fn2, fill=(11, 11, 11))
                 d.text((M + 100, cy + 8), it, font=fi, fill=th["ink"])
+        elif t == "exercise":
+            y = 150
+            accent_text(d, (M, y), s["kicker"], font(ANTON, 56), th, True); y += 100
+            y = para(d, s["title"], font(ANTON, 100), M, y, W - 2 * M, th["ink"], 1.08) + 26
+            fm = font(INTER_B, 40); d.text((M, y), s["muscle"], font=fm, fill=th["soft"]); y += 64
+            if s.get("example"):
+                ex = example_tag(d, M, y, th); d.text((M + 200, y), s["example"], font=font(INTER_B, 44), fill=th["ink"]); y = ex + 20
+            if s.get("cue"): y = para(d, s["cue"], font(INTER_M, 40), M, y, W - 2 * M, th["soft"]) + 10
+            mascot(img, (M, y + 10, W - M, H - 30), os.path.join(project, f"01-app/brand/poses/{s['pose']}-cutout.png"))
+        elif t == "cards":
+            y = 140; y = para(d, s["title"], font(ANTON, 90), M, y, W - 2 * M, th["ink"], 1.08) + 10
+            if s.get("note"):
+                fn = font(INTER_B, 38); d.text((M, y), s["note"], font=fn, fill=th["soft"])
+                if s.get("example"): example_tag(d, M + d.textlength(s["note"], font=fn) + 20, y - 6, th)
+                y += 70
+            items = s["items"]; cols = 3; rows_ = (len(items) + cols - 1) // cols; gap = 20
+            cw = (W - 2 * 40 - (cols - 1) * gap) / cols; ch = (H - y - 40 - (rows_ - 1) * gap) / rows_
+            for i, (name, pose) in enumerate(items):
+                cx = 40 + (i % cols) * (cw + gap); cy = y + (i // cols) * (ch + gap)
+                d.rounded_rectangle((cx, cy, cx + cw, cy + ch), 24, fill=th["card"] if th is THEMES["light"] else (24, 24, 24))
+                fl = font(ANTON, 34); d.ellipse((cx + 14, cy + 14, cx + 58, cy + 58), fill=LIME)
+                d.text((cx + 36 - d.textlength(str(i + 1), font=fl) / 2, cy + 14), str(i + 1), font=fl, fill=(11, 11, 11))
+                lines = wrap(d, name, font(INTER_B, 30), cw - 80); ly = cy + 18
+                for ln in lines[:2]: d.text((cx + 70, ly), ln, font=font(INTER_B, 30), fill=th["ink"]); ly += 36
+                mascot(img, (int(cx + 10), int(cy + 100), int(cx + cw - 10), int(cy + ch - 12)), os.path.join(project, f"01-app/brand/poses/{pose}-cutout.png"))
+                d = ImageDraw.Draw(img)
         elif t == "tier":
             y = 150; y = para(d, s["title"], font(ANTON, 96), M, y, W - 2 * M, th["ink"], 1.1) + 30
             rows = s["rows"]; rh = min(190, (H - 70 - y) // len(rows)); shades = [LIME, (222, 255, 120), (235, 235, 235), (200, 200, 200), (170, 170, 170)]

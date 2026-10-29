@@ -1,0 +1,137 @@
+{
+  "set_id": "2026-10-30-edu-perfect-lower-day",
+  "status": "draft 2026-10-29 (for posting 2026-10-30+): awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "angle": "structure the perfect lower day (EARND Lower B), one exercise per slide with mascot poses → summary grid → app",
+  "canvas": "1080x1350",
+  "caption": "the lower day behind EARND. save it for leg day",
+  "hashtags": [
+    "#legday",
+    "#lowerbody",
+    "#upperlower",
+    "#gymtips",
+    "#musclebuildingtips"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "STRUCTURE THE",
+          false
+        ],
+        [
+          "PERFECT",
+          false
+        ],
+        [
+          "LOWER DAY",
+          true
+        ]
+      ],
+      "pose": "cover-arms-open",
+      "mascot": true
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "CALF PRESS",
+      "muscle": "Calves",
+      "example": "2 × 4–8",
+      "cue": "Full stretch at the bottom, pause, then press.",
+      "pose": "calf-press"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2",
+      "title": "UNILATERAL LEG CURL",
+      "muscle": "Hamstrings",
+      "example": "2 × 4–8",
+      "cue": "One leg at a time. Control the way back.",
+      "pose": "leg-curl"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#3",
+      "title": "UNILATERAL LEG EXTENSION",
+      "muscle": "Quads",
+      "example": "2 × 4–8",
+      "cue": "Squeeze at the top for a second.",
+      "pose": "leg-extension"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#4",
+      "title": "RDL",
+      "muscle": "Hamstrings + glutes",
+      "example": "2 × 4–8",
+      "cue": "Hips back, flat back, bar close to your legs.",
+      "pose": "romanian-deadlift"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#5",
+      "title": "PENDULUM / HACK SQUAT",
+      "muscle": "Quads",
+      "example": "2 × 4–8",
+      "cue": "Go as deep as you can with control.",
+      "pose": "hack-squat"
+    },
+    {
+      "type": "cards",
+      "title": "THE FULL LOWER DAY",
+      "note": "2 × 4–8 each",
+      "example": true,
+      "items": [
+        [
+          "Calf Press",
+          "calf-press"
+        ],
+        [
+          "Unilateral Leg Curl",
+          "leg-curl"
+        ],
+        [
+          "Unilateral Leg Extension",
+          "leg-extension"
+        ],
+        [
+          "RDL",
+          "romanian-deadlift"
+        ],
+        [
+          "Pendulum / Hack Squat",
+          "hack-squat"
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY ONE",
+      "body": "Last session and today's target, on every set.",
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0,
+        0.0,
+        1,
+        0.56
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR LEG DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "pose": "pointing",
+      "mascot": true
+    }
+  ]
+}

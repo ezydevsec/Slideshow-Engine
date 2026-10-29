@@ -1,0 +1,150 @@
+{
+  "set_id": "2026-10-30-edu-perfect-upper-day",
+  "status": "draft 2026-10-29 (for posting 2026-10-30+): awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "light",
+  "angle": "structure the perfect upper day (EARND Upper A), one exercise per slide with mascot poses → summary grid → app",
+  "canvas": "1080x1350",
+  "caption": "the upper day behind EARND. save it for your next session",
+  "hashtags": [
+    "#upperday",
+    "#upperlower",
+    "#gymroutine",
+    "#gymtips",
+    "#musclebuildingtips"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "STRUCTURE THE",
+          false
+        ],
+        [
+          "PERFECT",
+          false
+        ],
+        [
+          "UPPER DAY",
+          true
+        ]
+      ],
+      "pose": "cover-arms-open",
+      "mascot": true
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "MACHINE CHEST PRESS",
+      "muscle": "Chest",
+      "example": "2 × 4–8",
+      "cue": "Shoulder blades pinned to the pad. Press, then control it back.",
+      "pose": "chest-press"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2",
+      "title": "PULLDOWN",
+      "muscle": "Lats",
+      "example": "2 × 4–8",
+      "cue": "Drive your elbows down to your sides.",
+      "pose": "pulldown"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#3",
+      "title": "CHEST-SUPPORTED ROW",
+      "muscle": "Upper back",
+      "example": "2 × 4–8",
+      "cue": "Chest stays on the pad. Pull your elbows back.",
+      "pose": "chest-supported-row"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#4",
+      "title": "LATERAL RAISE",
+      "muscle": "Side delts",
+      "example": "2 × 4–8",
+      "cue": "Lead with your elbows. Stop at shoulder height.",
+      "pose": "lateral-raise"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#5",
+      "title": "PREACHER CURL",
+      "muscle": "Biceps",
+      "example": "2 × 4–8",
+      "cue": "Arm stays on the pad. Lower to a full stretch.",
+      "pose": "preacher-curl"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#6",
+      "title": "POLIQUIN PUSHDOWN",
+      "muscle": "Triceps",
+      "example": "2 × 4–8",
+      "cue": "Elbows pinned to your sides. Full lockout.",
+      "pose": "triceps-pushdown"
+    },
+    {
+      "type": "cards",
+      "title": "THE FULL UPPER DAY",
+      "note": "2 × 4–8 each",
+      "example": true,
+      "items": [
+        [
+          "Machine Chest Press",
+          "chest-press"
+        ],
+        [
+          "Pulldown",
+          "pulldown"
+        ],
+        [
+          "Chest-Supported Row",
+          "chest-supported-row"
+        ],
+        [
+          "Lateral Raise",
+          "lateral-raise"
+        ],
+        [
+          "Preacher Curl",
+          "preacher-curl"
+        ],
+        [
+          "Poliquin Pushdown",
+          "triceps-pushdown"
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY ONE",
+      "body": "Last session and today's target, on every set.",
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0,
+        0.0,
+        1,
+        0.56
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR UPPER DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "pose": "pointing",
+      "mascot": true
+    }
+  ]
+}
