@@ -1,5 +1,7 @@
 # Mascot pose pack: prompts for higgsfield.ai
 
+> **2026-10-29 update: bands removed** (founder). Current reference: `01-app/brand/mascot-v2b-noband-reference.jpg`. Lime is used only for the worked muscle. Pending: a graphite-skin, sharper-anatomy edit to match bluebro's clarity. In the prefix, replace the band wording with "smooth bare featureless head, plain black training shorts, no headband, no wristbands, no accessories".
+>
 > **2026-10-29: mascot v2 replaces the manga fighter.** Reference: `01-app/brand/mascot-v2-reference.jpg` (charcoal-black faceless figure, lime sweatband, wristbands and waistband; the worked muscle is coloured lime). Use the v2 prefix below. The fighter-based prompts further down are kept for history only.
 
 **v2 prefix (attach `mascot-v2-reference.jpg`):**
