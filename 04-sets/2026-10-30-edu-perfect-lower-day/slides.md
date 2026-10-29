@@ -1,6 +1,6 @@
 # 2026-10-30-edu-perfect-lower-day
 
-> Draft, awaiting gate 3. Format `edu-template-slideshow`, **dark** look, 1080×1350.
+> **Approved 2026-10-29 at gate 3.** Manual posting. Format `edu-template-slideshow`, **dark** look, 1080×1350.
 
 - **Account:** @earndapp
 - **Angle:** structure the perfect lower day (EARND Lower B), one exercise per slide with mascot poses → summary grid → app

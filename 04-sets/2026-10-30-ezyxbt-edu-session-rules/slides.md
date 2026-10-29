@@ -1,6 +1,6 @@
 # 2026-10-30-ezyxbt-edu-session-rules
 
-> Draft, awaiting gate 3. Format `edu-template-slideshow`, **light** look, 1080×1350.
+> **Approved 2026-10-29 at gate 3.** Manual posting. Format `edu-template-slideshow`, **light** look, 1080×1350.
 
 - **Account:** @ezyxbt
 - **Angle:** founder's own session rules from his programme (2 working sets, 2–3 min rest, warm-ups don't count, execution → reps → load)

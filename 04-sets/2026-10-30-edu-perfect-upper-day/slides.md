@@ -1,6 +1,6 @@
 # 2026-10-30-edu-perfect-upper-day
 
-> Draft, awaiting gate 3. Format `edu-template-slideshow`, **light** look, 1080×1350.
+> **Approved 2026-10-29 at gate 3.** Manual posting. Format `edu-template-slideshow`, **light** look, 1080×1350.
 
 - **Account:** @earndapp
 - **Angle:** structure the perfect upper day (EARND Upper A), one exercise per slide with mascot poses → summary grid → app
