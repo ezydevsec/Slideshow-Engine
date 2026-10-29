@@ -1,0 +1,123 @@
+{
+  "set_id": "2026-10-30-edu-complete-back",
+  "status": "draft 2026-10-30: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "angle": "build a complete back with the 4 back exercises in EARND's programme (width, stretch, thickness, traps) → grid → app",
+  "canvas": "1080x1350",
+  "caption": "4 exercises. width, thickness, traps. save it for back day",
+  "hashtags": [
+    "#backday",
+    "#backworkout",
+    "#upperlower",
+    "#gymtips",
+    "#musclebuildingtips"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "BUILD A",
+          false
+        ],
+        [
+          "COMPLETE BACK",
+          true
+        ],
+        [
+          "WITH 4 EXERCISES",
+          false
+        ]
+      ],
+      "pose": "cover-arms-open",
+      "mascot": true
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "PULLDOWN",
+      "muscle": "Lats: width",
+      "sets": "2 × 4–8",
+      "cue": "Drive your elbows down to your sides.",
+      "pose": "pulldown"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2",
+      "title": "CABLE PULLOVER",
+      "muscle": "Lats: stretch",
+      "sets": "2 × 4–8",
+      "cue": "Arms long. Pull the bar down in an arc to your thighs.",
+      "pose": "pullover"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#3",
+      "title": "CHEST-SUPPORTED ROW",
+      "muscle": "Upper back: thickness",
+      "sets": "2 × 4–8",
+      "cue": "Chest stays on the pad. Pull your elbows back.",
+      "pose": "chest-supported-row"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#4",
+      "title": "SHRUG",
+      "muscle": "Upper traps",
+      "sets": "2 × 4–8",
+      "cue": "Straight up, pause at the top, no rolling.",
+      "pose": "shrug"
+    },
+    {
+      "type": "cards",
+      "title": "THE FULL BACK",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Pulldown",
+          "pulldown"
+        ],
+        [
+          "Cable Pullover",
+          "pullover"
+        ],
+        [
+          "Chest-Supported Row",
+          "chest-supported-row"
+        ],
+        [
+          "Shrug",
+          "shrug"
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY ONE",
+      "body": "Last session and today's target, on every set.",
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0,
+        0.0,
+        1,
+        0.56
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR BACK DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "pose": "pointing",
+      "mascot": true
+    }
+  ]
+}

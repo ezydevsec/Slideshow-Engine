@@ -54,7 +54,7 @@
       "title": "KEEP THE WEIGHT. ADD REPS.",
       "example": "100 kg × 5\n→ 100 kg × 6\n→ 100 kg × 7",
       "mascot": true,
-      "pose": "chest-press"
+      "pose": "shoulder-press"
     },
     {
       "type": "steps",
@@ -62,7 +62,7 @@
       "title": "OWN 8 CLEAN REPS? ADD WEIGHT.",
       "example": "100 kg × 8\n→ 105 kg × 4–5",
       "mascot": true,
-      "pose": "chest-press"
+      "pose": "shoulder-press"
     },
     {
       "type": "steps",

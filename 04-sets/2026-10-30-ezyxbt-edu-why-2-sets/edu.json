@@ -1,0 +1,109 @@
+{
+  "set_id": "2026-10-30-ezyxbt-edu-why-2-sets",
+  "status": "draft 2026-10-30: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "theme": "light",
+  "angle": "founder explains why his programme uses 2 working sets per exercise (first person; confirm at approval)",
+  "canvas": "1080x1350",
+  "caption": "why i only do 2 working sets",
+  "hashtags": [
+    "#gymtips",
+    "#progressiveoverload",
+    "#strengthtraining",
+    "#upperlower"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "WHY I ONLY DO",
+          false
+        ],
+        [
+          "2 WORKING SETS",
+          true
+        ]
+      ],
+      "photo": {
+        "file": "b5-14.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 1",
+      "title": "EVERY WORKING SET HAS TO COUNT.",
+      "body": "two hard sets over four half-hearted ones.",
+      "photo": {
+        "file": "b5-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 2",
+      "title": "SESSIONS STAY SHORT.",
+      "body": "6 exercises × 2 sets = 12 working sets. done.",
+      "photo": {
+        "file": "b4-12.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 3",
+      "title": "I CAN RECOVER AND TRAIN 4 DAYS A WEEK.",
+      "body": "upper, lower, rest, upper, lower.",
+      "photo": {
+        "file": "b5-15.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "THE GOAL",
+      "title": "BEAT LAST TIME.",
+      "body": "add a rep. own 8 clean reps, then add weight.",
+      "photo": {
+        "file": "b4-15.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "title": "2 SETS. DONE PROPERLY.",
+      "body": "i'm building EARND. follow @earndapp for the launch.",
+      "photo": {
+        "file": "b4-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      }
+    }
+  ],
+  "mark": "@ezyxbt"
+}

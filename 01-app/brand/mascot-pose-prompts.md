@@ -1,5 +1,7 @@
 # Mascot pose pack: prompts for higgsfield.ai
 
+> **TO REDO (founder, 2026-10-30):** `chest-press` shows a pec-deck fly movement and `leg-curl` shows a leg extension. Regenerate both, then re-render every set using them (`grep -l '"chest-press"\|"leg-curl"' 04-sets/*/edu.json`). Until then, don't use these two poses in new sets.
+>
 > **POSES DONE (2026-10-29, generated via MCP from `mascot-final-matte-reference.jpg`):** `01-app/brand/poses/` contains chest-press, pulldown, preacher-curl, triceps-pushdown and cover-arms-open (+ `-cutout.png`). Use them in `edu.json` slides with `"pose": "<name>"`. The default mascot is cover-arms-open. Also done: hammer-curl, overhead-triceps-extension, lateral-raise, chest-supported-row, hack-squat, hip-thrust, romanian-deadlift, thinking, pointing. Plus calf-press, leg-curl, leg-extension, adductor, shoulder-press, pullover, shrug, pec-deck, bayesian-curl: **23 poses, covering every exercise in `01-app/programme.md`**. Known flaw: on leg-curl and adductor the lime covers more of the thigh than the target muscle.
 >
 > **FINAL MASCOT (2026-10-29):** now with matte skin: `mascot-final-matte-reference.jpg`. `01-app/brand/mascot-final-reference.jpg` (cutout: `mascot-final-cutout.png`). Graphite skin, clean comic-anatomy muscle separation, no bands, lime only on the worked muscle. **Use this prefix for every pose (1K, count 2):**
