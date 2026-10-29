@@ -85,12 +85,13 @@
       ],
       "voice": "Direct, casual, first person, as EARND's founder. Only experiences the founder has confirmed as real.",
       "visual_template": {
-        "name": "founder-photo-square",
-        "canvas": "1080x1080",
+        "name": "founder-photo-edu-3x4",
+        "canvas": "1080x1350",
         "images": "The founder's real gym photos only, from 01-app/founder-photos/. For every set, pick the strongest, most relevant photos for each slide (see 01-app/founder-photo-catalog.md). Crop and resize only: the founder's face and physique stay unchanged. Never generated images. If no supplied photo fits a slide, ask the founder for more instead of forcing a weak fit.",
         "text": "Minimal. White text with black stroke (adjust once real photos are in).",
         "slide_count_labels": false,
-        "earnd_promotion": "Final slide only. Earlier slides don't mention EARND."
+        "earnd_promotion": "Final slide only. Earlier slides don't mention EARND.",
+        "note": "Changed 2026-10-29 (founder): 3:4 edu-template slideshows (bluebro/Arrow style) with the founder's real photos as panels; rendered with scripts/edu_render.py, mark @ezyxbt. Previously founder-photo-square 1080x1080."
       },
       "cta": {
         "prelaunch": "i'm building EARND. follow @earndapp for the launch.",
