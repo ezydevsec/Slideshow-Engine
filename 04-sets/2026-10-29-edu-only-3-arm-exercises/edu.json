@@ -1,0 +1,101 @@
+{
+  "set_id": "2026-10-29-edu-only-3-arm-exercises",
+  "status": "draft 2026-10-29: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "light",
+  "angle": "arm grows in 3 directions → 1 exercise each → track each one in EARND",
+  "canvas": "1080x1350",
+  "caption": "3 exercises, 3 directions. that's the whole arm",
+  "hashtags": [
+    "#armday",
+    "#armworkout",
+    "#hammercurls",
+    "#gymtips",
+    "#musclebuildingtips"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is Higgsfield-generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "THE ONLY",
+          false
+        ],
+        [
+          "3 ARM EXERCISES",
+          true
+        ],
+        [
+          "YOU NEED",
+          false
+        ]
+      ],
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "THE IDEA",
+      "title": "YOUR ARM HAS 3 DIRECTIONS: HEIGHT, WIDTH, DEPTH.",
+      "body": "Train one exercise for each.",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "1 · HEIGHT",
+      "title": "PREACHER CURL",
+      "body": "Biceps. Arm locked on the pad, so no swinging.",
+      "example": "2 × 4–8",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "2 · WIDTH",
+      "title": "HAMMER CURL",
+      "body": "Palms facing each other. Hits the brachialis on the side of the arm.",
+      "example": "2 × 4–8",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "3 · DEPTH",
+      "title": "OVERHEAD TRICEPS EXTENSION",
+      "body": "Triceps, the back of the arm, trained in a stretch.",
+      "example": "2 × 4–8",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "THE RULE",
+      "title": "OWN 8 CLEAN REPS, THEN ADD WEIGHT.",
+      "body": "Execution → reps → load.",
+      "mascot": true
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS YOUR NEXT STEP",
+      "body": "After every workout: add a rep, or increase the load.",
+      "shot": "01-app/assets/workout-complete-progressed.png",
+      "crop": [
+        0,
+        0.57,
+        1,
+        0.86
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR ARM DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true
+    }
+  ]
+}

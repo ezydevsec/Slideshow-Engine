@@ -1,0 +1,138 @@
+{
+  "set_id": "2026-10-29-edu-arm-exercise-tier-list",
+  "status": "draft 2026-10-29: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "angle": "arm exercise tier list → EARND's programme includes the S-tier curls → target to beat",
+  "canvas": "1080x1350",
+  "caption": "arm exercise tier list. agree or disagree?",
+  "hashtags": [
+    "#armday",
+    "#tierlist",
+    "#biceps",
+    "#gymtips",
+    "#musclebuildingtips"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is Higgsfield-generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "ARM EXERCISE",
+          false
+        ],
+        [
+          "TIER LIST",
+          true
+        ],
+        [
+          "S → D",
+          false
+        ]
+      ],
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "S TIER",
+      "title": "PREACHER CURL · BAYESIAN CURL",
+      "body": "Hard on the biceps where they're stretched. Strict, easy to load, hard to cheat.",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "S TIER",
+      "title": "OVERHEAD TRICEPS EXTENSION",
+      "body": "Trains the long head of the triceps in a stretch. Most people skip it.",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "A TIER",
+      "title": "HAMMER CURL · CABLE PUSHDOWN",
+      "body": "Hammer curls hit the brachialis on the side of the arm. Pushdowns are easy to progress.",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "C TIER",
+      "title": "CONCENTRATION CURL · KICKBACK",
+      "body": "Fine, but hard to load heavy. Easy to plateau on.",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "D TIER",
+      "title": "CHEAT CURLS",
+      "body": "If your whole body swings the weight up, your arms aren't doing the work.",
+      "mascot": true
+    },
+    {
+      "type": "tier",
+      "title": "FULL LIST",
+      "rows": [
+        [
+          "S",
+          [
+            "Preacher curl",
+            "Bayesian curl",
+            "Overhead extension"
+          ]
+        ],
+        [
+          "A",
+          [
+            "Hammer curl",
+            "Cable pushdown"
+          ]
+        ],
+        [
+          "B",
+          [
+            "Barbell curl"
+          ]
+        ],
+        [
+          "C",
+          [
+            "Concentration curl",
+            "Kickback"
+          ]
+        ],
+        [
+          "D",
+          [
+            "Cheat curls"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": "EARND'S PROGRAMME USES PREACHER + BAYESIAN CURLS",
+      "body": "And shows the target to beat on every set.",
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0,
+        0.0,
+        1,
+        0.56
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "WHERE WOULD YOU PUT YOUR FAVOURITE?",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true
+    }
+  ]
+}

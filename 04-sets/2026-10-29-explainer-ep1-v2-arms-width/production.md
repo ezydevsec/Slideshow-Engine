@@ -1,5 +1,6 @@
 # Explainer ep 1 v2: shot-for-shot rebuild of the reference structure
 
+- **Status: PARKED 2026-10-29** (not enough Higgsfield credits). Resume when credits allow.
 - **Why v2:** v1 (`04-sets/2026-10-28-explainer-ep1-arms-width`) had 4 images across 80 s; the founder said "not good". v2 follows the reference's shot map: about 35 shots in about 100 s, clean black frames, step-by-step diagrams, icon animations, slow text cards, and an ending that loops into Part 2.
 - **Reference:** @h.a.m.e.e.d.k.h.a.n1 "How To Force Your Skinny Arms To Grow" (TikTok 4.5M / YouTube Shorts 3sajBtRIScw). **We copy its structure and visual grammar, not its wording.** Our script is original, uses EARND's real programme numbers, and has no physique promises.
 - **Account:** @earndapp. **AI label ON.**

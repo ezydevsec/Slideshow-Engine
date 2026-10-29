@@ -1,6 +1,6 @@
 # Explainer ep 1: "Why Your Arms Look Small From The Front"
 
-- **Status:** DRAFT VIDEO BUILT 2026-10-29: `final/ep1-arms-width.mp4` (79.6 s). Founder generated F00–F04 and the voiceover on higgsfield.ai; F05–F12 were not generated, so those beats use zooms of F01/F02/F04, black text cards, and the real app screenshot. Built with `build_video.py`. Awaiting gate 3.
+- **Status:** PARKED 2026-10-29 (video work paused for credits; founder rated v1 "not good"; see v2 plan). Previously: DRAFT VIDEO BUILT 2026-10-29: `final/ep1-arms-width.mp4` (79.6 s). Founder generated F00–F04 and the voiceover on higgsfield.ai; F05–F12 were not generated, so those beats use zooms of F01/F02/F04, black text cards, and the real app screenshot. Built with `build_video.py`. Awaiting gate 3.
 - **Account:** @earndapp (brand)
 - **Format:** illustrated narrated explainer (format reference: @h.a.m.e.e.d.k.h.a.n1 "How To Force Your Skinny Arms To Grow", 4.5M views; breakdown in `02-research/formats/anime-coach-explainer.md`)
 - **How it's made:** about 15 Higgsfield stills + 1 voiceover, assembled locally (cuts, slow zooms, title bar, word captions, real app screenshot). No video generation needed.

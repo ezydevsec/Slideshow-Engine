@@ -103,12 +103,15 @@ def render(setdir, project):
             for text, acc in s["lines"]:
                 tw = d.textlength(text, font=f); accent_text(d, ((W - tw) / 2, y), text, f, th, acc); y += 150
             if s.get("mascot"): mascot(img, (M, y + 10, W - M, H), mas)
-        elif t == "rank":
-            f = font(ANTON, 96); d.text((M, 150), f"#{s['rank']}", font=f, fill=th["ink"] if th is THEMES["light"] else LIME)
-            d.text((M + d.textlength(f"#{s['rank']}", font=f) + 40, 150), s["title"], font=f, fill=th["ink"])
+        elif t in ("rank", "grid"):
+            f = font(ANTON, 96); x = M
+            if s.get("rank"):
+                d.text((M, 150), f"#{s['rank']}", font=f, fill=th["ink"] if th is THEMES["light"] else LIME); x = M + d.textlength(f"#{s['rank']}", font=f) + 40
+            d.text((x, 150), s["title"], font=f, fill=th["ink"])
             if th is THEMES["light"]: d.rectangle((M, 285, M + 130, 293), fill=LIME)
-            stars(img, M, 330, s["stars"], th)
-            para(d, s["body"], font(INTER_M, 44), M, 440, W - 2 * M, th["soft"])
+            by = 330
+            if s.get("stars") is not None: stars(img, M, 330, s["stars"], th); by = 440
+            para(d, s["body"], font(INTER_M, 44), M, by, W - 2 * M, th["soft"])
             days = s["days"]; n_ = len(days); gx, gy, gw, gh = 40, 760, W - 80, 440; cw = gw / n_
             d.rectangle((gx, gy, gx + gw, gy + 70), fill=th["head"] if th is THEMES["light"] else (60, 60, 60))
             for i, (dn, wk) in enumerate(days):
@@ -122,6 +125,31 @@ def render(setdir, project):
                     col = th["soft"] if rest else th["ink"]
                     if not rest and th is THEMES["dark"]: col = LIME
                     d.text((x + (cw - d.textlength(ln, font=fw)) / 2, ty), ln, font=fw, fill=col); ty += fw.size * 1.15
+        elif t == "list":
+            y = 150
+            if s.get("kicker"): accent_text(d, (M, y), s["kicker"], font(ANTON, 60), th, True); y += 105
+            y = para(d, s["title"], font(ANTON, 96), M, y, W - 2 * M, th["ink"], 1.1) + 10
+            if s.get("note"):
+                fn = font(INTER_B, 44); d.text((M, y), s["note"], font=fn, fill=th["soft"])
+                if s.get("example"): example_tag(d, M + d.textlength(s["note"], font=fn) + 24, y - 4, th)
+                y += 90
+            fi = font(INTER_B, 50); gap = min(130, (H - 80 - y) // max(1, len(s["items"])))
+            for i, it in enumerate(s["items"], 1):
+                cy = y + (i - 1) * gap
+                d.ellipse((M, cy, M + 72, cy + 72), fill=LIME); n_ = str(i); fn2 = font(ANTON, 46)
+                d.text((M + 36 - d.textlength(n_, font=fn2) / 2, cy + 6), n_, font=fn2, fill=(11, 11, 11))
+                d.text((M + 100, cy + 8), it, font=fi, fill=th["ink"])
+        elif t == "tier":
+            y = 150; y = para(d, s["title"], font(ANTON, 96), M, y, W - 2 * M, th["ink"], 1.1) + 30
+            rows = s["rows"]; rh = min(190, (H - 70 - y) // len(rows)); shades = [LIME, (222, 255, 120), (235, 235, 235), (200, 200, 200), (170, 170, 170)]
+            for i, (lab, items) in enumerate(rows):
+                ry = y + i * rh
+                d.rectangle((M - 30, ry, M + 110, ry + rh - 12), fill=shades[min(i, 4)]); fl = font(ANTON, 90)
+                d.text((M + 40 - d.textlength(lab, font=fl) / 2, ry + (rh - 12 - 110) / 2), lab, font=fl, fill=(11, 11, 11))
+                d.rectangle((M + 110, ry, W - M + 30, ry + rh - 12), fill=th["card"])
+                lines = wrap(d, " · ".join(items), font(INTER_B, 40), W - 2 * M - 120)
+                ty = ry + (rh - 12 - len(lines) * 50) / 2
+                for ln in lines: d.text((M + 140, ty), ln, font=font(INTER_B, 40), fill=th["ink"]); ty += 50
         elif t == "steps":
             y = 170
             if s.get("kicker"):
