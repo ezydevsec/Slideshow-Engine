@@ -7,17 +7,17 @@
 - **Caption:** the upper day behind EARND. save it for your next session
 - **Hashtags:** #upperday #upperlower #gymroutine #gymtips #musclebuildingtips
 - **AI label:** ON (mascot)
-- Exercises, sets and rules come from `01-app/programme.md`; progression numbers are tagged "example"; no sets × reps on slides (2026-10-30).
+- Exercises, sets and rules come from `01-app/programme.md`; progression numbers are tagged "example"; sets × reps are shown plain without the tag (2026-10-30).
 
 | # | Type | Text |
 |---|---|---|
 | 1 | cover | STRUCTURE THE / PERFECT / UPPER DAY |
-| 2 | exercise | #1 · MACHINE CHEST PRESS · Chest · Shoulder blades pinned to the pad. Press, then control it back. |
-| 3 | exercise | #2 · PULLDOWN · Lats · Drive your elbows down to your sides. |
-| 4 | exercise | #3 · CHEST-SUPPORTED ROW · Upper back · Chest stays on the pad. Pull your elbows back. |
-| 5 | exercise | #4 · LATERAL RAISE · Side delts · Lead with your elbows. Stop at shoulder height. |
-| 6 | exercise | #5 · PREACHER CURL · Biceps · Arm stays on the pad. Lower to a full stretch. |
-| 7 | exercise | #6 · POLIQUIN PUSHDOWN · Triceps · Elbows pinned to your sides. Full lockout. |
-| 8 | cards | THE FULL UPPER DAY · Machine Chest Press, Pulldown, Chest-Supported Row, Lateral Raise, Preacher Curl, Poliquin Pushdown |
+| 2 | exercise | #1 · MACHINE CHEST PRESS · Chest · 2 × 4–8 · Shoulder blades pinned to the pad. Press, then control it back. |
+| 3 | exercise | #2 · PULLDOWN · Lats · 2 × 4–8 · Drive your elbows down to your sides. |
+| 4 | exercise | #3 · CHEST-SUPPORTED ROW · Upper back · 2 × 4–8 · Chest stays on the pad. Pull your elbows back. |
+| 5 | exercise | #4 · LATERAL RAISE · Side delts · 2 × 4–8 · Lead with your elbows. Stop at shoulder height. |
+| 6 | exercise | #5 · PREACHER CURL · Biceps · 2 × 4–8 · Arm stays on the pad. Lower to a full stretch. |
+| 7 | exercise | #6 · POLIQUIN PUSHDOWN · Triceps · 2 × 4–8 · Elbows pinned to your sides. Full lockout. |
+| 8 | cards | THE FULL UPPER DAY · 2 × 4–8 each · Machine Chest Press, Pulldown, Chest-Supported Row, Lateral Raise, Preacher Curl, Poliquin Pushdown |
 | 9 | app | EARND SHOWS WHAT TO BEAT ON EVERY ONE · Last session and today's target, on every set. |
 | 10 | cta | SAVE THIS FOR UPPER DAY. · EARND launches soon. Follow for the launch. |

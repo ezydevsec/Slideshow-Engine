@@ -46,7 +46,8 @@
       "title": "CALF PRESS",
       "muscle": "Calves",
       "cue": "Full stretch at the bottom, pause, then press.",
-      "pose": "calf-press"
+      "pose": "calf-press",
+      "sets": "2 × 4–8"
     },
     {
       "type": "exercise",
@@ -54,7 +55,8 @@
       "title": "UNILATERAL LEG CURL",
       "muscle": "Hamstrings",
       "cue": "One leg at a time. Control the way back.",
-      "pose": "leg-curl"
+      "pose": "leg-curl",
+      "sets": "2 × 4–8"
     },
     {
       "type": "exercise",
@@ -62,7 +64,8 @@
       "title": "UNILATERAL LEG EXTENSION",
       "muscle": "Quads",
       "cue": "Squeeze at the top for a second.",
-      "pose": "leg-extension"
+      "pose": "leg-extension",
+      "sets": "2 × 4–8"
     },
     {
       "type": "exercise",
@@ -70,7 +73,8 @@
       "title": "RDL",
       "muscle": "Hamstrings + glutes",
       "cue": "Hips back, flat back, bar close to your legs.",
-      "pose": "romanian-deadlift"
+      "pose": "romanian-deadlift",
+      "sets": "2 × 4–8"
     },
     {
       "type": "exercise",
@@ -78,11 +82,13 @@
       "title": "PENDULUM / HACK SQUAT",
       "muscle": "Quads",
       "cue": "Go as deep as you can with control.",
-      "pose": "hack-squat"
+      "pose": "hack-squat",
+      "sets": "2 × 4–8"
     },
     {
       "type": "cards",
       "title": "THE FULL LOWER DAY",
+      "note": "2 × 4–8 each",
       "items": [
         [
           "Calf Press",

@@ -57,7 +57,8 @@
           0.45,
           0.4
         ]
-      }
+      },
+      "sets": "2 × 4–8 per exercise"
     },
     {
       "type": "grid",
@@ -98,6 +99,7 @@
       "type": "list",
       "kicker": "DAY 1",
       "title": "UPPER A",
+      "note": "2 × 4–8 each",
       "items": [
         "Machine Chest Press",
         "Pulldown",
@@ -111,6 +113,7 @@
       "type": "list",
       "kicker": "DAY 2",
       "title": "LOWER A",
+      "note": "2 × 4–8 each",
       "items": [
         "Calf Press",
         "Seated Leg Curl",
@@ -123,6 +126,7 @@
       "type": "list",
       "kicker": "DAY 4",
       "title": "UPPER B",
+      "note": "2 × 4–8 each",
       "items": [
         "Machine Shoulder Press",
         "Pullover",
@@ -136,6 +140,7 @@
       "type": "list",
       "kicker": "DAY 5",
       "title": "LOWER B",
+      "note": "2 × 4–8 each",
       "items": [
         "Calf Press",
         "Unilateral Leg Curl",

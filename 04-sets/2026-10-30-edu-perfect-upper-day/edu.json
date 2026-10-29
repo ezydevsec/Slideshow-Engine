@@ -46,7 +46,8 @@
       "title": "MACHINE CHEST PRESS",
       "muscle": "Chest",
       "cue": "Shoulder blades pinned to the pad. Press, then control it back.",
-      "pose": "chest-press"
+      "pose": "chest-press",
+      "sets": "2 × 4–8"
     },
     {
       "type": "exercise",
@@ -54,7 +55,8 @@
       "title": "PULLDOWN",
       "muscle": "Lats",
       "cue": "Drive your elbows down to your sides.",
-      "pose": "pulldown"
+      "pose": "pulldown",
+      "sets": "2 × 4–8"
     },
     {
       "type": "exercise",
@@ -62,7 +64,8 @@
       "title": "CHEST-SUPPORTED ROW",
       "muscle": "Upper back",
       "cue": "Chest stays on the pad. Pull your elbows back.",
-      "pose": "chest-supported-row"
+      "pose": "chest-supported-row",
+      "sets": "2 × 4–8"
     },
     {
       "type": "exercise",
@@ -70,7 +73,8 @@
       "title": "LATERAL RAISE",
       "muscle": "Side delts",
       "cue": "Lead with your elbows. Stop at shoulder height.",
-      "pose": "lateral-raise"
+      "pose": "lateral-raise",
+      "sets": "2 × 4–8"
     },
     {
       "type": "exercise",
@@ -78,7 +82,8 @@
       "title": "PREACHER CURL",
       "muscle": "Biceps",
       "cue": "Arm stays on the pad. Lower to a full stretch.",
-      "pose": "preacher-curl"
+      "pose": "preacher-curl",
+      "sets": "2 × 4–8"
     },
     {
       "type": "exercise",
@@ -86,11 +91,13 @@
       "title": "POLIQUIN PUSHDOWN",
       "muscle": "Triceps",
       "cue": "Elbows pinned to your sides. Full lockout.",
-      "pose": "triceps-pushdown"
+      "pose": "triceps-pushdown",
+      "sets": "2 × 4–8"
     },
     {
       "type": "cards",
       "title": "THE FULL UPPER DAY",
+      "note": "2 × 4–8 each",
       "items": [
         [
           "Machine Chest Press",

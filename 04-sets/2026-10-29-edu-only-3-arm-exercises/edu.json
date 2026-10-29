@@ -54,7 +54,8 @@
       "title": "PREACHER CURL",
       "body": "Biceps. Arm locked on the pad, so no swinging.",
       "mascot": true,
-      "pose": "preacher-curl"
+      "pose": "preacher-curl",
+      "sets": "2 × 4–8"
     },
     {
       "type": "steps",
@@ -62,7 +63,8 @@
       "title": "HAMMER CURL",
       "body": "Palms facing each other. Hits the brachialis on the side of the arm.",
       "mascot": true,
-      "pose": "hammer-curl"
+      "pose": "hammer-curl",
+      "sets": "2 × 4–8"
     },
     {
       "type": "steps",
@@ -70,7 +72,8 @@
       "title": "OVERHEAD TRICEPS EXTENSION",
       "body": "Triceps, the back of the arm, trained in a stretch.",
       "mascot": true,
-      "pose": "overhead-triceps-extension"
+      "pose": "overhead-triceps-extension",
+      "sets": "2 × 4–8"
     },
     {
       "type": "steps",

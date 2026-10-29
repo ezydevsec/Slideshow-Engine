@@ -164,6 +164,7 @@ def render(setdir, project):
             fm = font(INTER_B, 40); d.text((M, y), s["muscle"], font=fm, fill=th["soft"]); y += 64
             if s.get("example"):
                 ex = example_tag(d, M, y, th); d.text((M + 200, y), s["example"], font=font(INTER_B, 44), fill=th["ink"]); y = ex + 20
+            if s.get("sets"): d.text((M, y), s["sets"], font=font(INTER_B, 44), fill=th["ink"]); y += 70
             if s.get("cue"): y = para(d, s["cue"], font(INTER_M, 40), M, y, W - 2 * M, th["soft"]) + 10
             mascot(img, (M, y + 10, W - M, H - 30), os.path.join(project, f"01-app/brand/poses/{s['pose']}-cutout.png"))
         elif t == "cards":
@@ -200,6 +201,7 @@ def render(setdir, project):
                 fk = font(ANTON, 60); accent_text(d, (M, y), s["kicker"], fk, th, True); y += 110
             y = para(d, s["title"], font(ANTON, 104), M, y, W - 2 * M, th["ink"], 1.12) + 30
             if s.get("body"): y = para(d, s["body"], font(INTER_M, 44), M, y, W - 2 * M, th["soft"]) + 40
+            if s.get("sets"): y = para(d, s["sets"], font(INTER_B, 56), M, y, W - 2 * M, th["ink"], 1.35) + 10
             if s.get("example"):
                 y = example_tag(d, M, y, th) + 24
                 y = para(d, s["example"], font(INTER_B, 56), M, y, W - 2 * M, th["ink"], 1.35)
