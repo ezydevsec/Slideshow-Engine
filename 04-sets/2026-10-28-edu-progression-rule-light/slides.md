@@ -1,6 +1,6 @@
 # 2026-10-28-edu-progression-rule-light
 
-> Draft, awaiting gate 3. Format `edu-template-slideshow` (`02-research/formats/edu-template-slideshow.md`), **light** look (light vs dark (same copy)). 1080×1350. Rendered with `scripts/edu_render.py` from `edu.json`.
+> **Approved 2026-10-29 at gate 3.** Manual posting. Format `edu-template-slideshow` (`02-research/formats/edu-template-slideshow.md`), **light** look (light vs dark (same copy)). 1080×1350. Rendered with `scripts/edu_render.py` from `edu.json`.
 
 - **Account:** @earndapp (brand)
 - **Angle:** EARND's real progression rule (reps → load → repeat) → EARND tells you when
