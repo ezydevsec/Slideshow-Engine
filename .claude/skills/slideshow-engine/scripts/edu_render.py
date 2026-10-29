@@ -114,7 +114,7 @@ def render(setdir, project):
     pages = []
     for n, s in enumerate(spec["slides"], 1):
         mas = os.path.join(project, f"01-app/brand/poses/{s['pose']}-cutout.png") if s.get("pose") else default_mas
-        img = Image.new("RGB", (W, H), th["bg"]); d = ImageDraw.Draw(img); brand(d, th, spec.get("mark", "EARND")); t = s["type"]
+        img = Image.new("RGB", (W, H), th["bg"]); d = ImageDraw.Draw(img); brand(d, th, spec.get("mark")); t = s["type"]
         if t == "cover":
             f = font(ANTON, 128); y = 170
             for text, acc in s["lines"]:

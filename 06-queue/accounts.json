@@ -50,7 +50,8 @@
         "hook_and_cta_text": "#C6FF00",
         "middle_text": "#FFFFFF",
         "app_slide": "black text on a #C6FF00 box over the real screenshot",
-        "text_mode": "plain (app slide: background)"
+        "text_mode": "plain (app slide: background)",
+        "account_mark": "none: no handle/logo tag on slides (founder, 2026-10-30)"
       },
       "cta": {
         "prelaunch": "EARND launches soon. Follow for the launch.",
@@ -92,7 +93,8 @@
         "text": "Minimal. White text with black stroke (adjust once real photos are in).",
         "slide_count_labels": false,
         "earnd_promotion": "Final slide only. Earlier slides don't mention EARND.",
-        "note": "Changed 2026-10-29 (founder): 3:4 edu-template slideshows (bluebro/Arrow style) with the founder's real photos as panels; rendered with scripts/edu_render.py, mark @ezyxbt. Previously founder-photo-square 1080x1080."
+        "note": "Changed 2026-10-29 (founder): 3:4 edu-template slideshows (bluebro/Arrow style) with the founder's real photos as panels; rendered with scripts/edu_render.py, mark @ezyxbt. Previously founder-photo-square 1080x1080.",
+        "account_mark": "none: no handle/logo tag on slides (founder, 2026-10-30)"
       },
       "cta": {
         "prelaunch": "i'm building EARND. follow @earndapp for the launch.",
