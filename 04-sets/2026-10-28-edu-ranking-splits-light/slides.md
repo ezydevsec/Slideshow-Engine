@@ -16,6 +16,6 @@
 | 4 | rank | 4 · ARNOLD · Lots of volume, but 6 days a week is hard to keep up. |
 | 5 | rank | 3 · PPL x2 · Each muscle twice a week, but six sessions is a lot to fit in. |
 | 6 | rank | 2 · PPL + UL · Twice-a-week frequency in five days. Great if you can train 5x. |
-| 7 | rank | 1 · UPPER/LOWER · Each muscle twice a week in just four sessions. Short, focused, repeatable. |
-| 8 | app | EARND IS A 4-DAY UPPER / LOWER · Open today's session and see what to beat on every set. · 01-app/assets/train-week-overview.png |
+| 7 | rank | UPPER/LOWER · Each muscle twice a week in just four sessions. Short, focused, repeatable. |
+| 8 | app | EARND IS A 4-DAY UPPER / LOWER · Open today's session and see what to beat on every set. |
 | 9 | cta | PICK A SPLIT YOU CAN ACTUALLY KEEP. · EARND launches soon. Follow for the launch. |

@@ -39,7 +39,7 @@ default_app_slide: 4
 - Our accounts never comment on or engage with each other.
 - EARND has no free trial. Weekly reviews track paid subscriptions, not trials (the `trials` column in `07-results/revenue.csv` stays blank). Locate drop-offs with the funnel in `01-app/app-brief.md` → Pricing.
 - Prelaunch: every set ends with its account's prelaunch CTA from `accounts.json` (@earndapp: "EARND launches soon. Follow for the launch."). No download CTA or links until `phase` is "launched" and `launch.download_url` is set. No trial references.
-- Numerical examples (e.g. 100 kg × 7 → 100 kg × 8) are always labelled "example" on the slide. This includes sets × reps prescriptions and any weights (founder, 2026-10-29).
+- Numerical examples (e.g. 100 kg × 7 → 100 kg × 8) are always labelled "example" on the slide. No sets × reps prescriptions on slides at all (founder, 2026-10-30); weights in progression examples stay labelled "example".
 - Scheduling: users move the four prescribed sessions to available days. Never say the programme adapts to fewer sessions.
 - Never invent user experiences, testimonials, or independent endorsements.
 - No physique promises. Hooks and payoffs talk about tracking, targets, and having a plan. Users "can see when they've improved," never "numbers go up every week" or "know it's working."

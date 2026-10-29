@@ -53,7 +53,6 @@
       "kicker": "1 · HEIGHT",
       "title": "PREACHER CURL",
       "body": "Biceps. Arm locked on the pad, so no swinging.",
-      "example": "2 × 4–8",
       "mascot": true,
       "pose": "preacher-curl"
     },
@@ -62,7 +61,6 @@
       "kicker": "2 · WIDTH",
       "title": "HAMMER CURL",
       "body": "Palms facing each other. Hits the brachialis on the side of the arm.",
-      "example": "2 × 4–8",
       "mascot": true,
       "pose": "hammer-curl"
     },
@@ -71,7 +69,6 @@
       "kicker": "3 · DEPTH",
       "title": "OVERHEAD TRICEPS EXTENSION",
       "body": "Triceps, the back of the arm, trained in a stretch.",
-      "example": "2 × 4–8",
       "mascot": true,
       "pose": "overhead-triceps-extension"
     },

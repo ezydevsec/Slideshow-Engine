@@ -9,11 +9,11 @@
 - **AI label:** not needed (real photos, no generated images).
 - **First-person claims the founder must confirm:** that he trains this split / uses this progression rule.
 
-| # | Type | Text | Photo |
-|---|---|---|---|
-| 1 | cover | HOW I / PROGRESS / EVERY LIFT | b5-02.jpg |
-| 2 | steps | STEP 1 · I PICK A WEIGHT I CAN DO FOR 4 CLEAN REPS. | b6-11.jpg |
-| 3 | steps | STEP 2 · SAME WEIGHT. I ADD REPS. · 100 kg × 5 → 6 → 7 | b5-16.jpg |
-| 4 | steps | STEP 3 · 8 CLEAN REPS? THEN I ADD WEIGHT. · 100 kg × 8 → 105 kg × 4–5 | b5-01.jpg |
-| 5 | steps | THE RULE · IF MY FORM BREAKS, I HAVEN'T EARNED THE INCREASE. | b1-11.jpg |
-| 6 | cta | THAT'S THE WHOLE SYSTEM. · i'm building EARND. follow @earndapp for the launch. | b4-10.jpg |
+| # | Type | Text |
+|---|---|---|
+| 1 | cover | HOW I / PROGRESS / EVERY LIFT |
+| 2 | steps | STEP 1 · I PICK A WEIGHT I CAN DO FOR 4 CLEAN REPS. |
+| 3 | steps | STEP 2 · SAME WEIGHT. I ADD REPS. · 100 kg × 5 → 6 → 7 |
+| 4 | steps | STEP 3 · 8 CLEAN REPS? THEN I ADD WEIGHT. · 100 kg × 8 → 105 kg × 4–5 |
+| 5 | steps | THE RULE · IF MY FORM BREAKS, I HAVEN'T EARNED THE INCREASE. |
+| 6 | cta | THAT'S THE WHOLE SYSTEM. · i'm building EARND. follow @earndapp for the launch. |

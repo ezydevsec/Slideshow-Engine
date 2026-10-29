@@ -7,12 +7,12 @@
 - **Caption:** the rules i follow every session
 - **Hashtags:** #gymtips #progressiveoverload #strengthtraining #upperlower
 - **AI label:** not needed (real photos)
-- Exercises, sets and rules come from `01-app/programme.md`; numbers are tagged "example". First-person rules: the founder confirms them by approving.
+- Exercises, sets and rules come from `01-app/programme.md`; progression numbers are tagged "example"; no sets × reps on slides (2026-10-30). First-person rules: the founder confirms them by approving.
 
 | # | Type | Text |
 |---|---|---|
 | 1 | cover | 4 RULES I / FOLLOW / EVERY SESSION |
-| 2 | steps | RULE 1 · 2 WORKING SETS PER EXERCISE. · 4–8 clean reps each. that's it. · 2 × 4–8 |
+| 2 | steps | RULE 1 · 2 WORKING SETS PER EXERCISE. · 4–8 clean reps each. that's it. |
 | 3 | steps | RULE 2 · 2–3 MINUTES REST BETWEEN WORKING SETS. · so the second set is actually good. |
 | 4 | steps | RULE 3 · WARM-UPS DON'T COUNT. · do as many as you need. only working sets get logged. |
 | 5 | steps | RULE 4 · EXECUTION → REPS → LOAD. · in that order. never the other way round. |

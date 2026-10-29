@@ -45,7 +45,6 @@
       "kicker": "#1",
       "title": "CALF PRESS",
       "muscle": "Calves",
-      "example": "2 × 4–8",
       "cue": "Full stretch at the bottom, pause, then press.",
       "pose": "calf-press"
     },
@@ -54,7 +53,6 @@
       "kicker": "#2",
       "title": "UNILATERAL LEG CURL",
       "muscle": "Hamstrings",
-      "example": "2 × 4–8",
       "cue": "One leg at a time. Control the way back.",
       "pose": "leg-curl"
     },
@@ -63,7 +61,6 @@
       "kicker": "#3",
       "title": "UNILATERAL LEG EXTENSION",
       "muscle": "Quads",
-      "example": "2 × 4–8",
       "cue": "Squeeze at the top for a second.",
       "pose": "leg-extension"
     },
@@ -72,7 +69,6 @@
       "kicker": "#4",
       "title": "RDL",
       "muscle": "Hamstrings + glutes",
-      "example": "2 × 4–8",
       "cue": "Hips back, flat back, bar close to your legs.",
       "pose": "romanian-deadlift"
     },
@@ -81,15 +77,12 @@
       "kicker": "#5",
       "title": "PENDULUM / HACK SQUAT",
       "muscle": "Quads",
-      "example": "2 × 4–8",
       "cue": "Go as deep as you can with control.",
       "pose": "hack-squat"
     },
     {
       "type": "cards",
       "title": "THE FULL LOWER DAY",
-      "note": "2 × 4–8 each",
-      "example": true,
       "items": [
         [
           "Calf Press",

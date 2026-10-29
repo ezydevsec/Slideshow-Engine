@@ -6,7 +6,7 @@
 - **Angle:** arm exercise tier list → EARND's programme includes the S-tier curls → target to beat
 - **Caption:** arm exercise tier list. agree or disagree?
 - **Hashtags:** #armday #tierlist #biceps #gymtips #musclebuildingtips
-- **AI label: ON** (mascot). App slides are real screenshots. Exercises and sets come from `01-app/programme.md`; numbers are tagged "example".
+- **AI label: ON** (mascot). App slides are real screenshots. Exercises and sets come from `01-app/programme.md`; progression numbers are tagged "example"; no sets × reps on slides (2026-10-30).
 
 | # | Type | Text |
 |---|---|---|

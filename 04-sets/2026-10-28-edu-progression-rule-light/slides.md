@@ -16,5 +16,5 @@
 | 4 | steps | STEP 3 · OWN 8 CLEAN REPS? ADD WEIGHT. · 100 kg × 8 → 105 kg × 4–5 |
 | 5 | steps | STEP 4 · BUILD BACK TO 8. REPEAT. · Reps → load → repeat. That's the whole system. |
 | 6 | steps | THE RULE · IF YOUR FORM BREAKS, YOU HAVEN'T EARNED THE INCREASE. · Execution → reps → load. In that order. |
-| 7 | app | EARND TELLS YOU WHEN · After every workout: add a rep, or increase the load. · True · 01-app/assets/workout-complete-progressed.png |
+| 7 | app | EARND TELLS YOU WHEN · After every workout: add a rep, or increase the load. |
 | 8 | cta | STOP GUESSING WHEN TO GO UP. · EARND launches soon. Follow for the launch. |
