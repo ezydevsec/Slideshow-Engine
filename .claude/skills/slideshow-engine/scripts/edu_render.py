@@ -103,7 +103,7 @@ def example_tag(d, x, y, th):
 
 def render(setdir, project):
     spec = json.load(open(os.path.join(setdir, "edu.json"))); th = THEMES[spec["theme"]]
-    mas = os.path.join(project, spec.get("mascot", "01-app/brand/mascot-cutout.png"))
+    mas = os.path.join(project, spec.get("mascot", "01-app/brand/mascot-final-cutout.png"))
     out = os.path.join(setdir, "final", "preview"); os.makedirs(out, exist_ok=True)
     for f_ in os.listdir(out): os.remove(os.path.join(out, f_))
     pages = []
