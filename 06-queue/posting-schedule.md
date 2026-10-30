@@ -10,9 +10,10 @@ Manual posting until a publishing tool is connected. Use each set's `posting.md`
 
 From Tue the queue runs dry for @ezyxbt, and from Wed for @earndapp, so new sets are produced daily (4–6 per day across both accounts).
 
-## Audience location (2026-10-30)
-Both posting phones are in Greece, so TikTok seeds each post's first viewers from Greece (@ezyxbt 67%, @earndapp 28% + Cyprus 6%). Target markets are the UK, US, Canada and Australia.
-- Post 20:00–00:00 Greece time (18:00–22:00 UK, early evening US East Coast).
-- On both accounts: "Suggest your account to others" off (contacts, Facebook, mutuals), contact sync off, TikTok and phone language English (UK/US).
-- No VPN or faked location.
-- Reaching UK/US reliably from Greece needs paid targeting (TikTok Promote with a UK/US/CA/AU location filter) or people posting from those countries (Humanpost). Founder to decide; see chat 2026-10-30.
+## Audience location (2026-10-30, corrected)
+Both accounts post from the UK on a UK phone number, but viewers skew Greek (@ezyxbt 67%, @earndapp 28% + Cyprus 6%). So the Greek seeding comes from the accounts, not the phone's location. Check, in this order:
+1. **Account region:** Settings → Account → Account information. TikTok sets the region at sign-up and users can't change it. If it says Greece, that's the main cause.
+2. **Who the accounts already reach:** Greek followers and contacts. Turn off "Suggest your account to others" (contacts, Facebook, mutuals) and contact sync on both accounts.
+3. **Language:** TikTok app and phone language set to English (UK).
+4. **Posting time:** post 18:00–22:00 UK time. Several posts went up 01:00–03:00.
+No VPN or faked location. If the region is Greece: @earndapp has only 9 followers, so re-registering it on the UK phone is cheap; @ezyxbt keeps its account. Founder to decide.
