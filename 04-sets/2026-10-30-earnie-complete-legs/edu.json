@@ -1,0 +1,123 @@
+{
+  "set_id": "2026-10-30-earnie-complete-legs",
+  "status": "draft 2026-10-30: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "theme": "light",
+  "angle": "build complete legs with 5 exercises (quads, hamstrings, glutes, calves), mascot poses, grid; EARND named as ours on last slide",
+  "canvas": "1080x1350",
+  "caption": "5 exercises. every part of your legs. save it for leg day",
+  "hashtags": [
+    "#legday",
+    "#legworkout",
+    "#gymtips",
+    "#musclebuildingtips",
+    "#gymtok"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "BUILD",
+          false
+        ],
+        [
+          "COMPLETE LEGS",
+          true
+        ],
+        [
+          "WITH 5 EXERCISES",
+          false
+        ]
+      ],
+      "pose": "cover-arms-open",
+      "mascot": true
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "HACK SQUAT",
+      "muscle": "Quads",
+      "sets": "2 × 4–8",
+      "cue": "Go as deep as you can with control.",
+      "pose": "hack-squat"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2",
+      "title": "LEG EXTENSION",
+      "muscle": "Quads",
+      "sets": "2 × 4–8",
+      "cue": "Squeeze at the top for a second.",
+      "pose": "leg-extension"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#3",
+      "title": "RDL",
+      "muscle": "Hamstrings + glutes",
+      "sets": "2 × 4–8",
+      "cue": "Hips back, flat back, bar close to your legs.",
+      "pose": "romanian-deadlift"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#4",
+      "title": "HIP THRUST",
+      "muscle": "Glutes",
+      "sets": "2 × 4–8",
+      "cue": "Pause at the top. Ribs down.",
+      "pose": "hip-thrust"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#5",
+      "title": "CALF PRESS",
+      "muscle": "Calves",
+      "sets": "2 × 4–8",
+      "cue": "Full stretch at the bottom, pause, then press.",
+      "pose": "calf-press"
+    },
+    {
+      "type": "cards",
+      "title": "THE FULL LEG DAY",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Hack Squat",
+          "hack-squat"
+        ],
+        [
+          "Leg Extension",
+          "leg-extension"
+        ],
+        [
+          "RDL",
+          "romanian-deadlift"
+        ],
+        [
+          "Hip Thrust",
+          "hip-thrust"
+        ],
+        [
+          "Calf Press",
+          "calf-press"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR LEG DAY.",
+      "body": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
+      "pose": "pointing",
+      "mascot": true
+    }
+  ]
+}

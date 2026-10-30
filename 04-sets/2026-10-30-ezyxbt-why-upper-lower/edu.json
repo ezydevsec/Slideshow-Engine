@@ -1,0 +1,118 @@
+{
+  "set_id": "2026-10-30-ezyxbt-why-upper-lower",
+  "status": "draft 2026-10-30: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "theme": "dark",
+  "angle": "founder's reasons for running upper/lower over PPL (first person; confirm at approval)",
+  "canvas": "1080x1350",
+  "caption": "why i run upper/lower and not ppl",
+  "hashtags": [
+    "#upperlower",
+    "#workoutsplit",
+    "#gymtips",
+    "#pushpulllegs"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "WHY I RUN",
+          false
+        ],
+        [
+          "UPPER / LOWER",
+          true
+        ],
+        [
+          "NOT PPL",
+          false
+        ]
+      ],
+      "photo": {
+        "file": "b7-12.jpg",
+        "focus": [
+          0.6,
+          0.45
+        ],
+        "crop": [
+          0,
+          0.25,
+          0.66,
+          1
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 1",
+      "title": "EVERY MUSCLE TWICE A WEEK IN 4 SESSIONS.",
+      "body": "ppl needs 6 days to do the same.",
+      "photo": {
+        "file": "b6-13.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 2",
+      "title": "SHORT SESSIONS.",
+      "body": "6 exercises, 2 working sets each. in and out.",
+      "photo": {
+        "file": "b5-01.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 3",
+      "title": "MISS A DAY? I MOVE THE SESSION.",
+      "body": "the 4 sessions fit around my week, not the other way round.",
+      "photo": {
+        "file": "b6-11.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 4",
+      "title": "SAME 4 SESSIONS EVERY WEEK.",
+      "body": "so i always know what i'm trying to beat.",
+      "photo": {
+        "file": "b1-09.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "title": "PICK A SPLIT YOU CAN REPEAT.",
+      "body": "i'm building EARND. follow @earndapp for the launch.",
+      "photo": {
+        "file": "b7-15.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    }
+  ]
+}

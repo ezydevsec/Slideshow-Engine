@@ -51,7 +51,8 @@
         "middle_text": "#FFFFFF",
         "app_slide": "black text on a #C6FF00 box over the real screenshot",
         "text_mode": "plain (app slide: background)",
-        "account_mark": "none: no handle/logo tag on slides (founder, 2026-10-30)"
+        "account_mark": "none: no handle/logo tag on slides (founder, 2026-10-30)",
+        "mascot_note": "From 2026-10-30 the mascot belongs to @earnie.lifts. New @earndapp sets are product-led (real app screens, dark brand template), without the mascot."
       },
       "cta": {
         "prelaunch": "EARND launches soon. Follow for the launch.",
@@ -106,6 +107,43 @@
       "bio": null,
       "bio_proposed": "Training + building EARND (@earndapp). The splits and rules I actually use.",
       "personas": "Not set. Founder content follows the founder's real training, not a persona."
+    },
+    {
+      "handle": "@earnie.lifts",
+      "type": "theme",
+      "status": "active",
+      "platforms": [
+        "tiktok"
+      ],
+      "inactive_platforms": [],
+      "posting_tool_ids": {},
+      "required": [
+        "handle",
+        "platforms",
+        "voice",
+        "visual_template",
+        "cta.prelaunch",
+        "disclosure"
+      ],
+      "voice": "Earnie, the faceless graphite mascot: short, direct, lowercase-friendly gym education (bluebro/Arrow style). Useful content first; no first-person human experiences.",
+      "visual_template": {
+        "name": "mascot-edu-3x4",
+        "canvas": "1080x1350",
+        "renderer": "scripts/edu_render.py",
+        "look": "light cream background (dark allowed), Anton headlines, lime accents, mascot poses from 01-app/brand/poses/ with the worked muscle in lime",
+        "account_mark": "none"
+      },
+      "cta": {
+        "prelaunch": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
+        "launched": "TO CONFIRM at launch",
+        "destination_prelaunch": "follow @earndapp",
+        "destination_launched": "launch.download_url"
+      },
+      "disclosure": "Bio says 'by @EARND' (run by the EARND team). The final slide names EARND as our own app.",
+      "bio": "earnie lifts so you know what to lift. by @EARND",
+      "bio_note": "set by the founder 2026-10-30; check that '@EARND' links to @earndapp",
+      "personas": "Persona 1: The inconsistent tracker",
+      "created": "2026-10-30 by the founder (exception to the 'no new theme pages until a format repeats' rule)"
     }
   ],
   "planned_accounts": {

@@ -1,0 +1,99 @@
+{
+  "set_id": "2026-10-30-earndapp-product-every-set-has-a-target",
+  "status": "draft 2026-10-30: awaiting gate 3",
+  "format": "product-screens",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "angle": "product-led: EARND's loop with real screens: last session + target → beat it → next step after the workout → progress over weeks → 4-day week",
+  "canvas": "1080x1350",
+  "caption": "every set has a target. this is how EARND works",
+  "hashtags": [
+    "#workouttracker",
+    "#progressiveoverload",
+    "#gymtok",
+    "#upperlower"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "EVERY SET HAS",
+          false
+        ],
+        [
+          "A TARGET",
+          true
+        ],
+        [
+          "HERE'S HOW",
+          false
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": "BEFORE EACH SET: LAST SESSION + THE TARGET TO BEAT",
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0,
+        0.0,
+        1,
+        0.56
+      ],
+      "example": true
+    },
+    {
+      "type": "steps",
+      "kicker": "THE RULE",
+      "title": "ONE MORE REP AT THE SAME WEIGHT COUNTS.",
+      "body": "own 8 clean reps, then the weight goes up."
+    },
+    {
+      "type": "app",
+      "title": "AFTER THE WORKOUT: YOUR NEXT STEP FOR EVERY EXERCISE",
+      "shot": "01-app/assets/workout-complete-progressed.png",
+      "crop": [
+        0,
+        0.2,
+        1,
+        0.86
+      ],
+      "example": true
+    },
+    {
+      "type": "app",
+      "title": "OVER THE WEEKS: SEE WHEN YOU'VE IMPROVED",
+      "shot": "01-app/assets/progress-chest-press.png",
+      "crop": [
+        0,
+        0.08,
+        1,
+        0.79
+      ],
+      "example": true
+    },
+    {
+      "type": "app",
+      "title": "4 SESSIONS A WEEK. UPPER / LOWER.",
+      "shot": "01-app/assets/train-week-overview.png",
+      "crop": [
+        0,
+        0.05,
+        1,
+        0.76
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "NO MORE GUESSING WHAT TO LIFT.",
+      "body": "EARND launches soon. Follow for the launch."
+    }
+  ]
+}

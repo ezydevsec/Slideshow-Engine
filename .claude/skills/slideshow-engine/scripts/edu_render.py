@@ -210,6 +210,7 @@ def render(setdir, project):
         elif t == "app":
             y = para(d, s["title"], font(ANTON, 80), M, 150, W - 2 * M, th["ink"], 1.12) + 24
             if s.get("body"): y = para(d, s["body"], font(INTER_M, 40), M, y, W - 2 * M, th["soft"]) + 90
+            elif s.get("example"): y += 80
             sh = Image.open(os.path.join(project, s["shot"])).convert("RGB"); c = s.get("crop", [0, 0, 1, 1])
             sh = sh.crop((int(c[0] * sh.width), int(c[1] * sh.height), int(c[2] * sh.width), int(c[3] * sh.height)))
             bw, bh = W - 2 * 60, H - y - 50; sc = min(bw / sh.width, bh / sh.height); sh = sh.resize((int(sh.width * sc), int(sh.height * sc)), Image.LANCZOS)
