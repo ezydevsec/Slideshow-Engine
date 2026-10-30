@@ -27,3 +27,9 @@ Not a controlled hook-only test: each set changes the angle across slides 1–5.
 Observed reach, but they need more than 10 slides or new illustrations. Revisit once Higgsfield or licensed illustrations are approved.
 - [ ] exercise tier list (F→S tiers, 18–22 slides): @arrowfitnessapp 812K/519K/394K/304K, @liftx.app
 - [ ] illustrated plan sheets ("build your upper day", push/pull day sheets): @bluebro.fit, @liftx.app, @gymbratzzzz. Fits EARND's Upper/Lower plan; needs exercise illustrations
+
+## Launch phase: "full controversy" (founder intent, 2026-10-30)
+At launch the founder wants a much more polarising tone (Earnie first, @earndapp second, @ezyxbt mildest). Ramp up from prelaunch "hot takes".
+Allowed: strong opinions marked as opinions ("hot take", "most lifters"); calling out common bad practices; split-vs-split debates; rage-bait hooks that the slides then back up with reasons; accurate, checkable comparisons with competitors (e.g. price, features shown on their public pages).
+Still off-limits: false or absolute claims presented as fact; physique promises; invented quotes, endorsements or testimonials (including from real coaches like Paul Carter); mocking or targeting real private people; false claims about competitors.
+Before launch: confirm the opinion-rule wording with the founder and prepare 10 launch hot-take hooks.
