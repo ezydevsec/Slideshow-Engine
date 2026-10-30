@@ -1,6 +1,6 @@
 # 2026-10-30-earndapp-product-every-set-has-a-target
 
-> Draft, awaiting gate 3. **dark** look, 1080×1350, no account mark.
+> **Approved 2026-10-30 at gate 3**. **dark** look, 1080×1350, no account mark.
 
 - **Account:** @earndapp (brand)
 - **Angle:** product-led: EARND's loop with real screens: last session + target → beat it → next step after the workout → progress over weeks → 4-day week

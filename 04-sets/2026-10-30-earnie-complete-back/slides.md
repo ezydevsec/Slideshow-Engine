@@ -1,6 +1,6 @@
 # 2026-10-30-earnie-complete-back
 
-> Draft, awaiting gate 3. **light** look, 1080×1350, no account mark.
+> **Approved 2026-10-30 at gate 3**. **light** look, 1080×1350, no account mark.
 
 - **Account:** @earnie.lifts (theme)
 - **Angle:** build a complete back with 4 exercises (width, stretch, thickness, traps); moved from @earndapp draft 2026-10-30 (never posted)

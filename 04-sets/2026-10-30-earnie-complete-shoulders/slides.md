@@ -1,6 +1,6 @@
 # 2026-10-30-earnie-complete-shoulders
 
-> Draft, awaiting gate 3. **dark** look, 1080×1350, no account mark.
+> **Approved 2026-10-30 at gate 3**. **dark** look, 1080×1350, no account mark.
 
 - **Account:** @earnie.lifts (theme)
 - **Angle:** 3 exercises for complete shoulders (front, side, rear), mascot poses, grid; EARND named as ours on last slide

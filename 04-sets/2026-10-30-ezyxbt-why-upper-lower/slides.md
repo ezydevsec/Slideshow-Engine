@@ -1,6 +1,6 @@
 # 2026-10-30-ezyxbt-why-upper-lower
 
-> Draft, awaiting gate 3. **dark** look, 1080×1350, no account mark.
+> **Approved 2026-10-30 at gate 3**. **dark** look, 1080×1350, no account mark.
 
 - **Account:** @ezyxbt (founder)
 - **Angle:** founder's reasons for running upper/lower over PPL (first person; confirm at approval)

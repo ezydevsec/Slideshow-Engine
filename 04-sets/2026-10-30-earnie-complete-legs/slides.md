@@ -1,6 +1,6 @@
 # 2026-10-30-earnie-complete-legs
 
-> Draft, awaiting gate 3. **light** look, 1080×1350, no account mark.
+> **Approved 2026-10-30 at gate 3**. **light** look, 1080×1350, no account mark.
 
 - **Account:** @earnie.lifts (theme)
 - **Angle:** build complete legs with 5 exercises (quads, hamstrings, glutes, calves), mascot poses, grid; EARND named as ours on last slide

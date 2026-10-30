@@ -1,6 +1,6 @@
 # 2026-10-30-ezyxbt-edu-why-2-sets
 
-> Draft, awaiting gate 3 (zip sent 2026-10-30 for later posting). **light** look, 1080×1350.
+> **Approved 2026-10-30 at gate 3** (zip sent 2026-10-30 for later posting). **light** look, 1080×1350.
 
 - **Account:** @ezyxbt
 - **Angle:** founder explains why his programme uses 2 working sets per exercise (first person; confirm at approval)
