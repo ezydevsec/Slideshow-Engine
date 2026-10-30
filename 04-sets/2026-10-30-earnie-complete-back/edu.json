@@ -1,11 +1,11 @@
 {
-  "set_id": "2026-10-30-edu-complete-back",
+  "set_id": "2026-10-30-earnie-complete-back",
   "status": "draft 2026-10-30: awaiting gate 3",
   "format": "edu-template-slideshow",
-  "account": "@earndapp",
-  "account_type": "brand",
-  "theme": "dark",
-  "angle": "build a complete back with the 4 back exercises in EARND's programme (width, stretch, thickness, traps) → grid → app",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "theme": "light",
+  "angle": "build a complete back with 4 exercises (width, stretch, thickness, traps); moved from @earndapp draft 2026-10-30 (never posted)",
   "canvas": "1080x1350",
   "caption": "4 exercises. width, thickness, traps. save it for back day",
   "hashtags": [
@@ -100,22 +100,9 @@
       ]
     },
     {
-      "type": "app",
-      "title": "EARND SHOWS WHAT TO BEAT ON EVERY ONE",
-      "body": "Last session and today's target, on every set.",
-      "shot": "01-app/assets/exercise-target.png",
-      "crop": [
-        0,
-        0.0,
-        1,
-        0.56
-      ],
-      "example": true
-    },
-    {
       "type": "cta",
       "title": "SAVE THIS FOR BACK DAY.",
-      "body": "EARND launches soon. Follow for the launch.",
+      "body": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
       "pose": "pointing",
       "mascot": true
     }

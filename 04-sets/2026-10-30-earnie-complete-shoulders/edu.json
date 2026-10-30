@@ -1,0 +1,105 @@
+{
+  "set_id": "2026-10-30-earnie-complete-shoulders",
+  "status": "draft 2026-10-30: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "theme": "dark",
+  "angle": "3 exercises for complete shoulders (front, side, rear), mascot poses, grid; EARND named as ours on last slide",
+  "canvas": "1080x1350",
+  "caption": "front, side, rear. 3 exercises for complete shoulders",
+  "hashtags": [
+    "#shoulderday",
+    "#shoulderworkout",
+    "#gymtips",
+    "#musclebuildingtips",
+    "#gymtok"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "3 EXERCISES FOR",
+          false
+        ],
+        [
+          "COMPLETE",
+          false
+        ],
+        [
+          "SHOULDERS",
+          true
+        ]
+      ],
+      "pose": "cover-arms-open",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "THE IDEA",
+      "title": "YOUR SHOULDER HAS 3 HEADS: FRONT, SIDE, REAR.",
+      "body": "one exercise for each.",
+      "pose": "thinking",
+      "mascot": true
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "MACHINE SHOULDER PRESS",
+      "muscle": "Front delts",
+      "sets": "2 × 4–8",
+      "cue": "Press straight up. Don't lock out hard.",
+      "pose": "shoulder-press"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2",
+      "title": "LATERAL RAISE",
+      "muscle": "Side delts",
+      "sets": "2 × 4–8",
+      "cue": "Lead with your elbows. Stop at shoulder height.",
+      "pose": "lateral-raise"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#3",
+      "title": "CHEST-SUPPORTED ROW",
+      "muscle": "Rear delts + upper back",
+      "sets": "2 × 4–8",
+      "cue": "Chest on the pad. Pull your elbows wide and back.",
+      "pose": "chest-supported-row"
+    },
+    {
+      "type": "cards",
+      "title": "THE FULL SHOULDER DAY",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Machine Shoulder Press",
+          "shoulder-press"
+        ],
+        [
+          "Lateral Raise",
+          "lateral-raise"
+        ],
+        [
+          "Chest-Supported Row",
+          "chest-supported-row"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR SHOULDER DAY.",
+      "body": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
+      "pose": "pointing",
+      "mascot": true
+    }
+  ]
+}

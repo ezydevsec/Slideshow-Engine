@@ -1,9 +1,9 @@
-# 2026-10-30-edu-complete-back
+# 2026-10-30-earnie-complete-back
 
-> Draft, awaiting gate 3 (zip sent 2026-10-30 for later posting). **dark** look, 1080×1350.
+> Draft, awaiting gate 3. **light** look, 1080×1350, no account mark.
 
-- **Account:** @earndapp
-- **Angle:** build a complete back with the 4 back exercises in EARND's programme (width, stretch, thickness, traps) → grid → app
+- **Account:** @earnie.lifts (theme)
+- **Angle:** build a complete back with 4 exercises (width, stretch, thickness, traps); moved from @earndapp draft 2026-10-30 (never posted)
 - **Caption:** 4 exercises. width, thickness, traps. save it for back day
 - **Hashtags:** #backday #backworkout #upperlower #gymtips #musclebuildingtips
 - **AI label:** ON (mascot)
@@ -16,5 +16,4 @@
 | 4 | exercise | #3 · CHEST-SUPPORTED ROW · Upper back: thickness · 2 × 4–8 · Chest stays on the pad. Pull your elbows back. |
 | 5 | exercise | #4 · SHRUG · Upper traps · 2 × 4–8 · Straight up, pause at the top, no rolling. |
 | 6 | cards | THE FULL BACK · 2 × 4–8 each · Pulldown, Cable Pullover, Chest-Supported Row, Shrug |
-| 7 | app | EARND SHOWS WHAT TO BEAT ON EVERY ONE · Last session and today's target, on every set. |
-| 8 | cta | SAVE THIS FOR BACK DAY. · EARND launches soon. Follow for the launch. |
+| 7 | cta | SAVE THIS FOR BACK DAY. · earnie trains on EARND, our app. launching soon. follow @earndapp. |
