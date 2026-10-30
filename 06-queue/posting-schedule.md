@@ -10,10 +10,12 @@ Manual posting until a publishing tool is connected. Use each set's `posting.md`
 
 From Tue the queue runs dry for @ezyxbt, and from Wed for @earndapp, so new sets are produced daily (4–6 per day across both accounts).
 
-## Audience location (2026-10-30, corrected)
-Both accounts post from the UK on a UK phone number, but viewers skew Greek (@ezyxbt 67%, @earndapp 28% + Cyprus 6%). So the Greek seeding comes from the accounts, not the phone's location. Check, in this order:
-1. **Account region:** Settings → Account → Account information. TikTok sets the region at sign-up and users can't change it. If it says Greece, that's the main cause.
-2. **Who the accounts already reach:** Greek followers and contacts. Turn off "Suggest your account to others" (contacts, Facebook, mutuals) and contact sync on both accounts.
-3. **Language:** TikTok app and phone language set to English (UK).
-4. **Posting time:** post 18:00–22:00 UK time. Several posts went up 01:00–03:00.
-No VPN or faked location. If the region is Greece: @earndapp has only 9 followers, so re-registering it on the UK phone is cheap; @ezyxbt keeps its account. Founder to decide.
+## Audience location (2026-10-30)
+Both accounts post from the UK on a UK number, and both account regions are UK (checked by the founder). The Greek share (@ezyxbt 67%, @earndapp 28% + Cyprus 6%) comes from the accounts' social graph: Greek followers, contacts and friends whose likes and shares teach TikTok who the audience is. Both accounts share one phone.
+Fixes:
+- "Suggest your account to others" off (contacts, Facebook, mutuals) and contact sync off, on both accounts.
+- Don't send posts to friends or share them to Instagram stories; ask Greek friends not to like or share them for a few weeks.
+- TikTok and phone language English (UK). Post 18:00–22:00 UK time.
+- 10–15 min a day on each account watching UK/US gym slideshows (never engaging between our two accounts).
+- Seed the right audience with TikTok Promote targeted at UK, US, Canada and Australia (test about $20–30 across 3 posts). Founder to decide.
+No VPN or faked location.
