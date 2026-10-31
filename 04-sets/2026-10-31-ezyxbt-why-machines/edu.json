@@ -1,0 +1,118 @@
+{
+  "set_id": "2026-10-31-ezyxbt-why-machines",
+  "status": "draft 2026-10-31: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "theme": "dark",
+  "angle": "founder's reasons his programme is machine-heavy (first person; confirm at approval)",
+  "canvas": "1080x1350",
+  "caption": "why my programme is mostly machines",
+  "hashtags": [
+    "#machines",
+    "#gymtips",
+    "#upperlower",
+    "#strengthtraining"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "WHY MY PROGRAMME",
+          false
+        ],
+        [
+          "IS MOSTLY",
+          false
+        ],
+        [
+          "MACHINES",
+          true
+        ]
+      ],
+      "photo": {
+        "file": "b6-11.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 1",
+      "title": "SAME SETUP EVERY TIME.",
+      "body": "so this week's numbers can be compared with last week's.",
+      "photo": {
+        "file": "b5-01.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 2",
+      "title": "I CAN PUSH CLOSE TO FAILURE.",
+      "body": "no spotter needed, no balancing a bar.",
+      "photo": {
+        "file": "b7-12.jpg",
+        "focus": [
+          0.6,
+          0.45
+        ],
+        "crop": [
+          0,
+          0.25,
+          0.66,
+          1
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 3",
+      "title": "SMALL WEIGHT JUMPS.",
+      "body": "easy to add a little load once i own 8 clean reps.",
+      "photo": {
+        "file": "b4-10.jpg",
+        "focus": [
+          0.45,
+          0.15
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "NOT ONLY MACHINES",
+      "title": "RDLS, HIP THRUSTS AND SHRUGS STAY IN.",
+      "body": "free weights where they do the job best.",
+      "photo": {
+        "file": "b5-16.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "title": "PICK WHAT YOU CAN TRACK.",
+      "body": "i'm building EARND. follow @earndapp for the launch.",
+      "photo": {
+        "file": "b7-15.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    }
+  ]
+}

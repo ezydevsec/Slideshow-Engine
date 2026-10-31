@@ -1,0 +1,112 @@
+{
+  "set_id": "2026-10-31-ezyxbt-why-3-rest-days",
+  "status": "draft 2026-10-31: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "theme": "light",
+  "angle": "founder's reasons for 4 training days and 3 rest days (first person; confirm at approval)",
+  "canvas": "1080x1350",
+  "caption": "why i train 4 days and rest 3",
+  "hashtags": [
+    "#restday",
+    "#upperlower",
+    "#gymtips",
+    "#recovery"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "WHY I TAKE",
+          false
+        ],
+        [
+          "3 REST DAYS",
+          true
+        ],
+        [
+          "EVERY WEEK",
+          false
+        ]
+      ],
+      "photo": {
+        "file": "b3-10.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 1",
+      "title": "MY WORKING SETS ARE HARD.",
+      "body": "2 sets, close to failure. i need to come back fresh.",
+      "photo": {
+        "file": "b1-11.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 2",
+      "title": "4 SESSIONS COVER EVERYTHING.",
+      "body": "upper, lower, rest, upper, lower. every muscle twice.",
+      "photo": {
+        "file": "b6-08.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 3",
+      "title": "I CAN KEEP IT UP EVERY WEEK.",
+      "body": "a plan i can repeat beats a plan i quit.",
+      "photo": {
+        "file": "b4-15.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "THE GOAL",
+      "title": "BEAT LAST TIME, NOT TRAIN EVERY DAY.",
+      "body": "the target is last session's numbers, not more days.",
+      "photo": {
+        "file": "b5-15.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "title": "REST IS PART OF THE PLAN.",
+      "body": "i'm building EARND. follow @earndapp for the launch.",
+      "photo": {
+        "file": "b7-16.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    }
+  ]
+}

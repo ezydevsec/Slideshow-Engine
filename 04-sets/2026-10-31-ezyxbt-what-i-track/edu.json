@@ -1,0 +1,113 @@
+{
+  "set_id": "2026-10-31-ezyxbt-what-i-track",
+  "status": "draft 2026-10-31: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "theme": "light",
+  "angle": "founder's own tracking: weight, reps per working set, last session's numbers (from his programme notes)",
+  "canvas": "1080x1350",
+  "caption": "the only 3 things i write down in the gym",
+  "hashtags": [
+    "#gymtips",
+    "#progressiveoverload",
+    "#workouttracker",
+    "#gymtok"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "3 THINGS I",
+          false
+        ],
+        [
+          "WRITE DOWN",
+          true
+        ],
+        [
+          "EVERY SESSION",
+          false
+        ]
+      ],
+      "photo": {
+        "file": "b6-03.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "1",
+      "title": "THE WEIGHT.",
+      "body": "one weight per exercise. both working sets use it.",
+      "photo": {
+        "file": "b5-14.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "2",
+      "title": "REPS ON EACH WORKING SET.",
+      "body": "set 1 and set 2, separately. warm-ups don't get logged.",
+      "photo": {
+        "file": "b4-12.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "3",
+      "title": "LAST SESSION'S NUMBERS.",
+      "body": "i check them before i start, so i know what to beat.",
+      "example": "100 kg × 7 → today: 8",
+      "photo": {
+        "file": "b5-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "THAT'S IT",
+      "title": "NO SPREADSHEETS. NO GUESSING.",
+      "body": "three numbers. i can see when i've improved.",
+      "photo": {
+        "file": "b7-16.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "title": "WRITE THEM DOWN TODAY.",
+      "body": "i'm building EARND. follow @earndapp for the launch.",
+      "photo": {
+        "file": "b6-13.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    }
+  ]
+}
