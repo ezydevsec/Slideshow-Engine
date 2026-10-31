@@ -52,7 +52,7 @@
         "app_slide": "black text on a #C6FF00 box over the real screenshot",
         "text_mode": "plain (app slide: background)",
         "account_mark": "none: no handle/logo tag on slides (founder, 2026-10-30)",
-        "mascot_note": "From 2026-10-30 the mascot belongs to @earnie.lifts. New @earndapp sets are product-led (real app screens, dark brand template), without the mascot."
+        "mascot_note": "@earnie.lifts paused 2026-10-31: the mascot can be used on @earndapp again (edu-template sets)."
       },
       "cta": {
         "prelaunch": "EARND launches soon. Follow for the launch.",
@@ -111,7 +111,7 @@
     {
       "handle": "@earnie.lifts",
       "type": "theme",
-      "status": "active",
+      "status": "paused",
       "platforms": [
         "tiktok"
       ],
@@ -144,7 +144,8 @@
       "bio_note": "set by the founder 2026-10-30; check that '@EARND' links to @earndapp",
       "personas": "Persona 1: The inconsistent tracker",
       "created": "2026-10-30 by the founder (exception to the 'no new theme pages until a format repeats' rule)",
-      "settings_confirmed": "2026-10-30 by the founder (approved the first Earnie sets)"
+      "settings_confirmed": "2026-10-30 by the founder (approved the first Earnie sets)",
+      "paused": "2026-10-31 by the founder: 2 posts (legs, back) at 0 views, 0 followers (Apify 2026-10-31). Account created 2026-10-30."
     }
   ],
   "planned_accounts": {
