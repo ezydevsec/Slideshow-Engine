@@ -1,11 +1,11 @@
 {
-  "set_id": "2026-10-30-earnie-complete-shoulders",
-  "status": "approved 2026-10-30 at gate 3 (manual posting)",
+  "set_id": "2026-10-31-edu-complete-shoulders",
+  "status": "approved 2026-10-31 at gate 3 (moved from paused @earnie.lifts; founder 'yep')",
   "format": "edu-template-slideshow",
-  "account": "@earnie.lifts",
-  "account_type": "theme",
+  "account": "@earndapp",
+  "account_type": "brand",
   "theme": "dark",
-  "angle": "3 exercises for complete shoulders (front, side, rear), mascot poses, grid; EARND named as ours on last slide",
+  "angle": "3 exercises for complete shoulders (front, side, rear), mascot poses, grid → app → CTA; moved from paused @earnie.lifts, never posted",
   "canvas": "1080x1350",
   "caption": "front, side, rear. 3 exercises for complete shoulders",
   "hashtags": [
@@ -95,9 +95,22 @@
       ]
     },
     {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY ONE",
+      "body": "Last session and today's target, on every set.",
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0,
+        0.0,
+        1,
+        0.56
+      ],
+      "example": true
+    },
+    {
       "type": "cta",
       "title": "SAVE THIS FOR SHOULDER DAY.",
-      "body": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
+      "body": "EARND launches soon. Follow for the launch.",
       "pose": "pointing",
       "mascot": true
     }
