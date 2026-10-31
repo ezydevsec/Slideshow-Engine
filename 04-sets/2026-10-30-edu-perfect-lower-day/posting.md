@@ -1,6 +1,6 @@
 # Posting pack: 2026-10-30-edu-perfect-lower-day
 
-**ON HOLD (2026-10-30): do not post until the chest-press / leg-curl pose is regenerated.** Previously: approved at gate 3 on 2026-10-29. Post manually from 2026-10-30.** Look: **dark**.
+**Status: approved at gate 3 on 2026-10-29; hold lifted 2026-10-31 after the chest-press and leg-curl poses were regenerated. Post manually.** Look: **dark**. Space posts on the same account about 3–4 hours apart.
 
 - **Account:** @earndapp (TikTok, photo mode)
 - **Upload, in order:** `final/preview/slide-01.jpg` … `slide-09.jpg` (1080×1350, text already on the slides)

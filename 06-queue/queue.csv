@@ -18,8 +18,8 @@ set_id,account,status,approved_on,notes
 2026-10-29-edu-upper-lower-programme,@earndapp,approved,2026-10-29,edu template (light); mascot (AI label on); manual posting
 2026-10-29-ezyxbt-edu-how-i-progress,@ezyxbt,approved,2026-10-29,edu template (light); real founder photos, first-person claims confirmed by approval; manual posting
 2026-10-29-ezyxbt-edu-my-split,@ezyxbt,approved,2026-10-29,edu template (dark); real founder photos, first-person claims confirmed by approval; manual posting
-2026-10-30-edu-perfect-lower-day,@earndapp,on hold (bad pose),2026-10-29,edu template (dark); mascot poses (AI label on); manual posting
-2026-10-30-edu-perfect-upper-day,@earndapp,on hold (bad pose),2026-10-29,edu template (light); mascot poses (AI label on); manual posting
+2026-10-30-edu-perfect-lower-day,@earndapp,approved,2026-10-29,edu template (dark); mascot poses (AI label on); poses fixed + mark removed 2026-10-31; manual posting
+2026-10-30-edu-perfect-upper-day,@earndapp,approved,2026-10-29,edu template (light); mascot poses (AI label on); poses fixed + mark removed 2026-10-31; manual posting
 2026-10-30-ezyxbt-edu-session-rules,@ezyxbt,approved,2026-10-29,edu template (light); real founder photos, first-person rules confirmed by approval; manual posting
 2026-10-30-earndapp-product-every-set-has-a-target,@earndapp,approved,2026-10-30,product-screens (dark); manual posting
 2026-10-30-earnie-complete-legs,@earnie.lifts,approved,2026-10-30,edu-template-slideshow (light); manual posting
@@ -28,3 +28,6 @@ set_id,account,status,approved_on,notes
 2026-10-30-ezyxbt-why-upper-lower,@ezyxbt,approved,2026-10-30,edu-template-slideshow (dark); manual posting
 2026-10-30-ezyxbt-edu-why-2-sets,@ezyxbt,approved,2026-10-30,edu-template-slideshow (light); manual posting
 2026-10-31-edu-complete-shoulders,@earndapp,approved,2026-10-31,edu template (dark); mascot (AI label on); moved from @earnie.lifts; manual posting
+2026-10-31-ezyxbt-what-i-track,@ezyxbt,approved,2026-10-31,edu-template-slideshow (light); manual posting
+2026-10-31-ezyxbt-why-machines,@ezyxbt,approved,2026-10-31,edu-template-slideshow (dark); manual posting
+2026-10-31-ezyxbt-why-3-rest-days,@ezyxbt,approved,2026-10-31,edu-template-slideshow (light); manual posting
