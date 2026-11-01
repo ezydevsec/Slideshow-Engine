@@ -64,3 +64,15 @@ Edits: crop, plus one blur of a background person (b9-02). Face untouched in eve
 | b9-08.jpg | Same spot, looking at camera, wider | Cropped out the gym sign text at the top | Dark theme, CTA | |
 
 Rejected from batch 3: the face-pixelated mirror shot (can't be used); a near-duplicate of b9-01; the shot with several people behind (the cable area); the pulldown shot with a woman walking towards camera (b9-02 covers it); 3 more stairwell shots; a near-duplicate of b9-08.
+
+## Batch 4 (supplied 2026-11-01 in chat, 16 photos; 5 kept, saved as b10-**.jpg)
+
+| File | Shot | Edit | Best use | Used in |
+|---|---|---|---|---|
+| b10-01.jpg | **Back view** in the locker-room mirror, red/black tee, lime lockers | Cropped to the mirror (removed the foreground close-up of his face and shoulder) | Back topics; no face, so good under longer text | |
+| b10-02.jpg | Locker room, red/black tee, mid shot, lime lockers | None | **Strong.** Lime matches the EARND palette: covers, CTA | |
+| b10-03.jpg | Navy tee, grey joggers, wide pink/green gym floor | None | Wide context, lots of room for text | |
+| b10-04.jpg | Olive tee, bicep flex framed inside the Smith machine | None (a tiny far-off figure behind the arm, no face) | Arm topics, covers | |
+| b10-05.jpg | Olive tee, side-on, dark machine floor, preacher bench in front | Blurred one seated person in the background | Arm/preacher-curl and machine topics | |
+
+Rejected from batch 4: 3 near-duplicates of b10-02; the pulldown-corridor shot with a woman's face behind (same spot as b9-04); the green-lit pulldown shot (face hidden, person seated behind); 4 Smith-machine variants (b10-04 is the best); 2 more stairwell shots.
