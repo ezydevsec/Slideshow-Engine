@@ -168,3 +168,16 @@ Edits: crops (black bars / phone UI, gym-branded pad); portrait-style background
 Rejected from batch 10: 2 changing-room shots (one in underwear with a member behind; one back view); home bathroom shot; 2 seated-barbell shots and 2 pink-trainer shots with many members clearly in frame; 1 black-tank shot with members close by; 2 seated near-duplicates; olive-tee machine-floor shot (b14 covers it).
 
 **Library now:** 65 photos.
+
+## Batch 11 (supplied 2026-11-01, 5 photos; 1 kept) — final batch
+| File | Shot | Edit | Best use | Used in |
+|---|---|---|---|---|
+| b17-01.jpg | Black tank, seated on bench, free-weight floor, green racks | Cropped out a member at the right edge | Between-sets / rest slides | |
+
+Rejected: black-tank back view under the stairs (enough back views); white tank with members close behind; olive tee seated with members bending in frame; shirtless locker-room shot (changing area: the gym bans filming there).
+
+## Library closed (founder, 2026-11-01)
+The founder has lost weight since these photos were taken and won't be taking new ones. **The library is final at 66 photos.** Rules for using it:
+- Photos are backdrops for teaching slides, not proof. Never caption or frame a photo as his current physique, a result, or a before/after ("this is what 2 sets got me", "me now").
+- Prefer clothed, face-forward shots (b16-01, b14-07, b12-03, b13-04, b10-02). Physique-forward shots (b11-02, b11-06, b13-03, b15-04, b16-02, b14-03) only on arm/exercise topic slides, and sparingly.
+- Text-led and app-screenshot slides can carry more of each set so photos repeat less.
