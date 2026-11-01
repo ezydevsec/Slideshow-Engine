@@ -153,3 +153,18 @@ Edits: background blur (portrait-mode style, person masked out so face and body 
 Rejected from batch 9: 2 changing-room shots (the gym's "No photos or filming in changing areas" sign is in frame; one has another person); 2 changing-room shots in underwear; 3 shirtless shots at home (not gym content); 4 seated-bench variants (b15-01 is the best; the wide ones have many members in frame).
 
 **Library now:** 60 photos.
+
+## Batch 10 (supplied 2026-11-01 in chat, 16 photos; 5 kept, saved as b16-**.jpg)
+Edits: crops (black bars / phone UI, gym-branded pad); portrait-style background blur with the person masked out. Face untouched in all.
+
+| File | Shot | Edit | Best use | Used in |
+|---|---|---|---|---|
+| b16-01.jpg | **White tank, not a selfie, looking straight at camera**, empty dark gym | Cropped black bars (video screenshot) | **Top cover**: face fully visible, no phone. "Why I…" hooks | |
+| b16-02.jpg | Same shoot, arm across, looking at camera | Cropped black bars | Covers, CTA. Slightly physique-forward | |
+| b16-03.jpg | White tank, seated on bench, face visible | Background blurred | "Between sets" / rest slides | |
+| b16-04.jpg | White tank, dark machine floor | Background blurred; cropped the gym-branded pad | Dark-theme covers | |
+| b16-05.jpg | **Black tank**, full body, dark free-weight floor | Background blurred (many members) | New outfit; dark theme | |
+
+Rejected from batch 10: 2 changing-room shots (one in underwear with a member behind; one back view); home bathroom shot; 2 seated-barbell shots and 2 pink-trainer shots with many members clearly in frame; 1 black-tank shot with members close by; 2 seated near-duplicates; olive-tee machine-floor shot (b14 covers it).
+
+**Library now:** 65 photos.
