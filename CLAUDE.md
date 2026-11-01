@@ -17,7 +17,9 @@ This folder runs TikTok and Instagram slideshows for EARND using the `slideshow-
 
 daily_batch_size: 6  # 3 posts per account per day across @earndapp and @ezyxbt; @earnie.lifts paused 2026-10-31
 winner_variation_share: 0.6
-trend_communities: [r/..., r/...]
+trend_communities: [r/naturalbodybuilding, r/StrongerByScience, r/GYM]
+trend_scan: weekly, Monday morning (founder, 2026-11-01). Daily runs reuse that week's file; no daily rescans.
+stats_pull: weekly, Sunday morning (founder, 2026-11-01).
 banned_words: []
 default_app_slide: 4
 

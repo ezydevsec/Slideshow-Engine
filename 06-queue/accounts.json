@@ -179,7 +179,6 @@
    "personas": "one persona per theme page"
   }
  },
- "weekly_stats": {
-  "schedule": "Scheduled task 'Weekly EARND stats re-scrape' (trig_01JaYrXCmiMa7z7V4dAjzggE): Mondays 08:35 Europe/London, Apify scrape → performance.csv → weekly review draft for gate 4."
- }
+ "weekly_stats": "Sunday 08:35 London: scheduled task 'Weekly EARND stats pull (Sunday)' (trig_01JaYrXCmiMa7z7V4dAjzggE) scrapes @earndapp + @ezyxbt via Apify (cap $0.50), updates 07-results/performance.csv, drafts the weekly review for gate 4.",
+ "weekly_trend_scan": "Monday 08:47 London: scheduled task 'Weekly EARND trend scan (Monday)' (trig_01FV2ZR4sTBmeUeZJowwL7om), one Apify run max (cap $0.50) + free web sources; output 02-research/trends/YYYY-MM-DD.md reused by daily runs Tue–Sun."
 }
