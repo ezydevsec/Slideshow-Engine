@@ -108,3 +108,17 @@ Edits: crop only. Face untouched.
 Rejected from batch 6: 6 more under-stairs olive/black shots that repeat batch 5 or b12-01/02; 2 corridor shots with the phone covering his face; the grey-joggers under-stairs shot (preacher bench filling the foreground); a side-on corridor shot with another member walking behind (b12-06 is the same angle without).
 
 **Library now:** 45 photos. The under-stairs spot has 9 and the dark machine floor 7; max 2 per spot per set.
+
+## Batch 7 (supplied 2026-11-01 in chat, 16 photos; 4 kept, saved as b13-**.jpg)
+Face untouched in all.
+
+| File | Shot | Edit | Best use | Used in |
+|---|---|---|---|---|
+| b13-01.jpg | Olive tee, full body, **free-weight area** (plate tree, cable stations, neon strip lights) | Cropped out the "please do not drop weights" sign | Covers, free-weight topics (RDL, hip thrust, shrugs). Phone covers part of face | |
+| b13-02.jpg | **White Nike tee**, under the stairs | Crop | New outfit; light theme | |
+| b13-03.jpg | Olive tee, **seated bicep flex**, pink/green gym floor | Soft blur on a member in the background | Arm topics. Physique-forward | |
+| b13-04.jpg | Black Nike tee, framed **between green squat racks**, colour plates | Cropped the gym logo at the right | **Strong cover**, very on-brand green | |
+
+Rejected from batch 7: side-on corridor shot (same as b12-06); 3 more white-tee and 3 more olive/black under-stairs shots (spot already has 10); 4 seated pink/green shots where the phone hides his face or another member is clearly in frame.
+
+**Library now:** 49 photos across 8 spots.
