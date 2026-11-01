@@ -76,3 +76,19 @@ Rejected from batch 3: the face-pixelated mirror shot (can't be used); a near-du
 | b10-05.jpg | Olive tee, side-on, dark machine floor, preacher bench in front | Blurred one seated person in the background | Arm/preacher-curl and machine topics | |
 
 Rejected from batch 4: 3 near-duplicates of b10-02; the pulldown-corridor shot with a woman's face behind (same spot as b9-04); the green-lit pulldown shot (face hidden, person seated behind); 4 Smith-machine variants (b10-04 is the best); 2 more stairwell shots.
+
+## Batch 5 (supplied 2026-11-01 in chat, 16 photos; 6 kept, saved as b11-**.jpg)
+All taken in one spot: under the stairs, white brick wall, checker-plate below. Edits: crop only (removed most of the checker-plate; b11-03 cropped to the mirror to remove a foreground face close-up). Face untouched.
+
+| File | Shot | Best use | Used in |
+|---|---|---|---|
+| b11-01.jpg | Navy UA tee, arm out to the side | Calm hook/CTA; lots of clean wall for text | |
+| b11-02.jpg | Navy tee, bicep flex | Arm topics. Physique-forward: keep away from EARND copy | |
+| b11-03.jpg | **Back view**, navy tee | Back/pulldown topics; no face | |
+| b11-04.jpg | Black hoodie and joggers, drink in hand | Rest-day / end-of-session slides | |
+| b11-05.jpg | Olive tee, **checking his watch** | Rest-time slides (2–3 min between working sets) | |
+| b11-06.jpg | Olive tee, bicep flex | Arm topics. Physique-forward | |
+
+Rejected from batch 5: 5 near-duplicates of the navy/olive flexes and arm-out pose; 3 near-duplicates of the relaxed standing shot; the diagonal-mirror navy shot; the white Nike tee in the shower/toilet (not a gym, grab rails in frame).
+
+**Library now:** 39 photos. The under-stairs white-brick spot now has 7 (incl. b9-05); use at most 2 per set.
