@@ -122,3 +122,20 @@ Face untouched in all.
 Rejected from batch 7: side-on corridor shot (same as b12-06); 3 more white-tee and 3 more olive/black under-stairs shots (spot already has 10); 4 seated pink/green shots where the phone hides his face or another member is clearly in frame.
 
 **Library now:** 49 photos across 8 spots.
+
+## Batch 8 (supplied 2026-11-01 in chat, 16 photos; 7 kept, saved as b14-02 … b14-08)
+New spots: the **dark machine floor with green pillars** (selectorised machines, carpet) and the **cable crossover station**. Face untouched in all.
+
+| File | Shot | Edit | Best use | Used in |
+|---|---|---|---|---|
+| b14-02.jpg | Navy UA tee, inside a green rack, colour plates | Cropped out the "please clear your bars" sign | Covers; free-weight topics | |
+| b14-03.jpg | Olive tee, **seated on the lat pulldown**, bicep flex | None | Pulldown / back slides. Physique-forward | |
+| b14-04.jpg | **White tee, close, machine floor**, face clear | Soft blur on a distant member behind his shoulder | **Strong cover**, machines topics, dark theme | |
+| b14-05.jpg | **Grey hoodie**, centred, pink/green floor | Crop | New outfit; calm hook/CTA, rest-day slides | |
+| b14-06.jpg | Black hoodie, cable crossover station | Cropped most of the bar basket | Cable topics (pushdowns, flies) | |
+| b14-07.jpg | **Navy UA tee, close, face fully visible** (phone held low) | None | **Strongest face shot.** Covers, "why I…" hooks | |
+| b14-08.jpg | Navy UA tee, wide, machine floor + green neon | Crop | Dark theme; machines topics | |
+
+Rejected from batch 8: 2 black-tee green-rack shots (b13-04 already covers it; one has a member in frame); 1 under-stairs shot; the wide white-tee shot (member in background, b14-04 is better); a tight white-tee crop that left him small behind a machine; the grey-hoodie shot with a member curling in frame; 3 more navy machine-floor variants.
+
+**Library now:** 56 photos across 10 spots.
