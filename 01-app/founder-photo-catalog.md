@@ -92,3 +92,19 @@ All taken in one spot: under the stairs, white brick wall, checker-plate below. 
 Rejected from batch 5: 5 near-duplicates of the navy/olive flexes and arm-out pose; 3 near-duplicates of the relaxed standing shot; the diagonal-mirror navy shot; the white Nike tee in the shower/toilet (not a gym, grab rails in frame).
 
 **Library now:** 39 photos. The under-stairs white-brick spot now has 7 (incl. b9-05); use at most 2 per set.
+
+## Batch 6 (supplied 2026-11-01 in chat, 16 photos; 6 kept, saved as b12-**.jpg)
+Edits: crop only. Face untouched.
+
+| File | Shot | Best use | Used in |
+|---|---|---|---|
+| b12-01.jpg | Under stairs, olive tee, hoodie over shoulder, drink in hand | End-of-session / "done" slides | |
+| b12-02.jpg | Under stairs, **black Nike tee**, towel round neck | New outfit; rest-between-sets, post-session | |
+| b12-03.jpg | Navy tee, centred, **long dark-green machine floor**, looking at camera | **Strong cover.** Machines topics, dark theme | |
+| b12-04.jpg | Navy tee, close, standing behind the preacher bench | Preacher curl / arm slides | |
+| b12-05.jpg | Navy tee, **wiping his forehead**, preacher bench, machine floor | "Working sets are hard" / effort slides | |
+| b12-06.jpg | Navy tee, side-on, machine floor, preacher bench | Covers, machines topics, dark theme | |
+
+Rejected from batch 6: 6 more under-stairs olive/black shots that repeat batch 5 or b12-01/02; 2 corridor shots with the phone covering his face; the grey-joggers under-stairs shot (preacher bench filling the foreground); a side-on corridor shot with another member walking behind (b12-06 is the same angle without).
+
+**Library now:** 45 photos. The under-stairs spot has 9 and the dark machine floor 7; max 2 per spot per set.
