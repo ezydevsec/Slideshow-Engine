@@ -1,0 +1,119 @@
+{
+  "set_id": "2026-11-01-ezyxbt-why-calves-first",
+  "status": "draft 2026-11-01: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "theme": "light",
+  "angle": "both of the founder's lower days open with calf press (fact); reasons need founder confirmation",
+  "canvas": "1080x1350",
+  "caption": "why calves come first on my leg days",
+  "hashtags": [
+    "#calves",
+    "#legday",
+    "#gymtips",
+    "#upperlower"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "WHY I TRAIN",
+          false
+        ],
+        [
+          "CALVES FIRST",
+          true
+        ],
+        [
+          "ON LEG DAY",
+          false
+        ]
+      ],
+      "photo": {
+        "file": "b6-03.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 1",
+      "title": "THEY NEVER GET SKIPPED.",
+      "body": "at the end of leg day, calves are the first thing i'd cut.",
+      "photo": {
+        "file": "b5-02.jpg",
+        "focus": [
+          0.5,
+          0.5
+        ],
+        "crop": [
+          0,
+          0.15,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 2",
+      "title": "I'M FRESH FOR THE FULL STRETCH.",
+      "body": "full stretch at the bottom, pause, then press.",
+      "photo": {
+        "file": "b6-08.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "BOTH DAYS",
+      "title": "BOTH MY LEG DAYS OPEN WITH CALF PRESS.",
+      "body": "lower a and lower b.",
+      "sets": "2 × 4–8",
+      "photo": {
+        "file": "b4-12.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "THE GOAL",
+      "title": "BEAT LAST TIME.",
+      "body": "same as every other lift. one more rep or a little more weight.",
+      "photo": {
+        "file": "b1-09.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "title": "TRY CALVES FIRST NEXT LEG DAY.",
+      "body": "i'm building EARND. follow @earndapp for the launch.",
+      "photo": {
+        "file": "b6-13.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    }
+  ]
+}

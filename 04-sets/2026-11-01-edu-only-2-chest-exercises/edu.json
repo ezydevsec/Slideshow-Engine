@@ -1,0 +1,105 @@
+{
+  "set_id": "2026-11-01-edu-only-2-chest-exercises",
+  "status": "draft 2026-11-01: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "angle": "contrarian hook: a press and a fly cover chest; uses the regenerated chest-press pose",
+  "canvas": "1080x1350",
+  "caption": "a press and a fly. that's the whole chest day",
+  "hashtags": [
+    "#chestday",
+    "#chestworkout",
+    "#gymtips",
+    "#upperlower",
+    "#gymtok"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "YOU ONLY NEED",
+          false
+        ],
+        [
+          "2 CHEST",
+          true
+        ],
+        [
+          "EXERCISES",
+          false
+        ]
+      ],
+      "pose": "cover-arms-open",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "THE IDEA",
+      "title": "A PRESS AND A FLY.",
+      "body": "the press lets you load it heavy. the fly takes your chest into a deep stretch.",
+      "pose": "thinking",
+      "mascot": true
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "MACHINE CHEST PRESS",
+      "muscle": "Chest",
+      "sets": "2 × 4–8",
+      "cue": "Handles at mid-chest. Press straight out, control it back.",
+      "pose": "chest-press"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2",
+      "title": "PEC DECK",
+      "muscle": "Chest",
+      "sets": "2 × 4–8",
+      "cue": "Soft elbows. Squeeze together, then open into a deep stretch.",
+      "pose": "pec-deck"
+    },
+    {
+      "type": "cards",
+      "title": "WHERE THEY GO",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Upper A: Machine Chest Press",
+          "chest-press"
+        ],
+        [
+          "Upper B: Pec Deck",
+          "pec-deck"
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON BOTH",
+      "body": "Last session and today's target, on every set.",
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0,
+        0.0,
+        1,
+        0.56
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR CHEST DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "pose": "pointing",
+      "mascot": true
+    }
+  ]
+}

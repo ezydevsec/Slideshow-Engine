@@ -1,0 +1,104 @@
+{
+  "set_id": "2026-11-01-edu-5-mistakes-stuck-lifts",
+  "status": "draft 2026-11-01: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "light",
+  "angle": "5 mistakes ranked, #1 = not knowing what you lifted last time (EARND's core pain)",
+  "canvas": "1080x1350",
+  "caption": "#1 is the one almost everyone makes",
+  "hashtags": [
+    "#gymmistakes",
+    "#gymtips",
+    "#progressiveoverload",
+    "#beginnergym",
+    "#gymtok"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "5 MISTAKES",
+          true
+        ],
+        [
+          "KEEPING YOUR",
+          false
+        ],
+        [
+          "LIFTS STUCK",
+          false
+        ]
+      ],
+      "pose": "thinking",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "#5",
+      "title": "CHANGING YOUR PROGRAMME EVERY WEEK.",
+      "body": "you never repeat anything long enough to beat it.",
+      "pose": "thinking",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "#4",
+      "title": "HALF REPS TO ADD WEIGHT.",
+      "body": "if your form breaks, you haven't earned the increase.",
+      "pose": "leg-extension",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "#3",
+      "title": "LOTS OF EASY SETS.",
+      "body": "a few hard working sets, close to failure, do the job.",
+      "pose": "preacher-curl",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "#2",
+      "title": "NO REST BETWEEN WORKING SETS.",
+      "body": "rest 2–3 minutes so the next set is a real one.",
+      "pose": "cover-arms-open",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "#1",
+      "title": "NOT KNOWING WHAT YOU LIFTED LAST TIME.",
+      "body": "no target means nothing to beat.",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT YOU LIFTED LAST TIME",
+      "body": "And today's target, on every set.",
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0,
+        0.0,
+        1,
+        0.56
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS. FIX ONE NEXT SESSION.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "pose": "pointing",
+      "mascot": true
+    }
+  ]
+}

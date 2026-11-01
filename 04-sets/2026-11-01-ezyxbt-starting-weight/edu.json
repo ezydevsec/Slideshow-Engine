@@ -1,0 +1,119 @@
+{
+  "set_id": "2026-11-01-ezyxbt-starting-weight",
+  "status": "draft 2026-11-01: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "theme": "dark",
+  "angle": "how the founder picks a starting load (from his progression rule 1)",
+  "canvas": "1080x1350",
+  "caption": "how i pick my starting weight on a new exercise",
+  "hashtags": [
+    "#beginnergym",
+    "#gymtips",
+    "#progressiveoverload",
+    "#upperlower"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "HOW I PICK MY",
+          false
+        ],
+        [
+          "STARTING WEIGHT",
+          true
+        ],
+        [
+          "ON A NEW EXERCISE",
+          false
+        ]
+      ],
+      "photo": {
+        "file": "b7-12.jpg",
+        "focus": [
+          0.6,
+          0.45
+        ],
+        "crop": [
+          0,
+          0.25,
+          0.66,
+          1
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "STEP 1",
+      "title": "WARM UP AS NEEDED.",
+      "body": "warm-ups don't count and don't get logged.",
+      "photo": {
+        "file": "b5-01.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "STEP 2",
+      "title": "FIND A WEIGHT I CAN DO FOR AT LEAST 4 CLEAN REPS.",
+      "body": "full range, same execution every rep.",
+      "photo": {
+        "file": "b6-11.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "STEP 3",
+      "title": "THAT'S MY FIRST NUMBER.",
+      "body": "i log it. next session, i try to beat it.",
+      "example": "60 kg × 5 → next time: 6",
+      "photo": {
+        "file": "b5-14.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "THE RULE",
+      "title": "UNDER 4 CLEAN REPS? GO LIGHTER.",
+      "body": "the weight is too heavy for now.",
+      "photo": {
+        "file": "b4-15.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "title": "START LIGHTER THAN YOUR EGO WANTS.",
+      "body": "i'm building EARND. follow @earndapp for the launch.",
+      "photo": {
+        "file": "b7-15.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "set_id": "2026-11-01-edu-complete-back",
+  "status": "draft 2026-11-01: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "light",
+  "angle": "4 back exercises, one per job (width, stretch, thickness, traps); new hooks for @earndapp, not the paused Earnie copy",
+  "canvas": "1080x1350",
+  "caption": "width, stretch, thickness, traps. 4 back exercises that cover everything",
+  "hashtags": [
+    "#backday",
+    "#backworkout",
+    "#gymtips",
+    "#upperlower",
+    "#gymtok"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "4 BACK EXERCISES",
+          false
+        ],
+        [
+          "THAT COVER",
+          false
+        ],
+        [
+          "EVERYTHING",
+          true
+        ]
+      ],
+      "pose": "cover-arms-open",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "THE IDEA",
+      "title": "YOUR BACK HAS 4 JOBS: WIDTH, STRETCH, THICKNESS, TRAPS.",
+      "body": "one exercise for each.",
+      "pose": "thinking",
+      "mascot": true
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "PULLDOWN",
+      "muscle": "Lats: width",
+      "sets": "2 × 4–8",
+      "cue": "Wide or neutral grip. Elbows down to your sides.",
+      "pose": "pulldown"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2",
+      "title": "CABLE PULLOVER",
+      "muscle": "Lats: stretch",
+      "sets": "2 × 4–8",
+      "cue": "Arms long. Sweep the bar down to your thighs.",
+      "pose": "pullover"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#3",
+      "title": "CHEST-SUPPORTED ROW",
+      "muscle": "Upper back: thickness",
+      "sets": "2 × 4–8",
+      "cue": "Chest on the pad. Row your elbows back, no swinging.",
+      "pose": "chest-supported-row"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#4",
+      "title": "SHRUG",
+      "muscle": "Upper traps",
+      "sets": "2 × 4–8",
+      "cue": "Straight up. Pause at the top. No rolling.",
+      "pose": "shrug"
+    },
+    {
+      "type": "cards",
+      "title": "THE FULL BACK",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Pulldown",
+          "pulldown"
+        ],
+        [
+          "Cable Pullover",
+          "pullover"
+        ],
+        [
+          "Chest-Supported Row",
+          "chest-supported-row"
+        ],
+        [
+          "Shrug",
+          "shrug"
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY ONE",
+      "body": "Last session and today's target, on every set.",
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0,
+        0.0,
+        1,
+        0.56
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR BACK DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "pose": "pointing",
+      "mascot": true
+    }
+  ]
+}

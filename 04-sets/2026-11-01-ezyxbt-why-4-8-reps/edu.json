@@ -1,0 +1,113 @@
+{
+  "set_id": "2026-11-01-ezyxbt-why-4-8-reps",
+  "status": "draft 2026-11-01: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "theme": "dark",
+  "angle": "founder's reasons for 4–8 reps (first person; reasons 1–2 need founder confirmation)",
+  "canvas": "1080x1350",
+  "caption": "why every set i do is 4–8 reps",
+  "hashtags": [
+    "#progressiveoverload",
+    "#gymtips",
+    "#repranges",
+    "#upperlower"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": false,
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "WHY I KEEP",
+          false
+        ],
+        [
+          "EVERY SET AT",
+          false
+        ],
+        [
+          "4–8 REPS",
+          true
+        ]
+      ],
+      "photo": {
+        "file": "b7-15.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 1",
+      "title": "HEAVY ENOUGH THAT EVERY REP COUNTS.",
+      "body": "4–8 clean reps, close to failure.",
+      "photo": {
+        "file": "b6-13.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 2",
+      "title": "EASY TO SEE WHEN I'VE IMPROVED.",
+      "body": "one more clean rep than last time is a win.",
+      "photo": {
+        "file": "b5-16.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 3",
+      "title": "A CLEAR RULE FOR ADDING WEIGHT.",
+      "body": "own 8 clean reps, add load, back to 4–5.",
+      "example": "100 kg × 8 → 105 kg × 5",
+      "photo": {
+        "file": "b6-11.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "kicker": "THE CATCH",
+      "title": "CLEAN REPS ONLY.",
+      "body": "if the range or execution slips, i haven't earned the increase.",
+      "photo": {
+        "file": "b4-10.jpg",
+        "focus": [
+          0.45,
+          0.15
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "title": "PICK A RANGE. STICK TO IT.",
+      "body": "i'm building EARND. follow @earndapp for the launch.",
+      "photo": {
+        "file": "b7-16.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      }
+    }
+  ]
+}
