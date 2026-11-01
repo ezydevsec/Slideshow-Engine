@@ -139,3 +139,17 @@ New spots: the **dark machine floor with green pillars** (selectorised machines,
 Rejected from batch 8: 2 black-tee green-rack shots (b13-04 already covers it; one has a member in frame); 1 under-stairs shot; the wide white-tee shot (member in background, b14-04 is better); a tight white-tee crop that left him small behind a machine; the grey-hoodie shot with a member curling in frame; 3 more navy machine-floor variants.
 
 **Library now:** 56 photos across 10 spots.
+
+## Batch 9 (supplied 2026-11-01 in chat, 16 photos; 4 kept, saved as b15-**.jpg)
+Edits: background blur (portrait-mode style, person masked out so face and body are untouched) to hide other members; crops. Face untouched in all.
+
+| File | Shot | Edit | Best use | Used in |
+|---|---|---|---|---|
+| b15-01.jpg | White Nike tee, **seated on a bench between sets**, face visible, dumbbells at feet | Background blurred (several members behind) | **Strong cover**; "between sets" / rest slides | |
+| b15-02.jpg | **White tank, dark machine floor**, moody low light | Background blurred | Dark-theme covers | |
+| b15-03.jpg | White tank, arms crossed, dark floor | Background blurred; cropped the gym-branded pad | Dark-theme covers, CTA | |
+| b15-04.jpg | Tank pulled up, abs, walking towards camera (video screenshot) | Cropped the black bars and phone UI | **Physique-only.** Never next to EARND copy or any payoff slide (no physique promises). Lower resolution | |
+
+Rejected from batch 9: 2 changing-room shots (the gym's "No photos or filming in changing areas" sign is in frame; one has another person); 2 changing-room shots in underwear; 3 shirtless shots at home (not gym content); 4 seated-bench variants (b15-01 is the best; the wide ones have many members in frame).
+
+**Library now:** 60 photos.
