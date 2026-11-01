@@ -1,34 +1,112 @@
 {
   "set_id": "2026-11-01-ezyxbt-native-arm-exercises",
-  "status": "format approved 2026-11-01; waiting for updated EARND screenshots before final render",
+  "status": "draft 2026-11-01: awaiting gate 3",
   "format": "native-tip-slideshow",
   "account": "@ezyxbt",
   "account_type": "founder",
   "angle": "the 4 arm exercises in the founder's programme (2 biceps, 2 triceps), one per slide; app as the closing tip",
   "canvas": "1080x1920",
   "caption": "#armworkout #biceps #triceps #gymtok #upperlower",
-  "sound": {"mode": "trending", "note": ""},
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
   "ai_images": true,
   "ai_note": "anatomy diagrams are generated (01-app/brand/anatomy); founder photos are real",
   "slides": [
-    {"type": "cover", "photo": {"file": "b14-07.jpg", "focus": [0.5, 0.35]},
-     "hook": "every arm exercise in my programme", "sub": "(just 4. here's why each one)", "anatomy": "biceps"},
-    {"type": "exercise", "anatomy": "biceps", "name": "Preacher Curl", "sets": "2 × 4–8",
-     "text": "the pad stops you swinging. control it all the way down."},
-    {"type": "exercise", "anatomy": "biceps", "name": "Bayesian or Hammer Curl", "sets": "2 × 4–8",
-     "text": "bayesian: cable behind you, arm stretched back. hammer: neutral grip, no swinging."},
-    {"type": "exercise", "anatomy": "triceps", "name": "Poliquin Pushdown", "sets": "2 × 4–8",
-     "text": "elbows pinned to your sides. squeeze at the bottom."},
-    {"type": "exercise", "anatomy": "triceps", "name": "Triceps Extension", "sets": "2 × 4–8",
-     "text": "let the weight stretch your triceps at the bottom, then press up."},
-    {"type": "list", "photo": {"file": "b12-04.jpg", "focus": [0.5, 0.4]}, "title": "where they go in my week",
-     "lines": ["# upper A", "preacher curl", "poliquin pushdown", "# upper B", "bayesian / hammer curl", "triceps extension"],
-     "note": "2 working sets each. no arm day."},
-    {"type": "tip", "photo": {"file": "b16-04.jpg", "focus": [0.5, 0.4]}, "label": "real tip (don't skip this)",
-     "text": "write down every working set. beating last time by one rep is how you know you've improved.",
-     "shot": "01-app/assets/exercise-target.png", "crop": [0, 0.0, 1, 0.56], "example": true,
-     "footer": "this is the app i'm building for it. it's called EARND."},
-    {"type": "cta", "photo": {"file": "b16-02.jpg", "focus": [0.5, 0.3]},
-     "text": "save this for upper day", "sub": "i'm building EARND. follow @earndapp for the launch."}
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b14-07.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      },
+      "hook": "every arm exercise in my programme",
+      "sub": "(just 4. here's why each one)",
+      "anatomy": "biceps"
+    },
+    {
+      "type": "exercise",
+      "anatomy": "biceps",
+      "name": "Preacher Curl",
+      "sets": "2 × 4–8",
+      "text": "the pad stops you swinging. control it all the way down."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "biceps",
+      "name": "Bayesian or Hammer Curl",
+      "sets": "2 × 4–8",
+      "text": "bayesian: cable behind you, arm stretched back. hammer: neutral grip, no swinging."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "triceps",
+      "name": "Poliquin Pushdown",
+      "sets": "2 × 4–8",
+      "text": "elbows pinned to your sides. squeeze at the bottom."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "triceps",
+      "name": "Triceps Extension",
+      "sets": "2 × 4–8",
+      "text": "let the weight stretch your triceps at the bottom, then press up."
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b12-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "title": "where they go in my week",
+      "lines": [
+        "# upper A",
+        "preacher curl",
+        "poliquin pushdown",
+        "# upper B",
+        "bayesian / hammer curl",
+        "triceps extension"
+      ],
+      "note": "2 working sets each. no arm day."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b16-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip (don't skip this)",
+      "text": "write down every working set. beating last time by one rep is how you know you've improved.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "this is the app i'm building for it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b16-02.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for upper day",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
   ]
 }

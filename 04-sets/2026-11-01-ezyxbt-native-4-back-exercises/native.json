@@ -1,6 +1,6 @@
 {
   "set_id": "2026-11-01-ezyxbt-native-4-back-exercises",
-  "status": "format approved 2026-11-01; waiting for updated EARND screenshots before final render",
+  "status": "draft 2026-11-01: awaiting gate 3",
   "format": "native-tip-slideshow",
   "account": "@ezyxbt",
   "account_type": "founder",
@@ -86,12 +86,12 @@
       },
       "label": "real tip (don't skip this)",
       "text": "track every working set. if you don't know what you lifted last time, you can't beat it.",
-      "shot": "01-app/assets/exercise-target.png",
+      "shot": "01-app/assets/demo-log-working-set.png",
       "crop": [
-        0,
-        0.0,
-        1,
-        0.56
+        0.225,
+        0.305,
+        0.775,
+        0.535
       ],
       "example": true,
       "footer": "this is the app i'm building for it. it's called EARND."
