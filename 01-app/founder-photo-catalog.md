@@ -48,3 +48,19 @@ Stored in `01-app/founder-photos/` (git-ignored). Crop and resize only.
 | b7-12.jpg | White tank mirror, dark gym | Check right edge | Spare | |
 | b8-03.jpg | Seated with barbell in front | **Yes**, behind | Avoid or crop hard | |
 | b8-10.jpg | Black tank mirror selfie | **Yes**, behind | Avoid or crop hard | |
+
+## Batch 3 (supplied 2026-11-01 in chat, 16 photos; 8 kept, saved as b9-**.jpg)
+Edits: crop, plus one blur of a background person (b9-02). Face untouched in every photo.
+
+| File | Shot | Edit | Best use | Used in |
+|---|---|---|---|---|
+| b9-01.jpg | Red/black tee, grey shorts, full body, wide open gym (plate-loaded machines) | Cropped out the "please replace weights" sign | Covers, wide context; a new gym look | |
+| b9-02.jpg | Navy UA tee, side-on arm, lat pulldown, pink/green gym | Cropped out a person at the right edge; blurred a distant lifter | **Strongest new shot.** Covers, CTA | |
+| b9-03.jpg | Navy UA tee, close, lat pulldown, face visible | None | Back/pulldown topics, close portrait | |
+| b9-04.jpg | Same outfit, wide, pulldown machine + gym floor | None | Room above for text; machines topics | |
+| b9-05.jpg | Stairwell wall, navy tee, centred | None | Only stairwell shot kept (already 8 of these) | |
+| b9-06.jpg | Green racks, plates in foreground, small in frame | None | Energetic, green; free-weight topics | |
+| b9-07.jpg | Green-lit dumbbell area, mid shot, looking down | None | Covers, dark theme | |
+| b9-08.jpg | Same spot, looking at camera, wider | Cropped out the gym sign text at the top | Dark theme, CTA | |
+
+Rejected from batch 3: the face-pixelated mirror shot (can't be used); a near-duplicate of b9-01; the shot with several people behind (the cable area); the pulldown shot with a woman walking towards camera (b9-02 covers it); 3 more stairwell shots; a near-duplicate of b9-08.
