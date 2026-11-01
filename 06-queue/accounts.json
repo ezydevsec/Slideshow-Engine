@@ -1,183 +1,185 @@
 {
-  "_readme": "Account settings for every posting account. Every set's slides.json names exactly one account by handle. Use that account's voice and visual template, and end with its CTA for the current phase. Readiness is checked per account (scripts/account_status.py): a field in an account's `required` list that is null or contains 'TO CONFIRM' blocks only that account's content. `bio` is advisory: unconfirmed bios produce a warning, not a block.",
-  "phase": "prelaunch",
-  "launch": {
-    "download_url": null,
-    "note": "Stays null until launch. Download CTAs are only allowed once phase is 'launched' and this is set."
+ "_readme": "Account settings for every posting account. Every set's slides.json names exactly one account by handle. Use that account's voice and visual template, and end with its CTA for the current phase. Readiness is checked per account (scripts/account_status.py): a field in an account's `required` list that is null or contains 'TO CONFIRM' blocks only that account's content. `bio` is advisory: unconfirmed bios produce a warning, not a block.",
+ "phase": "prelaunch",
+ "launch": {
+  "download_url": null,
+  "note": "Stays null until launch. Download CTAs are only allowed once phase is 'launched' and this is set."
+ },
+ "palette": {
+  "black": "#0B0B0B",
+  "lime": "#C6FF00",
+  "white": "#FFFFFF",
+  "status": "working palette, confirmed 2026-10-24"
+ },
+ "global_rules": [
+  "Never invent user experiences, testimonials, or independent endorsements, on any account.",
+  "Never present our own promotional pages as independent recommendations. Every account owned or run by us discloses that tie.",
+  "Every post needs approval in chat before it is queued, and approval before it publishes.",
+  "Our accounts never comment on, like, or reply to each other's posts.",
+  "@earndapp and @ezyxbt run in parallel (approved 2026-10-24). Don't add theme pages or more posting workload until a format shows repeatable results."
+ ],
+ "types": {
+  "brand": "The official EARND account. Speaks as EARND: direct product language.",
+  "founder": "The founder's personal account. First person as the person building EARND. Only real experiences the founder has confirmed.",
+  "theme": "A topic page run by the EARND team. Useful content first; any EARND mention is clearly our own product, never a neutral recommendation."
+ },
+ "accounts": [
+  {
+   "handle": "@earndapp",
+   "type": "brand",
+   "status": "active",
+   "platforms": [
+    "tiktok"
+   ],
+   "inactive_platforms": [
+    "instagram (inactive until confirmed)"
+   ],
+   "posting_tool_ids": {},
+   "required": [
+    "platforms",
+    "voice",
+    "visual_template",
+    "cta.prelaunch",
+    "disclosure"
+   ],
+   "voice": "Lowercase hooks in the audience's language; the app slide onward in direct EARND product language (\"EARND shows...\", \"EARND puts...\"). No first-person user claims.",
+   "visual_template": {
+    "name": "black-and-lime",
+    "canvas": "1080x1920",
+    "bg": "#0B0B0B",
+    "hook_and_cta_text": "#C6FF00",
+    "middle_text": "#FFFFFF",
+    "app_slide": "black text on a #C6FF00 box over the real screenshot",
+    "text_mode": "plain (app slide: background)",
+    "account_mark": "none: no handle/logo tag on slides (founder, 2026-10-30)",
+    "mascot_note": "@earnie.lifts paused 2026-10-31: the mascot can be used on @earndapp again (edu-template sets)."
+   },
+   "cta": {
+    "prelaunch": "EARND launches soon. Follow for the launch.",
+    "launched": "TO CONFIRM at launch",
+    "destination_prelaunch": "follow @earndapp",
+    "destination_launched": "launch.download_url"
+   },
+   "disclosure": "The account is EARND itself, so the tie is self-evident.",
+   "bio": "The 4-day upper/lower app. See what to beat every set. Launching soon.",
+   "personas": [
+    "Persona 1: The inconsistent tracker",
+    "Persona 2: The busy returning lifter"
+   ],
+   "bio_note": "set on TikTok by the founder 2026-10-29"
   },
-  "palette": {
-    "black": "#0B0B0B",
-    "lime": "#C6FF00",
-    "white": "#FFFFFF",
-    "status": "working palette, confirmed 2026-10-24"
+  {
+   "handle": "@ezyxbt",
+   "type": "founder",
+   "status": "active",
+   "platforms": [
+    "tiktok"
+   ],
+   "inactive_platforms": [
+    "instagram (inactive until confirmed)"
+   ],
+   "posting_tool_ids": {},
+   "required": [
+    "platforms",
+    "voice",
+    "visual_template",
+    "cta.prelaunch",
+    "disclosure"
+   ],
+   "voice": "Direct, casual, first person, as EARND's founder. Only experiences the founder has confirmed as real.",
+   "visual_template": {
+    "name": "native-tip-9x16",
+    "canvas": "1080x1920",
+    "renderer": ".claude/skills/slideshow-engine/scripts/native_render.py (native.json)",
+    "reference": "02-research/formats/native-tip-slideshow.md (@gymbratzzzz / @mayaviefit)",
+    "images": "Cover and backgrounds: the founder's real photos (closed library, 01-app/founder-photo-catalog.md; minor edits only, never the face). Exercise slides: generated anatomy diagrams from 01-app/brand/anatomy/ (AI label on).",
+    "text": "TikTok-native: white centred text with soft shadow, white pill labels. Lowercase, casual, first person.",
+    "slide_count_labels": false,
+    "earnd_promotion": "Second-to-last slide only: 'real tip' slide with a real EARND screenshot, disclosed as the founder's app. Earlier slides don't mention EARND.",
+    "account_mark": "none",
+    "note": "Approved by the founder 2026-11-01, replacing founder-photo-edu-3x4 (1080x1350)."
+   },
+   "cta": {
+    "prelaunch": "i'm building EARND. follow @earndapp for the launch.",
+    "launched": "TO CONFIRM at launch",
+    "destination_prelaunch": "follow @earndapp",
+    "destination_launched": "launch.download_url"
+   },
+   "disclosure": "The tip slide says the founder is building EARND; the final CTA repeats it. Bio should say so too.",
+   "bio": null,
+   "bio_proposed": "Training + building EARND (@earndapp). The splits and rules I actually use.",
+   "personas": "Not set. Founder content follows the founder's real training, not a persona."
   },
-  "global_rules": [
-    "Never invent user experiences, testimonials, or independent endorsements, on any account.",
-    "Never present our own promotional pages as independent recommendations. Every account owned or run by us discloses that tie.",
-    "Every post needs approval in chat before it is queued, and approval before it publishes.",
-    "Our accounts never comment on, like, or reply to each other's posts.",
-    "@earndapp and @ezyxbt run in parallel (approved 2026-10-24). Don't add theme pages or more posting workload until a format shows repeatable results."
-  ],
-  "types": {
-    "brand": "The official EARND account. Speaks as EARND: direct product language.",
-    "founder": "The founder's personal account. First person as the person building EARND. Only real experiences the founder has confirmed.",
-    "theme": "A topic page run by the EARND team. Useful content first; any EARND mention is clearly our own product, never a neutral recommendation."
-  },
-  "accounts": [
-    {
-      "handle": "@earndapp",
-      "type": "brand",
-      "status": "active",
-      "platforms": [
-        "tiktok"
-      ],
-      "inactive_platforms": [
-        "instagram (inactive until confirmed)"
-      ],
-      "posting_tool_ids": {},
-      "required": [
-        "platforms",
-        "voice",
-        "visual_template",
-        "cta.prelaunch",
-        "disclosure"
-      ],
-      "voice": "Lowercase hooks in the audience's language; the app slide onward in direct EARND product language (\"EARND shows...\", \"EARND puts...\"). No first-person user claims.",
-      "visual_template": {
-        "name": "black-and-lime",
-        "canvas": "1080x1920",
-        "bg": "#0B0B0B",
-        "hook_and_cta_text": "#C6FF00",
-        "middle_text": "#FFFFFF",
-        "app_slide": "black text on a #C6FF00 box over the real screenshot",
-        "text_mode": "plain (app slide: background)",
-        "account_mark": "none: no handle/logo tag on slides (founder, 2026-10-30)",
-        "mascot_note": "@earnie.lifts paused 2026-10-31: the mascot can be used on @earndapp again (edu-template sets)."
-      },
-      "cta": {
-        "prelaunch": "EARND launches soon. Follow for the launch.",
-        "launched": "TO CONFIRM at launch",
-        "destination_prelaunch": "follow @earndapp",
-        "destination_launched": "launch.download_url"
-      },
-      "disclosure": "The account is EARND itself, so the tie is self-evident.",
-      "bio": "The 4-day upper/lower app. See what to beat every set. Launching soon.",
-      "personas": [
-        "Persona 1: The inconsistent tracker",
-        "Persona 2: The busy returning lifter"
-      ],
-      "bio_note": "set on TikTok by the founder 2026-10-29"
-    },
-    {
-      "handle": "@ezyxbt",
-      "type": "founder",
-      "status": "active",
-      "platforms": [
-        "tiktok"
-      ],
-      "inactive_platforms": [
-        "instagram (inactive until confirmed)"
-      ],
-      "posting_tool_ids": {},
-      "required": [
-        "platforms",
-        "voice",
-        "visual_template",
-        "cta.prelaunch",
-        "disclosure"
-      ],
-      "voice": "Direct, casual, first person, as EARND's founder. Only experiences the founder has confirmed as real.",
-      "visual_template": {
-        "name": "founder-photo-edu-3x4",
-        "canvas": "1080x1350",
-        "images": "The founder's real gym photos only, from 01-app/founder-photos/. For every set, pick the strongest, most relevant photos for each slide (see 01-app/founder-photo-catalog.md). Crop and resize only: the founder's face and physique stay unchanged. Never generated images. If no supplied photo fits a slide, ask the founder for more instead of forcing a weak fit.",
-        "text": "Minimal. White text with black stroke (adjust once real photos are in).",
-        "slide_count_labels": false,
-        "earnd_promotion": "Final slide only. Earlier slides don't mention EARND.",
-        "note": "Changed 2026-10-29 (founder): 3:4 edu-template slideshows (bluebro/Arrow style) with the founder's real photos as panels; rendered with scripts/edu_render.py, mark @ezyxbt. Previously founder-photo-square 1080x1080.",
-        "account_mark": "none: no handle/logo tag on slides (founder, 2026-10-30)"
-      },
-      "cta": {
-        "prelaunch": "i'm building EARND. follow @earndapp for the launch.",
-        "launched": "TO CONFIRM at launch",
-        "destination_prelaunch": "follow @earndapp",
-        "destination_launched": "launch.download_url"
-      },
-      "disclosure": "The final slide's CTA says the founder is building EARND. Bio should say so too.",
-      "bio": null,
-      "bio_proposed": "Training + building EARND (@earndapp). The splits and rules I actually use.",
-      "personas": "Not set. Founder content follows the founder's real training, not a persona."
-    },
-    {
-      "handle": "@earnie.lifts",
-      "type": "theme",
-      "status": "paused",
-      "platforms": [
-        "tiktok"
-      ],
-      "inactive_platforms": [],
-      "posting_tool_ids": {},
-      "required": [
-        "handle",
-        "platforms",
-        "voice",
-        "visual_template",
-        "cta.prelaunch",
-        "disclosure"
-      ],
-      "voice": "Earnie, the faceless graphite mascot: short, direct, lowercase-friendly gym education (bluebro/Arrow style). Useful content first; no first-person human experiences.",
-      "visual_template": {
-        "name": "mascot-edu-3x4",
-        "canvas": "1080x1350",
-        "renderer": "scripts/edu_render.py",
-        "look": "light cream background (dark allowed), Anton headlines, lime accents, mascot poses from 01-app/brand/poses/ with the worked muscle in lime",
-        "account_mark": "none"
-      },
-      "cta": {
-        "prelaunch": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
-        "launched": "TO CONFIRM at launch",
-        "destination_prelaunch": "follow @earndapp",
-        "destination_launched": "launch.download_url"
-      },
-      "disclosure": "Bio says 'by @EARND' (run by the EARND team). The final slide names EARND as our own app.",
-      "bio": "earnie lifts so you know what to lift. by @EARND",
-      "bio_note": "set by the founder 2026-10-30; check that '@EARND' links to @earndapp",
-      "personas": "Persona 1: The inconsistent tracker",
-      "created": "2026-10-30 by the founder (exception to the 'no new theme pages until a format repeats' rule)",
-      "settings_confirmed": "2026-10-30 by the founder (approved the first Earnie sets)",
-      "paused": "2026-10-31 by the founder: 2 posts (legs, back) at 0 views, 0 followers (Apify 2026-10-31). Account created 2026-10-30."
-    }
-  ],
-  "planned_accounts": {
-    "_note": "Future theme pages. Inactive until confirmed. Add one only after a format shows repeatable results. Each needs its own hooks and visuals, adapted from scratch, not copies of other accounts' sets.",
-    "template": {
-      "handle": "TO CONFIRM",
-      "type": "theme",
-      "status": "planned",
-      "platforms": "TO CONFIRM",
-      "posting_tool_ids": {},
-      "required": [
-        "handle",
-        "platforms",
-        "voice",
-        "visual_template",
-        "cta.prelaunch",
-        "disclosure"
-      ],
-      "voice": "TO CONFIRM, from the matching persona's voice.",
-      "visual_template": "TO CONFIRM. Must be distinct from the brand and founder templates.",
-      "cta": {
-        "prelaunch": "TO CONFIRM. Must name EARND as our own product (e.g. \"we're building EARND. follow @earndapp for the launch.\").",
-        "launched": "TO CONFIRM at launch",
-        "destination_prelaunch": "follow @earndapp",
-        "destination_launched": "launch.download_url"
-      },
-      "disclosure": "Bio states the page is run by the EARND team (e.g. \"by @earndapp\"). Any EARND mention says it's ours.",
-      "bio": null,
-      "personas": "one persona per theme page"
-    }
-  },
-  "weekly_stats": {
-    "schedule": "Scheduled task 'Weekly EARND stats re-scrape' (trig_01JaYrXCmiMa7z7V4dAjzggE): Mondays 08:35 Europe/London, Apify scrape → performance.csv → weekly review draft for gate 4."
+  {
+   "handle": "@earnie.lifts",
+   "type": "theme",
+   "status": "paused",
+   "platforms": [
+    "tiktok"
+   ],
+   "inactive_platforms": [],
+   "posting_tool_ids": {},
+   "required": [
+    "handle",
+    "platforms",
+    "voice",
+    "visual_template",
+    "cta.prelaunch",
+    "disclosure"
+   ],
+   "voice": "Earnie, the faceless graphite mascot: short, direct, lowercase-friendly gym education (bluebro/Arrow style). Useful content first; no first-person human experiences.",
+   "visual_template": {
+    "name": "mascot-edu-3x4",
+    "canvas": "1080x1350",
+    "renderer": "scripts/edu_render.py",
+    "look": "light cream background (dark allowed), Anton headlines, lime accents, mascot poses from 01-app/brand/poses/ with the worked muscle in lime",
+    "account_mark": "none"
+   },
+   "cta": {
+    "prelaunch": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
+    "launched": "TO CONFIRM at launch",
+    "destination_prelaunch": "follow @earndapp",
+    "destination_launched": "launch.download_url"
+   },
+   "disclosure": "Bio says 'by @EARND' (run by the EARND team). The final slide names EARND as our own app.",
+   "bio": "earnie lifts so you know what to lift. by @EARND",
+   "bio_note": "set by the founder 2026-10-30; check that '@EARND' links to @earndapp",
+   "personas": "Persona 1: The inconsistent tracker",
+   "created": "2026-10-30 by the founder (exception to the 'no new theme pages until a format repeats' rule)",
+   "settings_confirmed": "2026-10-30 by the founder (approved the first Earnie sets)",
+   "paused": "2026-10-31 by the founder: 2 posts (legs, back) at 0 views, 0 followers (Apify 2026-10-31). Account created 2026-10-30."
   }
+ ],
+ "planned_accounts": {
+  "_note": "Future theme pages. Inactive until confirmed. Add one only after a format shows repeatable results. Each needs its own hooks and visuals, adapted from scratch, not copies of other accounts' sets.",
+  "template": {
+   "handle": "TO CONFIRM",
+   "type": "theme",
+   "status": "planned",
+   "platforms": "TO CONFIRM",
+   "posting_tool_ids": {},
+   "required": [
+    "handle",
+    "platforms",
+    "voice",
+    "visual_template",
+    "cta.prelaunch",
+    "disclosure"
+   ],
+   "voice": "TO CONFIRM, from the matching persona's voice.",
+   "visual_template": "TO CONFIRM. Must be distinct from the brand and founder templates.",
+   "cta": {
+    "prelaunch": "TO CONFIRM. Must name EARND as our own product (e.g. \"we're building EARND. follow @earndapp for the launch.\").",
+    "launched": "TO CONFIRM at launch",
+    "destination_prelaunch": "follow @earndapp",
+    "destination_launched": "launch.download_url"
+   },
+   "disclosure": "Bio states the page is run by the EARND team (e.g. \"by @earndapp\"). Any EARND mention says it's ours.",
+   "bio": null,
+   "personas": "one persona per theme page"
+  }
+ },
+ "weekly_stats": {
+  "schedule": "Scheduled task 'Weekly EARND stats re-scrape' (trig_01JaYrXCmiMa7z7V4dAjzggE): Mondays 08:35 Europe/London, Apify scrape → performance.csv → weekly review draft for gate 4."
+ }
 }
