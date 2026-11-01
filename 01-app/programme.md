@@ -26,6 +26,6 @@ Target: 4–8 clean reps.
 Example: 100 kg × 5 → × 6 → × 7 → × 8 → increase load → 105 kg × 4–5 → build toward 8 → increase again.
 
 ## Content rules
-- Sets × reps and progression numbers count as progress claims (founder, 2026-10-28): label them "example" on the slide.
+- Sets × reps (2 × 4–8) are shown plain (founder, 2026-10-30). Weights in progression examples (100 kg × 5 → 6…) are labelled "example".
 - The four sessions can be moved to available days (standing rule); the programme doesn't adapt to fewer sessions.
-- The founder's own logged weights in the Notes screenshots (Upper B) are personal data; never put them in content.
+- The founder's own logged weights (Upper B: shoulder press, pullover, shrug, pec deck; re-confirmed 2026-11-01) are personal data; never put them in content. The weights in the EARND demo screens (01-app/assets/demo-*.png) are demo data, not his, and are fine with the "example" tag.
