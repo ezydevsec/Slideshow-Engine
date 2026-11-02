@@ -26,3 +26,13 @@ Not a controlled hook-only test: each set changes the angle across slides 1–5.
   - alt hooks: "the eternal gym question: more weight or more reps?" · "nobody tells you when to go up in weight"
 - [ ] 2026-10-28 | evergreen pain 8 | bridge: EARND ends each workout showing what you beat | format: pain-funnel-test | hook: "my gym friend asked if i'm stronger than last month. i had no idea" | app on slide 4 | set: 04-sets/2026-10-28-did-i-improve
   - alt hooks: "'yeah i think i'm stronger' is not an answer" · "feeling stronger isn't a number"
+
+## Weekly trend scan 2026-11-02 (trend file: 02-research/trends/2026-11-02.md)
+- [ ] 2026-11-02 | 4-day split posts | bridge: our programme is the 4-day split | format: native-tip-slideshow (@ezyxbt) | hook: "the split i'd run if i could only train 4 days" | app on tip slide (second-to-last) | score 34 | expires: 2026-12-31 | sound: Alejandro (Bread Beatz)
+- [ ] 2026-11-02 | "steal my split" | bridge: copy the whole week, then track it | format: mascot edu (@earndapp) | hook: "steal this 4-day split" | app on slide 4 | score 33 | expires: 2026-12-31 | sound: beauty (Slowed)
+- [ ] 2026-11-02 | plateau guides | bridge: stuck = no target; the progression rule + EARND target screen | format: native-tip-slideshow (@ezyxbt) | hook: "stuck on the same weight for weeks? do this" | app on tip slide | score 32 | expires: evergreen
+- [ ] 2026-11-02 | beginner guides (highest saves) | bridge: one plan + track from day one | format: native-tip-slideshow (@ezyxbt) | hook: "if i started the gym today, this is exactly what i'd do" | app on tip slide | score 32 | expires: evergreen | note: plan/tracking framing only, no physique outcome
+- [ ] 2026-11-02 | gym mistakes | bridge: #1 = no idea what you lifted last time | format: native-tip-slideshow (@ezyxbt) | hook: "gym mistakes i stopped making" | app on tip slide | score 30 | expires: evergreen | NEEDS founder to confirm which mistakes are his own
+- [ ] 2026-11-02 | winter arc | bridge: 8 weeks left in 2026; 4 sessions a week; beat last time | format: mascot edu (@earndapp) | hook: "your winter arc, planned: 4 days a week until january" | app on slide 4 | score 30 | expires: 2026-12-31 | sound: I WILL HAVE MY REVENGE
+- [ ] 2026-11-02 | technique fixes per muscle | bridge: cues per exercise, then track the clean reps | format: native-tip-slideshow (@ezyxbt) | hook: "3 fixes for every curl you do" | app on tip slide | score 28 | expires: evergreen
+- [ ] 2026-11-02 | S-tier exercise lists | bridge: tier list from the programme's exercises, app on slide 4 | format: mascot edu tier (@earndapp) | hook: "ranking every back exercise in our programme" | app on slide 4 | score 28 | expires: evergreen
