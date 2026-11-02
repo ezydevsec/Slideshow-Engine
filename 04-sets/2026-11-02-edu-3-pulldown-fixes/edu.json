@@ -1,0 +1,100 @@
+{
+  "set_id": "2026-11-02-edu-3-pulldown-fixes",
+  "status": "draft 2026-11-02: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "light",
+  "angle": "technique-fix format applied to the lat pulldown (programme exercise), mascot pulldown pose",
+  "trend": "technique fixes per muscle",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1350",
+  "caption": "3 fixes for your lat pulldown",
+  "hashtags": [
+    "#latpulldown",
+    "#backworkout",
+    "#gymtips",
+    "#backday",
+    "#gymtok"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "3 FIXES FOR",
+          false
+        ],
+        [
+          "YOUR LAT",
+          false
+        ],
+        [
+          "PULLDOWN",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "pulldown"
+    },
+    {
+      "type": "steps",
+      "kicker": "FIX 1",
+      "title": "PULL TO YOUR UPPER CHEST.",
+      "body": "Not behind your neck.",
+      "pose": "pulldown",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "FIX 2",
+      "title": "DRIVE YOUR ELBOWS DOWN.",
+      "body": "Think elbows to your sides, not hands to the bar.",
+      "pose": "thinking",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "FIX 3",
+      "title": "DON'T LEAN WAY BACK.",
+      "body": "A small lean is fine. Swinging isn't a rep.",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "exercise",
+      "kicker": "THEN",
+      "title": "LAT PULLDOWN",
+      "muscle": "Lats",
+      "sets": "2 × 4–8",
+      "cue": "Control the bar all the way up.",
+      "pose": "pulldown"
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY SET",
+      "body": "Last session and today's target.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR UPPER DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ]
+}

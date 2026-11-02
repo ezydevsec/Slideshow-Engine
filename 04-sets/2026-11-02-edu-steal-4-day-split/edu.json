@@ -1,0 +1,154 @@
+{
+  "set_id": "2026-11-02-edu-steal-4-day-split",
+  "status": "draft 2026-11-02: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "light",
+  "angle": "the programme as a copy-able week for people who can only train 4 days; move-session screen",
+  "trend": "4-day split posts / steal my split",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1350",
+  "caption": "if you can only train 4 days, steal this split",
+  "hashtags": [
+    "#workoutsplit",
+    "#upperlower",
+    "#gymroutine",
+    "#gymtips",
+    "#4daysplit"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "IF YOU CAN ONLY",
+          false
+        ],
+        [
+          "TRAIN 4 DAYS,",
+          false
+        ],
+        [
+          "STEAL THIS SPLIT",
+          true
+        ]
+      ],
+      "mascot": true
+    },
+    {
+      "type": "grid",
+      "title": "THE WEEK",
+      "body": "Four sessions, three rest days.",
+      "days": [
+        [
+          "M",
+          "UPPER A"
+        ],
+        [
+          "T",
+          "LOWER A"
+        ],
+        [
+          "W",
+          "REST"
+        ],
+        [
+          "T",
+          "UPPER B"
+        ],
+        [
+          "F",
+          "LOWER B"
+        ],
+        [
+          "S",
+          "REST"
+        ],
+        [
+          "S",
+          "REST"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "DAY 1",
+      "title": "UPPER A",
+      "note": "2 × 4–8 each",
+      "items": [
+        "Machine Chest Press",
+        "Pulldown",
+        "Chest-Supported Row",
+        "Lateral Raise",
+        "Preacher Curl",
+        "Poliquin Pushdown"
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "DAY 2",
+      "title": "LOWER A",
+      "note": "2 × 4–8 each",
+      "items": [
+        "Calf Press",
+        "Seated Leg Curl",
+        "Leg Extension",
+        "Adductor Machine",
+        "Hip Thrust"
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "DAY 4",
+      "title": "UPPER B",
+      "note": "2 × 4–8 each",
+      "items": [
+        "Machine Shoulder Press",
+        "Pullover",
+        "Shrug",
+        "Pec Deck",
+        "Bayesian / Hammer Curl",
+        "Triceps Extension"
+      ]
+    },
+    {
+      "type": "list",
+      "kicker": "DAY 5",
+      "title": "LOWER B",
+      "note": "2 × 4–8 each",
+      "items": [
+        "Calf Press",
+        "Unilateral Leg Curl",
+        "Unilateral Leg Extension",
+        "RDL",
+        "Pendulum / Hack Squat"
+      ]
+    },
+    {
+      "type": "app",
+      "title": "MISSED A DAY? MOVE THE SESSION.",
+      "body": "Pick another day. The four sessions stay the same.",
+      "shot": "01-app/assets/demo-move-session.png",
+      "crop": [
+        0.2,
+        0.21,
+        0.8,
+        0.93
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR YOUR NEXT SESSION.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ]
+}

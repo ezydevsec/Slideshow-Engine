@@ -1,0 +1,130 @@
+{
+  "set_id": "2026-11-02-ezyxbt-native-start-today",
+  "status": "draft 2026-11-02: awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "what the founder would do on day one: one plan, machines, 2 working sets, rest, write it down (all from his programme)",
+  "trend": "beginner guides",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1920",
+  "caption": "#gymbeginner #beginnergymtips #gymtips #gymtok #upperlower",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "anatomy diagrams (if any) are generated; founder photos and app screens are real",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b15-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "hook": "if i started the gym today, this is exactly what i'd do",
+      "sub": "(save this if you're new)"
+    },
+    {
+      "type": "list",
+      "title": "1. one plan. no switching.",
+      "photo": {
+        "file": "b9-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "4 days a week: upper, lower, rest, upper, lower."
+    },
+    {
+      "type": "list",
+      "title": "2. start on machines",
+      "photo": {
+        "file": "b14-08.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "same setup every time, so this week compares to last week."
+    },
+    {
+      "type": "list",
+      "title": "3. 2 working sets per exercise",
+      "photo": {
+        "file": "b13-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "4–8 clean reps each. warm up as needed. warm-ups don't count."
+    },
+    {
+      "type": "list",
+      "title": "4. rest 2–3 minutes",
+      "photo": {
+        "file": "b11-05.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "so your second set is a real one."
+    },
+    {
+      "type": "list",
+      "title": "5. write it down",
+      "photo": {
+        "file": "b17-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "weight and reps for every working set. next time, beat it."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b12-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "know what you're training and what to beat before you walk in.",
+      "shot": "01-app/assets/demo-today-upper-b.png",
+      "crop": [
+        0.2,
+        0.21,
+        0.8,
+        0.68
+      ],
+      "example": false,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b12-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "text": "save this for your first week",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

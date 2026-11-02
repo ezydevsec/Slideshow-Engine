@@ -1,0 +1,99 @@
+{
+  "set_id": "2026-11-02-edu-winter-arc-plan",
+  "status": "draft 2026-11-02: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "angle": "winter arc framed as a plan: 4 sessions a week to January, beat last time; no physique promise",
+  "trend": "winter arc",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1350",
+  "caption": "your winter arc, planned. 4 days a week until january",
+  "hashtags": [
+    "#winterarc",
+    "#gymtok",
+    "#upperlower",
+    "#gymmotivation",
+    "#progressiveoverload"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "YOUR WINTER ARC,",
+          false
+        ],
+        [
+          "PLANNED",
+          true
+        ],
+        [
+          "UNTIL JANUARY",
+          false
+        ]
+      ],
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "THE PLAN",
+      "title": "4 SESSIONS A WEEK.",
+      "body": "Upper, lower, rest, upper, lower. Same four every week.",
+      "pose": "thinking",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "EVERY EXERCISE",
+      "title": "2 WORKING SETS. 4–8 REPS.",
+      "body": "Close to failure. Warm-ups don't count.",
+      "pose": "chest-press",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "EVERY SESSION",
+      "title": "BEAT LAST TIME.",
+      "body": "One more rep, or a little more weight.",
+      "example": "100 kg × 6 → 100 kg × 7",
+      "pose": "preacher-curl",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "BY JANUARY",
+      "title": "32 SESSIONS LOGGED.",
+      "body": "Each one with a number to compare against.",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY SET",
+      "body": "Last session and today's target.",
+      "shot": "01-app/assets/demo-log-working-set.png",
+      "crop": [
+        0.225,
+        0.305,
+        0.775,
+        0.49
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "START THIS WEEK, NOT IN JANUARY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "cover-arms-open"
+    }
+  ]
+}

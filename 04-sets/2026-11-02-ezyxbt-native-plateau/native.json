@@ -1,0 +1,147 @@
+{
+  "set_id": "2026-11-02-ezyxbt-native-plateau",
+  "status": "draft 2026-11-02: awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "the founder's progression rule (programme rules 1–6) as the fix for being stuck on the same weight",
+  "trend": "plateau guides",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1920",
+  "caption": "#progressiveoverload #gymtips #plateau #gymtok #upperlower",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "anatomy diagrams (if any) are generated; founder photos and app screens are real",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b16-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "hook": "stuck on the same weight for weeks?",
+      "sub": "(this is the rule i follow)"
+    },
+    {
+      "type": "list",
+      "title": "rule 1",
+      "photo": {
+        "file": "b5-16.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "pick a load you can do for at least 4 clean reps."
+    },
+    {
+      "type": "list",
+      "title": "rule 2",
+      "photo": {
+        "file": "b6-11.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "keep that load. add reps over time."
+    },
+    {
+      "type": "list",
+      "title": "rule 3",
+      "photo": {
+        "file": "b9-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "own 8 clean reps with full range? now add load."
+    },
+    {
+      "type": "list",
+      "title": "rule 4",
+      "photo": {
+        "file": "b14-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "the new load should bring you back to 4–5 reps. build to 8 again."
+    },
+    {
+      "type": "list",
+      "title": "what it looks like",
+      "photo": {
+        "file": "b5-01.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      },
+      "lines": [
+        "100 kg × 5 → 6 → 7 → 8",
+        "then 105 kg × 4–5",
+        "build to 8 again"
+      ],
+      "example": true
+    },
+    {
+      "type": "list",
+      "title": "the catch",
+      "photo": {
+        "file": "b4-10.jpg",
+        "focus": [
+          0.45,
+          0.15
+        ]
+      },
+      "lines": [],
+      "text": "if adding weight breaks your form, you haven't earned the increase."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b16-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "you can't beat last session if you don't know it. log every working set.",
+      "shot": "01-app/assets/demo-log-working-set.png",
+      "crop": [
+        0.225,
+        0.305,
+        0.775,
+        0.49
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b10-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "text": "save this for when you're stuck",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

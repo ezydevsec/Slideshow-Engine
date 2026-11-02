@@ -1,0 +1,161 @@
+{
+  "set_id": "2026-11-02-ezyxbt-native-4-day-split",
+  "status": "draft 2026-11-02: awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "the founder's real 4-day upper/lower split, day by day, for people who can only train 4 days",
+  "trend": "4-day split posts / steal my split",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1920",
+  "caption": "#workoutsplit #upperlower #gymtok #gymtips #4daysplit",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "anatomy diagrams (if any) are generated; founder photos and app screens are real",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b12-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "hook": "if you can only train 4 days, steal my split",
+      "sub": "(upper / lower)"
+    },
+    {
+      "type": "list",
+      "title": "day 1: upper A",
+      "photo": {
+        "file": "b14-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [
+        "machine chest press",
+        "pulldown",
+        "chest-supported row",
+        "lateral raise",
+        "preacher curl",
+        "poliquin pushdown"
+      ],
+      "note": "2 × 4–8 each"
+    },
+    {
+      "type": "list",
+      "title": "day 2: lower A",
+      "photo": {
+        "file": "b13-01.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "lines": [
+        "calf press",
+        "seated leg curl",
+        "leg extension",
+        "adductor machine",
+        "hip thrust"
+      ],
+      "note": "2 × 4–8 each"
+    },
+    {
+      "type": "list",
+      "title": "day 4: upper B",
+      "photo": {
+        "file": "b16-05.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [
+        "machine shoulder press",
+        "pullover",
+        "shrug",
+        "pec deck",
+        "bayesian / hammer curl",
+        "triceps extension"
+      ],
+      "note": "2 × 4–8 each"
+    },
+    {
+      "type": "list",
+      "title": "day 5: lower B",
+      "photo": {
+        "file": "b12-06.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [
+        "calf press",
+        "unilateral leg curl",
+        "unilateral leg extension",
+        "RDL",
+        "pendulum / hack squat"
+      ],
+      "note": "days 3, 6, 7: rest"
+    },
+    {
+      "type": "list",
+      "title": "the rules",
+      "photo": {
+        "file": "b10-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [
+        "2 working sets per exercise",
+        "4–8 clean reps",
+        "2–3 min rest",
+        "warm-ups don't count"
+      ],
+      "note": "beat last time."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-08.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "missed a day? i don't skip it. i move the session.",
+      "shot": "01-app/assets/demo-move-session.png",
+      "crop": [
+        0.2,
+        0.21,
+        0.8,
+        0.93
+      ],
+      "example": false,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b13-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "text": "save this for your next session",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

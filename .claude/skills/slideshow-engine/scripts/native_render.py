@@ -120,8 +120,11 @@ def render(s):
     if t == "list":
         img = photo_bg(s["photo"], dim=0.55, blur=2)
         y = pill(img, s["title"], 50, 520)
-        d = ImageDraw.Draw(img); f = F(SEMI, 42); yy = y + 70
-        for ln in s["lines"]:
+        yy = y + 70
+        if s.get("text"): yy = native_text(img, s["text"], 42, yy + 30, maxw=860, font=SEMI) + 50
+        if s.get("example"): yy = example_tag(img, W // 2, yy) + 40  # the lines below are a numeric example
+        d = ImageDraw.Draw(img); f = F(SEMI, 42)
+        for ln in s.get("lines", []):
             if ln.startswith("#"):
                 ln = ln[1:].strip(); ff = F(BOLD, 46); yy += 26
             else: ff = f
