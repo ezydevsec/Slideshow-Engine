@@ -1,0 +1,120 @@
+{
+  "set_id": "2026-11-03-earnie-complete-arms",
+  "status": "draft 2026-11-03: awaiting gate 3 (account paused since 2026-10-31; founder asked for this set)",
+  "format": "edu-template-slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "theme": "dark",
+  "angle": "4 arm exercises from the programme for complete arms (biceps stretch, biceps peak, triceps x2); Earnie mascot-edu",
+  "trend": "technique per muscle (trend file 2026-11-02)",
+  "canvas": "1080x1350",
+  "caption": "4 exercises. biceps and triceps. save it for arm day",
+  "hashtags": [
+    "#armday",
+    "#armworkout",
+    "#biceps",
+    "#triceps",
+    "#gymtips"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "4 EXERCISES FOR",
+          false
+        ],
+        [
+          "COMPLETE",
+          false
+        ],
+        [
+          "ARMS",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "cover-arms-open"
+    },
+    {
+      "type": "steps",
+      "kicker": "THE IDEA",
+      "title": "2 FOR BICEPS. 2 FOR TRICEPS.",
+      "body": "Your triceps are most of your upper arm. Don't skip them.",
+      "pose": "thinking",
+      "mascot": true
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "PREACHER CURL",
+      "muscle": "Biceps",
+      "sets": "2 × 4–8",
+      "cue": "The pad stops you swinging. Control it all the way down.",
+      "pose": "preacher-curl"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2",
+      "title": "BAYESIAN CURL",
+      "muscle": "Biceps: stretch",
+      "sets": "2 × 4–8",
+      "cue": "Cable behind you. Let your arm stretch back.",
+      "pose": "bayesian-curl"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#3",
+      "title": "POLIQUIN PUSHDOWN",
+      "muscle": "Triceps",
+      "sets": "2 × 4–8",
+      "cue": "Elbows pinned to your sides. Squeeze at the bottom.",
+      "pose": "triceps-pushdown"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#4",
+      "title": "TRICEPS EXTENSION",
+      "muscle": "Triceps: stretch",
+      "sets": "2 × 4–8",
+      "cue": "Let it stretch at the bottom, then press up.",
+      "pose": "overhead-triceps-extension"
+    },
+    {
+      "type": "cards",
+      "title": "THE FULL ARM DAY",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Preacher Curl",
+          "preacher-curl"
+        ],
+        [
+          "Bayesian Curl",
+          "bayesian-curl"
+        ],
+        [
+          "Poliquin Pushdown",
+          "triceps-pushdown"
+        ],
+        [
+          "Triceps Extension",
+          "overhead-triceps-extension"
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR ARM DAY.",
+      "body": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ]
+}
