@@ -181,3 +181,6 @@ The founder has lost weight since these photos were taken and won't be taking ne
 - Photos are backdrops for teaching slides, not proof. Never caption or frame a photo as his current physique, a result, or a before/after ("this is what 2 sets got me", "me now").
 - Prefer clothed, face-forward shots (b16-01, b14-07, b12-03, b13-04, b10-02). Physique-forward shots (b11-02, b11-06, b13-03, b15-04, b16-02, b14-03) only on arm/exercise topic slides, and sparingly.
 - Text-led and app-screenshot slides can carry more of each set so photos repeat less.
+
+## Blur rule (founder, 2026-11-03)
+"Stop blurring too much." b15-01/02/03 and b16-03/04/05 were re-processed from the originals with a light background blur (radius 5, person masked out) instead of the heavy portrait blur (radius 14–18). The renderer no longer adds extra blur to list and tip slides (dimming only). Prefer cropping; if blur is needed, keep it light.

@@ -118,7 +118,7 @@ def render(s):
         if s.get("text"): native_text(img, s["text"], 40, y + 90, maxw=820, shadow=False, font=SEMI)
         return img
     if t == "list":
-        img = photo_bg(s["photo"], dim=0.55, blur=2)
+        img = photo_bg(s["photo"], dim=0.55)
         y = pill(img, s["title"], 50, 520)
         yy = y + 70
         if s.get("text"): yy = native_text(img, s["text"], 42, yy + 30, maxw=860, font=SEMI) + 50
@@ -132,7 +132,7 @@ def render(s):
         if s.get("note"): pill(img, s["note"], 36, yy + 80, pad=(24, 12))
         return img
     if t == "tip":
-        img = photo_bg(s["photo"], dim=0.55, blur=3)
+        img = photo_bg(s["photo"], dim=0.55)
         y = pill(img, s["label"], 46, 250)
         y = native_text(img, s["text"], 42, y + 110, maxw=860, font=SEMI)
         shot = Image.open(os.path.join(ROOT, s["shot"])).convert("RGB")
