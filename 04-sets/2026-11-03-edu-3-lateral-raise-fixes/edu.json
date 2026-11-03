@@ -1,0 +1,100 @@
+{
+  "set_id": "2026-11-03-edu-3-lateral-raise-fixes",
+  "status": "draft 2026-11-03: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "light",
+  "angle": "technique fixes applied to the lateral raise (programme exercise)",
+  "trend": "technique fixes per muscle",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1350",
+  "caption": "3 fixes for your lateral raise",
+  "hashtags": [
+    "#lateralraise",
+    "#shoulderworkout",
+    "#gymtips",
+    "#shoulderday",
+    "#gymtok"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "3 FIXES FOR",
+          false
+        ],
+        [
+          "YOUR LATERAL",
+          false
+        ],
+        [
+          "RAISE",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "lateral-raise"
+    },
+    {
+      "type": "steps",
+      "kicker": "FIX 1",
+      "title": "LEAD WITH YOUR ELBOWS.",
+      "body": "Your hands follow. They don't lead.",
+      "pose": "lateral-raise",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "FIX 2",
+      "title": "STOP AT SHOULDER HEIGHT.",
+      "body": "Going higher moves the work to your traps.",
+      "pose": "thinking",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "FIX 3",
+      "title": "DON'T SWING IT UP.",
+      "body": "If you have to swing, the weight is too heavy.",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "exercise",
+      "kicker": "THEN",
+      "title": "LATERAL RAISE",
+      "muscle": "Side delts",
+      "sets": "2 × 4–8",
+      "cue": "Slow on the way down.",
+      "pose": "lateral-raise"
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY SET",
+      "body": "Last session and today's target.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR UPPER DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ]
+}

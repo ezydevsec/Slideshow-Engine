@@ -1,0 +1,108 @@
+{
+  "set_id": "2026-11-03-ezyxbt-native-upper-b-day",
+  "status": "draft 2026-11-03: awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "the founder's Upper B, one exercise per slide with anatomy and cue",
+  "trend": "technique per muscle / steal my split",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1920",
+  "caption": "#upperbody #upperlower #gymtok #gymtips #pushpull",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "anatomy diagrams are generated; founder photos and app screens are real",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b10-02.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      },
+      "hook": "my upper B, every exercise",
+      "sub": "(6 exercises, 12 working sets)",
+      "anatomy": "delts"
+    },
+    {
+      "type": "exercise",
+      "anatomy": "delts",
+      "name": "Machine Shoulder Press",
+      "sets": "2 × 4–8",
+      "text": "press straight up. don't lock out hard."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "lats",
+      "name": "Cable Pullover",
+      "sets": "2 × 4–8",
+      "text": "arms long. sweep the bar down to your thighs."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "traps",
+      "name": "Shrug",
+      "sets": "2 × 4–8",
+      "text": "straight up, pause at the top. no rolling."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "chest",
+      "name": "Pec Deck",
+      "sets": "2 × 4–8",
+      "text": "soft elbows. squeeze, then open into the stretch."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "biceps",
+      "name": "Bayesian or Hammer Curl",
+      "sets": "2 × 4–8",
+      "text": "bayesian: arm stretched behind you. hammer: neutral grip, no swing."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "triceps",
+      "name": "Triceps Extension",
+      "sets": "2 × 4–8",
+      "text": "let it stretch at the bottom, then press up."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b16-05.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "same 6 exercises every upper B. that's what makes last week's numbers worth beating.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b9-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "text": "save this for upper day",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

@@ -37,7 +37,7 @@ Stored in `01-app/founder-photos/` (git-ignored). Crop and resize only.
 | b7-16.jpg | White tank, side-on, arm flexed, dark gym | None | **Strong.** Covers/CTA | ezyxbt-edu-my-split slide 8 |
 | b6-13.jpg | Navy tee mirror selfie, flexing, dark-green gym | None | Clean mid shot | ezyxbt-edu-my-split slide 2 |
 | b6-11.jpg | Navy tee mirror selfie, machines | None | Clean | ezyxbt-edu-how-i-progress slide 2 |
-| b5-02.jpg | Olive tee mirror, plate tree, dark gym | None | Crop out the "please do not drop weights" sign at the top | ezyxbt-edu-how-i-progress slide 1 |
+| b5-02.jpg | Olive tee mirror, plate tree, dark gym | None | **Avoid in 9:16**: the "please do not drop weights" sign can't be cropped out at that ratio (3:4 only, cropped) | ezyxbt-edu-how-i-progress slide 1 |
 | b5-16.jpg | Navy tee in green power rack | None | Green, energetic | ezyxbt-edu-how-i-progress slide 3 |
 | b5-01.jpg | Navy tee mirror, long green gym | None | Clean | ezyxbt-edu-how-i-progress slide 4 |
 | b1-11.jpg | Navy tee mirror, stairwell wall | None | Calm | ezyxbt-edu-how-i-progress slide 5 |

@@ -1,0 +1,101 @@
+{
+  "set_id": "2026-11-03-ezyxbt-native-lower-a-day",
+  "status": "draft 2026-11-03: awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "the founder's Lower A, one exercise per slide with anatomy and cue",
+  "trend": "technique per muscle / steal my split",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1920",
+  "caption": "#legday #legworkout #upperlower #gymtok #gymtips",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "anatomy diagrams are generated; founder photos and app screens are real",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b16-02.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "hook": "my whole leg day, exercise by exercise",
+      "sub": "(lower A)",
+      "anatomy": "quads"
+    },
+    {
+      "type": "exercise",
+      "anatomy": "calves",
+      "name": "Calf Press",
+      "sets": "2 × 4–8",
+      "text": "full stretch at the bottom, pause, then press."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "hamstrings",
+      "name": "Seated Leg Curl",
+      "sets": "2 × 4–8",
+      "text": "pad just above your heels. curl all the way, control it back."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "quads",
+      "name": "Leg Extension",
+      "sets": "2 × 4–8",
+      "text": "squeeze at the top for a second. slow on the way down."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "adductors",
+      "name": "Adductor Machine",
+      "sets": "2 × 4–8",
+      "text": "start at a stretch you can control. squeeze the pads together."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "glutes",
+      "name": "Hip Thrust",
+      "sets": "2 × 4–8",
+      "text": "chin tucked, ribs down. pause at the top."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "5 exercises, 10 working sets. i log every one so next week has a target.",
+      "shot": "01-app/assets/demo-log-working-set.png",
+      "crop": [
+        0.225,
+        0.305,
+        0.775,
+        0.535
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b13-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "text": "save this for leg day",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

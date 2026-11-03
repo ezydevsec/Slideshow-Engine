@@ -1,0 +1,117 @@
+{
+  "set_id": "2026-11-03-ezyxbt-native-warm-ups-dont-count",
+  "status": "draft 2026-11-03: awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "programme rule: warm-ups as needed, not counted; only working sets get logged",
+  "trend": "evergreen beginner question",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1920",
+  "caption": "#warmup #gymtips #progressiveoverload #gymtok #upperlower",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "anatomy diagrams are generated; founder photos and app screens are real",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b14-07.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      },
+      "hook": "why i don't count my warm-up sets",
+      "sub": "(only working sets get logged)"
+    },
+    {
+      "type": "list",
+      "title": "warm-ups are prep",
+      "photo": {
+        "file": "b12-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "they get me ready to lift. they're not the work."
+    },
+    {
+      "type": "list",
+      "title": "how many?",
+      "photo": {
+        "file": "b11-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "as many as i need. there's no fixed number."
+    },
+    {
+      "type": "list",
+      "title": "what counts",
+      "photo": {
+        "file": "b6-13.jpg",
+        "focus": [
+          0.45,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "2 working sets per exercise. 4–8 clean reps. those are the sets i log."
+    },
+    {
+      "type": "list",
+      "title": "why it matters",
+      "photo": {
+        "file": "b9-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "lines": [],
+      "text": "mix warm-ups in and your numbers stop meaning anything week to week."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-08.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "warm-ups get their own button, so working sets stay clean.",
+      "shot": "01-app/assets/demo-log-working-set.png",
+      "crop": [
+        0.225,
+        0.305,
+        0.775,
+        0.535
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b16-01.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this before your next session",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

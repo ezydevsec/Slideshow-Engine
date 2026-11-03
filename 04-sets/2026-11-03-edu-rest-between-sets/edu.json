@@ -1,0 +1,90 @@
+{
+  "set_id": "2026-11-03-edu-rest-between-sets",
+  "status": "draft 2026-11-03: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "light",
+  "angle": "programme rest rule (2–3 min between working sets) with EARND's automatic rest timer",
+  "trend": "evergreen beginner question",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1350",
+  "caption": "how long should you rest between sets?",
+  "hashtags": [
+    "#resttime",
+    "#gymtips",
+    "#beginnergym",
+    "#gymtok",
+    "#upperlower"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "HOW LONG SHOULD",
+          false
+        ],
+        [
+          "YOU REST BETWEEN",
+          false
+        ],
+        [
+          "SETS?",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "thinking"
+    },
+    {
+      "type": "steps",
+      "kicker": "WORKING SETS",
+      "title": "2–3 MINUTES.",
+      "body": "Long enough that your next set is a real set.",
+      "pose": "shoulder-press",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "WARM-UPS",
+      "title": "REST AS NEEDED.",
+      "body": "They don't count as working sets.",
+      "pose": "cover-arms-open",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "THE PROBLEM",
+      "title": "NOBODY TIMES IT.",
+      "body": "So the next set starts too early, or after ten minutes on your phone.",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "app",
+      "title": "TAP COMPLETE. THE REST TIMER STARTS ITSELF.",
+      "body": "Adjust it in 15-second steps.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.2,
+        0.64,
+        0.8,
+        0.855
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR YOUR NEXT SESSION.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ]
+}

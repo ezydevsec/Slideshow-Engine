@@ -1,0 +1,100 @@
+{
+  "set_id": "2026-11-03-edu-3-hip-thrust-fixes",
+  "status": "draft 2026-11-03: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "angle": "technique fixes applied to the hip thrust; glutes are the top topic on both reference accounts",
+  "trend": "technique fixes per muscle / glute content",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1350",
+  "caption": "3 fixes for your hip thrust",
+  "hashtags": [
+    "#hipthrust",
+    "#gluteworkout",
+    "#legday",
+    "#gymtips",
+    "#gymtok"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "3 FIXES FOR",
+          false
+        ],
+        [
+          "YOUR HIP",
+          false
+        ],
+        [
+          "THRUST",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "hip-thrust"
+    },
+    {
+      "type": "steps",
+      "kicker": "FIX 1",
+      "title": "TUCK YOUR CHIN.",
+      "body": "Eyes forward, not up at the ceiling.",
+      "pose": "hip-thrust",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "FIX 2",
+      "title": "RIBS DOWN AT THE TOP.",
+      "body": "Don't arch your lower back to finish the rep.",
+      "pose": "thinking",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "FIX 3",
+      "title": "PAUSE AT THE TOP.",
+      "body": "Squeeze for a second, then lower with control.",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "exercise",
+      "kicker": "THEN",
+      "title": "HIP THRUST",
+      "muscle": "Glutes",
+      "sets": "2 × 4–8",
+      "cue": "Shins vertical at the top.",
+      "pose": "hip-thrust"
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY SET",
+      "body": "Last session and today's target.",
+      "shot": "01-app/assets/demo-log-working-set.png",
+      "crop": [
+        0.225,
+        0.305,
+        0.775,
+        0.535
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR LOWER DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "cover-arms-open"
+    }
+  ]
+}
