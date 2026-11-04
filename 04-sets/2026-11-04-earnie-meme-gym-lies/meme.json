@@ -1,22 +1,43 @@
 {
   "set_id": "2026-11-04-earnie-meme-gym-lies",
-  "status": "draft 2026-11-04: awaiting gate 3",
+  "status": "approved at gate 3 on 2026-11-04",
   "format": "earnie-meme-slideshow",
   "account": "@earnie.lifts",
   "account_type": "theme",
   "angle": "gym lies we tell ourselves (pain bank: not writing it down, guessing, not knowing if you improved)",
   "canvas": "1080x1350",
   "caption": "which one are you guilty of 😭 #gymhumor #gymtok #gymmemes #relatable #gymlies",
-  "sound": {"mode": "trending", "note": "funny/trending meme sound"},
+  "sound": {
+    "mode": "trending",
+    "note": "funny/trending meme sound"
+  },
   "ai_images": true,
   "ai_note": "Earnie scenes generated with Higgsfield: TikTok AI label ON",
   "slides": [
-    {"caption": "gym lies we all tell ourselves:", "image": "01-app/brand/memes/walk-in.jpg"},
-    {"caption": "\"i'll remember the weight\"", "image": "01-app/brand/memes/confused-rack.jpg"},
-    {"caption": "\"i'll write it down after\"", "image": "01-app/brand/memes/leaving-gym.jpg"},
-    {"caption": "\"that was definitely 8 reps\"", "image": "01-app/brand/memes/struggling-bench.jpg"},
-    {"caption": "\"i'm way stronger than last month\"", "image": "01-app/brand/memes/mirror-flex.jpg"},
-    {"caption": "earnie stopped lying. now he just checks last session.", "image": "01-app/brand/memes/phone-bench.jpg",
-     "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."}
+    {
+      "caption": "gym lies we all tell ourselves:",
+      "image": "01-app/brand/memes/walk-in.jpg"
+    },
+    {
+      "caption": "\"i'll remember the weight\"",
+      "image": "01-app/brand/memes/confused-rack.jpg"
+    },
+    {
+      "caption": "\"i'll write it down after\"",
+      "image": "01-app/brand/memes/leaving-gym.jpg"
+    },
+    {
+      "caption": "\"that was definitely 8 reps\"",
+      "image": "01-app/brand/memes/struggling-bench.jpg"
+    },
+    {
+      "caption": "\"i'm way stronger than last month\"",
+      "image": "01-app/brand/memes/mirror-flex.jpg"
+    },
+    {
+      "caption": "earnie stopped lying. now he just checks last session.",
+      "image": "01-app/brand/memes/phone-bench.jpg",
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
   ]
 }
