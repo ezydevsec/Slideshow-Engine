@@ -1,12 +1,111 @@
 {
   "set_id": "2026-11-04-earndapp-video-lateral-raise-wrong-right",
-  "status": "draft 2026-11-04: awaiting gate 3",
-  "format": "earndapp-mascot-video (wrong vs right)",
+  "status": "draft 2026-11-04 (v2 with voice, music, captions, sfx): awaiting gate 3",
+  "format": "earndapp-mascot-video (wrong vs right, voiceover)",
   "account": "@earndapp",
   "account_type": "brand",
-  "canvas": "1080x1920, 15 s",
-  "source": "Kling 3.0 image-to-video from 01-app/brand/poses/lateral-raise.jpg (Higgsfield media 42c9b6a4…): wrong clip 4ffabdf8…, right clip c5dbdd5c…; 15 credits. Captions + real app screen card (example tag) + CTA card added with ffmpeg. Silent: add a trending sound in TikTok.",
   "caption": "lateral raise: wrong vs right. save it for upper day #lateralraise #shoulderworkout #gymtips #gymtok #formcheck",
   "ai_images": true,
-  "ai_note": "AI-generated video: TikTok AI label ON"
+  "ai_note": "AI-generated video, voice (ElevenLabs v4 'Knox' via Higgsfield) and music (ElevenLabs Music v2 via Higgsfield): TikTok AI label ON",
+  "script": [
+    "Your lateral raises probably look like this.",
+    "Swinging it up. Shrugging. That's your traps doing the work.",
+    "Do this instead. Lead with your elbows, stop at shoulder height, and lower it slow.",
+    "Then beat last session. EARND shows you exactly what to beat.",
+    "EARND launches soon. Follow for the launch."
+  ],
+  "out": "earndapp-lateral-raise-wrong-right.mp4",
+  "voice": "voice-tight.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.13,
+  "layout": "full",
+  "segments": [
+    {
+      "src": "wrong-raw.mp4",
+      "start": 0.0,
+      "end": 6.2
+    },
+    {
+      "src": "right-raw.mp4",
+      "start": 6.2,
+      "end": 11.15
+    },
+    {
+      "src": "card-app.png",
+      "start": 11.15,
+      "end": 15.0
+    },
+    {
+      "src": "card-cta.png",
+      "start": 15.0,
+      "end": 17.9
+    }
+  ],
+  "labels": [
+    {
+      "text": "LATERAL RAISE",
+      "start": 0.0,
+      "end": 11.15,
+      "size": 64,
+      "y": 1520,
+      "color": "#FFFFFF",
+      "stroke": 6
+    },
+    {
+      "text": "WRONG",
+      "start": 2.9,
+      "end": 6.2,
+      "size": 120,
+      "y": 1600,
+      "color": "#FF4444",
+      "stroke": 7
+    },
+    {
+      "text": "RIGHT",
+      "start": 6.3,
+      "end": 11.15,
+      "size": 120,
+      "y": 1600,
+      "color": "#C6FF00",
+      "stroke": 7
+    }
+  ],
+  "captions": {
+    "on": true,
+    "y": 1330,
+    "size": 80,
+    "words_per": 1,
+    "stroke": 8,
+    "hl_words": [
+      "earnd"
+    ],
+    "until": 11.15
+  },
+  "sfx": [
+    {
+      "type": "pop",
+      "t": 2.9,
+      "vol": 0.3
+    },
+    {
+      "type": "whoosh",
+      "t": 6.1,
+      "vol": 0.35
+    },
+    {
+      "type": "pop",
+      "t": 6.3,
+      "vol": 0.3
+    },
+    {
+      "type": "whoosh",
+      "t": 11.05,
+      "vol": 0.35
+    },
+    {
+      "type": "whoosh",
+      "t": 14.9,
+      "vol": 0.35
+    }
+  ]
 }
