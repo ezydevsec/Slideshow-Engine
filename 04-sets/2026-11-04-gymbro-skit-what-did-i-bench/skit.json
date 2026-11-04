@@ -1,0 +1,15 @@
+{
+  "set_id": "2026-11-04-gymbro-skit-what-did-i-bench",
+  "status": "draft 2026-11-04: format pilot for @gymbro.skits (account not created yet), awaiting founder review",
+  "format": "gymbro-3d-skit-video",
+  "account": "@gymbro.skits (handle TO CONFIRM)",
+  "account_type": "theme",
+  "angle": "pain bank #1 as a skit: nobody remembers last week's bench, so the guess goes wrong",
+  "characters": {"Brad": "tall, lanky, grey stringer tank, red sweatband, overconfident spotter", "Tank": "short, broad, black backwards cap, navy tee, earnest"},
+  "keyframe": "01-app/brand/gymbro/keyframe-bench.jpg (Higgsfield job 8c3120b8-c476-48c2-b2e4-7ee9016c3137)",
+  "video": "Higgsfield kling3_0, 9:16, 10 s, std, sound on (job 56a4de83-8f71-4d68-bba7-9fb3dec8c995). 20 credits. Captions burned with ffmpeg; 2.5 s end card appended.",
+  "script": ["Tank: bro what did i bench last week?", "Brad: uh... like... a lot?", "Tank loads two big plates, can't move the bar; Brad panics and pulls it off.", "End card: nobody remembers what they lifted. we're building the app that does. EARND launches soon. follow @earndapp for the launch."],
+  "caption": "send this to your gym bro 💀 #gymhumor #gymtok #gymbro #gymmemes #relatable",
+  "ai_images": true,
+  "ai_note": "fully AI-generated video: TikTok AI-generated content label ON"
+}
