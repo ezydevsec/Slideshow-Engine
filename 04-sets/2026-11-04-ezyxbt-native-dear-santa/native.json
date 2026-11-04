@@ -1,0 +1,27 @@
+{
+  "set_id": "2026-11-04-ezyxbt-native-dear-santa",
+  "status": "draft 2026-11-04, awaiting gate 3",
+  "format": "native-tip-slideshow (seasonal 'dear santa' wishlist)",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "relatable gym christmas wishlist; wish #5 is the app (remembering what i lifted). Modelled on @noqtic0's 'Dear Santa' post (155K views, 1,975 saves, posted 2026-10-29)",
+  "reference": "https://vm.tiktok.com/ZGdX6ruLC/",
+  "trend": "early christmas wishlist posts",
+  "canvas": "1080x1920",
+  "caption": "dear santa, i've been consistent this year 🎅 what's on yours? #gymtok #gymhumor #christmaswishlist #gym #upperlower",
+  "sound": {"mode": "trending", "note": "primary: the reference post's 'original sound' by 𝑐𝑎𝑙; backup: 1998echo - slowed"},
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "slides": [
+    {"type": "cover", "photo": {"file": "b12-01.jpg", "focus": [0.5, 0.4]}, "hook": "dear santa,", "sub": "(my gym wishlist this year)"},
+    {"type": "list", "title": "1.", "photo": {"file": "b15-01.jpg", "focus": [0.5, 0.4]}, "lines": [], "text": "one more rep than last week. that's the whole plan."},
+    {"type": "list", "title": "2.", "photo": {"file": "b14-04.jpg", "focus": [0.5, 0.4]}, "lines": [], "text": "the lat pulldown free at 6pm. just once."},
+    {"type": "list", "title": "3.", "photo": {"file": "b16-03.jpg", "focus": [0.5, 0.4]}, "lines": [], "text": "everyone re-racking their plates. everyone."},
+    {"type": "list", "title": "4.", "photo": {"file": "b11-04.jpg", "focus": [0.5, 0.4]}, "lines": [], "text": "to stop forgetting what i lifted last week."},
+    {"type": "tip", "photo": {"file": "b9-03.jpg", "focus": [0.5, 0.4]}, "label": "5. (the real one)",
+     "text": "EARND to launch. it shows my last session and today's target.",
+     "shot": "01-app/assets/demo-last-time-target.png", "crop": [0.228, 0.305, 0.772, 0.622], "example": true,
+     "footer": "i'm building it, so this one's on me."},
+    {"type": "cta", "photo": {"file": "b16-01.jpg", "focus": [0.5, 0.3]}, "text": "what's on yours?", "sub": "i'm building EARND. follow @earndapp for the launch."}
+  ]
+}
