@@ -67,7 +67,8 @@
     "Persona 1: The inconsistent tracker",
     "Persona 2: The busy returning lifter"
    ],
-   "bio_note": "set on TikTok by the founder 2026-10-29"
+   "bio_note": "set on TikTok by the founder 2026-10-29",
+   "content_mix": "Mixed content (founder, 2026-11-04): mascot edu slideshows (edu_render.py) plus mascot videos: Earnie demonstrating exercises (Kling image-to-video from 01-app/brand/poses/, wrong vs right, captions, real app screen at the end) or approved slideshows turned into videos (ffmpeg, 0 credits). Default mix: 2 slideshows + 1 video per day."
   },
   {
    "handle": "@ezyxbt",
@@ -110,7 +111,8 @@
    "bio": null,
    "bio_proposed": "Training + building EARND (@earndapp). The splits and rules I actually use.",
    "personas": "Not set. Founder content follows the founder's real training, not a persona.",
-   "bio_note": "Founder confirmed 2026-11-04 that the @EARND bio link is correct."
+   "bio_note": "Founder confirmed 2026-11-04 that the @EARND bio link is correct.",
+   "content_mix": "Unchanged (founder, 2026-11-04): native-tip photo slideshows only."
   },
   {
    "handle": "@earnie.lifts",
@@ -152,7 +154,8 @@
    "settings_confirmed": "2026-10-30 by the founder (approved the first Earnie sets)",
    "paused": "2026-10-31 by the founder: 2 posts (legs, back) at 0 views, 0 followers (Apify 2026-10-31). Account created 2026-10-30. | Resumed 2026-11-04 with the meme format.",
    "format": "Relatable gym meme slideshows starring Earnie (white caption band over an Earnie scene). Chosen by the founder 2026-11-04 over 3D anatomy demos because @earndapp already does mascot anatomy education.",
-   "differentiation": "vs @earndapp: jokes, not education. vs @gymbro.skits: still meme slideshows with one character (Earnie), not 3D video skits with two gym bros."
+   "differentiation": "vs @earndapp: jokes, not education. vs @gymbro.skits: still meme slideshows with one character (Earnie), not 3D video skits with two gym bros.",
+   "content_mix": "Mixed content (founder, 2026-11-04): meme slideshows (meme_render.py) plus short meme videos: one Earnie scene from 01-app/brand/memes/ animated (Kling image-to-video, 5–10 s) with the meme caption burned in. Default mix: 2 slideshows + 1 video per day."
   },
   {
    "type": "theme",
