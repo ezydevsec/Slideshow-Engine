@@ -114,7 +114,7 @@
   {
    "handle": "@earnie.lifts",
    "type": "theme",
-   "status": "active (format under review 2026-11-04: memes vs 3D anatomy demos)",
+   "status": "active (format: memes, founder 2026-11-04)",
    "platforms": [
     "tiktok",
     "instagram"
@@ -129,12 +129,12 @@
     "cta.prelaunch",
     "disclosure"
    ],
-   "voice": "Earnie, the faceless graphite mascot: short, direct, lowercase-friendly gym education (bluebro/Arrow style). Useful content first; no first-person human experiences.",
+   "voice": "lowercase, deadpan, relatable gym moments from the pain bank (can't remember last week's weight, guessing, same reps for months, notes app chaos). One joke per slide, under 25 words. No physique promises; payoff is about tracking, never looks.",
    "visual_template": {
-    "name": "mascot-edu-3x4",
+    "name": "earnie-meme-3x4",
     "canvas": "1080x1350",
-    "renderer": "scripts/edu_render.py",
-    "look": "light cream background (dark allowed), Anton headlines, lime accents, mascot poses from 01-app/brand/poses/ with the worked muscle in lime",
+    "renderer": ".claude/skills/slideshow-engine/scripts/meme_render.py (meme.json)",
+    "images": "Earnie scenes from 01-app/brand/memes/ (uniform matte graphite, no lime highlights); generate 1–3 new scenes per set with Higgsfield from the mascot reference. Never copyrighted characters or meme templates.",
     "account_mark": "none"
    },
    "cta": {
@@ -149,11 +149,9 @@
    "personas": "Persona 1: The inconsistent tracker",
    "created": "2026-10-30 by the founder (exception to the 'no new theme pages until a format repeats' rule)",
    "settings_confirmed": "2026-10-30 by the founder (approved the first Earnie sets)",
-   "paused": "2026-10-31 by the founder: 2 posts (legs, back) at 0 views, 0 followers (Apify 2026-10-31). Account created 2026-10-30.",
-   "format_options": {
-    "memes": "04-sets/2026-11-04-earnie-meme-no-notes",
-    "3d_anatomy_demo": "04-sets/2026-11-04-earnie-3d-demo-lower-b"
-   }
+   "paused": "2026-10-31 by the founder: 2 posts (legs, back) at 0 views, 0 followers (Apify 2026-10-31). Account created 2026-10-30. | Resumed 2026-11-04 with the meme format.",
+   "format": "Relatable gym meme slideshows starring Earnie (white caption band over an Earnie scene). Chosen by the founder 2026-11-04 over 3D anatomy demos because @earndapp already does mascot anatomy education.",
+   "differentiation": "vs @earndapp: jokes, not education. vs @gymbro.skits: still meme slideshows with one character (Earnie), not 3D video skits with two gym bros."
   },
   {
    "type": "theme",
