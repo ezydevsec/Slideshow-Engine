@@ -109,7 +109,8 @@
    "disclosure": "The tip slide says the founder is building EARND; the final CTA repeats it. Bio should say so too.",
    "bio": null,
    "bio_proposed": "Training + building EARND (@earndapp). The splits and rules I actually use.",
-   "personas": "Not set. Founder content follows the founder's real training, not a persona."
+   "personas": "Not set. Founder content follows the founder's real training, not a persona.",
+   "bio_note": "Founder confirmed 2026-11-04 that the @EARND bio link is correct."
   },
   {
    "handle": "@earnie.lifts",
@@ -145,7 +146,7 @@
    },
    "disclosure": "Bio says 'by @EARND' (run by the EARND team). The final slide names EARND as our own app.",
    "bio": "earnie lifts so you know what to lift. by @EARND",
-   "bio_note": "set by the founder 2026-10-30; check that '@EARND' links to @earndapp",
+   "bio_note": "Founder confirmed 2026-11-04 that the @EARND bio link is correct.",
    "personas": "Persona 1: The inconsistent tracker",
    "created": "2026-10-30 by the founder (exception to the 'no new theme pages until a format repeats' rule)",
    "settings_confirmed": "2026-10-30 by the founder (approved the first Earnie sets)",

@@ -1,22 +1,43 @@
 {
   "set_id": "2026-11-04-earnie-meme-no-notes",
-  "status": "draft 2026-11-04: format example for the repositioned @earnie.lifts (memes), awaiting founder review",
+  "status": "approved at gate 3 on 2026-11-04",
   "format": "earnie-meme-slideshow",
   "account": "@earnie.lifts",
   "account_type": "theme",
   "angle": "relatable meme: what training without notes looks like (pain bank #1: can't remember what you lifted)",
   "canvas": "1080x1350",
   "caption": "be honest, how many of these are you 😭 #gymhumor #gymtok #gymmemes #relatable #gymrat",
-  "sound": {"mode": "trending", "note": "funny/trending meme sound"},
+  "sound": {
+    "mode": "trending",
+    "note": "funny/trending meme sound"
+  },
   "ai_images": true,
   "ai_note": "Earnie scenes generated with Higgsfield from the mascot reference: TikTok AI label ON",
   "slides": [
-    {"caption": "training without writing anything down:", "image": "01-app/brand/memes/walk-in.jpg"},
-    {"caption": "me at the rack trying to remember what i lifted last week", "image": "01-app/brand/memes/confused-rack.jpg"},
-    {"caption": "*picks a random weight*", "image": "01-app/brand/memes/shrug.jpg"},
-    {"caption": "doing the exact same reps as last month", "image": "01-app/brand/memes/slumped-bench.jpg"},
-    {"caption": "\"yeah i'm definitely getting stronger\"", "image": "01-app/brand/memes/mirror-flex.jpg"},
-    {"caption": "earnie now: checks last session before every set", "image": "01-app/brand/memes/phone-bench.jpg",
-     "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."}
+    {
+      "caption": "training without writing anything down:",
+      "image": "01-app/brand/memes/walk-in.jpg"
+    },
+    {
+      "caption": "me at the rack trying to remember what i lifted last week",
+      "image": "01-app/brand/memes/confused-rack.jpg"
+    },
+    {
+      "caption": "*picks a random weight*",
+      "image": "01-app/brand/memes/shrug.jpg"
+    },
+    {
+      "caption": "doing the exact same reps as last month",
+      "image": "01-app/brand/memes/slumped-bench.jpg"
+    },
+    {
+      "caption": "\"yeah i'm definitely getting stronger\"",
+      "image": "01-app/brand/memes/mirror-flex.jpg"
+    },
+    {
+      "caption": "earnie now: checks last session before every set",
+      "image": "01-app/brand/memes/phone-bench.jpg",
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
   ]
 }
