@@ -5,6 +5,6 @@
 - **Account:** @earndapp (TikTok, + Instagram once the IG account exists)
 - **Upload:** `slide-01.jpg` … `slide-08.jpg` (1080×1350)
 - **Caption:** new to the gym? learn these 5 machines first #gymbeginner #beginnergymtips #gymtips #gymtok #upperlower
-- **Sound:** any trending sound
+- **Sound:** **Amnesia X No Hands**, DJSpotifyTransitions. Backup: 🅒 **Find Me in the Echo**, Dennis Harrow. (From `02-research/trends/sounds-2026-11-04.md`; search the name in TikTok's Add sound.)
 - **AI-generated content label:** **TURN ON**
 - **Before posting:** no download link (prelaunch).

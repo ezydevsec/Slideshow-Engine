@@ -5,6 +5,6 @@
 - **Account:** @earndapp (TikTok, + Instagram once the IG account exists)
 - **Upload:** `slide-01.jpg` … `slide-07.jpg` (1080×1350)
 - **Caption:** 3 fixes for your RDL #rdl #romaniandeadlift #hamstrings #gymtips #legday
-- **Sound:** any trending sound
+- **Sound:** **insomnia (Slowed)**, Jurasd. Backup: **Amnesia X No Hands**, DJSpotifyTransitions. (From `02-research/trends/sounds-2026-11-04.md`; search the name in TikTok's Add sound.)
 - **AI-generated content label:** **TURN ON**
 - **Before posting:** no download link (prelaunch).
