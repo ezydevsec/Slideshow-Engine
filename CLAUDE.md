@@ -15,7 +15,7 @@ This folder runs TikTok and Instagram slideshows for EARND using the `slideshow-
 
 ## Settings
 
-daily_batch_size: 6  # 3 posts per account per day across @earndapp and @ezyxbt; @earnie.lifts paused 2026-10-31
+daily_batch_size: 6  # @earndapp + @ezyxbt today; rises as the new accounts go live (see distribution plan)
 winner_variation_share: 0.6
 trend_communities: [r/naturalbodybuilding, r/StrongerByScience, r/GYM]
 trend_scan: weekly, Monday morning (founder, 2026-11-01). Daily runs reuse that week's file; no daily rescans.
@@ -33,7 +33,7 @@ default_app_slide: 4
 - Never present our own promotional pages as independent recommendations. Founder and theme-page posts say EARND is ours.
 - The app enters on slide 3 or 4 by default, in the account's voice (brand: direct EARND product language). Exception: @ezyxbt native-tip format puts it on the second-to-last "real tip" slide (founder, 2026-11-01).
 - Report every post per account: account, post ID, messaging angle, views, profile visits, attributable purchases where measurable. Leave unavailable metrics blank, never 0.
-- @earndapp and @ezyxbt run in parallel (approved 2026-10-24). Don't add theme pages or more posting workload until a format shows repeatable results. More accounts alone don't show which message sells EARND.
+- Accounts (founder lifted the account limit 2026-11-04; plan in `03-ideas/distribution-plan-2026-11-04.md`). TikTok: @earndapp, @ezyxbt, @earnie.lifts, @gymbro.skits, @whatif.overload. Instagram: @earndapp, @earnie.lifts, @gymbro.skits, @whatif.overload (same brand and content as its TikTok; @ezyxbt is TikTok only). Every account runs its own format: never post one account's set on another brand. Judge each format on the kill/scale rule in the plan.
 - 5 to 10 slides. One idea per slide. Under 25 words per slide.
 - Never invent app UI. Only real screenshots from `01-app/assets/`.
 - Read `07-results/winners.md` and `07-results/failure-log.md` before writing any set.

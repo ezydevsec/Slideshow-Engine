@@ -29,7 +29,8 @@
    "type": "brand",
    "status": "active",
    "platforms": [
-    "tiktok"
+    "tiktok",
+    "instagram"
    ],
    "inactive_platforms": [
     "instagram (inactive until confirmed)"
@@ -113,9 +114,10 @@
   {
    "handle": "@earnie.lifts",
    "type": "theme",
-   "status": "paused",
+   "status": "active (format under review 2026-11-04: memes vs 3D anatomy demos)",
    "platforms": [
-    "tiktok"
+    "tiktok",
+    "instagram"
    ],
    "inactive_platforms": [],
    "posting_tool_ids": {},
@@ -147,7 +149,83 @@
    "personas": "Persona 1: The inconsistent tracker",
    "created": "2026-10-30 by the founder (exception to the 'no new theme pages until a format repeats' rule)",
    "settings_confirmed": "2026-10-30 by the founder (approved the first Earnie sets)",
-   "paused": "2026-10-31 by the founder: 2 posts (legs, back) at 0 views, 0 followers (Apify 2026-10-31). Account created 2026-10-30."
+   "paused": "2026-10-31 by the founder: 2 posts (legs, back) at 0 views, 0 followers (Apify 2026-10-31). Account created 2026-10-30.",
+   "format_options": {
+    "memes": "04-sets/2026-11-04-earnie-meme-no-notes",
+    "3d_anatomy_demo": "04-sets/2026-11-04-earnie-3d-demo-lower-b"
+   }
+  },
+  {
+   "type": "theme",
+   "platforms": [
+    "tiktok",
+    "instagram"
+   ],
+   "inactive_platforms": [],
+   "posting_tool_ids": {},
+   "required": [
+    "handle",
+    "platforms",
+    "voice",
+    "visual_template",
+    "cta.prelaunch",
+    "disclosure"
+   ],
+   "cta": {
+    "prelaunch": "TO CONFIRM: \"we're building EARND. follow @earndapp for the launch.\"",
+    "launched": "TO CONFIRM at launch",
+    "destination_prelaunch": "follow @earndapp",
+    "destination_launched": "launch.download_url"
+   },
+   "personas": [
+    "Persona 1: The inconsistent tracker",
+    "Persona 2: The busy returning lifter"
+   ],
+   "handle": "TO CONFIRM: proposed @gymbro.skits (free on 2026-11-04)",
+   "status": "setup",
+   "format": "E. 3D comedic gym skits, optional hook-pivot to EARND on the final beat (try.lockin, dropship).",
+   "character": "TO CONFIRM: two original recurring 3D gym bros. Not the lockin skeletons, Bob or Zack D. Films style.",
+   "voice": "TO CONFIRM: situational, one-word labels (\"BRO\"), relatable gym moments from the pain bank (forgot last week's weight, no plan, guessing). Caption: \"send this to your gym bro\".",
+   "visual_template": "TO CONFIRM: 1080x1920 3D video, 30 to 60 s (Higgsfield). Phase-1 fallback: 3D still slideshows.",
+   "disclosure": "TO CONFIRM: bio \"by @earndapp\". Any EARND beat says it's ours.",
+   "bio": null,
+   "note": "Merged 2026-11-04 from session 'Replicate X post' (branch claude/zen-babbage-c72m2o). Founder confirmed keeping this account on 2026-11-04; handle and fields marked TO CONFIRM still need confirming once created. Instagram twin of the same brand (founder: 4 IG accounts)."
+  },
+  {
+   "type": "theme",
+   "platforms": [
+    "tiktok",
+    "instagram"
+   ],
+   "inactive_platforms": [],
+   "posting_tool_ids": {},
+   "required": [
+    "handle",
+    "platforms",
+    "voice",
+    "visual_template",
+    "cta.prelaunch",
+    "disclosure"
+   ],
+   "cta": {
+    "prelaunch": "TO CONFIRM: \"we're building EARND, the app that tracks every +2.5 kg. follow @earndapp for the launch.\"",
+    "launched": "TO CONFIRM at launch",
+    "destination_prelaunch": "follow @earndapp",
+    "destination_launched": "launch.download_url"
+   },
+   "personas": [
+    "Persona 1: The inconsistent tracker",
+    "Persona 2: The busy returning lifter"
+   ],
+   "handle": "TO CONFIRM: proposed @whatif.overload (free on 2026-11-04)",
+   "status": "setup",
+   "format": "F. What-if escalation (02-research/swipe/2026-11-04-3d-character-accounts.md).",
+   "character": "TO CONFIRM: one original recurring 3D guy (working name Dale), same outfit every post.",
+   "voice": "TO CONFIRM: deadpan, played straight. One rule repeated each step (+2.5 kg/week) until real objects turn absurd. Numbers labelled \"example\". Payoff is a joke, never a physique promise.",
+   "visual_template": "TO CONFIRM: 1080x1920 3D still slideshows first (bold white text, black stroke, week counter). Video only if a premise hits.",
+   "disclosure": "TO CONFIRM: bio \"by @earndapp\". The final slide says EARND is ours.",
+   "bio": null,
+   "note": "Merged 2026-11-04 from session 'Replicate X post' (branch claude/zen-babbage-c72m2o). Founder confirmed keeping this account on 2026-11-04; handle and fields marked TO CONFIRM still need confirming once created. Instagram twin of the same brand (founder: 4 IG accounts)."
   }
  ],
  "planned_accounts": {
@@ -180,5 +258,6 @@
   }
  },
  "weekly_stats": "Sunday 08:35 London: scheduled task 'Weekly EARND stats pull (Sunday)' (trig_01JaYrXCmiMa7z7V4dAjzggE) scrapes @earndapp + @ezyxbt via Apify (cap $0.50), updates 07-results/performance.csv, drafts the weekly review for gate 4.",
- "weekly_trend_scan": "Monday 08:47 London: scheduled task 'Weekly EARND trend scan (Monday)' (trig_01FV2ZR4sTBmeUeZJowwL7om), one Apify run max (cap $0.50) + free web sources; output 02-research/trends/YYYY-MM-DD.md reused by daily runs Tue–Sun."
+ "weekly_trend_scan": "Monday 08:47 London: scheduled task 'Weekly EARND trend scan (Monday)' (trig_01FV2ZR4sTBmeUeZJowwL7om), one Apify run max (cap $0.50) + free web sources; output 02-research/trends/YYYY-MM-DD.md reused by daily runs Tue–Sun.",
+ "distribution_plan": "03-ideas/distribution-plan-2026-11-04.md (merged 2026-11-04). TikTok 5: @earndapp, @ezyxbt, @earnie.lifts, @gymbro.skits, @whatif.overload. Instagram 4: @earndapp, @earnie.lifts, @gymbro.skits, @whatif.overload (same brand as TikTok; @ezyxbt TikTok only)."
 }
