@@ -16,7 +16,7 @@
     "Never present our own promotional pages as independent recommendations. Every account owned or run by us discloses that tie.",
     "Every post needs approval in chat before it is queued, and approval before it publishes.",
     "Our accounts never comment on, like, or reply to each other's posts.",
-    "@earndapp and @ezyxbt run in parallel (approved 2026-10-24). Don't add theme pages or more posting workload until a format shows repeatable results."
+    "Account-count limit lifted by the user on 2026-11-04. Theme accounts: @earnie.lifts (format A), 3D gym skits (format E), what-if escalation (format F). Plan: 03-ideas/distribution-plan-2026-11-04.md. Every other rule still applies."
   ],
   "types": {
     "brand": "The official EARND account. Speaks as EARND: direct product language.",
@@ -102,6 +102,114 @@
       "bio": null,
       "bio_proposed": "Training. Building EARND. Launch updates → @earndapp",
       "personas": "Not set. Founder content follows the founder's real training, not a persona."
+    },
+    {
+      "type": "theme",
+      "platforms": [
+        "tiktok"
+      ],
+      "inactive_platforms": [
+        "instagram (inactive until confirmed)"
+      ],
+      "posting_tool_ids": {},
+      "required": [
+        "handle",
+        "platforms",
+        "voice",
+        "visual_template",
+        "cta.prelaunch",
+        "disclosure"
+      ],
+      "cta": {
+        "prelaunch": "TO CONFIRM: \"we're building EARND. follow @earndapp for the launch.\"",
+        "launched": "TO CONFIRM at launch",
+        "destination_prelaunch": "follow @earndapp",
+        "destination_launched": "launch.download_url"
+      },
+      "personas": [
+        "Persona 1: The inconsistent tracker",
+        "Persona 2: The busy returning lifter"
+      ],
+      "handle": "@earnie.lifts",
+      "status": "active",
+      "format": "A. 3D anatomy exercise demo (02-research/swipe/2026-11-04-animated-fitness-accounts.md). Started as photo-mode slideshows (first post 2026-11-03).",
+      "character": "Earnie: grey 3D muscle mannequin on lime (avatar). Target muscles highlighted.",
+      "voice": "TO CONFIRM: lowercase, short, practical. \"4 exercises. biceps and triceps. save it for arm day.\" Save-driven. Progression and setup, never physique promises.",
+      "visual_template": "TO CONFIRM: 1080x1920 3D renders of Earnie doing the exercise, target muscle highlighted red, short white text. Generated character (never the founder).",
+      "disclosure": "Bio: \"earnie lifts so you know what to lift. by @EARND\". The final slide says EARND is ours.",
+      "bio": "earnie lifts so you know what to lift. by @EARND"
+    },
+    {
+      "type": "theme",
+      "platforms": [
+        "tiktok"
+      ],
+      "inactive_platforms": [
+        "instagram (inactive until confirmed)"
+      ],
+      "posting_tool_ids": {},
+      "required": [
+        "handle",
+        "platforms",
+        "voice",
+        "visual_template",
+        "cta.prelaunch",
+        "disclosure"
+      ],
+      "cta": {
+        "prelaunch": "TO CONFIRM: \"we're building EARND. follow @earndapp for the launch.\"",
+        "launched": "TO CONFIRM at launch",
+        "destination_prelaunch": "follow @earndapp",
+        "destination_launched": "launch.download_url"
+      },
+      "personas": [
+        "Persona 1: The inconsistent tracker",
+        "Persona 2: The busy returning lifter"
+      ],
+      "handle": "TO CONFIRM: proposed @gymbro.skits (free on 2026-11-04)",
+      "status": "setup",
+      "format": "E. 3D comedic gym skits, optional hook-pivot to EARND on the final beat (try.lockin, dropship).",
+      "character": "TO CONFIRM: two original recurring 3D gym bros. Not the lockin skeletons, Bob or Zack D. Films style.",
+      "voice": "TO CONFIRM: situational, one-word labels (\"BRO\"), relatable gym moments from the pain bank (forgot last week's weight, no plan, guessing). Caption: \"send this to your gym bro\".",
+      "visual_template": "TO CONFIRM: 1080x1920 3D video, 30 to 60 s (Higgsfield). Phase-1 fallback: 3D still slideshows.",
+      "disclosure": "TO CONFIRM: bio \"by @earndapp\". Any EARND beat says it's ours.",
+      "bio": null
+    },
+    {
+      "type": "theme",
+      "platforms": [
+        "tiktok"
+      ],
+      "inactive_platforms": [
+        "instagram (inactive until confirmed)"
+      ],
+      "posting_tool_ids": {},
+      "required": [
+        "handle",
+        "platforms",
+        "voice",
+        "visual_template",
+        "cta.prelaunch",
+        "disclosure"
+      ],
+      "cta": {
+        "prelaunch": "TO CONFIRM: \"we're building EARND, the app that tracks every +2.5 kg. follow @earndapp for the launch.\"",
+        "launched": "TO CONFIRM at launch",
+        "destination_prelaunch": "follow @earndapp",
+        "destination_launched": "launch.download_url"
+      },
+      "personas": [
+        "Persona 1: The inconsistent tracker",
+        "Persona 2: The busy returning lifter"
+      ],
+      "handle": "TO CONFIRM: proposed @whatif.overload (free on 2026-11-04)",
+      "status": "setup",
+      "format": "F. What-if escalation (02-research/swipe/2026-11-04-3d-character-accounts.md).",
+      "character": "TO CONFIRM: one original recurring 3D guy (working name Dale), same outfit every post.",
+      "voice": "TO CONFIRM: deadpan, played straight. One rule repeated each step (+2.5 kg/week) until real objects turn absurd. Numbers labelled \"example\". Payoff is a joke, never a physique promise.",
+      "visual_template": "TO CONFIRM: 1080x1920 3D still slideshows first (bold white text, black stroke, week counter). Video only if a premise hits.",
+      "disclosure": "TO CONFIRM: bio \"by @earndapp\". The final slide says EARND is ours.",
+      "bio": null
     }
   ],
   "planned_accounts": {
