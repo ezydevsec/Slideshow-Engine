@@ -1,0 +1,12 @@
+{
+  "set_id": "2026-11-04-earnie-video-rack-confusion",
+  "status": "draft 2026-11-04: awaiting gate 3",
+  "format": "earnie-meme-video",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1920, 7.5 s",
+  "source": "Kling 3.0 image-to-video from meme scene confused-rack (Higgsfield job 448e3516…), clip cde800a8…; 7.5 credits. Meme caption band + end card added with ffmpeg. Silent: add a funny trending sound in TikTok.",
+  "caption": "every single leg day 😭 #gymhumor #gymtok #gymmemes #relatable #gymrat",
+  "ai_images": true,
+  "ai_note": "AI-generated video: TikTok AI label ON"
+}

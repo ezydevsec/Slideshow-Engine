@@ -1,0 +1,104 @@
+{
+  "set_id": "2026-11-04-ezyxbt-native-missed-a-session",
+  "status": "draft 2026-11-04: awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "what the founder does when he misses a day: moves the session, keeps the 4",
+  "trend": "evergreen / scheduling",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1920",
+  "caption": "#gymtips #upperlower #consistency #gymtok #4daysplit",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "anatomy diagrams (if any) are generated; founder photos and app screens are real",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b14-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "hook": "what i do when i miss a gym day",
+      "sub": "(i don't skip it)"
+    },
+    {
+      "type": "list",
+      "title": "i move the session",
+      "photo": {
+        "file": "b9-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "to the next day i'm free. the session stays the same."
+    },
+    {
+      "type": "list",
+      "title": "the 4 stay the 4",
+      "photo": {
+        "file": "b12-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "upper A, lower A, upper B, lower B. every week."
+    },
+    {
+      "type": "list",
+      "title": "i don't guess",
+      "photo": {
+        "file": "b13-01.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "lines": [],
+      "text": "when i get back, i check last session's numbers before i start."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "missed a day? move the session to another day.",
+      "shot": "01-app/assets/demo-move-session.png",
+      "crop": [
+        0.2,
+        0.21,
+        0.8,
+        0.93
+      ],
+      "example": false,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b10-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "text": "save this for the next busy week",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

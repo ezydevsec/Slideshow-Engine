@@ -1,0 +1,117 @@
+{
+  "set_id": "2026-11-04-ezyxbt-native-rest-between-sets",
+  "status": "draft 2026-11-04: awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "the founder's rest rule: 2–3 min between working sets, warm-ups as needed",
+  "trend": "evergreen beginner question",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1920",
+  "caption": "#resttime #gymtips #gymtok #upperlower #progressiveoverload",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "anatomy diagrams (if any) are generated; founder photos and app screens are real",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b11-05.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "hook": "how long i rest between sets",
+      "sub": "(it's longer than you think)"
+    },
+    {
+      "type": "list",
+      "title": "working sets",
+      "photo": {
+        "file": "b15-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "2–3 minutes. every time."
+    },
+    {
+      "type": "list",
+      "title": "why",
+      "photo": {
+        "file": "b14-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "so my second set is a real set, not a tired one."
+    },
+    {
+      "type": "list",
+      "title": "warm-ups",
+      "photo": {
+        "file": "b12-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "as needed. they don't count, so i don't time them."
+    },
+    {
+      "type": "list",
+      "title": "the catch",
+      "photo": {
+        "file": "b16-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "if i don't time it, i start too early or scroll for ten minutes."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b9-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "tap the set complete and the rest timer starts on its own.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.2,
+        0.64,
+        0.8,
+        0.855
+      ],
+      "example": false,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b16-01.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for your next session",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

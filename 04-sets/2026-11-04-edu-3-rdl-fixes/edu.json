@@ -1,0 +1,100 @@
+{
+  "set_id": "2026-11-04-edu-3-rdl-fixes",
+  "status": "draft 2026-11-04: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "light",
+  "angle": "technique fixes applied to the RDL (Lower B exercise)",
+  "trend": "technique fixes per muscle",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1350",
+  "caption": "3 fixes for your RDL",
+  "hashtags": [
+    "#rdl",
+    "#romaniandeadlift",
+    "#hamstrings",
+    "#gymtips",
+    "#legday"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "3 FIXES FOR",
+          false
+        ],
+        [
+          "YOUR",
+          false
+        ],
+        [
+          "RDL",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "romanian-deadlift"
+    },
+    {
+      "type": "steps",
+      "kicker": "FIX 1",
+      "title": "PUSH YOUR HIPS BACK.",
+      "body": "It's a hinge, not a squat. Knees stay softly bent.",
+      "pose": "romanian-deadlift",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "FIX 2",
+      "title": "KEEP THE BAR CLOSE.",
+      "body": "Slide it down your legs. Drifting forward pulls on your lower back.",
+      "pose": "thinking",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "FIX 3",
+      "title": "STOP AT THE STRETCH.",
+      "body": "Go down until your hamstrings stretch, not until the plates touch.",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "exercise",
+      "kicker": "THEN",
+      "title": "RDL",
+      "muscle": "Hamstrings + glutes",
+      "sets": "2 × 4–8",
+      "cue": "Flat back the whole rep.",
+      "pose": "romanian-deadlift"
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY SET",
+      "body": "Last session and today's target.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR LOWER DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ]
+}

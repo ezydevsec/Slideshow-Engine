@@ -1,0 +1,108 @@
+{
+  "set_id": "2026-11-04-ezyxbt-native-upper-a-day",
+  "status": "draft 2026-11-04: awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "the founder's Upper A, one exercise per slide with anatomy and cue",
+  "trend": "exercise-by-exercise breakdowns",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1920",
+  "caption": "#upperbody #upperlower #gymtok #gymtips #chestday",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "anatomy diagrams (if any) are generated; founder photos and app screens are real",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b13-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "hook": "my upper A, every exercise",
+      "sub": "(6 exercises, 12 working sets)",
+      "anatomy": "chest"
+    },
+    {
+      "type": "exercise",
+      "anatomy": "chest",
+      "name": "Machine Chest Press",
+      "sets": "2 × 4–8",
+      "text": "handles at mid-chest. press straight out, control it back."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "lats",
+      "name": "Pulldown",
+      "sets": "2 × 4–8",
+      "text": "wide or neutral grip. elbows down to your sides."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "upper-back",
+      "name": "Chest-Supported Row",
+      "sets": "2 × 4–8",
+      "text": "chest on the pad so you can't swing. pull your elbows back."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "delts",
+      "name": "Lateral Raise",
+      "sets": "2 × 4–8",
+      "text": "lead with your elbows. stop at shoulder height."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "biceps",
+      "name": "Preacher Curl",
+      "sets": "2 × 4–8",
+      "text": "the pad stops you swinging. control it all the way down."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "triceps",
+      "name": "Poliquin Pushdown",
+      "sets": "2 × 4–8",
+      "text": "elbows pinned to your sides. squeeze at the bottom."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-08.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "same 6 exercises every upper A. last week's numbers are the target.",
+      "shot": "01-app/assets/demo-log-working-set.png",
+      "crop": [
+        0.225,
+        0.305,
+        0.775,
+        0.535
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b12-06.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "text": "save this for upper day",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

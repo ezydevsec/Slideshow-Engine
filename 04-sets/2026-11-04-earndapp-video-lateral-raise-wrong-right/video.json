@@ -1,0 +1,12 @@
+{
+  "set_id": "2026-11-04-earndapp-video-lateral-raise-wrong-right",
+  "status": "draft 2026-11-04: awaiting gate 3",
+  "format": "earndapp-mascot-video (wrong vs right)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1920, 15 s",
+  "source": "Kling 3.0 image-to-video from 01-app/brand/poses/lateral-raise.jpg (Higgsfield media 42c9b6a4…): wrong clip 4ffabdf8…, right clip c5dbdd5c…; 15 credits. Captions + real app screen card (example tag) + CTA card added with ffmpeg. Silent: add a trending sound in TikTok.",
+  "caption": "lateral raise: wrong vs right. save it for upper day #lateralraise #shoulderworkout #gymtips #gymtok #formcheck",
+  "ai_images": true,
+  "ai_note": "AI-generated video: TikTok AI label ON"
+}

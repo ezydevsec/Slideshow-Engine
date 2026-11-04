@@ -1,0 +1,112 @@
+{
+  "set_id": "2026-11-04-edu-5-machines-to-learn-first",
+  "status": "draft 2026-11-04: awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "angle": "beginner guide: the 5 programme machines to learn first, mascot pose per machine",
+  "trend": "beginner guides (highest saves)",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1350",
+  "caption": "new to the gym? learn these 5 machines first",
+  "hashtags": [
+    "#gymbeginner",
+    "#beginnergymtips",
+    "#gymtips",
+    "#gymtok",
+    "#upperlower"
+  ],
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "NEW TO THE GYM?",
+          false
+        ],
+        [
+          "LEARN THESE",
+          false
+        ],
+        [
+          "5 MACHINES FIRST",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "cover-arms-open"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "CHEST PRESS",
+      "muscle": "Chest",
+      "sets": "2 × 4–8",
+      "cue": "Handles at mid-chest. Press straight out.",
+      "pose": "chest-press"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2",
+      "title": "LAT PULLDOWN",
+      "muscle": "Lats",
+      "sets": "2 × 4–8",
+      "cue": "Pull to your upper chest, elbows down.",
+      "pose": "pulldown"
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY SET",
+      "body": "So you never have to guess the weight.",
+      "shot": "01-app/assets/demo-log-working-set.png",
+      "crop": [
+        0.225,
+        0.305,
+        0.775,
+        0.535
+      ],
+      "example": true
+    },
+    {
+      "type": "exercise",
+      "kicker": "#3",
+      "title": "CHEST-SUPPORTED ROW",
+      "muscle": "Upper back",
+      "sets": "2 × 4–8",
+      "cue": "Chest on the pad. Pull your elbows back.",
+      "pose": "chest-supported-row"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#4",
+      "title": "LEG EXTENSION",
+      "muscle": "Quads",
+      "sets": "2 × 4–8",
+      "cue": "Squeeze at the top for a second.",
+      "pose": "leg-extension"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#5",
+      "title": "LEG CURL",
+      "muscle": "Hamstrings",
+      "sets": "2 × 4–8",
+      "cue": "Curl all the way. Control it back.",
+      "pose": "leg-curl"
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR YOUR FIRST WEEK.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ]
+}
