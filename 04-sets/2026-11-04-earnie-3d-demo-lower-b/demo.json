@@ -1,0 +1,23 @@
+{
+  "set_id": "2026-11-04-earnie-3d-demo-lower-b",
+  "status": "draft 2026-11-04: format example (A. 3D anatomy demo) for @earnie.lifts, awaiting founder decision vs memes",
+  "format": "earnie-3d-anatomy-demo",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "angle": "what every exercise on Lower B hits, Earnie demonstrating each with the target muscle in red (workitapp/fitonomy style); app on slide 4",
+  "canvas": "1080x1920",
+  "caption": "what every leg day exercise actually hits. save it 🦵 #legday #legworkout #gymtips #workoutplan #gymtok",
+  "sound": {"mode": "trending", "note": ""},
+  "ai_images": true,
+  "ai_note": "Earnie 3D renders generated with Higgsfield: TikTok AI label ON",
+  "slides": [
+    {"type": "cover", "image": "01-app/brand/demos/hack-squat.jpg", "hook": "what every leg day exercise actually hits", "sub": "(5 exercises. save this)", "focus_y": 0.55},
+    {"type": "exercise", "image": "01-app/brand/demos/calf-press.jpg", "kicker": "#1", "title": "CALF PRESS", "muscle": "calves", "sets": "2 × 4–8", "cue": "full stretch at the bottom, pause, then press."},
+    {"type": "exercise", "image": "01-app/brand/demos/unilateral-leg-curl.jpg", "kicker": "#2", "title": "UNILATERAL LEG CURL", "muscle": "hamstrings", "sets": "2 × 4–8", "cue": "one leg at a time. curl all the way, control it back."},
+    {"type": "app", "title": "the part everyone guesses: the weight.", "body": "EARND shows your last session and today's target. we're building it.", "shot": "01-app/assets/demo-last-time-target.png", "crop": [0.228, 0.305, 0.772, 0.622], "example": true},
+    {"type": "exercise", "image": "01-app/brand/demos/unilateral-leg-extension.jpg", "kicker": "#3", "title": "UNILATERAL LEG EXTENSION", "muscle": "quads", "sets": "2 × 4–8", "cue": "squeeze at the top for a second. slow on the way down."},
+    {"type": "exercise", "image": "01-app/brand/demos/rdl.jpg", "kicker": "#4", "title": "RDL", "muscle": "hamstrings + glutes", "sets": "2 × 4–8", "cue": "hips back, flat back, bar close to your legs."},
+    {"type": "exercise", "image": "01-app/brand/demos/hack-squat.jpg", "kicker": "#5", "title": "HACK SQUAT", "muscle": "quads", "sets": "2 × 4–8", "cue": "go as deep as you can with control."},
+    {"type": "cta", "image": "01-app/brand/demos/rdl.jpg", "title": "save this for leg day.", "body": "we're building EARND. follow @earndapp for the launch.", "focus_y": 0.45}
+  ]
+}
