@@ -1,0 +1,66 @@
+{
+  "set_id": "2026-11-05-earnie-video-one-more-rep",
+  "status": "draft 2026-11-05, awaiting gate 3",
+  "format": "earnie-meme-video",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "caption": "one rep. that's all it took 😭 #gymhumor #gymtok #gymmemes #relatable #gymrat",
+  "ai_images": true,
+  "ai_note": "AI-generated video, voice (ElevenLabs v4 'Bob' via Higgsfield) and music (ElevenLabs Music v2 via Higgsfield): TikTok AI label ON",
+  "script": [
+    "One more than last week... come on...",
+    "Come on... COME ON...",
+    "YES! LET'S GO!"
+  ],
+  "out": "earnie-one-more-rep.mp4",
+  "voice": "voice.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.2,
+  "voice_delay": 0.3,
+  "layout": "meme",
+  "band_text": [
+    "when you beat last week",
+    "by ONE rep"
+  ],
+  "band_end": 7.9,
+  "segments": [
+    {
+      "src": "clip-raw.mp4",
+      "start": 0.0,
+      "end": 7.9,
+      "speed": 0.68,
+      "hold": true
+    },
+    {
+      "src": "endcard.png",
+      "start": 7.9,
+      "end": 10.4,
+      "layout": "full"
+    }
+  ],
+  "captions": {
+    "on": true,
+    "y": 1560,
+    "size": 76,
+    "words_per": 1,
+    "stroke": 8,
+    "until": 7.9
+  },
+  "sfx": [
+    {
+      "type": "thud",
+      "t": 4.9,
+      "vol": 0.45
+    },
+    {
+      "type": "pop",
+      "t": 5.95,
+      "vol": 0.25
+    },
+    {
+      "type": "whoosh",
+      "t": 7.8,
+      "vol": 0.3
+    }
+  ]
+}

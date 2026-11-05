@@ -1,0 +1,120 @@
+{
+  "set_id": "2026-11-05-earndapp-video-pulldown-wrong-right",
+  "status": "draft 2026-11-05, awaiting gate 3",
+  "format": "earndapp-mascot-video (wrong vs right, voiceover)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "caption": "lat pulldown: wrong vs right. save it for upper day #latpulldown #backworkout #gymtips #gymtok #formcheck",
+  "ai_images": true,
+  "ai_note": "AI-generated video, voice (ElevenLabs v4 'Knox' via Higgsfield) and music (ElevenLabs Music v2 via Higgsfield): TikTok AI label ON",
+  "script": [
+    "Your lat pulldowns probably look like this.",
+    "Leaning way back. Swinging. That's momentum, not your lats.",
+    "Do this instead. Sit tall, chest up, drive your elbows down to your upper chest, and let it up slow.",
+    "Then beat last session. EARND shows you exactly what to beat.",
+    "EARND launches soon. Follow for the launch."
+  ],
+  "out": "earndapp-pulldown-wrong-right.mp4",
+  "voice": "voice-tight.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.13,
+  "layout": "full",
+  "segments": [
+    {
+      "src": "wrong-raw.mp4",
+      "start": 0.0,
+      "end": 7.8,
+      "speed": 0.66,
+      "hold": true
+    },
+    {
+      "src": "right-raw.mp4",
+      "start": 7.8,
+      "end": 14.7,
+      "speed": 0.73,
+      "hold": true
+    },
+    {
+      "src": "card-app.png",
+      "start": 14.7,
+      "end": 18.85
+    },
+    {
+      "src": "card-cta.png",
+      "start": 18.85,
+      "end": 22.0
+    }
+  ],
+  "labels": [
+    {
+      "text": "LAT PULLDOWN",
+      "start": 0.0,
+      "end": 14.7,
+      "size": 64,
+      "y": 1520,
+      "color": "#FFFFFF",
+      "stroke": 6
+    },
+    {
+      "text": "WRONG",
+      "start": 3.0,
+      "end": 7.8,
+      "size": 120,
+      "y": 1600,
+      "color": "#FF4444",
+      "stroke": 7
+    },
+    {
+      "text": "RIGHT",
+      "start": 7.9,
+      "end": 14.7,
+      "size": 120,
+      "y": 1600,
+      "color": "#C6FF00",
+      "stroke": 7
+    }
+  ],
+  "captions": {
+    "on": true,
+    "y": 1330,
+    "size": 80,
+    "words_per": 1,
+    "stroke": 8,
+    "hl_words": [
+      "earnd"
+    ],
+    "until": 14.7,
+    "fix": {
+      "LAP": "LAT",
+      "EARNED": "EARND",
+      "EARN": "EARND"
+    }
+  },
+  "sfx": [
+    {
+      "type": "pop",
+      "t": 3.0,
+      "vol": 0.3
+    },
+    {
+      "type": "whoosh",
+      "t": 7.7,
+      "vol": 0.35
+    },
+    {
+      "type": "pop",
+      "t": 7.9,
+      "vol": 0.3
+    },
+    {
+      "type": "whoosh",
+      "t": 14.6,
+      "vol": 0.35
+    },
+    {
+      "type": "whoosh",
+      "t": 18.75,
+      "vol": 0.35
+    }
+  ]
+}

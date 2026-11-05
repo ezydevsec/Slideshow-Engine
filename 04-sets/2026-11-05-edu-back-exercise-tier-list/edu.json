@@ -1,0 +1,129 @@
+{
+  "set_id": "2026-11-05-edu-back-exercise-tier-list",
+  "status": "draft 2026-11-05, awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "canvas": "1080x1350",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "theme": "dark",
+  "angle": "back exercise tier list; the programme's back exercises sit at the top",
+  "trend": "S-tier exercise lists (backlog 2026-11-02, score 28)",
+  "caption": "back exercise tier list. where would you put yours?",
+  "hashtags": [
+    "#backworkout",
+    "#backday",
+    "#latpulldown",
+    "#gymtips",
+    "#tierlist"
+  ],
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "BACK EXERCISE",
+          false
+        ],
+        [
+          "TIER LIST",
+          true
+        ],
+        [
+          "S → D",
+          false
+        ]
+      ],
+      "mascot": true,
+      "pose": "pulldown"
+    },
+    {
+      "type": "steps",
+      "kicker": "S TIER",
+      "title": "LAT PULLDOWN · CHEST-SUPPORTED ROW",
+      "body": "Stable, easy to load, easy to progress. Your back does the work, not your lower back.",
+      "mascot": true,
+      "pose": "pulldown"
+    },
+    {
+      "type": "steps",
+      "kicker": "A TIER",
+      "title": "CABLE PULLOVER",
+      "body": "Lats in a long stretch with the biceps out of it.",
+      "mascot": true,
+      "pose": "pullover"
+    },
+    {
+      "type": "app",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "title": "EARND'S PROGRAMME USES ALL THREE",
+      "body": "And shows the target to beat on every set."
+    },
+    {
+      "type": "steps",
+      "kicker": "B TIER",
+      "title": "BARBELL ROW",
+      "body": "Works, but your lower back often tires before your lats do.",
+      "mascot": true,
+      "pose": "thinking"
+    },
+    {
+      "type": "steps",
+      "kicker": "D TIER",
+      "title": "SWINGING PULLDOWNS",
+      "body": "If you lean back to the floor, momentum is doing the work.",
+      "mascot": true
+    },
+    {
+      "type": "tier",
+      "title": "FULL LIST",
+      "rows": [
+        [
+          "S",
+          [
+            "Lat pulldown",
+            "Chest-supported row"
+          ]
+        ],
+        [
+          "A",
+          [
+            "Cable pullover"
+          ]
+        ],
+        [
+          "B",
+          [
+            "Barbell row"
+          ]
+        ],
+        [
+          "D",
+          [
+            "Swinging pulldowns"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "WHERE WOULD YOU PUT YOURS?",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "thinking"
+    }
+  ]
+}

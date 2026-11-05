@@ -1,0 +1,122 @@
+{
+  "set_id": "2026-11-05-ezyxbt-native-3-curl-fixes",
+  "status": "draft 2026-11-05, awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "anatomy diagrams are generated; founder photos and app screens are real",
+  "angle": "3 technique fixes for every curl, then the 2 curls in the programme",
+  "trend": "technique fixes per muscle (backlog 2026-11-02, score 28)",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "caption": "3 things i fixed on every curl i do #bicepcurl #armday #gymtips #gymtok #upperlower",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b10-05.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "hook": "3 fixes for every curl you do",
+      "sub": "(biceps, every upper day)",
+      "anatomy": "biceps"
+    },
+    {
+      "type": "list",
+      "title": "fix 1",
+      "photo": {
+        "file": "b10-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "keep your elbows still. if they drift forward, your shoulders take over."
+    },
+    {
+      "type": "list",
+      "title": "fix 2",
+      "photo": {
+        "file": "b12-05.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "go all the way down. the stretch at the bottom is the part that counts."
+    },
+    {
+      "type": "list",
+      "title": "fix 3",
+      "photo": {
+        "file": "b13-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "control the way down. two seconds. no dropping it."
+    },
+    {
+      "type": "list",
+      "title": "the curls i do",
+      "photo": {
+        "file": "b11-06.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [
+        "preacher curl (upper A)",
+        "bayesian or hammer curl (upper B)",
+        "",
+        "#2 × 4–8 each"
+      ]
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-06.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "clean reps only. i log them so next week has a number to beat.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b15-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "text": "save this for upper day",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

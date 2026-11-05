@@ -1,0 +1,106 @@
+{
+  "set_id": "2026-11-05-ezyxbt-native-chest-only-2",
+  "status": "draft 2026-11-05, awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "sound": {
+    "mode": "trending",
+    "note": ""
+  },
+  "ai_images": true,
+  "ai_note": "anatomy diagrams are generated; founder photos and app screens are real",
+  "angle": "the founder's chest training is only 2 exercises (chest press on Upper A, pec deck on Upper B)",
+  "trend": "'only X exercises' posts",
+  "trend_file": "02-research/trends/2026-11-02.md",
+  "caption": "my chest training is only 2 exercises. here's why #chestworkout #chestday #gymtips #gymtok #upperlower",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b9-07.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "hook": "i only do 2 chest exercises",
+      "sub": "(all week)",
+      "anatomy": "chest"
+    },
+    {
+      "type": "exercise",
+      "anatomy": "chest",
+      "name": "Machine Chest Press",
+      "sets": "2 × 4–8",
+      "text": "upper A. handles at mid-chest, shoulder blades back."
+    },
+    {
+      "type": "exercise",
+      "anatomy": "chest",
+      "name": "Pec Deck",
+      "sets": "2 × 4–8",
+      "text": "upper B. soft elbows, big stretch, squeeze in the middle."
+    },
+    {
+      "type": "list",
+      "title": "why only 2",
+      "photo": {
+        "file": "b9-05.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "4 hard working sets a week. i'd rather beat those than add more i can't track."
+    },
+    {
+      "type": "list",
+      "title": "how they go up",
+      "photo": {
+        "file": "b11-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "same weight, add reps. once i own 8 clean reps, the weight goes up."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "i check what i did last session before every set.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b16-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "text": "save this for upper day",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "set_id": "2026-11-05-earnie-meme-one-more-rep",
+  "status": "draft 2026-11-05, awaiting gate 3",
+  "format": "earnie-meme-slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "angle": "beating last week by one rep (pain bank: not knowing if you improved; the win of seeing it)",
+  "canvas": "1080x1350",
+  "caption": "one rep. ONE. and i'm telling everyone 😭 #gymhumor #gymtok #gymmemes #relatable #gymrat",
+  "sound": {
+    "mode": "trending",
+    "note": "funny/trending meme sound"
+  },
+  "ai_images": true,
+  "ai_note": "Earnie scenes generated with Higgsfield from the mascot reference: TikTok AI label ON",
+  "slides": [
+    {
+      "caption": "when you beat last week by ONE rep:",
+      "image": "01-app/brand/memes/struggling-bench.jpg"
+    },
+    {
+      "caption": "*celebrates like he won the olympics*",
+      "image": "01-app/brand/memes/celebrate.jpg"
+    },
+    {
+      "caption": "texts the group chat immediately",
+      "image": "01-app/brand/memes/texting.jpg"
+    },
+    {
+      "caption": "group chat: \"ok\"",
+      "image": "01-app/brand/memes/slumped-bench.jpg"
+    },
+    {
+      "caption": "still the best day of his week",
+      "image": "01-app/brand/memes/mirror-flex.jpg"
+    },
+    {
+      "caption": "earnie checks last session first, so he knows the number to beat.",
+      "image": "01-app/brand/memes/phone-bench.jpg",
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
+  ]
+}
