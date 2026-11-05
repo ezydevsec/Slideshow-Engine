@@ -1,0 +1,32 @@
+{
+  "set_id": "2026-11-07-ezyxbt-oneliner-one-more-rep-thursday",
+  "status": "approved by the founder on 2026-11-05 (\"ok go ahead\")",
+  "format": "oneliner-photo",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "caption": "",
+  "sound": {
+    "mode": "trending",
+    "primary": "**1998echo - slowed**, nightfxrce",
+    "backup": "**Off The Leash! - Slowed**, oxxxy"
+  },
+  "ai_images": false,
+  "ai_note": "real founder photo, nothing generated",
+  "post_on": "2026-11-07",
+  "slides": [
+    {
+      "type": "oneliner",
+      "photo": {
+        "file": "b9-07.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "text": "she asked what i was thinking about. one more rep than last thursday.",
+      "color": "#E5484D",
+      "dim": 0.3
+    }
+  ]
+}

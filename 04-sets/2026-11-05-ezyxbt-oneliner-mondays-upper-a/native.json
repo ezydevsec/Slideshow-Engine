@@ -1,0 +1,33 @@
+{
+  "set_id": "2026-11-05-ezyxbt-oneliner-mondays-upper-a",
+  "status": "approved by the founder on 2026-11-05 (\"ok go ahead\")",
+  "format": "oneliner-photo",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "caption": "",
+  "sound": {
+    "mode": "trending",
+    "primary": "**STEEL TEKK - Slowed**, TRXNQL & 4fter3cho",
+    "backup": "**1998echo - slowed**, nightfxrce"
+  },
+  "ai_images": false,
+  "ai_note": "real founder photo, nothing generated",
+  "post_on": "2026-11-05",
+  "slides": [
+    {
+      "type": "oneliner",
+      "photo": {
+        "file": "b16-01.jpg",
+        "focus": [
+          0.5,
+          0.42
+        ]
+      },
+      "text": "i don't hate mondays anymore. monday is just upper A.",
+      "color": "#8EE07E",
+      "dim": 0.35,
+      "y": 0.15
+    }
+  ]
+}
