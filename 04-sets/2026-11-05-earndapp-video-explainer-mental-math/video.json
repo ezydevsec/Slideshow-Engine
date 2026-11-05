@@ -1,0 +1,147 @@
+{
+  "set_id": "2026-11-05-earndapp-video-explainer-mental-math",
+  "status": "draft 2026-11-05, awaiting gate 3",
+  "format": "mascot-explainer-video (02-research/formats/mascot-explainer-video.md)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "reference": "https://www.instagram.com/p/DSYA7PQjFgi/ (@calai.app ad)",
+  "caption": "progressive overload is simple. remembering what you lifted isn't. #progressiveoverload #gymtips #gymtok #workoutplan #upperlower",
+  "ai_images": true,
+  "ai_note": "AI-generated mascot video, voice (ElevenLabs v4 'Knox' via Higgsfield) and music (ElevenLabs Music v2 via Higgsfield); app screens are real: TikTok AI label ON",
+  "script": [
+    "Beat what you did last time, by one rep or a little more weight. That's progressive overload. Simple.",
+    "Well, in theory. Because let's be honest: remembering what you lifted last week, on every exercise, every set, and then working out what to beat today, feels like doing math homework between sets.",
+    "That's exactly why we built EARND.",
+    "Open today's session, and every set shows what you did last time, and the target to beat.",
+    "Log the set, tick it off, done. No notes app. No guessing.",
+    "Can't make it on Tuesday? Move the session to another day. You still get all four.",
+    "So if you're serious about training with a plan, without the mental math, EARND launches soon. Follow for the launch."
+  ],
+  "out": "earndapp-explainer-mental-math.mp4",
+  "voice": "voice-tight.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.12,
+  "layout": "full",
+  "segments": [
+    {
+      "src": "point-raw.mp4",
+      "start": 0.0,
+      "end": 6.0,
+      "speed": 0.85,
+      "hold": true
+    },
+    {
+      "src": "notebook-raw.mp4",
+      "start": 6.0,
+      "end": 12.4,
+      "speed": 0.78,
+      "hold": true
+    },
+    {
+      "src": "math-raw.mp4",
+      "start": 12.4,
+      "end": 18.3,
+      "speed": 0.85,
+      "hold": true
+    },
+    {
+      "src": "card-brand.png",
+      "start": 18.3,
+      "end": 20.85
+    },
+    {
+      "src": "ph-today.png",
+      "start": 20.85,
+      "end": 22.4
+    },
+    {
+      "src": "ph-target.png",
+      "start": 22.4,
+      "end": 26.45
+    },
+    {
+      "src": "ph-log.png",
+      "start": 26.45,
+      "end": 30.95
+    },
+    {
+      "src": "ph-move.png",
+      "start": 30.95,
+      "end": 35.65
+    },
+    {
+      "src": "pulldown-raw.mp4",
+      "start": 35.65,
+      "end": 42.3,
+      "speed": 0.75,
+      "hold": true
+    },
+    {
+      "src": "card-end.png",
+      "start": 42.3,
+      "end": 45.0
+    }
+  ],
+  "captions": {
+    "on": true,
+    "y": 1640,
+    "size": 76,
+    "words_per": 1,
+    "stroke": 8,
+    "hl_words": [
+      "earnd"
+    ],
+    "until": 42.3,
+    "fix": {
+      "EARNED": "EARND",
+      "EARN": "EARND"
+    }
+  },
+  "sfx": [
+    {
+      "type": "whoosh",
+      "t": 5.9,
+      "vol": 0.3
+    },
+    {
+      "type": "whoosh",
+      "t": 12.3,
+      "vol": 0.3
+    },
+    {
+      "type": "whoosh",
+      "t": 18.2,
+      "vol": 0.3
+    },
+    {
+      "type": "whoosh",
+      "t": 20.75,
+      "vol": 0.3
+    },
+    {
+      "type": "whoosh",
+      "t": 35.55,
+      "vol": 0.3
+    },
+    {
+      "type": "whoosh",
+      "t": 42.2,
+      "vol": 0.3
+    },
+    {
+      "type": "pop",
+      "t": 22.4,
+      "vol": 0.25
+    },
+    {
+      "type": "pop",
+      "t": 26.45,
+      "vol": 0.25
+    },
+    {
+      "type": "pop",
+      "t": 30.95,
+      "vol": 0.25
+    }
+  ]
+}
