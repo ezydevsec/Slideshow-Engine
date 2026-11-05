@@ -36,3 +36,25 @@ Not a controlled hook-only test: each set changes the angle across slides 1–5.
 - [ ] 2026-11-02 | winter arc | bridge: 8 weeks left in 2026; 4 sessions a week; beat last time | format: mascot edu (@earndapp) | hook: "your winter arc, planned: 4 days a week until january" | app on slide 4 | score 30 | expires: 2026-12-31 | sound: I WILL HAVE MY REVENGE
 - [ ] 2026-11-02 | technique fixes per muscle | bridge: cues per exercise, then track the clean reps | format: native-tip-slideshow (@ezyxbt) | hook: "3 fixes for every curl you do" | app on tip slide | score 28 | expires: evergreen
 - [ ] 2026-11-02 | S-tier exercise lists | bridge: tier list from the programme's exercises, app on slide 4 | format: mascot edu tier (@earndapp) | hook: "ranking every back exercise in our programme" | app on slide 4 | score 28 | expires: evergreen
+
+## Ideas 2026-11-05 (from the two @calai.app ad references + what's working)
+New formats: mascot explainer video (`02-research/formats/mascot-explainer-video.md`) and POV + screen video (`02-research/formats/pov-screen-video.md`).
+- [ ] @earndapp | POV + screen | "please stop guessing your weights" → last session + target, log a set | drafted 2026-11-05
+- [ ] @earndapp | POV + screen | "stop writing your sets on paper" (POV: crumpled gym log) → log a set in seconds
+- [ ] @earndapp | POV + screen | "you don't need a new programme. you need to beat last week." (POV: pulldown seat) → target screen
+- [ ] @earndapp | POV + screen | "missed monday? don't skip it." (POV: rainy window/gym bag) → move session
+- [ ] @earndapp | mascot explainer | "4 days a week. simple. then you miss tuesday" → move session, keep all four
+- [ ] @earndapp | mascot explainer | "add a rep. simple. was it 8 or 7?" → last session + target
+- [ ] @earndapp | wrong vs right video | hack squat · hip thrust · preacher curl · shoulder press (one per day)
+- [ ] @earndapp | edu slideshow | "chest exercise tier list" / "leg exercise tier list" (programme exercises in S)
+- [ ] @earndapp | edu slideshow | "can't add weight? do this instead" (reps → load rule, 4–8)
+- [ ] @earndapp | edu slideshow | "how heavy should week 1 be?" (≥4 clean reps rule)
+- [ ] @ezyxbt | native tip | "my december plan: 4 sessions a week until january" (seasonal; no physique goals)
+- [ ] @ezyxbt | native tip | "my gym goals for 2027 (none of them are abs)" (Dear Santa follow-up; founder to confirm goals)
+- [ ] @ezyxbt | native tip | "things i stopped doing in the gym" | NEEDS founder to confirm which are his
+- [ ] @ezyxbt | native tip | "my real week: when i actually train" | NEEDS founder's real schedule
+- [ ] @earnie.lifts | meme | "gym at 6am vs gym at 6pm"
+- [ ] @earnie.lifts | meme | "earnie's december: christmas party, leftovers, still does lower A"
+- [ ] @earnie.lifts | meme | "types of people at the gym, by how they track their lifts"
+- [ ] @earnie.lifts | meme video | "when the rest timer ends but you're mid-scroll"
+- [ ] ASK founder: 10–20 s real screen recordings (log a set → rest timer starts; check last session; move a session) + 3–5 s gym POV clips with no people. Real footage beats AI for the POV + screen format.

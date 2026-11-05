@@ -1,0 +1,88 @@
+{
+  "set_id": "2026-11-05-earndapp-video-pov-stop-guessing",
+  "status": "draft 2026-11-05, awaiting gate 3",
+  "format": "pov-screen-video (02-research/formats/pov-screen-video.md)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "reference": "https://www.instagram.com/p/DcMM7SgswlF/ (@calai.app ad)",
+  "caption": "please. you're not going to remember it. #progressiveoverload #gymtips #gymtok #gymmotivation #upperlower",
+  "ai_images": true,
+  "ai_note": "POV clip AI-generated (Kling via Higgsfield), app screens real: TikTok AI label ON. Music bed is a placeholder: post with a trending sound.",
+  "out": "earndapp-pov-stop-guessing.mp4",
+  "voice": "music.mp3",
+  "layout": "full",
+  "segments": [
+    {
+      "src": "pov-raw.mp4",
+      "start": 0.0,
+      "end": 4.0
+    },
+    {
+      "src": "scr-today.mp4",
+      "start": 4.0,
+      "end": 6.0
+    },
+    {
+      "src": "scr-target.mp4",
+      "start": 6.0,
+      "end": 9.0
+    },
+    {
+      "src": "scr-log.mp4",
+      "start": 9.0,
+      "end": 12.0
+    },
+    {
+      "src": "card-end.png",
+      "start": 12.0,
+      "end": 14.5
+    }
+  ],
+  "labels": [
+    {
+      "text": "please stop guessing",
+      "start": 0.0,
+      "end": 4.0,
+      "font": "inter",
+      "size": 82,
+      "y": 520,
+      "color": "#FFFFFF",
+      "stroke": 5
+    },
+    {
+      "text": "your weights",
+      "start": 0.0,
+      "end": 4.0,
+      "font": "inter",
+      "size": 82,
+      "y": 625,
+      "color": "#FFFFFF",
+      "stroke": 5
+    }
+  ],
+  "captions": {
+    "on": false
+  },
+  "sfx": [
+    {
+      "type": "whoosh",
+      "t": 3.9,
+      "vol": 0.3
+    },
+    {
+      "type": "pop",
+      "t": 6.0,
+      "vol": 0.2
+    },
+    {
+      "type": "pop",
+      "t": 9.0,
+      "vol": 0.2
+    },
+    {
+      "type": "whoosh",
+      "t": 11.9,
+      "vol": 0.3
+    }
+  ]
+}
