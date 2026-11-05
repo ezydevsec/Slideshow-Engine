@@ -58,3 +58,11 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @earnie.lifts | meme | "types of people at the gym, by how they track their lifts"
 - [ ] @earnie.lifts | meme video | "when the rest timer ends but you're mid-scroll"
 - [ ] ASK founder: 10–20 s real screen recordings (log a set → rest timer starts; check last session; move a session) + 3–5 s gym POV clips with no people. Real footage beats AI for the POV + screen format.
+
+## Ideas 2026-11-05 (b): from jason.td7 / rylifts / hameedkhan references
+- [ ] @ezyxbt | one-liner photo (NEEDS founder OK for 1-slide exception) | samples: "i don't hate mondays anymore. monday is just upper A." · "i don't need motivation. i need to know what i lifted last week." · "she asked what i was thinking about. one more rep than last thursday."
+- [ ] @ezyxbt | one-liner bank: "some people journal. i write down my sets." · "being consistent is boring. that's the point." · "the gym doesn't care how your week went. that's why i go." · "i stopped asking how i feel before the gym. i just check what's next." · "rest days are harder than leg days." · "my love language is a free pulldown at 6pm." · "nobody claps when you beat last week by one rep. i still count it." · "i've been on the same split for months and i'm not bored. i'm winning." (founder to confirm each one is true for him)
+- [ ] @earndapp | voiced manga/illustration explainer (hameedkhan "How I Forced My Shoulders To Grow", 1.5M, 57K saves): rewrite as "the shoulder plan i'd follow" (no growth promise) → lateral raise + shoulder press, 2 × 4–8, beat last session → app
+- [ ] @earndapp | same explainer series: "the back plan", "the arm plan", "the leg plan" (one muscle per video, programme exercises only)
+- [ ] @earnie.lifts | one-liner meme photo: Earnie low-angle in red gym light + one line ("leg day isn't hard. remembering it's leg day is hard.")
+- [ ] @whatif.overload | one-liner: Dale in moody light + "week 104 of adding 2.5 kg. the bar is now a building."

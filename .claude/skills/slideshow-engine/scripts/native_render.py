@@ -148,6 +148,15 @@ def render(s):
         img.paste(shot, (sx, top), m)
         if s.get("footer"): native_text(img, s["footer"], 40, top + shot.height + 120, maxw=880, font=SEMI)
         return img
+    if t == "oneliner":  # single moody photo + one dry line (jason.td7-style); color e.g. "#7CD67C" / "#E5484D" / "white"
+        img = photo_bg(s["photo"], dim=s.get("dim", 0.25))
+        d = ImageDraw.Draw(img); f = F(SEMI, s.get("size", 58)); lines = wrap(d, s["text"], f, 800)
+        lh = int(f.size * 1.2); y = int(H * s.get("y", 0.30)) - lh * len(lines) // 2
+        for ln in lines:
+            tw = d.textlength(ln, font=f)
+            d.text(((W - tw) / 2, y), ln, font=f, fill=s.get("color", "white"), stroke_width=2, stroke_fill=(0, 0, 0))
+            y += lh
+        return img
     if t == "cta":
         img = photo_bg(s["photo"], dim=0.35)
         y = native_text(img, s["text"], 70, int(H * 0.45))
