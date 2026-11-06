@@ -1,0 +1,199 @@
+{
+  "set_id": "2026-11-06-earndapp-video-missed-a-week-cartoon",
+  "status": "draft 2026-11-06, awaiting gate 3",
+  "format": "cartoon-explainer-reel (02-research/formats/cartoon-explainer-reel.md)",
+  "new_format_test": true,
+  "account": "@earndapp",
+  "account_type": "brand",
+  "reference": "https://www.instagram.com/reel/DfNFqhdTR-x/ (@green.faction, 2.4M plays in 4 days)",
+  "caption": "missed a week at the gym? here's what actually happens 👇 #gymtips #musclememory #gymmotivation #gymtok #workoutplan",
+  "ai_images": true,
+  "ai_note": "AI-generated illustrations, voice (ElevenLabs v4 'Knox') and music (ElevenLabs Music v2) via Higgsfield; app screen real: TikTok AI label ON",
+  "science_note": "Short breaks: glycogen and water drop (the 'flat' look) before any meaningful muscle loss; strength largely maintained through ~3 weeks of detraining in trained lifters; regain is faster than initial gain; myonuclear retention is a leading (not fully settled) explanation, hence 'seem to'.",
+  "out": "earndapp-missed-a-week-cartoon.mp4",
+  "voice": "voice-tight.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.17,
+  "layout": "full",
+  "segments": [
+    {
+      "src": "p-c0.mp4",
+      "start": 0,
+      "end": 4.0,
+      "hold": true
+    },
+    {
+      "src": "p-c1.mp4",
+      "start": 4.0,
+      "end": 7.45,
+      "hold": true
+    },
+    {
+      "src": "p-c2.mp4",
+      "start": 7.45,
+      "end": 11.05,
+      "hold": true
+    },
+    {
+      "src": "p-c3.mp4",
+      "start": 11.05,
+      "end": 15.35,
+      "hold": true
+    },
+    {
+      "src": "p-c4.mp4",
+      "start": 15.35,
+      "end": 19.75,
+      "hold": true
+    },
+    {
+      "src": "p-c6.mp4",
+      "start": 19.75,
+      "end": 23.45,
+      "hold": true
+    },
+    {
+      "src": "p-c5.mp4",
+      "start": 23.45,
+      "end": 28.6,
+      "hold": true
+    },
+    {
+      "src": "p-c7.mp4",
+      "start": 28.6,
+      "end": 32.85,
+      "hold": true
+    },
+    {
+      "src": "p-card-app.mp4",
+      "start": 32.85,
+      "end": 37.95,
+      "hold": true
+    },
+    {
+      "src": "p-c8.mp4",
+      "start": 37.95,
+      "end": 42.2,
+      "hold": true
+    }
+  ],
+  "labels": [
+    {
+      "text": "DAY 3",
+      "start": 4.1,
+      "end": 7.45,
+      "y": 40,
+      "size": 150,
+      "color": "#FFFFFF",
+      "stroke": 8
+    },
+    {
+      "text": "WEEK 1",
+      "start": 7.5,
+      "end": 11.05,
+      "y": 40,
+      "size": 150,
+      "color": "#FFFFFF",
+      "stroke": 8
+    },
+    {
+      "text": "~3 WEEKS",
+      "start": 15.4,
+      "end": 19.75,
+      "y": 40,
+      "size": 150,
+      "color": "#FFFFFF",
+      "stroke": 8
+    },
+    {
+      "text": "MUSCLE MEMORY",
+      "start": 23.5,
+      "end": 28.6,
+      "y": 40,
+      "size": 110,
+      "color": "#FFFFFF",
+      "stroke": 8
+    },
+    {
+      "text": "EARND LAUNCHES SOON",
+      "start": 37.95,
+      "end": 42.2,
+      "y": 1450,
+      "size": 100,
+      "color": "#FFFFFF",
+      "stroke": 8
+    },
+    {
+      "text": "FOLLOW FOR THE LAUNCH",
+      "start": 37.95,
+      "end": 42.2,
+      "y": 1600,
+      "size": 80,
+      "color": "#FFFFFF",
+      "stroke": 8
+    }
+  ],
+  "captions": {
+    "on": true,
+    "y": 1580,
+    "size": 76,
+    "words_per": 2,
+    "stroke": 8,
+    "until": 37.9,
+    "hl": "#C6FF00",
+    "hl_words": [
+      "earnd"
+    ],
+    "fix": {
+      "EARNED": "EARND",
+      "EARN": "EARND"
+    }
+  },
+  "sfx": [
+    {
+      "type": "pop",
+      "t": 4.0,
+      "vol": 0.28
+    },
+    {
+      "type": "pop",
+      "t": 7.45,
+      "vol": 0.28
+    },
+    {
+      "type": "pop",
+      "t": 11.05,
+      "vol": 0.28
+    },
+    {
+      "type": "pop",
+      "t": 15.35,
+      "vol": 0.28
+    },
+    {
+      "type": "pop",
+      "t": 19.75,
+      "vol": 0.28
+    },
+    {
+      "type": "pop",
+      "t": 23.45,
+      "vol": 0.28
+    },
+    {
+      "type": "pop",
+      "t": 28.6,
+      "vol": 0.28
+    },
+    {
+      "type": "pop",
+      "t": 32.85,
+      "vol": 0.28
+    },
+    {
+      "type": "pop",
+      "t": 37.95,
+      "vol": 0.28
+    }
+  ]
+}
