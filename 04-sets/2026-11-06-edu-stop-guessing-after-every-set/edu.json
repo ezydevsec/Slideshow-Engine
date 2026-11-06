@@ -1,0 +1,86 @@
+{
+  "status": "draft 2026-11-06, awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "trend_file": "02-research/trends/2026-11-06.md",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "set_id": "2026-11-06-edu-stop-guessing-after-every-set",
+  "theme": "light",
+  "length_test": "short",
+  "angle": "the 2-step progression rule as the answer to 'what do I do after every set'",
+  "trend": "'stop guessing' / plateau posts (trstnn.lifts)",
+  "caption": "stop guessing what to do after every set",
+  "hashtags": [
+    "#progressiveoverload",
+    "#gymtips",
+    "#gymtok",
+    "#strengthtraining",
+    "#workoutplan"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "som original — ANABOLIC",
+    "backup": "sonido original — HugoNationMusic"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "STOP GUESSING",
+          false
+        ],
+        [
+          "WHAT TO DO AFTER",
+          false
+        ],
+        [
+          "EVERY SET",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "thinking"
+    },
+    {
+      "type": "steps",
+      "kicker": "UNDER 8 CLEAN REPS?",
+      "title": "SAME WEIGHT. ADD A REP.",
+      "body": "Next session, beat it by one.",
+      "pose": "chest-press",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "OWN 8 CLEAN REPS?",
+      "title": "ADD WEIGHT.",
+      "body": "It drops you back to 4–5 reps. Build up again.",
+      "example": "100 kg × 8 → 105 kg × 5",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "app",
+      "title": "EARND TELLS YOU WHICH ONE, EVERY SET",
+      "body": "Last session and today's target.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR YOUR NEXT SESSION.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ]
+}

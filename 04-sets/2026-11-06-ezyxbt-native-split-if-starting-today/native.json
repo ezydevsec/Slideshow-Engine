@@ -1,0 +1,94 @@
+{
+  "status": "draft 2026-11-06, awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "trend_file": "02-research/trends/2026-11-06.md",
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "set_id": "2026-11-06-ezyxbt-native-split-if-starting-today",
+  "length_test": "short",
+  "new_format_test": "answer-on-slide-1: the whole split is on the cover, later slides explain it",
+  "angle": "the split he'd run if starting today (his programme), with the full answer on the cover",
+  "trend": "split breakdowns / beginner guides",
+  "caption": "if i was starting the gym today, this is the split i'd run #workoutsplit #upperlower #gymtips #beginnergym #gymtok",
+  "sound": {
+    "mode": "trending",
+    "primary": "som original — ANABOLIC",
+    "backup": "Amnesia X No Hands — DJSpotifyTransitions"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b9-06.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "hook": "the split i'd run if i started the gym today",
+      "sub": "upper · lower · rest · upper · lower · rest · rest"
+    },
+    {
+      "type": "list",
+      "title": "upper days",
+      "photo": {
+        "file": "b10-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "chest, back, shoulders, arms. 6 exercises, 2 hard sets each."
+    },
+    {
+      "type": "list",
+      "title": "lower days",
+      "photo": {
+        "file": "b13-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "calves, hamstrings, quads, glutes. 5 exercises, 2 hard sets each."
+    },
+    {
+      "type": "tip",
+      "label": "real tip",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND.",
+      "photo": {
+        "file": "b14-07.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "text": "4–8 reps a set. i check last session so i know exactly what to beat."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b16-02.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for day one",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

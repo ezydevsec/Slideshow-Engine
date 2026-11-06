@@ -1,0 +1,119 @@
+{
+  "status": "draft 2026-11-06, awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "trend_file": "02-research/trends/2026-11-06.md",
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "set_id": "2026-11-06-ezyxbt-native-stuck-on-same-reps",
+  "length_test": "long",
+  "angle": "what he does when he's stuck on the same reps (programme rules: execution → reps → load)",
+  "trend": "plateau posts",
+  "caption": "stuck on the same reps for weeks? this is what i do #plateau #progressiveoverload #gymtips #gymtok #upperlower",
+  "sound": {
+    "mode": "trending",
+    "primary": "sonido original — HugoNationMusic",
+    "backup": "insomnia (Slowed) — Jurasd"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b12-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "hook": "stuck on the same reps? here's what i do",
+      "sub": "(4 things)"
+    },
+    {
+      "type": "list",
+      "title": "1.",
+      "photo": {
+        "file": "b5-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "clean reps only. if the range gets shorter, it doesn't count."
+    },
+    {
+      "type": "list",
+      "title": "2.",
+      "photo": {
+        "file": "b9-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "rest the full 2–3 minutes before the next set."
+    },
+    {
+      "type": "list",
+      "title": "3.",
+      "photo": {
+        "file": "b14-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "keep the weight. don't drop it because one set felt hard."
+    },
+    {
+      "type": "list",
+      "title": "4.",
+      "photo": {
+        "file": "b11-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "aim for one more rep, not one more plate."
+    },
+    {
+      "type": "tip",
+      "label": "real tip",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND.",
+      "photo": {
+        "file": "b13-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "text": "i check last session before every set, so i know the exact rep to beat."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b16-05.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for your next plateau",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

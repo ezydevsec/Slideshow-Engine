@@ -1,0 +1,41 @@
+{
+  "set_id": "2026-11-06-earnie-meme-ruins-the-workout",
+  "status": "draft 2026-11-06, awaiting gate 3",
+  "format": "earnie-meme-slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "angle": "things that ruin the whole workout (trend: mj_lifts7 'ruins the mood for the whole workout' 884K)",
+  "trend_file": "02-research/trends/2026-11-06.md",
+  "canvas": "1080x1350",
+  "caption": "which one ruins yours? 😤 #gymhumor #gymtok #gymmemes #relatable #gymproblems",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — Be On Your Feelings",
+    "backup": "original sound — JBA"
+  },
+  "ai_images": true,
+  "ai_note": "Earnie scenes generated with Higgsfield from the mascot reference: TikTok AI label ON",
+  "slides": [
+    {
+      "caption": "things that ruin the whole workout:",
+      "image": "01-app/brand/memes/slumped-bench.jpg"
+    },
+    {
+      "caption": "phone on 3%. no music. no notes.",
+      "image": "01-app/brand/memes/low-battery.jpg"
+    },
+    {
+      "caption": "someone's towel on the only free bench",
+      "image": "01-app/brand/memes/towel-bench.jpg"
+    },
+    {
+      "caption": "not remembering what you lifted last week",
+      "image": "01-app/brand/memes/confused-rack.jpg"
+    },
+    {
+      "caption": "earnie now: last session's numbers ready before every set",
+      "image": "01-app/brand/memes/phone-bench.jpg",
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
+  ]
+}

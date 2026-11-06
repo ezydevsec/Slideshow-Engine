@@ -1,0 +1,101 @@
+{
+  "status": "draft 2026-11-06, awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "trend_file": "02-research/trends/2026-11-06.md",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "set_id": "2026-11-06-edu-ppl-vs-upper-lower",
+  "theme": "dark",
+  "length_test": "long",
+  "angle": "fair PPL vs Upper/Lower comparison for people who can train 4 days; our programme is Upper/Lower",
+  "trend": "split breakdowns (coachdjango 'PPL x UL' 2.1M)",
+  "caption": "PPL or upper/lower if you can only train 4 days?",
+  "hashtags": [
+    "#workoutsplit",
+    "#pushpulllegs",
+    "#upperlower",
+    "#gymtips",
+    "#gymtok"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "sonido original — HugoNationMusic",
+    "backup": "SYSTEM OVERRIDE — CLICK BEAT LAB"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "PPL OR",
+          false
+        ],
+        [
+          "UPPER/LOWER?",
+          true
+        ],
+        [
+          "(4 DAYS A WEEK)",
+          false
+        ]
+      ],
+      "mascot": true,
+      "pose": "thinking"
+    },
+    {
+      "type": "steps",
+      "kicker": "PUSH · PULL · LEGS",
+      "title": "BUILT FOR 6 DAYS.",
+      "body": "Squeeze it into 4 and some muscles only get trained once that week.",
+      "mascot": true,
+      "pose": "chest-press"
+    },
+    {
+      "type": "steps",
+      "kicker": "UPPER · LOWER",
+      "title": "BUILT FOR 4 DAYS.",
+      "body": "Every muscle twice a week, with rest days in between.",
+      "mascot": true,
+      "pose": "pulldown"
+    },
+    {
+      "type": "app",
+      "title": "EARND'S PROGRAMME IS UPPER/LOWER",
+      "body": "Upper A, Lower A, Upper B, Lower B. Move the days to fit your week.",
+      "shot": "01-app/assets/demo-today-upper-b.png",
+      "crop": [
+        0.175,
+        0.148,
+        0.825,
+        0.62
+      ],
+      "example": false
+    },
+    {
+      "type": "steps",
+      "kicker": "CAN TRAIN 6 DAYS?",
+      "title": "PPL IS A GREAT PICK.",
+      "body": "Six sessions, each muscle twice.",
+      "mascot": true,
+      "pose": "pointing"
+    },
+    {
+      "type": "steps",
+      "kicker": "CAN TRAIN 4 DAYS?",
+      "title": "UPPER/LOWER.",
+      "body": "Same muscles, twice a week, two fewer sessions. Pick the one you'll stick to.",
+      "mascot": true,
+      "pose": "hack-squat"
+    },
+    {
+      "type": "cta",
+      "title": "WHICH ONE DO YOU RUN?",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "thinking"
+    }
+  ]
+}

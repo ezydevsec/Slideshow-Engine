@@ -1,0 +1,41 @@
+{
+  "set_id": "2026-11-06-earnie-meme-gym-at-5pm",
+  "status": "draft 2026-11-06, awaiting gate 3",
+  "format": "earnie-meme-slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "angle": "POV: the gym at 5pm (trend: tyrgojym 'POV: you go gym at 5pm' 1.4M / 29K shares)",
+  "trend_file": "02-research/trends/2026-11-06.md",
+  "canvas": "1080x1350",
+  "caption": "every. single. evening 😭 tag who you'd queue with #gymhumor #gymtok #gymmemes #relatable #gymrat",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — JBA",
+    "backup": "original sound — lil car accident"
+  },
+  "ai_images": true,
+  "ai_note": "Earnie scenes generated with Higgsfield from the mascot reference: TikTok AI label ON",
+  "slides": [
+    {
+      "caption": "the gym at 5pm:",
+      "image": "01-app/brand/memes/packed-gym.jpg"
+    },
+    {
+      "caption": "4th in line for one bench",
+      "image": "01-app/brand/memes/bench-queue.jpg"
+    },
+    {
+      "caption": "this guy has been \"resting\" for 20 minutes",
+      "image": "01-app/brand/memes/machine-scroller.jpg"
+    },
+    {
+      "caption": "curls wherever there's space",
+      "image": "01-app/brand/memes/corner-curls.jpg"
+    },
+    {
+      "caption": "earnie now: goes at 6am and already knows what he's lifting",
+      "image": "01-app/brand/memes/empty-gym-6am.jpg",
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
+  ]
+}
