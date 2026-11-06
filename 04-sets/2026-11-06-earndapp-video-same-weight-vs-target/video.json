@@ -1,0 +1,47 @@
+{
+  "set_id": "2026-11-06-earndapp-video-same-weight-vs-target",
+  "status": "draft 2026-11-06, awaiting gate 3",
+  "format": "side-by-side-progression (02-research/formats/side-by-side-progression.md)",
+  "new_format_test": true,
+  "account": "@earndapp",
+  "account_type": "brand",
+  "reference": "@stickmaxx (3.0M / 2.6M, 'Same exercise. Same effort. One kept adding weight.')",
+  "caption": "same exercise. same effort. only one had a target. #progressiveoverload #gymtips #gymtok #rdl #strengthtraining",
+  "ai_images": true,
+  "ai_note": "mascot render is AI-generated; animation made in code; music via Higgsfield: TikTok AI label ON",
+  "out": "earndapp-same-weight-vs-target.mp4",
+  "voice": "music.mp3",
+  "layout": "full",
+  "segments": [
+    {
+      "src": "compare.mp4",
+      "start": 0,
+      "end": 16.6
+    },
+    {
+      "src": "card-app.png",
+      "start": 16.6,
+      "end": 19.8
+    },
+    {
+      "src": "endcard.png",
+      "start": 19.8,
+      "end": 22.5
+    }
+  ],
+  "captions": {
+    "on": false
+  },
+  "sfx": [
+    {
+      "type": "whoosh",
+      "t": 16.5,
+      "vol": 0.3
+    },
+    {
+      "type": "whoosh",
+      "t": 19.7,
+      "vol": 0.3
+    }
+  ]
+}

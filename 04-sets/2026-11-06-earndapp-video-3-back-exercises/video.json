@@ -1,0 +1,198 @@
+{
+  "set_id": "2026-11-06-earndapp-video-3-back-exercises",
+  "status": "draft 2026-11-06, awaiting gate 3",
+  "format": "3-exercise-muscle-demo (02-research/formats/3-exercise-muscle-demo.md)",
+  "new_format_test": true,
+  "account": "@earndapp",
+  "account_type": "brand",
+  "reference": "@fitprotocolhq (127K, 'Three push-ups. Whole chest.' + comment keyword)",
+  "caption": "3 exercises. your whole back. which one do you skip? 👇 #backworkout #latpulldown #backday #gymtips #upperlower",
+  "ai_images": true,
+  "ai_note": "AI-generated video, voice (ElevenLabs v4 'Knox') and music via Higgsfield; app screen real: TikTok AI label ON",
+  "out": "earndapp-3-back-exercises.mp4",
+  "voice": "voice-tight.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.13,
+  "layout": "full",
+  "segments": [
+    {
+      "src": "z-hero.mp4",
+      "start": 0,
+      "end": 2.85,
+      "hold": true
+    },
+    {
+      "src": "pulldown.mp4",
+      "start": 2.85,
+      "end": 8.7,
+      "hold": true,
+      "speed": 0.85
+    },
+    {
+      "src": "row.mp4",
+      "start": 8.7,
+      "end": 15.4,
+      "hold": true,
+      "speed": 0.75
+    },
+    {
+      "src": "pullover.mp4",
+      "start": 15.4,
+      "end": 22.8,
+      "hold": true,
+      "speed": 0.68
+    },
+    {
+      "src": "card-app.png",
+      "start": 22.8,
+      "end": 27.2
+    },
+    {
+      "src": "z-hero.mp4",
+      "start": 27.2,
+      "end": 29.9,
+      "hold": true
+    },
+    {
+      "src": "endcard.png",
+      "start": 29.9,
+      "end": 33.4
+    }
+  ],
+  "labels": [
+    {
+      "text": "THREE EXERCISES.",
+      "start": 0,
+      "end": 2.85,
+      "y": 170,
+      "size": 96,
+      "color": "#FFFFFF",
+      "stroke": 6
+    },
+    {
+      "text": "YOUR WHOLE BACK.",
+      "start": 0,
+      "end": 2.85,
+      "y": 290,
+      "size": 96,
+      "color": "#C6FF00",
+      "stroke": 6
+    },
+    {
+      "text": "1 · LAT PULLDOWN",
+      "start": 2.85,
+      "end": 8.7,
+      "y": 150,
+      "size": 76,
+      "color": "#FFFFFF",
+      "stroke": 6
+    },
+    {
+      "text": "2 × 4–8",
+      "start": 2.85,
+      "end": 8.7,
+      "y": 260,
+      "size": 58,
+      "color": "#C6FF00",
+      "stroke": 6,
+      "font": "inter"
+    },
+    {
+      "text": "2 · CHEST-SUPPORTED ROW",
+      "start": 8.7,
+      "end": 15.4,
+      "y": 150,
+      "size": 66,
+      "color": "#FFFFFF",
+      "stroke": 6
+    },
+    {
+      "text": "2 × 4–8",
+      "start": 8.7,
+      "end": 15.4,
+      "y": 260,
+      "size": 58,
+      "color": "#C6FF00",
+      "stroke": 6,
+      "font": "inter"
+    },
+    {
+      "text": "3 · CABLE PULLOVER",
+      "start": 15.4,
+      "end": 22.8,
+      "y": 150,
+      "size": 76,
+      "color": "#FFFFFF",
+      "stroke": 6
+    },
+    {
+      "text": "2 × 4–8",
+      "start": 15.4,
+      "end": 22.8,
+      "y": 260,
+      "size": 58,
+      "color": "#C6FF00",
+      "stroke": 6,
+      "font": "inter"
+    },
+    {
+      "text": "WHICH ONE DO YOU SKIP?",
+      "start": 27.2,
+      "end": 29.9,
+      "y": 170,
+      "size": 84,
+      "color": "#FFFFFF",
+      "stroke": 6
+    }
+  ],
+  "captions": {
+    "on": true,
+    "y": 1600,
+    "size": 68,
+    "words_per": 2,
+    "stroke": 8,
+    "until": 27.2,
+    "hl": "#C6FF00",
+    "hl_words": [
+      "earnd",
+      "beat"
+    ],
+    "fix": {
+      "EARNED": "EARND",
+      "EARN": "EARND",
+      "LAT": "LAT"
+    }
+  },
+  "sfx": [
+    {
+      "type": "whoosh",
+      "t": 2.8,
+      "vol": 0.25
+    },
+    {
+      "type": "whoosh",
+      "t": 8.6,
+      "vol": 0.25
+    },
+    {
+      "type": "whoosh",
+      "t": 15.3,
+      "vol": 0.25
+    },
+    {
+      "type": "whoosh",
+      "t": 22.7,
+      "vol": 0.25
+    },
+    {
+      "type": "whoosh",
+      "t": 27.1,
+      "vol": 0.25
+    },
+    {
+      "type": "whoosh",
+      "t": 29.8,
+      "vol": 0.25
+    }
+  ]
+}

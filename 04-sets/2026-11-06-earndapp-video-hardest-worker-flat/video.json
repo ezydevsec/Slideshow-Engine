@@ -1,0 +1,159 @@
+{
+  "set_id": "2026-11-06-earndapp-video-hardest-worker-flat",
+  "status": "draft 2026-11-06, awaiting gate 3",
+  "format": "flat-editorial-story (02-research/formats/flat-editorial-story.md)",
+  "new_format_test": true,
+  "account": "@earndapp",
+  "account_type": "brand",
+  "reference": "@yellowdude.co (979K, 9-min illustrated explainers)",
+  "caption": "the hardest worker in your gym might be going nowhere. here's why #progressiveoverload #gymtips #gymtok #strengthtraining #workoutplan",
+  "ai_images": true,
+  "ai_note": "AI-generated illustrations, voice (ElevenLabs v4 'Knox') and music via Higgsfield; app screen real: TikTok AI label ON",
+  "out": "earndapp-hardest-worker-flat.mp4",
+  "voice": "voice-tight.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.14,
+  "layout": "full",
+  "segments": [
+    {
+      "src": "p-y0.mp4",
+      "start": 0,
+      "end": 8.2,
+      "hold": true
+    },
+    {
+      "src": "p-y1.mp4",
+      "start": 8.2,
+      "end": 13.8,
+      "hold": true
+    },
+    {
+      "src": "p-y2.mp4",
+      "start": 13.8,
+      "end": 19.8,
+      "hold": true
+    },
+    {
+      "src": "p-y3.mp4",
+      "start": 19.8,
+      "end": 27.7,
+      "hold": true
+    },
+    {
+      "src": "p-y4.mp4",
+      "start": 27.7,
+      "end": 39.6,
+      "hold": true
+    },
+    {
+      "src": "p-y5.mp4",
+      "start": 39.6,
+      "end": 50.2,
+      "hold": true
+    },
+    {
+      "src": "p-app.mp4",
+      "start": 50.2,
+      "end": 55.2,
+      "hold": true
+    },
+    {
+      "src": "endcard.png",
+      "start": 55.2,
+      "end": 59.6
+    }
+  ],
+  "labels": [
+    {
+      "text": "UP. DOWN. UP. DOWN.",
+      "start": 21.9,
+      "end": 24.4,
+      "y": 170,
+      "size": 110,
+      "color": "#2B2F36",
+      "stroke": 0
+    },
+    {
+      "text": "+1 REP",
+      "start": 38.0,
+      "end": 39.6,
+      "y": 170,
+      "size": 140,
+      "color": "#6E8C00",
+      "stroke": 0
+    },
+    {
+      "text": "SMALL. BORING. REPEATABLE.",
+      "start": 39.8,
+      "end": 42.6,
+      "y": 170,
+      "size": 84,
+      "color": "#2B2F36",
+      "stroke": 0
+    },
+    {
+      "text": "PROGRESSIVE OVERLOAD",
+      "start": 45.3,
+      "end": 50.2,
+      "y": 170,
+      "size": 90,
+      "color": "#2B2F36",
+      "stroke": 0
+    }
+  ],
+  "captions": {
+    "on": true,
+    "y": 1640,
+    "size": 66,
+    "words_per": 3,
+    "stroke": 8,
+    "until": 55.2,
+    "hl": "#C6FF00",
+    "hl_words": [
+      "earnd",
+      "overload",
+      "beat"
+    ],
+    "fix": {
+      "EARNED": "EARND",
+      "EARN": "EARND"
+    }
+  },
+  "sfx": [
+    {
+      "type": "whoosh",
+      "t": 8.1,
+      "vol": 0.2
+    },
+    {
+      "type": "whoosh",
+      "t": 13.7,
+      "vol": 0.2
+    },
+    {
+      "type": "whoosh",
+      "t": 19.7,
+      "vol": 0.2
+    },
+    {
+      "type": "whoosh",
+      "t": 27.6,
+      "vol": 0.2
+    },
+    {
+      "type": "whoosh",
+      "t": 39.5,
+      "vol": 0.2
+    },
+    {
+      "type": "whoosh",
+      "t": 50.1,
+      "vol": 0.2
+    },
+    {
+      "type": "whoosh",
+      "t": 55.1,
+      "vol": 0.2
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "set_id": "2026-11-06-earnie-video-squat-rack-story",
+  "status": "draft 2026-11-06, awaiting gate 3",
+  "format": "narrated-story-cartoon (02-research/formats/narrated-story-cartoon.md)",
+  "new_format_test": true,
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "reference": "@bob.figures.it.out (9.3M / 8.8M / 5.7M)",
+  "caption": "every. single. leg day. 😭 #gymhumor #gymtok #gymmemes #relatable #legday",
+  "ai_images": true,
+  "ai_note": "AI-generated stills, voice (ElevenLabs v4 'Bob') and music via Higgsfield: TikTok AI label ON",
+  "out": "earnie-squat-rack-story.mp4",
+  "voice": "voice-tight.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.15,
+  "layout": "full",
+  "segments": [
+    {
+      "src": "p-e0.mp4",
+      "start": 0,
+      "end": 3.4,
+      "hold": true
+    },
+    {
+      "src": "p-e1.mp4",
+      "start": 3.4,
+      "end": 8.9,
+      "hold": true
+    },
+    {
+      "src": "p-e2.mp4",
+      "start": 8.9,
+      "end": 12.6,
+      "hold": true
+    },
+    {
+      "src": "p-e3.mp4",
+      "start": 12.6,
+      "end": 18.7,
+      "hold": true
+    },
+    {
+      "src": "p-e4.mp4",
+      "start": 18.7,
+      "end": 23.6,
+      "hold": true
+    },
+    {
+      "src": "p-e5.mp4",
+      "start": 23.6,
+      "end": 30.3,
+      "hold": true
+    },
+    {
+      "src": "p-e6.mp4",
+      "start": 30.3,
+      "end": 34.3,
+      "hold": true
+    },
+    {
+      "src": "p-e7.mp4",
+      "start": 34.3,
+      "end": 38.2,
+      "hold": true
+    },
+    {
+      "src": "endcard.png",
+      "start": 38.2,
+      "end": 40.8
+    }
+  ],
+  "captions": {
+    "on": true,
+    "y": 1500,
+    "size": 70,
+    "words_per": 3,
+    "stroke": 8,
+    "until": 38.2,
+    "hl": "#FF4D4D",
+    "hl_words": [
+      "curls",
+      "excellent",
+      "confidence",
+      "not",
+      "rack"
+    ]
+  },
+  "sfx": [
+    {
+      "type": "pop",
+      "t": 3.4,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 8.9,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 12.6,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 18.7,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 23.6,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 34.3,
+      "vol": 0.22
+    },
+    {
+      "type": "thud",
+      "t": 29.0,
+      "vol": 0.45
+    },
+    {
+      "type": "whoosh",
+      "t": 38.1,
+      "vol": 0.3
+    }
+  ]
+}
