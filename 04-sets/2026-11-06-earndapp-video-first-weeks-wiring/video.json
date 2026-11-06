@@ -1,0 +1,248 @@
+{
+  "set_id": "2026-11-06-earndapp-video-first-weeks-wiring",
+  "status": "draft 2026-11-06, awaiting gate 3",
+  "format": "magnified-explainer-video (02-research/formats/magnified-explainer-video.md)",
+  "new_format_test": true,
+  "account": "@earndapp",
+  "account_type": "brand",
+  "reference": "https://www.instagram.com/reel/DeW3kuNM2v5/ (@speedy_devv, 13.5M plays)",
+  "caption": "why you get stronger before you look any different 🧠 #gymtips #beginnergym #gymscience #strengthtraining #progressiveoverload",
+  "ai_images": true,
+  "ai_note": "AI-generated video, voice (ElevenLabs v4 'Knox') and music (ElevenLabs Music v2) via Higgsfield; app screen real: TikTok AI label ON",
+  "science_note": "Early strength gains in untrained lifters are largely neural (more motor-unit recruitment, higher firing rates, better synchronisation, less antagonist co-activation); hypertrophy follows over weeks to months. Phrased with 'almost every session' and no growth promise.",
+  "out": "earndapp-first-weeks-wiring.mp4",
+  "voice": "voice-tight.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.16,
+  "layout": "full",
+  "segments": [
+    {
+      "src": "squat-steady.mp4",
+      "start": 0.0,
+      "end": 8.6,
+      "speed": 0.6,
+      "hold": true
+    },
+    {
+      "src": "thigh.mp4",
+      "start": 8.6,
+      "end": 11.9,
+      "speed": 0.8,
+      "hold": true
+    },
+    {
+      "src": "z-fibres.mp4",
+      "start": 11.9,
+      "end": 19.7,
+      "hold": true
+    },
+    {
+      "src": "fibres-few.mp4",
+      "start": 19.7,
+      "end": 26.7,
+      "speed": 0.72,
+      "hold": true
+    },
+    {
+      "src": "brain.mp4",
+      "start": 26.7,
+      "end": 31.7,
+      "hold": true
+    },
+    {
+      "src": "fibres-sync.mp4",
+      "start": 31.7,
+      "end": 37.15,
+      "speed": 0.9,
+      "hold": true
+    },
+    {
+      "src": "squat-wobbly.mp4",
+      "start": 37.15,
+      "end": 39.6,
+      "hold": true
+    },
+    {
+      "src": "squat-steady.mp4",
+      "start": 39.6,
+      "end": 41.4,
+      "ss": 1.0,
+      "hold": true
+    },
+    {
+      "src": "z-mirror.mp4",
+      "start": 41.4,
+      "end": 48.2,
+      "hold": true
+    },
+    {
+      "src": "card-app.png",
+      "start": 48.2,
+      "end": 52.15
+    },
+    {
+      "src": "z-brain.mp4",
+      "start": 52.15,
+      "end": 56.75,
+      "hold": true
+    },
+    {
+      "src": "card-end.png",
+      "start": 56.75,
+      "end": 63.5
+    }
+  ],
+  "labels": [
+    {
+      "text": "Magnified illustration",
+      "start": 8.6,
+      "end": 37.15,
+      "y": 1840,
+      "size": 26,
+      "color": "#8A8F98",
+      "font": "inter",
+      "stroke": 2
+    },
+    {
+      "text": "Magnified illustration",
+      "start": 52.15,
+      "end": 56.75,
+      "y": 1840,
+      "size": 26,
+      "color": "#8A8F98",
+      "font": "inter",
+      "stroke": 2
+    },
+    {
+      "text": "NERVE",
+      "start": 8.6,
+      "end": 11.9,
+      "y": 1420,
+      "size": 46,
+      "color": "#C6FF00",
+      "font": "inter",
+      "stroke": 2
+    },
+    {
+      "text": "MUSCLE FIBRES",
+      "start": 12.0,
+      "end": 17.8,
+      "y": 1480,
+      "size": 46,
+      "color": "#C6FF00",
+      "font": "inter",
+      "stroke": 2
+    },
+    {
+      "text": "MOTOR UNIT",
+      "start": 17.8,
+      "end": 19.7,
+      "y": 1480,
+      "size": 52,
+      "color": "#C6FF00",
+      "font": "inter",
+      "stroke": 2
+    },
+    {
+      "text": "BRAIN → SPINAL CORD",
+      "start": 26.7,
+      "end": 31.7,
+      "y": 1500,
+      "size": 46,
+      "color": "#C6FF00",
+      "font": "inter",
+      "stroke": 2
+    },
+    {
+      "text": "WEEK 1",
+      "start": 37.15,
+      "end": 39.6,
+      "y": 1500,
+      "size": 60,
+      "color": "#FFFFFF",
+      "font": "inter",
+      "stroke": 2
+    },
+    {
+      "text": "WEEK 4",
+      "start": 39.6,
+      "end": 41.4,
+      "y": 1500,
+      "size": 60,
+      "color": "#C6FF00",
+      "font": "inter",
+      "stroke": 2
+    }
+  ],
+  "captions": {
+    "on": true,
+    "y": 170,
+    "size": 64,
+    "words_per": 3,
+    "stroke": 6,
+    "until": 56.75,
+    "hl": "#C6FF00",
+    "hl_words": [
+      "wiring",
+      "brain",
+      "motor",
+      "nerve",
+      "fibres",
+      "earnd",
+      "together"
+    ],
+    "fix": {
+      "EARNED": "EARND",
+      "EARN": "EARND",
+      "FIBERS": "FIBRES",
+      "PRACTICES": "PRACTISES"
+    }
+  },
+  "sfx": [
+    {
+      "type": "whoosh",
+      "t": 8.5,
+      "vol": 0.25
+    },
+    {
+      "type": "whoosh",
+      "t": 11.8,
+      "vol": 0.25
+    },
+    {
+      "type": "whoosh",
+      "t": 26.6,
+      "vol": 0.25
+    },
+    {
+      "type": "whoosh",
+      "t": 41.3,
+      "vol": 0.25
+    },
+    {
+      "type": "whoosh",
+      "t": 48.1,
+      "vol": 0.25
+    },
+    {
+      "type": "whoosh",
+      "t": 56.65,
+      "vol": 0.25
+    },
+    {
+      "type": "pop",
+      "t": 17.8,
+      "vol": 0.2
+    },
+    {
+      "type": "pop",
+      "t": 37.15,
+      "vol": 0.2
+    },
+    {
+      "type": "pop",
+      "t": 39.6,
+      "vol": 0.2
+    }
+  ]
+}
