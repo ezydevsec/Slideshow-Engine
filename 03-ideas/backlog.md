@@ -66,3 +66,12 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @earndapp | same explainer series: "the back plan", "the arm plan", "the leg plan" (one muscle per video, programme exercises only)
 - [ ] @earnie.lifts | one-liner meme photo: Earnie low-angle in red gym light + one line ("leg day isn't hard. remembering it's leg day is hard.")
 - [ ] @whatif.overload | one-liner: Dale in moody light + "week 104 of adding 2.5 kg. the bar is now a building."
+
+## Daily scan 2026-11-06 (trend file: 02-research/trends/2026-11-06.md)
+- [ ] @earndapp | NEW FORMAT TEST: beginner guide video 60–90 s | "new to the gym? here's the exact 4-day plan i'd follow" (Upper A/Lower A/Upper B/Lower B, 2 × 4–8, beat last session) → app | sound: SYSTEM OVERRIDE (CLICK BEAT LAB)
+- [ ] @earndapp | edu slideshow (short-length test) | "PPL vs upper/lower: which one if you can only train 4 days?" (fair, no bashing) | sound: sonido original (HugoNationMusic)
+- [ ] @earndapp | edu slideshow | "stop guessing what to do after every set" → the 3-step rule (reps → load → repeat) | sound: som original (ANABOLIC)
+- [ ] @ezyxbt | NEW FORMAT TEST: "the split i'd run if i was starting today" one-slide list photo (Dear Santa layout, 4 lines) | sound: Elastic Heart (Sia)
+- [ ] @ezyxbt | one-liner | "i used to guess every set. now i just beat last week." (founder to confirm true) | sound: son original (lyrics_song)
+- [ ] @earnie.lifts | NEW FORMAT TEST: 7–15 s POV skit meme | "POV: you go to the gym at 5pm" (Earnie queueing behind 4 people for every machine) | sound: original sound (JBA)
+- [ ] @earnie.lifts | meme slideshow | "things that ruin the whole workout" (someone curling in the rack, no free bench, phone on 3%) | sound: original sound (Be On Your Feelings)
