@@ -15,10 +15,10 @@ This folder runs TikTok and Instagram slideshows for EARND using the `slideshow-
 
 ## Settings
 
-daily_batch_size: 6  # @earndapp + @ezyxbt today; rises as the new accounts go live (see distribution plan)
+daily_batch_size: 9-15  # 3–5 posts per account per day on @earndapp, @ezyxbt, @earnie.lifts (founder, 2026-11-06); rises as the new accounts go live
 winner_variation_share: 0.6
 trend_communities: [r/naturalbodybuilding, r/StrongerByScience, r/GYM]
-trend_scan: weekly, Monday morning (founder, 2026-11-01). Daily runs reuse that week's file; no daily rescans.
+trend_scan: daily, 07:47 London, trend file + sound bank refreshed every day (founder, 2026-11-06; replaces the weekly scan).
 stats_pull: weekly, Sunday morning (founder, 2026-11-01).
 banned_words: []
 default_app_slide: 4
@@ -26,6 +26,8 @@ default_app_slide: 4
 ## Standing rules
 
 - Optimize each post for views. Judge formats weekly on total downloads.
+- Volume and testing (founder, 2026-11-06): each active account posts 3–5 times a day. Every day, each account gets at least one new-format test alongside its proven formats; log each test's format in `posting.md` so the Sunday review can compare.
+- Slide-length test (founder, 2026-11-06, from @g_buildz_apps' "3–5 slides max" tip): half of each day's @earndapp and @ezyxbt slideshows are 5 slides (@earndapp: cover, 2 value, app, CTA; @ezyxbt: cover, 2 tips, real tip with app, CTA), the other half 7–8. Tag each set `"length_test": "short"` or `"long"` in its spec. Sunday review compares views, completion and saves and keeps the winner.
 - Accounts are configured in `06-queue/accounts.json` (handle, type, voice, visual template, CTA and destination, disclosure). Every set is written for exactly one account and names it in `slides.json` → `account`. Never use a field marked TO CONFIRM without asking.
 - Readiness is per account: `python3 .claude/skills/slideshow-engine/scripts/account_status.py`. An account with unconfirmed required settings blocks only its own sets.
 - Founder (@ezyxbt) photos: always pick the strongest, most relevant of the founder's supplied photos for each slide (`01-app/founder-photo-catalog.md`). Minor edits allowed (crop, resize, straighten, exposure/colour, cropping out background clutter and other people; blur only lightly, never heavy background blur) (founder, 2026-11-01; light blur only, founder 2026-11-03). Never edit the face; physique unchanged; nothing generated. Crop out other gym members. If none fit, ask the founder for more photos.
@@ -33,8 +35,8 @@ default_app_slide: 4
 - Never present our own promotional pages as independent recommendations. Founder and theme-page posts say EARND is ours.
 - The app enters on slide 3 or 4 by default, in the account's voice (brand: direct EARND product language). Exception: @ezyxbt native-tip format puts it on the second-to-last "real tip" slide (founder, 2026-11-01).
 - Report every post per account: account, post ID, messaging angle, views, profile visits, attributable purchases where measurable. Leave unavailable metrics blank, never 0.
-- Accounts (founder lifted the account limit 2026-11-04; plan in `03-ideas/distribution-plan-2026-11-04.md`). TikTok: @earndapp, @ezyxbt, @earnie.lifts, @gymbro.skits, @whatif.overload. Instagram: @earndapp, @earnie.lifts, @gymbro.skits, @whatif.overload (same brand and content as its TikTok; @ezyxbt is TikTok only). Every account runs its own format: never post one account's set on another brand. Content mix (founder, 2026-11-04): @ezyxbt stays photo slideshows only; @earndapp and @earnie.lifts post a mix of slideshows and mascot videos (default 2 slideshows + 1 video per day; videos carry TikTok's AI label). Judge each format on the kill/scale rule in the plan.
-- 5 to 10 slides. One idea per slide. Under 25 words per slide. Exception: @ezyxbt one-liner photos are a single image with one line, no app slide, no CTA and no caption; one per day on top of his 3 slideshows (founder, 2026-11-05; format: `02-research/formats/oneliner-photo.md`).
+- Accounts (founder lifted the account limit 2026-11-04; plan in `03-ideas/distribution-plan-2026-11-04.md`). TikTok: @earndapp, @ezyxbt, @earnie.lifts, @gymbro.skits, @whatif.overload. Instagram: @earndapp, @earnie.lifts, @gymbro.skits, @whatif.overload (same brand and content as its TikTok; @ezyxbt is TikTok only). Every account runs its own format: never post one account's set on another brand. Content mix (founder, 2026-11-04): @ezyxbt stays photo slideshows only; @earndapp and @earnie.lifts post a mix of slideshows and mascot videos (3–5 posts a day: 2–3 slideshows + 1–2 videos, one of them a new-format test; videos carry TikTok's AI label; founder 2026-11-06). Judge each format on the kill/scale rule in the plan.
+- 5 to 10 slides (short-length test sets are exactly 5). One idea per slide. Under 25 words per slide. Exception: @ezyxbt one-liner photos are a single image with one line, no app slide, no CTA and no caption; one per day on top of his 2–4 slideshows (founder, 2026-11-05; format: `02-research/formats/oneliner-photo.md`).
 - Every post gets a specific trending sound suggestion in its `posting.md`: a primary and a backup (name + artist), picked from that week's sound bank `02-research/trends/sounds-YYYY-MM-DD.md` (refreshed every Monday with the trend scan, via Apify on niche accounts). Videos with our own voice keep their audio; any trending sound goes underneath at low volume (founder, 2026-11-04). Audio on every post, always: never "optional", never "pick something", always a named primary + backup, including videos with our own voice (trending sound underneath at ~5–10%) (founder, 2026-11-05).
 - Never invent app UI. Only real screenshots from `01-app/assets/`.
 - Read `07-results/winners.md` and `07-results/failure-log.md` before writing any set.

@@ -68,7 +68,7 @@
     "Persona 2: The busy returning lifter"
    ],
    "bio_note": "set on TikTok by the founder 2026-10-29",
-   "content_mix": "Mixed content (founder, 2026-11-04): mascot edu slideshows (edu_render.py) plus mascot videos: Earnie demonstrating exercises (Kling image-to-video from 01-app/brand/poses/, wrong vs right, captions, real app screen at the end) or approved slideshows turned into videos (ffmpeg, 0 credits). Default mix: 2 slideshows + 1 video per day."
+   "content_mix": "Mixed content (founder, 2026-11-04): mascot edu slideshows (edu_render.py) plus mascot videos: Earnie demonstrating exercises (Kling image-to-video from 01-app/brand/poses/, wrong vs right, captions, real app screen at the end) or approved slideshows turned into videos (ffmpeg, 0 credits). Daily volume (founder, 2026-11-06): 3–5 posts: 2–3 slideshows + 1–2 videos, at least one a new-format test."
   },
   {
    "handle": "@ezyxbt",
@@ -112,7 +112,7 @@
    "bio_proposed": "Training + building EARND (@earndapp). The splits and rules I actually use.",
    "personas": "Not set. Founder content follows the founder's real training, not a persona.",
    "bio_note": "Founder confirmed 2026-11-04 that the @EARND bio link is correct.",
-   "content_mix": "Photo posts only (founder, 2026-11-04). Daily: 3 native-tip slideshows + 1 one-liner photo (single image, one line, no app slide, no CTA, no caption; founder, 2026-11-05; 02-research/formats/oneliner-photo.md).",
+   "content_mix": "Photo posts only (founder, 2026-11-04). Daily (founder, 2026-11-06): 3–5 posts: 2–4 native-tip slideshows (half of them 5-slide length tests) + 1 one-liner photo (single image, one line, no app slide, no CTA, no caption; founder, 2026-11-05; 02-research/formats/oneliner-photo.md).",
    "caption_style": "Slideshows: first-person caption line (the hook in his words) + 3–5 hashtags. Never hashtags only (founder, 2026-11-04). One-liner photos: no caption at all (founder, 2026-11-05)."
   },
   {
@@ -156,7 +156,7 @@
    "paused": "2026-10-31 by the founder: 2 posts (legs, back) at 0 views, 0 followers (Apify 2026-10-31). Account created 2026-10-30. | Resumed 2026-11-04 with the meme format.",
    "format": "Relatable gym meme slideshows starring Earnie (white caption band over an Earnie scene). Chosen by the founder 2026-11-04 over 3D anatomy demos because @earndapp already does mascot anatomy education.",
    "differentiation": "vs @earndapp: jokes, not education. vs @gymbro.skits: still meme slideshows with one character (Earnie), not 3D video skits with two gym bros.",
-   "content_mix": "Mixed content (founder, 2026-11-04): meme slideshows (meme_render.py) plus short meme videos: one Earnie scene from 01-app/brand/memes/ animated (Kling image-to-video, 5–10 s) with the meme caption burned in. Default mix: 2 slideshows + 1 video per day."
+   "content_mix": "Mixed content (founder, 2026-11-04): meme slideshows (meme_render.py) plus short meme videos: one Earnie scene from 01-app/brand/memes/ animated (Kling image-to-video, 5–10 s) with the meme caption burned in. Daily volume (founder, 2026-11-06): 3–5 posts: 2–3 slideshows + 1–2 videos, at least one a new-format test."
   },
   {
    "type": "theme",
