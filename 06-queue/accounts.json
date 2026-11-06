@@ -68,7 +68,7 @@
     "Persona 2: The busy returning lifter"
    ],
    "bio_note": "set on TikTok by the founder 2026-10-29",
-   "content_mix": "Mixed content (founder, 2026-11-04): mascot edu slideshows (edu_render.py) plus mascot videos: Earnie demonstrating exercises (Kling image-to-video from 01-app/brand/poses/, wrong vs right, captions, real app screen at the end) or approved slideshows turned into videos (ffmpeg, 0 credits). Daily volume (founder, 2026-11-06): 3–5 posts: 2–3 slideshows + 1–2 videos, at least one a new-format test."
+   "content_mix": "Mixed content (founder, 2026-11-04): mascot edu slideshows (edu_render.py) plus mascot videos: Earnie demonstrating exercises (Kling image-to-video from 01-app/brand/poses/, wrong vs right, captions, real app screen at the end) or approved slideshows turned into videos (ffmpeg, 0 credits). Daily volume (founder, 2026-11-06): 3–5 posts: 2–4 slideshows + exactly 1 video a day, at least one post a new-format test."
   },
   {
    "handle": "@ezyxbt",
@@ -156,7 +156,7 @@
    "paused": "2026-10-31 by the founder: 2 posts (legs, back) at 0 views, 0 followers (Apify 2026-10-31). Account created 2026-10-30. | Resumed 2026-11-04 with the meme format.",
    "format": "Relatable gym meme slideshows starring Earnie (white caption band over an Earnie scene). Chosen by the founder 2026-11-04 over 3D anatomy demos because @earndapp already does mascot anatomy education.",
    "differentiation": "vs @earndapp: jokes, not education. vs @gymbro.skits: still meme slideshows with one character (Earnie), not 3D video skits with two gym bros.",
-   "content_mix": "Mixed content (founder, 2026-11-04): meme slideshows (meme_render.py) plus short meme videos: one Earnie scene from 01-app/brand/memes/ animated (Kling image-to-video, 5–10 s) with the meme caption burned in. Daily volume (founder, 2026-11-06): 3–5 posts: 2–3 slideshows + 1–2 videos, at least one a new-format test."
+   "content_mix": "Mixed content (founder, 2026-11-04): meme slideshows (meme_render.py) plus short meme videos: one Earnie scene from 01-app/brand/memes/ animated (Kling image-to-video, 5–10 s) with the meme caption burned in. Daily volume (founder, 2026-11-06): 3–5 posts: 2–4 slideshows + exactly 1 video a day, at least one post a new-format test."
   },
   {
    "type": "theme",
