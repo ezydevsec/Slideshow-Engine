@@ -1,0 +1,101 @@
+{
+  "status": "approved on 2026-11-07 (founder asked for the zips); post on 2026-11-07",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "trend_file": "02-research/trends/2026-11-07.md",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "set_id": "2026-11-07-edu-progressive-overload-myths",
+  "theme": "dark",
+  "length_test": "long",
+  "angle": "4 progressive overload myths, corrected with the programme rules",
+  "trend": "progressive overload explained / 'stop overthinking it'",
+  "caption": "4 progressive overload myths. which one did you believe?",
+  "hashtags": [
+    "#progressiveoverload",
+    "#gymmyths",
+    "#gymtips",
+    "#gymtok",
+    "#workoutplan"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "SYSTEM OVERRIDE — CLICK BEAT LAB",
+    "backup": "som original — Gym Infinity"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "PROGRESSIVE",
+          false
+        ],
+        [
+          "OVERLOAD",
+          false
+        ],
+        [
+          "MYTHS",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "thinking"
+    },
+    {
+      "type": "steps",
+      "kicker": "MYTH 1",
+      "title": "ADD WEIGHT EVERY SESSION.",
+      "body": "Add reps first. The weight goes up once you own 8 clean ones.",
+      "mascot": true,
+      "pose": "chest-press"
+    },
+    {
+      "type": "steps",
+      "kicker": "MYTH 2",
+      "title": "CHANGE YOUR WORKOUT EVERY WEEK.",
+      "body": "Keep the same exercises, so you can see if you beat last time.",
+      "mascot": true,
+      "pose": "pulldown"
+    },
+    {
+      "type": "app",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "title": "EARND KEEPS LAST SESSION ON EVERY SET",
+      "body": "And shows today's target."
+    },
+    {
+      "type": "steps",
+      "kicker": "MYTH 3",
+      "title": "MORE SETS = MORE PROGRESS.",
+      "body": "Two hard working sets done properly beat five sloppy ones.",
+      "mascot": true,
+      "pose": "hack-squat"
+    },
+    {
+      "type": "steps",
+      "kicker": "MYTH 4",
+      "title": "YOU NEED TO FEEL SORE.",
+      "body": "Soreness isn't a progress tracker. Your log is.",
+      "mascot": true,
+      "pose": "pointing"
+    },
+    {
+      "type": "cta",
+      "title": "WHICH ONE DID YOU BELIEVE?",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "thinking"
+    }
+  ]
+}

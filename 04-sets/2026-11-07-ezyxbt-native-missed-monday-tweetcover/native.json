@@ -1,0 +1,91 @@
+{
+  "status": "approved on 2026-11-07 (founder asked for the zips); post on 2026-11-07",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "trend_file": "02-research/trends/2026-11-07.md",
+  "ai_images": false,
+  "ai_note": "founder photos and app screens are real; nothing generated",
+  "set_id": "2026-11-07-ezyxbt-native-missed-monday-tweetcover",
+  "length_test": "short",
+  "new_format_test": "tweet-card cover (02-research/formats/tweet-card.md) as slide 1",
+  "angle": "missed a session: move it, keep the 4 (real move-session screen)",
+  "trend": "tweet-card ad format (Cal AI)",
+  "caption": "missed monday? i don't skip the week, i move the session #gymtips #upperlower #gymmotivation #gymtok #consistency",
+  "sound": {
+    "mode": "trending",
+    "primary": "som original — Gym Infinity",
+    "backup": "som original — ANABOLIC"
+  },
+  "slides": [
+    {
+      "type": "image",
+      "src": "04-sets/2026-11-07-ezyxbt-native-missed-monday-tweetcover/cover-card.jpg",
+      "bg": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "type": "list",
+      "title": "what i do",
+      "photo": {
+        "file": "b12-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "i move it to the next day i'm free. i don't skip it."
+    },
+    {
+      "type": "list",
+      "title": "the rule",
+      "photo": {
+        "file": "b10-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "4 sessions a week. the days can change. the sessions don't."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b9-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "i just move the workout to another day in the app.",
+      "shot": "01-app/assets/demo-move-session.png",
+      "crop": [
+        0.175,
+        0.42,
+        0.825,
+        0.94
+      ],
+      "example": false,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b13-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "text": "save this for the next missed monday",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

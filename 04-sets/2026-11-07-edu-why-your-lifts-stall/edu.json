@@ -1,0 +1,85 @@
+{
+  "status": "approved on 2026-11-07 (founder asked for the zips); post on 2026-11-07",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "trend_file": "02-research/trends/2026-11-07.md",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "set_id": "2026-11-07-edu-why-your-lifts-stall",
+  "theme": "light",
+  "length_test": "short",
+  "angle": "2 reasons lifts stall (weight too soon; no idea what last week was) → EARND",
+  "trend": "progressive overload explained (1.1M / 39K saves)",
+  "caption": "why your lifts stopped going up",
+  "hashtags": [
+    "#progressiveoverload",
+    "#plateau",
+    "#gymtips",
+    "#gymtok",
+    "#strengthtraining"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "som original — ANABOLIC",
+    "backup": "SYSTEM OVERRIDE — CLICK BEAT LAB"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "WHY YOUR",
+          false
+        ],
+        [
+          "LIFTS",
+          false
+        ],
+        [
+          "STALL",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "thinking"
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 1",
+      "title": "YOU ADD WEIGHT TOO SOON.",
+      "body": "Reps crash and form goes. Own 8 clean reps first.",
+      "pose": "chest-press",
+      "mascot": true
+    },
+    {
+      "type": "steps",
+      "kicker": "REASON 2",
+      "title": "YOU DON'T KNOW LAST WEEK'S NUMBERS.",
+      "body": "So every session is a guess.",
+      "pose": "thinking",
+      "mascot": true
+    },
+    {
+      "type": "app",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "title": "EARND SHOWS LAST SESSION AND TODAY'S TARGET",
+      "body": "On every set."
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR YOUR NEXT SESSION.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ]
+}

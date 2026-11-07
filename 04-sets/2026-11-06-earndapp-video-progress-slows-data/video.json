@@ -1,6 +1,6 @@
 {
   "set_id": "2026-11-06-earndapp-video-progress-slows-data",
-  "status": "draft 2026-11-06, awaiting gate 3",
+  "status": "approved on 2026-11-07 (founder asked for the zips); post on 2026-11-08",
   "format": "data-motion-graphics (02-research/formats/data-motion-graphics.md)",
   "new_format_test": true,
   "account": "@earndapp",
@@ -9,7 +9,7 @@
   "caption": "you didn't stop improving. the wins just got smaller. #progressiveoverload #gymtips #strengthtraining #gymtok #plateau",
   "ai_images": false,
   "ai_note": "motion graphics made in code; voice (ElevenLabs v4 'Knox') and music via Higgsfield are AI: TikTok AI label ON",
-  "science_note": "Diminishing rate of strength progress with training age is the standard novice\u2192intermediate\u2192advanced model; stated as approximate ('almost', 'more like', 'a few'). +1 rep / +2.5 kg tagged example.",
+  "science_note": "Diminishing rate of strength progress with training age is the standard novice→intermediate→advanced model; stated as approximate ('almost', 'more like', 'a few'). +1 rep / +2.5 kg tagged example.",
   "out": "earndapp-progress-slows-data.mp4",
   "voice": "voice-tight.mp3",
   "music": "music.mp3",

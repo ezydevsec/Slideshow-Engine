@@ -1,0 +1,138 @@
+{
+  "status": "approved on 2026-11-07 (founder asked for the zips); post on 2026-11-07",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "trend_file": "02-research/trends/2026-11-07.md",
+  "ai_images": false,
+  "ai_note": "founder photos and app screens are real; nothing generated",
+  "set_id": "2026-11-07-ezyxbt-native-how-i-progress-overload",
+  "length_test": "long",
+  "angle": "progressive overload, how he actually does it (programme progression rules)",
+  "trend": "progressive overload explained (1.1M / 39K saves)",
+  "caption": "progressive overload is simpler than people make it. this is exactly how i do it #progressiveoverload #gymtips #gymtok #upperlower #strengthtraining",
+  "sound": {
+    "mode": "trending",
+    "primary": "SYSTEM OVERRIDE — CLICK BEAT LAB",
+    "backup": "som original — ANABOLIC"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b10-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "hook": "progressive overload, how i actually do it",
+      "sub": "(it's simpler than you think)"
+    },
+    {
+      "type": "list",
+      "title": "1.",
+      "photo": {
+        "file": "b12-06.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "i pick a weight i can do at least 4 clean reps with."
+    },
+    {
+      "type": "list",
+      "title": "2.",
+      "photo": {
+        "file": "b9-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "same weight next session. i try to add a rep."
+    },
+    {
+      "type": "list",
+      "title": "3.",
+      "photo": {
+        "file": "b14-08.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "once i own 8 clean reps, the weight goes up."
+    },
+    {
+      "type": "list",
+      "title": "4.",
+      "photo": {
+        "file": "b17-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "that drops me back to 4–5 reps. i build up again."
+    },
+    {
+      "type": "list",
+      "title": "on paper",
+      "photo": {
+        "file": "b6-11.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [
+        "100 kg × 5",
+        "100 kg × 6",
+        "100 kg × 7",
+        "100 kg × 8",
+        "#105 kg × 5"
+      ],
+      "example": true
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b4-10.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "i check last session before every set, so i know the exact rep to beat.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b5-16.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for your next session",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "set_id": "2026-11-07-earnie-meme-overload-according-to-me",
+  "status": "approved on 2026-11-07 (founder asked for the zips); post on 2026-11-07",
+  "format": "earnie-meme-slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "angle": "progressive overload according to me (trend: progressive overload explained)",
+  "trend_file": "02-research/trends/2026-11-07.md",
+  "canvas": "1080x1350",
+  "caption": "progressive overload according to me 😭 #gymhumor #gymtok #gymmemes #progressiveoverload #relatable",
+  "sound": {
+    "mode": "trending",
+    "primary": "Laugh Now Cry Later — Drake",
+    "backup": "sonido original — musiktpt"
+  },
+  "ai_images": true,
+  "ai_note": "Earnie scenes generated with Higgsfield from the mascot reference: TikTok AI label ON",
+  "slides": [
+    {
+      "caption": "progressive overload according to me:",
+      "image": "01-app/brand/memes/walk-in.jpg"
+    },
+    {
+      "caption": "week 1: same weight",
+      "image": "01-app/brand/memes/struggling-bench.jpg"
+    },
+    {
+      "caption": "week 3: same weight",
+      "image": "01-app/brand/memes/struggling-bench.jpg"
+    },
+    {
+      "caption": "week 6: \"why am i not getting stronger\"",
+      "image": "01-app/brand/memes/shrug.jpg"
+    },
+    {
+      "caption": "earnie now: checks last session, beats it by one rep",
+      "image": "01-app/brand/memes/phone-bench.jpg",
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
+  ]
+}

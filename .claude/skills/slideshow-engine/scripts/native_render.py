@@ -148,6 +148,10 @@ def render(s):
         img.paste(shot, (sx, top), m)
         if s.get("footer"): native_text(img, s["footer"], 40, top + shot.height + 120, maxw=880, font=SEMI)
         return img
+    if t == "image":  # a pre-rendered image (e.g. a tweet card) centred on a dark background
+        img = Image.new("RGB", (W, H), tuple(s.get("bg", (10, 10, 12))))
+        pic = Image.open(os.path.join(ROOT, s["src"])).convert("RGB"); pic.thumbnail((W, H), Image.LANCZOS)
+        img.paste(pic, ((W - pic.width) // 2, (H - pic.height) // 2)); return img
     if t == "oneliner":  # single moody photo + one dry line (jason.td7-style); color e.g. "#7CD67C" / "#E5484D" / "white"
         img = photo_bg(s["photo"], dim=s.get("dim", 0.25))
         d = ImageDraw.Draw(img); f = F(SEMI, s.get("size", 58)); lines = wrap(d, s["text"], f, 800)
