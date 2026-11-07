@@ -1,0 +1,56 @@
+{
+  "set_id": "2026-11-07-tweetcard-samples",
+  "status": "format samples 2026-11-07 (not for posting yet)",
+  "format": "tweet-card",
+  "reference": "Cal AI paid ad via @drbeckycampbell (founder screenshot 2026-11-07)",
+  "cards": [
+    {
+      "name": "EARND",
+      "handle": "@earndapp",
+      "avatar": "01-app/brand/profile/pfp-lime.png",
+      "text": "If you're trying to get stronger, stop guessing your weights. EARND shows what you lifted last time and exactly what to beat today.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "shot_crop": [
+        0.175,
+        0.2,
+        0.825,
+        0.62
+      ],
+      "example": true
+    },
+    {
+      "name": "ezyxbt",
+      "handle": "@ezyxbt",
+      "avatar": "01-app/founder-photos/b16-01.jpg",
+      "avatar_crop": [
+        364,
+        80,
+        784,
+        500
+      ],
+      "text": "Missed Monday? Don't skip the week. Move the session. The app I'm building lets you move a workout to another day, so you still get all four.",
+      "shot": "01-app/assets/demo-move-session.png",
+      "shot_crop": [
+        0.175,
+        0.45,
+        0.825,
+        0.94
+      ],
+      "example": false
+    },
+    {
+      "name": "Earnie",
+      "handle": "@earnie.lifts",
+      "avatar": "01-app/brand/memes/mirror-flex.jpg",
+      "avatar_crop": [
+        380,
+        60,
+        760,
+        440
+      ],
+      "text": "me: i'll remember the weight\n\nme next week at the rack:",
+      "image": "01-app/brand/memes/confused-rack.jpg",
+      "focus_y": 0.0
+    }
+  ]
+}

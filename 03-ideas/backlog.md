@@ -75,3 +75,20 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @ezyxbt | one-liner | "i used to guess every set. now i just beat last week." (founder to confirm true) | sound: son original (lyrics_song)
 - [ ] @earnie.lifts | NEW FORMAT TEST: 7–15 s POV skit meme | "POV: you go to the gym at 5pm" (Earnie queueing behind 4 people for every machine) | sound: original sound (JBA)
 - [ ] @earnie.lifts | meme slideshow | "things that ruin the whole workout" (someone curling in the rack, no free bench, phone on 3%) | sound: original sound (Be On Your Feelings)
+
+## Tweet-card ideas 2026-11-07 (format: 02-research/formats/tweet-card.md)
+@earndapp (brand)
+- [ ] "If you're trying to get stronger, stop guessing your weights. EARND shows what you lifted last time and exactly what to beat today." + last-time/target screen (example) — sample rendered
+- [ ] "You don't need a new programme. You need to beat last week by one rep." + target screen
+- [ ] "Logging a set should take seconds, not a notes app and a calculator." + log-a-working-set screen
+- [ ] "4 days a week. 2 hard sets per exercise. Beat last time. That's the whole programme." + today/Upper B screen
+- [ ] "The rest timer starts on its own when you tick off a set." + log screen (timer visible)
+- [ ] "Stop writing your sets in your notes app." + log screen
+@ezyxbt (founder, always says it's his app)
+- [ ] "Missed Monday? Don't skip the week. Move the session. The app I'm building lets you move a workout to another day, so you still get all four." + move-session screen — sample rendered
+- [ ] "I got tired of guessing what to lift every session, so I'm building the app that remembers for me." (founder to confirm this is his real reason)
+- [ ] "Every set I do has a number to beat. That's the only rule I follow." + target screen (founder to confirm)
+@earnie.lifts (meme tweets)
+- [ ] "me: i'll remember the weight / me next week at the rack:" + confused-rack — sample rendered
+- [ ] "my plan for leg day / what actually happened:" + couch.jpg
+- [ ] "beat last week by one rep / told the group chat like i won the olympics:" + celebrate.jpg
