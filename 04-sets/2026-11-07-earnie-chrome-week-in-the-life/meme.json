@@ -1,0 +1,40 @@
+{
+  "set_id": "2026-11-07-earnie-chrome-week-in-the-life",
+  "status": "example 2026-11-07 (chrome style test, not approved)",
+  "format": "earnie-meme-slideshow (chrome variant)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "angle": "a week in the life of earnie (no tracking → checks last session)",
+  "canvas": "1080x1350",
+  "caption": "a week in the life of earnie 😭 #gymhumor #gymtok #gymmemes #relatable #gymrat",
+  "sound": {
+    "mode": "trending",
+    "primary": "Laugh Now Cry Later — Drake",
+    "backup": "sonido original — musiktpt"
+  },
+  "ai_images": true,
+  "ai_note": "chrome Earnie scenes generated with Higgsfield from the mascot reference: TikTok AI label ON",
+  "slides": [
+    {
+      "caption": "monday: no idea what i lifted last week",
+      "image": "01-app/brand/memes-chrome/confused-rack.jpg"
+    },
+    {
+      "caption": "tuesday: leg day. allegedly.",
+      "image": "01-app/brand/memes-chrome/couch.jpg"
+    },
+    {
+      "caption": "wednesday: checking if it worked yet",
+      "image": "01-app/brand/memes-chrome/mirror-check.jpg"
+    },
+    {
+      "caption": "thursday: added 1.25 kg. biggest day of my life",
+      "image": "01-app/brand/memes-chrome/trophy-plate.jpg"
+    },
+    {
+      "caption": "earnie now: checks last session before every set",
+      "image": "01-app/brand/memes-chrome/phone-bench.jpg",
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
+  ]
+}

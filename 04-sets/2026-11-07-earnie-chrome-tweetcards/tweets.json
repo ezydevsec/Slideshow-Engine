@@ -1,0 +1,7 @@
+{"set_id": "2026-11-07-earnie-chrome-tweetcards", "status": "example 2026-11-07 (chrome style test, not approved)", "format": "tweet-card (meme)",
+ "cards": [
+  {"name": "Earnie", "handle": "@earnie.lifts", "avatar": "01-app/brand/memes-chrome/trophy-plate.jpg", "avatar_crop": [330, 120, 650, 440],
+   "text": "me: i'll remember the weight\n\nme next week at the rack:", "image": "01-app/brand/memes-chrome/confused-rack.jpg", "focus_y": 0.1},
+  {"name": "Earnie", "handle": "@earnie.lifts", "avatar": "01-app/brand/memes-chrome/trophy-plate.jpg", "avatar_crop": [330, 120, 650, 440],
+   "text": "6 weeks on the same weight.\n\nfinally added 1.25 kg:", "image": "01-app/brand/memes-chrome/trophy-plate.jpg", "focus_y": 0.1}
+ ]}
