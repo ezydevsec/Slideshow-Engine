@@ -92,3 +92,13 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] "me: i'll remember the weight / me next week at the rack:" + confused-rack — sample rendered
 - [ ] "my plan for leg day / what actually happened:" + couch.jpg
 - [ ] "beat last week by one rep / told the group chat like i won the olympics:" + celebrate.jpg
+
+## Daily scan 2026-11-07 (trend file: 02-research/trends/2026-11-07.md)
+- [ ] @earndapp | edu slideshow (short) | "progressive overload, explained in 4 slides" (pick a weight you can do 4 clean reps → add reps → own 8 → add weight, example tagged) → app | sound: som original (ANABOLIC)
+- [ ] @earndapp | NEW FORMAT TEST: myth-reaction video | mascot reacts to on-screen myth "you need to change your workout every week" → "no: beat last week instead" → app | sound under VO: SYSTEM OVERRIDE (CLICK BEAT LAB)
+- [ ] @earndapp | push the 3D muscle-demo video (workitapp 1.6M / 98K saves): next one "3 exercises, your whole chest" (chest press, pec deck + 1) | ~30 credits
+- [ ] @ezyxbt | edu slideshow (long) | "do this if you train 4 days a week" (his split, 2 working sets, log every set) | sound: SYSTEM OVERRIDE (CLICK BEAT LAB)
+- [ ] @ezyxbt | NEW FORMAT TEST: tweet-card cover (slide 1) + 4 slides | "Missed Monday? Move the session." | sound: som original (Gym Infinity)
+- [ ] @ezyxbt | one-liner | "progressive overload is just remembering what you did last time." | sound: Elastic Heart (Sia)
+- [ ] @earnie.lifts | NEW FORMAT TEST: 5–8 s one-line meme clip | "me adding 2.5 kg after 6 weeks on the same weight" (Earnie triumphant, tiny plate) | sound: sonido original (musiktpt)
+- [ ] @earnie.lifts | meme slideshow | "progressive overload according to me" (week 1 same weight · week 2 same weight · week 6 'why am i not stronger') → Earnie checks last session | sound: Laugh Now Cry Later (Drake)
