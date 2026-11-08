@@ -92,3 +92,8 @@ TikTok's note on every slideshow: "Most viewers left after 2 photos."
 3. **Covers:** a specific, bigger hook in the top third (not bottom-centre over the photo), with the number or outcome in it ("4 days. 6 exercises. this exact split").
 4. **Videos:** the punchline or movement in the first second, big text at the top, 5–8 s long.
 5. Confirm with the "Viewers" tab of one post: % from For You and % new viewers.
+
+## Addendum 2: Viewers tab (@earndapp, 1–7 Nov) and approval
+- Total viewers 6.3K (+121.7% on the previous week), **new viewers 5.8K (92%)**: For You distribution is working.
+- **Locations: Greece 55.5%, United Kingdom 7.0%, Cyprus 6.1%.** TikTok is seeding our English content mostly to a Greek audience, which likely hurts retention (language mismatch) and later conversion. Likely cause: the posting phone's region/SIM/IP or app language, or an account created/used from Greece. Founder to check.
+- Founder approved the 4 fixes on 2026-11-08; written into CLAUDE.md (slide length + learned rules).
