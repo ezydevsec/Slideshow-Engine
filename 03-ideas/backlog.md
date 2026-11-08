@@ -102,3 +102,11 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @ezyxbt | one-liner | "progressive overload is just remembering what you did last time." | sound: Elastic Heart (Sia)
 - [ ] @earnie.lifts | NEW FORMAT TEST: 5–8 s one-line meme clip | "me adding 2.5 kg after 6 weeks on the same weight" (Earnie triumphant, tiny plate) | sound: sonido original (musiktpt)
 - [ ] @earnie.lifts | meme slideshow | "progressive overload according to me" (week 1 same weight · week 2 same weight · week 6 'why am i not stronger') → Earnie checks last session | sound: Laugh Now Cry Later (Drake)
+
+## Daily scan 2026-11-08 (trend file: 02-research/trends/2026-11-08.md)
+- [ ] @earndapp | 3D muscle-demo video #2 | "3 exercises, your whole chest" (chest press, pec deck + 1 programme exercise) — workitapp demo at 2.2M / 137K saves | sound under VO: som original (Gym Infinity)
+- [ ] @earndapp | edu slideshow (save-winner variation) | "the upper A day behind EARND" → one post per day of the split (template that got 10–12 saves) | sound: som original (ANABOLIC)
+- [ ] @ezyxbt | NEW FORMAT TEST: "how i'd train chest if i started from zero" (his programme exercises, 2 × 4–8, no physique claim) | sound: som original (Gym Infinity)
+- [ ] @ezyxbt | one-liner | "the program doesn't change. the number i have to beat does." | sound: Elastic Heart (Sia)
+- [ ] @earnie.lifts | bring back anatomy edu (Earnie's most-saved post, 552 / 8 saves): "4 exercises, your whole back" in the Earnie anatomy style | sound: som original (ANABOLIC)
+- [ ] @earnie.lifts | NEW FORMAT TEST: 5 s one-line clip #2 | "leg day: optimal?" Earnie doing calf raises on a leg press with one plate | sound: sonido original (musiktpt)
