@@ -68,3 +68,27 @@ Same reach, more likes per post on the native format. Caption line vs hashtags-o
 - @ezyxbt: keep native-tip; test 3 stronger hooks per day from the save-winners ("my exact upper day", "steal my split"); one-liners stay daily but we watch them.
 - @earnie.lifts: bring back 1 anatomy-edu post a day next to memes; video slot = narrated story format; memes 1–2/day.
 - Founder action: screenshots from TikTok Studio (watch time, % watched fully, traffic source) for the top and bottom post on each account.
+
+## Addendum: TikTok Studio screenshots (founder, 2026-11-08)
+| Post | Views | Photos viewed / total | Play time | New followers | Saves |
+|---|---|---|---|---|---|
+| @ezyxbt Lower B day (native, 8 slides) | 251 | 2.3 / 8 | 26m36s | 0 | 2 |
+| @ezyxbt steal my split (native, 8 slides) | 285 | 2.3 / 8 | 22m25s | 0 | 2 |
+| @earndapp perfect lower day (mascot dark, 9 slides) | 518 | 2.8 / 9 | 57m35s | 4 | 9 |
+| @earndapp complete shoulders (mascot dark, 7 slides) | 535 | 2.9 / 7 | 54m31s | 0 | 2 |
+| @earnie.lifts complete arms (anatomy, 8 slides) | 552 | 2.8 / 8 | 51m24s | 1 | 8 |
+| @earnie.lifts rack-confusion video (10 s) | 213 | avg watch 3.0 s, 4.85% watched fully | 11m12s | 0 | 0 |
+
+TikTok's note on every slideshow: "Most viewers left after 2 photos."
+
+**Diagnosis:** every post gets its whole view count on day 1 and then flatlines. That means TikTok did show it to a test audience (with 1–89 followers, those views can only come from For You), and the test audience didn't stay long enough to earn a second push. So the accounts aren't suppressed. The problem is retention in the first 2 slides / first 3 seconds.
+- Slideshows: people look at about 2–3 slides whether the set has 7, 8 or 9. Slides 3+ are mostly unseen.
+- The mascot sets (2.8–2.9) hold slightly better than @ezyxbt's photo sets (2.3) and get 2× the views.
+- The video lost viewers at 3 s of 10.
+
+**Proposed fixes (need approval):**
+1. **Slide 2 = the payoff.** Put the complete answer on slide 2 (the full list, the whole split, all 3 fixes in one slide), then details after. People who leave at slide 2 still get the value and save it.
+2. **Default to 5 slides** on @earndapp and @ezyxbt now, instead of waiting for the length test to finish (the Studio data already shows slides 6+ are barely seen).
+3. **Covers:** a specific, bigger hook in the top third (not bottom-centre over the photo), with the number or outcome in it ("4 days. 6 exercises. this exact split").
+4. **Videos:** the punchline or movement in the first second, big text at the top, 5–8 s long.
+5. Confirm with the "Viewers" tab of one post: % from For You and % new viewers.
