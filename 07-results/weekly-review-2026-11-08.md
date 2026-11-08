@@ -1,4 +1,4 @@
-# Weekly review — week of 1–7 Nov 2026 (GATE 4: proposals, nothing applied)
+# Weekly review — week of 1–7 Nov 2026 (GATE 4: approved by founder 2026-11-08, applied)
 
 Source: Apify clockworks/tiktok-scraper run J6ArpdHcJ4NMHc4gp (2026-11-08 09:29 UTC), latest posts from @earndapp, @ezyxbt, @earnie.lifts. 67 posts; `07-results/performance.csv` updated (61 new rows, 103 total). Profile visits, purchases: not available from scraping, left blank. Posts from 6–7 Nov are still accumulating views.
 

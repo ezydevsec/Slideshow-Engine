@@ -110,3 +110,10 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @ezyxbt | one-liner | "the program doesn't change. the number i have to beat does." | sound: Elastic Heart (Sia)
 - [ ] @earnie.lifts | bring back anatomy edu (Earnie's most-saved post, 552 / 8 saves): "4 exercises, your whole back" in the Earnie anatomy style | sound: som original (ANABOLIC)
 - [ ] @earnie.lifts | NEW FORMAT TEST: 5 s one-line clip #2 | "leg day: optimal?" Earnie doing calf raises on a leg press with one plate | sound: sonido original (musiktpt)
+
+## Next week's plan (weekly review 2026-11-08, approved)
+- @earndapp: 60% variations of winners — one "the ___ day behind EARND" template per split day (Upper A, Lower A, Upper B, Lower B) and "steal this split" variants; fixes posts continue. Video slot = data-chart and POV + screen formats (plus the 3D muscle demo test); no more wrong-vs-right.
+- @ezyxbt: native-tip stays; 3 stronger save-style hooks a day ("my exact upper day", "steal my split", "how i'd train chest if i started from zero"); one-liners stay daily and are watched.
+- @earnie.lifts: 1 anatomy-edu post a day back next to memes; video slot = narrated-story cartoon format; memes 1–2/day.
+- Read the slide-length test next Sunday.
+- Founder action: TikTok Studio screenshots (avg watch time, % watched fully, traffic source) for best and worst post per account.
