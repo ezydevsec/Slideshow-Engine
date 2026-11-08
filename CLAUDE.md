@@ -26,7 +26,7 @@ default_app_slide: 4
 ## Standing rules
 
 - Optimize each post for views. Judge formats weekly on total downloads.
-- Target market (founder, 2026-11-08): **UK and US first.** Write for them (English, UK/US gym references, trends and sounds from UK/US creators), suggest posting times for UK/US evenings, and track the viewer location split weekly (TikTok Studio → Analytics → Viewers → Locations). On 1–7 Nov @earndapp's viewers were 55.5% Greece, 7% UK.
+- Target market (founder, 2026-11-08): **UK and US first**, then Canada and Australia, then Ireland and New Zealand. Write for them (English, UK/US gym references, trends and sounds from UK/US creators), suggest posting times for UK/US evenings, and track the viewer location split weekly (TikTok Studio → Analytics → Viewers → Locations). On 1–7 Nov @earndapp's viewers were 55.5% Greece, 7% UK.
 - Volume and testing (founder, 2026-11-06): each active account posts 3–5 times a day. Every day, each account gets at least one new-format test alongside its proven formats; log each test's format in `posting.md` so the Sunday review can compare.
 - Slide length (founder, 2026-11-08, ends the 2026-11-06 length test early): TikTok Studio shows viewers see only 2.3–2.9 slides whatever the length, so slideshows default to **5 slides** on @earndapp and @ezyxbt (@earndapp: cover, payoff, value, app, CTA; @ezyxbt: cover, payoff, tip, real tip with app, CTA). @earnie.lifts memes stay 5–6.
 - Accounts are configured in `06-queue/accounts.json` (handle, type, voice, visual template, CTA and destination, disclosure). Every set is written for exactly one account and names it in `slides.json` → `account`. Never use a field marked TO CONFIRM without asking.
