@@ -143,3 +143,11 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @earndapp | "Everyone who joins in January has the same plan: motivation. That's why it's empty by February." Motivation vs a plan you can see | January-ready
 - [ ] @earnie.lifts | Earnie-narrated version: "the strongest guy at my gym doesn't even like the gym" (he just shows up and beats last week) | Earnie voice
 - [ ] @ezyxbt | one-liner (photo) | "the gym doesn't pay for knowing. it pays for repeating." | sound: son original (lyrics_song)
+
+## Founder link 2026-11-09: @nolledge "Imagine a man…" parables (format: 02-research/formats/imagine-a-man-parable.md)
+- [ ] @earndapp | NEW FORMAT TEST | **The ladder in the dark**: "Imagine a man climbing a ladder in the dark. He can't see how far he's climbed, so after a month he thinks he's stuck and climbs down. Another man climbs the same ladder, but he counts every rung…" Moral: "you can't feel progress. you have to see it." (EARND tie-in: every set shows the number to beat) | sound: ILUSÃO (Slowed)
+- [ ] @earndapp | **The down escalator, gym version**: "Imagine a man on a down escalator. Every week he trains, he climbs. Every week he skips, it carries him back…" Moral: "missed a session? move it. don't skip it." (real feature: move sessions to available days) | ILUSÃO (Slowed)
+- [ ] @earndapp | **The man who changed maps**: he buys a new map every week, so he never finishes a route; the other follows one map and marks where he got to. Moral: "you don't need a new program. you need to finish one."
+- [ ] @earndapp | **One more grain of sand**: he adds one grain to his bag each day; nobody notices; a year later he carries what others can't. Moral: "one more rep is enough." (no physique claim)
+- [ ] @earnie.lifts | Earnie parable spoof: "Imagine a man who skips leg day. Every week, he tells himself next week…" deadpan, ends on the meme | ILUSÃO (Slowed)
+- [ ] @ezyxbt | one-liner (photo) | "you're never standing still in the gym. you're either beating last week or losing to it." | son original (lyrics_song)
