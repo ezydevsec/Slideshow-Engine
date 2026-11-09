@@ -1,15 +1,32 @@
 {
   "set_id": "2026-11-09-ezyxbt-oneliner-number-to-beat",
-  "status": "draft 2026-11-09, awaiting gate 3",
+  "status": "approved (founder); post on 2026-11-09",
   "format": "oneliner-photo",
   "account": "@ezyxbt",
   "account_type": "founder",
   "canvas": "1080x1920",
   "caption": "",
-  "sound": {"mode": "trending", "primary": "Elastic Heart — Sia", "backup": "original sound — ﾒ𝟶 EDIT"},
+  "sound": {
+    "mode": "trending",
+    "primary": "Elastic Heart — Sia",
+    "backup": "original sound — ﾒ𝟶 EDIT"
+  },
   "ai_images": false,
   "ai_note": "real founder photo, nothing generated",
   "slides": [
-    {"type": "oneliner", "photo": {"file": "b15-02.jpg", "focus": [0.5, 0.45]}, "text": "the program doesn't change. the number i have to beat does.", "color": "white", "dim": 0.25, "y": 0.2}
+    {
+      "type": "oneliner",
+      "photo": {
+        "file": "b15-02.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "text": "the program doesn't change. the number i have to beat does.",
+      "color": "white",
+      "dim": 0.25,
+      "y": 0.2
+    }
   ]
 }

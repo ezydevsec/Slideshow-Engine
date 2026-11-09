@@ -38,7 +38,7 @@ for p in plan:
     with zipfile.ZipFile(p["zip"], "w", zipfile.ZIP_DEFLATED) as z:
         for f in files: z.write(f, os.path.basename(f))
         z.write(f"{d}/posting.md", "posting.md")
-    rows.append(f"{p['set']},{acct},approved,2026-11-07,{sp.get('format','').split(' (')[0]}; post on {p['post_on']}; manual posting")
+    rows.append(f"{p['set']},{acct},approved,{__import__("datetime").date.today()},{sp.get('format','').split(' (')[0]}; post on {p['post_on']}; manual posting")
 existing = open("06-queue/queue.csv").read()
 new = [r for r in rows if r.split(",")[0] not in existing]
 open("06-queue/queue.csv", "a").write("".join(r + "\n" for r in new)); print("packed", len(plan), "queue rows added", len(new))

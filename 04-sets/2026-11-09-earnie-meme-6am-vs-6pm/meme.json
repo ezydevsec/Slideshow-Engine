@@ -1,20 +1,40 @@
 {
   "set_id": "2026-11-09-earnie-meme-6am-vs-6pm",
-  "status": "draft 2026-11-09, awaiting gate 3",
+  "status": "approved (founder); post on 2026-11-09",
   "format": "earnie-meme-slideshow",
   "account": "@earnie.lifts",
   "account_type": "theme",
   "angle": "the gym at 6am vs 6pm (follow-up to 'the gym at 5pm')",
   "canvas": "1080x1350",
   "caption": "6am or 6pm? pick a side 👇 #gymhumor #gymtok #gymmemes #relatable #gymrat",
-  "sound": {"mode": "trending", "primary": "sonido original — musiktpt", "backup": "original sound — JBA"},
+  "sound": {
+    "mode": "trending",
+    "primary": "sonido original — musiktpt",
+    "backup": "original sound — JBA"
+  },
   "ai_images": true,
   "ai_note": "Earnie scenes generated with Higgsfield from the mascot reference: TikTok AI label ON",
   "slides": [
-    {"caption": "the gym at 6am:", "image": "01-app/brand/memes/empty-gym-6am.jpg"},
-    {"caption": "the gym at 6pm:", "image": "01-app/brand/memes/packed-gym.jpg"},
-    {"caption": "6am: every machine is free", "image": "01-app/brand/memes/walk-in.jpg"},
-    {"caption": "6pm: 4th in line for one bench", "image": "01-app/brand/memes/bench-queue.jpg"},
-    {"caption": "earnie: any time, as long as he knows what to beat", "image": "01-app/brand/memes/phone-bench.jpg", "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."}
+    {
+      "caption": "the gym at 6am:",
+      "image": "01-app/brand/memes/empty-gym-6am.jpg"
+    },
+    {
+      "caption": "the gym at 6pm:",
+      "image": "01-app/brand/memes/packed-gym.jpg"
+    },
+    {
+      "caption": "6am: every machine is free",
+      "image": "01-app/brand/memes/walk-in.jpg"
+    },
+    {
+      "caption": "6pm: 4th in line for one bench",
+      "image": "01-app/brand/memes/bench-queue.jpg"
+    },
+    {
+      "caption": "earnie: any time, as long as he knows what to beat",
+      "image": "01-app/brand/memes/phone-bench.jpg",
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
   ]
 }

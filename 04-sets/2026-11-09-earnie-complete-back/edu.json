@@ -1,6 +1,6 @@
 {
   "set_id": "2026-11-09-earnie-complete-back",
-  "status": "draft 2026-11-09, awaiting gate 3",
+  "status": "approved (founder); post on 2026-11-09",
   "format": "edu-template-slideshow",
   "account": "@earnie.lifts",
   "account_type": "theme",
@@ -9,17 +9,96 @@
   "winner_variation": "4 exercises for complete arms (552 views, 8 saves)",
   "canvas": "1080x1350",
   "caption": "4 exercises. your whole back. save it for back day",
-  "hashtags": ["#backday", "#backworkout", "#latpulldown", "#gymtips", "#gymtok"],
-  "sound": {"mode": "trending", "primary": "som original — ANABOLIC", "backup": "som original — Gym Infinity"},
+  "hashtags": [
+    "#backday",
+    "#backworkout",
+    "#latpulldown",
+    "#gymtips",
+    "#gymtok"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "som original — ANABOLIC",
+    "backup": "som original — Gym Infinity"
+  },
   "ai_images": true,
   "ai_note": "mascot is generated: TikTok AI label ON",
   "slides": [
-    {"type": "cover", "lines": [["4 EXERCISES FOR", false], ["A COMPLETE", false], ["BACK", true]], "mascot": true, "pose": "pulldown"},
-    {"type": "cards", "title": "THE WHOLE BACK DAY", "note": "2 × 4–8 each",
-     "items": [["Pulldown", "pulldown"], ["Chest-Supported Row", "chest-supported-row"], ["Pullover", "pullover"], ["Shrug", "shrug"]]},
-    {"type": "exercise", "kicker": "#1", "title": "PULLDOWN", "muscle": "Lats: width", "sets": "2 × 4–8", "cue": "Sit tall, elbows down to your upper chest.", "pose": "pulldown"},
-    {"type": "exercise", "kicker": "#2", "title": "CHEST-SUPPORTED ROW", "muscle": "Upper back: thickness", "sets": "2 × 4–8", "cue": "Chest on the pad. Elbows back, squeeze.", "pose": "chest-supported-row"},
-    {"type": "exercise", "kicker": "#3 + #4", "title": "PULLOVER + SHRUG", "muscle": "Lats: stretch · Traps", "sets": "2 × 4–8", "cue": "Arms straight on the pullover. Pause at the top of the shrug.", "pose": "pullover"},
-    {"type": "cta", "title": "SAVE THIS FOR BACK DAY.", "body": "earnie trains on EARND, our app. launching soon. follow @earndapp.", "mascot": true, "pose": "pointing"}
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "4 EXERCISES FOR",
+          false
+        ],
+        [
+          "A COMPLETE",
+          false
+        ],
+        [
+          "BACK",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "pulldown"
+    },
+    {
+      "type": "cards",
+      "title": "THE WHOLE BACK DAY",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Pulldown",
+          "pulldown"
+        ],
+        [
+          "Chest-Supported Row",
+          "chest-supported-row"
+        ],
+        [
+          "Pullover",
+          "pullover"
+        ],
+        [
+          "Shrug",
+          "shrug"
+        ]
+      ]
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "PULLDOWN",
+      "muscle": "Lats: width",
+      "sets": "2 × 4–8",
+      "cue": "Sit tall, elbows down to your upper chest.",
+      "pose": "pulldown"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2",
+      "title": "CHEST-SUPPORTED ROW",
+      "muscle": "Upper back: thickness",
+      "sets": "2 × 4–8",
+      "cue": "Chest on the pad. Elbows back, squeeze.",
+      "pose": "chest-supported-row"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#3 + #4",
+      "title": "PULLOVER + SHRUG",
+      "muscle": "Lats: stretch · Traps",
+      "sets": "2 × 4–8",
+      "cue": "Arms straight on the pullover. Pause at the top of the shrug.",
+      "pose": "pullover"
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR BACK DAY.",
+      "body": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
+      "mascot": true,
+      "pose": "pointing"
+    }
   ]
 }
