@@ -117,3 +117,14 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - @earnie.lifts: 1 anatomy-edu post a day back next to memes; video slot = narrated-story cartoon format; memes 1–2/day.
 - Read the slide-length test next Sunday.
 - Founder action: TikTok Studio screenshots (avg watch time, % watched fully, traffic source) for best and worst post per account.
+
+## Daily scan 2026-11-09 (trend file: 02-research/trends/2026-11-09.md)
+- [ ] @earndapp | NEW FORMAT TEST: gym-vs-swap slideshow | "machine taken? the swap for every exercise on upper A" (slide 2 = full swap table; workitapp gym vs home 2.8M / 174K saves) → app | sound: som original (ANABOLIC)
+- [ ] @earndapp | edu slideshow (winner variation) | "the lower A day behind EARND" (next day in the template series) | sound: som original (bakura)
+- [ ] @earndapp | tier list | "upper-day exercises ranked" (programme exercises only) | sound: 🅒 Ink on Parchment (Marla Swick)
+- [ ] @ezyxbt | NEW FORMAT TEST: exact-number card | "the exact number of sets i do per muscle: 2" (bluebro 1.6K saves in 6 h) → real tip with app | sound: som original (ANABOLIC)
+- [ ] @ezyxbt | native tip | "how i'd train back if i started from zero" (follows today's chest-from-zero test) | sound: som original (Gym Infinity)
+- [ ] @ezyxbt | one-liner | "nobody's watching your logbook. that's why it works." | sound: son original (lyrics_song)
+- [ ] @earnie.lifts | NEW FORMAT TEST: UK gym 7 s clip | "the gym at 6pm in january" Earnie squeezing through a packed UK gym (puregym.lads 2.3M) | sound: original sound (Be On Your Feelings)
+- [ ] @earnie.lifts | anatomy edu | "4 exercises, complete legs" (back set goes out today) | sound: som original (ANABOLIC)
+- [ ] @earnie.lifts | meme slideshow | "how many sets i think i did vs how many i actually did" → Earnie checks the log | sound: original sound (JBA)
