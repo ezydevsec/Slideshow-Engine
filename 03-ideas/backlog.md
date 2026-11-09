@@ -128,3 +128,11 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @earnie.lifts | NEW FORMAT TEST: UK gym 7 s clip | "the gym at 6pm in january" Earnie squeezing through a packed UK gym (puregym.lads 2.3M) | sound: original sound (Be On Your Feelings)
 - [ ] @earnie.lifts | anatomy edu | "4 exercises, complete legs" (back set goes out today) | sound: som original (ANABOLIC)
 - [ ] @earnie.lifts | meme slideshow | "how many sets i think i did vs how many i actually did" → Earnie checks the log | sound: original sound (JBA)
+
+## Founder link 2026-11-09: "who lets go last?" contest video (format: 02-research/formats/who-lets-go-last-video.md)
+- [ ] @earndapp | NEW FORMAT TEST | "WHO LETS GO LAST?" dead hang: MOTIVATION · DISCIPLINE · EGO · LAST WEEK'S NUMBER (winner) | caption: "which one gets you through the last rep? 👇 earnd: every set shows the number to beat. launching soon." | sound: som original (ANABOLIC)
+- [ ] @earndapp | "WHO'S STILL TRAINING IN WEEK 12?" treadmill/bench line-up, timer in weeks: NEW YEAR'S RESOLUTION · RANDOM YOUTUBE WORKOUT · GYM BRO'S PROGRAM · A PLAN YOU TRACK (winner) | January-ready
+- [ ] @earndapp | "WHO ADDS A REP FIRST?" bench race: CHANGING PROGRAM WEEKLY · TRAINING ON FEEL · SAME PROGRAM, TRACKED (winner, rep counter ticks up, example tagged)
+- [ ] @earnie.lifts | "WHO LETS GO LAST?" four Earnies: LEG DAY EARNIE (drops at 0:02) · CARDIO EARNIE · 6AM EARNIE · CHEST DAY EARNIE (never lets go) | sound: sonido original (musiktpt)
+- [ ] @earnie.lifts | "WHO LEAVES THE GYM FIRST?" ... the one who forgot what he lifted last time leaves first; Earnie with the log stays
+- [ ] @ezyxbt | one-liner (photo only) | "motivation lets go first. the number i have to beat doesn't." | sound: son original (lyrics_song)
