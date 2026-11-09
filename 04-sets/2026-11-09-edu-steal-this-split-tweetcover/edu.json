@@ -1,0 +1,24 @@
+{
+  "set_id": "2026-11-09-edu-steal-this-split-tweetcover",
+  "status": "draft 2026-11-09, awaiting gate 3",
+  "format": "edu-template-slideshow",
+  "new_format_test": "tweet-card cover (02-research/formats/tweet-card.md) on a winner hook",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "angle": "winner variation: 'steal this split' with a tweet-card cover; whole split on slide 2",
+  "winner_variation": "if you can only train 4 days, steal this split (540 views, 8 saves)",
+  "canvas": "1080x1350",
+  "caption": "if you can only train 4 days a week, steal this split",
+  "hashtags": ["#workoutsplit", "#upperlower", "#4daysplit", "#gymtips", "#gymtok"],
+  "sound": {"mode": "trending", "primary": "som original — Gym Infinity", "backup": "SYSTEM OVERRIDE — CLICK BEAT LAB"},
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {"type": "image", "src": "04-sets/2026-11-09-edu-steal-this-split-tweetcover/cover/final/preview/card-01.jpg"},
+    {"type": "list", "kicker": "THE WHOLE SPLIT", "title": "4 DAYS. 3 REST.", "items": ["Day 1: Upper A", "Day 2: Lower A", "Day 3: rest", "Day 4: Upper B", "Day 5: Lower B", "Days 6–7: rest"]},
+    {"type": "steps", "kicker": "THE RULES", "title": "2 HARD SETS. 4–8 REPS.", "body": "Every exercise. Beat last session by a rep. Miss a day? Move it.", "pose": "thinking", "mascot": true},
+    {"type": "app", "title": "EARND RUNS THIS SPLIT FOR YOU", "body": "Every set shows last session and today's target.", "shot": "01-app/assets/demo-last-time-target.png", "crop": [0.228, 0.305, 0.772, 0.622], "example": true},
+    {"type": "cta", "title": "SAVE IT. START THIS WEEK.", "body": "EARND launches soon. Follow for the launch.", "mascot": true, "pose": "pointing"}
+  ]
+}

@@ -115,7 +115,10 @@ def render(setdir, project):
     for n, s in enumerate(spec["slides"], 1):
         mas = os.path.join(project, f"01-app/brand/poses/{s['pose']}-cutout.png") if s.get("pose") else default_mas
         img = Image.new("RGB", (W, H), th["bg"]); d = ImageDraw.Draw(img); brand(d, th, spec.get("mark")); t = s["type"]
-        if t == "cover":
+        if t == "image":  # a pre-rendered 1080x1350 image (e.g. a tweet card) as the whole slide
+            pic = Image.open(os.path.join(project, s["src"])).convert("RGB"); pic = pic.resize((W, int(pic.height * W / pic.width)), Image.LANCZOS)
+            img.paste(pic, (0, (H - pic.height) // 2))
+        elif t == "cover":
             f = font(ANTON, 128); y = 170
             for text, acc in s["lines"]:
                 tw = d.textlength(text, font=f); accent_text(d, ((W - tw) / 2, y), text, f, th, acc); y += 150

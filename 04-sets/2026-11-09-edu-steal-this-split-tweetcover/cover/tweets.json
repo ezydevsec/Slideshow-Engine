@@ -1,0 +1,5 @@
+{"cards": [
+  {"name": "EARND", "handle": "@earndapp", "avatar": "01-app/brand/profile/pfp-lime.png",
+   "text": "If you can only train 4 days a week, steal this split.",
+   "shot": "01-app/assets/demo-today-upper-b.png", "shot_crop": [0.175, 0.148, 0.825, 0.62], "example": false}
+]}

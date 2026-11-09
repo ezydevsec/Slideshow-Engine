@@ -1,0 +1,22 @@
+{
+  "set_id": "2026-11-09-ezyxbt-native-chest-from-zero",
+  "status": "draft 2026-11-09, awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "new_format_test": "'how i'd build X if i started from zero' (trend 2026-11-08: kiandeehanfitness 738K / 12K saves)",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "his chest training from zero: 2 exercises, the whole plan on slide 2",
+  "trend_file": "02-research/trends/2026-11-08.md",
+  "canvas": "1080x1920",
+  "caption": "how i'd train chest if i started the gym from zero #chestworkout #chestday #gymtips #beginnergym #upperlower",
+  "sound": {"mode": "trending", "primary": "som original — Gym Infinity", "backup": "som original — ANABOLIC"},
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "slides": [
+    {"type": "cover", "photo": {"file": "b6-13.jpg", "focus": [0.5, 0.45]}, "hook": "how i'd train chest if i started from zero", "sub": "(2 exercises. that's it.)", "hook_y": 0.2},
+    {"type": "list", "title": "the whole plan", "photo": {"file": "b14-02.jpg", "focus": [0.5, 0.4]}, "lines": ["machine chest press (upper A)", "pec deck (upper B)", "", "#2 hard sets each, 4–8 reps"]},
+    {"type": "list", "title": "how it goes up", "photo": {"file": "b10-03.jpg", "focus": [0.5, 0.4]}, "lines": [], "text": "same weight, add a rep. once i own 8 clean reps, the weight goes up."},
+    {"type": "tip", "photo": {"file": "b12-03.jpg", "focus": [0.5, 0.4]}, "label": "real tip", "text": "i check last session before every set, so i know the exact rep to beat.", "shot": "01-app/assets/demo-last-time-target.png", "crop": [0.228, 0.305, 0.772, 0.622], "example": true, "footer": "i'm building it. it's called EARND."},
+    {"type": "cta", "photo": {"file": "b16-01.jpg", "focus": [0.5, 0.3]}, "text": "save this for chest day", "sub": "i'm building EARND. follow @earndapp for the launch."}
+  ]
+}

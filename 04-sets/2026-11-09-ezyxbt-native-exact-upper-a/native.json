@@ -1,0 +1,21 @@
+{
+  "set_id": "2026-11-09-ezyxbt-native-exact-upper-a",
+  "status": "draft 2026-11-09, awaiting gate 3",
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "winner variation in his voice: his exact Upper A, whole day on slide 2",
+  "winner_variation": "the upper day behind EARND (10–12 saves on @earndapp)",
+  "canvas": "1080x1920",
+  "caption": "my exact upper A day. every exercise, every set #upperbody #upperlower #gymtips #gymtok #workoutplan",
+  "sound": {"mode": "trending", "primary": "som original — ANABOLIC", "backup": "Amnesia X No Hands — DJSpotifyTransitions"},
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "slides": [
+    {"type": "cover", "photo": {"file": "b13-04.jpg", "focus": [0.5, 0.45]}, "hook": "my exact upper A day", "sub": "(6 exercises. 2 sets each.)", "hook_y": 0.2},
+    {"type": "list", "title": "upper A", "photo": {"file": "b9-04.jpg", "focus": [0.5, 0.4]}, "lines": ["machine chest press", "pulldown", "chest-supported row", "lateral raise", "preacher curl", "pushdown", "", "#2 × 4–8 each"]},
+    {"type": "list", "title": "the rule", "photo": {"file": "b11-05.jpg", "focus": [0.5, 0.4]}, "lines": [], "text": "2–3 minutes rest. every working set is a real set."},
+    {"type": "tip", "photo": {"file": "b10-02.jpg", "focus": [0.5, 0.4]}, "label": "real tip", "text": "every set shows what i did last time, so i know what to beat.", "shot": "01-app/assets/demo-last-time-target.png", "crop": [0.228, 0.305, 0.772, 0.622], "example": true, "footer": "i'm building it. it's called EARND."},
+    {"type": "cta", "photo": {"file": "b15-03.jpg", "focus": [0.5, 0.3]}, "text": "save this for upper day", "sub": "i'm building EARND. follow @earndapp for the launch."}
+  ]
+}

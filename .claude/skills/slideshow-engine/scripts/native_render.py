@@ -100,7 +100,8 @@ def render(s):
     t = s["type"]
     if t == "cover":
         img = photo_bg(s["photo"], dim=0.12)
-        y = native_text(img, s["hook"], 76, int(H * 0.60))
+        # learned rule 2026-11-08: big hook in the top third ("hook_y" overrides; 0.60 was the old bottom placement)
+        y = native_text(img, s["hook"], s.get("hook_size", 88), int(H * s.get("hook_y", 0.22)))
         if s.get("sub"): native_text(img, s["sub"], 46, y + 50, font=SEMI)
         if s.get("anatomy"):
             a = anatomy(s["anatomy"], 300, 300); m = Image.new("L", a.size, 0)
