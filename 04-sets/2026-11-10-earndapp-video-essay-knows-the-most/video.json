@@ -1,0 +1,20 @@
+{
+  "set_id": "2026-11-10-earndapp-video-essay-knows-the-most",
+  "status": "draft 2026-11-09 (overnight samples), awaiting gate 3",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "layout": "full",
+  "format": "paradox-essay-animation (45 s, narrated, glowing pictograms)",
+  "new_format_test": "narrated paradox essay",
+  "out": "knows-the-most.mp4",
+  "voice": "voice.mp3",
+  "caption": "the gym doesn't pay you for knowing. we're building EARND for the people who repeat. EARND launches soon. Follow for the launch. #gymtok #progressiveoverload #gymmotivation #mindset #gymtips",
+  "sound": {
+    "mode": "trending",
+    "primary": "ILUSÃO (Slowed) — nashi & MXRCIZ & Mc Jamil & Phonk King (under the voice, 5–10%)",
+    "backup": "Ink on Parchment — Marla Swick (5–10%)"
+  },
+  "ai_images": true,
+  "ai_note": "AI voice (ElevenLabs via Higgsfield): AI label ON",
+  "renderer": ".claude/skills/slideshow-engine/scripts/anim_formats.py essay"
+}

@@ -1,0 +1,19 @@
+{
+  "set_id": "2026-11-10-earndapp-video-hang-who-lets-go-last",
+  "status": "draft 2026-11-09 (overnight samples), awaiting gate 3",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "layout": "full",
+  "format": "who-lets-go-last-video (12 s, code-drawn, thud sfx)",
+  "new_format_test": "'who lets go last?' contest video",
+  "out": "who-lets-go-last.mp4",
+  "caption": "which one gets you through the last rep? 👇 we're building EARND: every set shows the number to beat. EARND launches soon. Follow for the launch. #gymtok #gymmotivation #discipline #progressiveoverload #gymtips",
+  "sound": {
+    "mode": "trending",
+    "primary": "som original — ANABOLIC",
+    "backup": "sonido original — musiktpt"
+  },
+  "ai_images": false,
+  "ai_note": "code-drawn animation, nothing generated: AI label OFF",
+  "renderer": ".claude/skills/slideshow-engine/scripts/anim_formats.py hang"
+}

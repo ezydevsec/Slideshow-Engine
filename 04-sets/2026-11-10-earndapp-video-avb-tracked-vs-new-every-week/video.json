@@ -1,0 +1,19 @@
+{
+  "set_id": "2026-11-10-earndapp-video-avb-tracked-vs-new-every-week",
+  "status": "draft 2026-11-09 (overnight samples), awaiting gate 3",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "layout": "full",
+  "format": "a-vs-b-sim-video (16 s, code-drawn, week counter)",
+  "new_format_test": "A vs B for N weeks",
+  "out": "tracked-vs-new-every-week.mp4",
+  "caption": "new workout every week vs the same program, tracked. which one are you? 👇 we're building EARND, the app that shows what you did last time. EARND launches soon. Follow for the launch. #progressiveoverload #gymtok #gymtips #workoutplan #upperlower",
+  "sound": {
+    "mode": "trending",
+    "primary": "Interstellar on Piano — Andy Morris",
+    "backup": "Time — Hans Zimmer"
+  },
+  "ai_images": false,
+  "ai_note": "code-drawn animation, weights labelled example: AI label OFF",
+  "renderer": ".claude/skills/slideshow-engine/scripts/anim_formats.py avb"
+}

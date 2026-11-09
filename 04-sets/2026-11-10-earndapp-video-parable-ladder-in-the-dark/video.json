@@ -1,0 +1,20 @@
+{
+  "set_id": "2026-11-10-earndapp-video-parable-ladder-in-the-dark",
+  "status": "draft 2026-11-09 (overnight samples), awaiting gate 3",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "layout": "full",
+  "format": "imagine-a-man-parable (39 s, narrated, line art)",
+  "new_format_test": "'imagine a man' parable",
+  "out": "ladder-in-the-dark.mp4",
+  "voice": "voice.mp3",
+  "caption": "you can't feel progress. you have to see it. we're building EARND so every set shows the number to beat. EARND launches soon. Follow for the launch. #gymtok #mindset #consistency #progressiveoverload #gymmotivation",
+  "sound": {
+    "mode": "trending",
+    "primary": "ILUSÃO (Slowed) — nashi & MXRCIZ & Mc Jamil & Phonk King (under the voice, 5–10%)",
+    "backup": "son original — lyrics_song (5–10%)"
+  },
+  "ai_images": true,
+  "ai_note": "AI voice (ElevenLabs via Higgsfield): AI label ON",
+  "renderer": ".claude/skills/slideshow-engine/scripts/anim_formats.py parable"
+}
