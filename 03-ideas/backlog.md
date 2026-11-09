@@ -136,3 +136,10 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @earnie.lifts | "WHO LETS GO LAST?" four Earnies: LEG DAY EARNIE (drops at 0:02) · CARDIO EARNIE · 6AM EARNIE · CHEST DAY EARNIE (never lets go) | sound: sonido original (musiktpt)
 - [ ] @earnie.lifts | "WHO LEAVES THE GYM FIRST?" ... the one who forgot what he lifted last time leaves first; Earnie with the log stays
 - [ ] @ezyxbt | one-liner (photo only) | "motivation lets go first. the number i have to beat doesn't." | sound: son original (lyrics_song)
+
+## Founder link 2026-11-09: paradox essay animation (format: 02-research/formats/paradox-essay-animation.md)
+- [ ] @earndapp | NEW FORMAT TEST | "The guy who knows the most about lifting in your gym is probably the weakest one there." Knows every study, changes program monthly, never repeats a session, so he can't tell if he's improving. The guy who runs the same 4 days and writes it down beats his number every week. Last line: "the gym doesn't pay for knowing. it pays for repeating." | VO Knox, sound under: som original (Gym Infinity)
+- [ ] @earndapp | "The hardest-working person in your gym probably hasn't gotten stronger in a year." Trains to collapse, new workout every day, nothing to compare against. | same format
+- [ ] @earndapp | "Everyone who joins in January has the same plan: motivation. That's why it's empty by February." Motivation vs a plan you can see | January-ready
+- [ ] @earnie.lifts | Earnie-narrated version: "the strongest guy at my gym doesn't even like the gym" (he just shows up and beats last week) | Earnie voice
+- [ ] @ezyxbt | one-liner (photo) | "the gym doesn't pay for knowing. it pays for repeating." | sound: son original (lyrics_song)
