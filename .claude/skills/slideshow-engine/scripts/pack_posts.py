@@ -4,7 +4,7 @@ plan = json.load(open(sys.argv[1])); rows = []
 SB = "search the name in TikTok's Add sound; pick the version by the listed artist."
 for p in plan:
     d = f"04-sets/{p['set']}"; sf = next(f for f in ("edu.json", "native.json", "meme.json", "video.json") if os.path.exists(f"{d}/{f}"))
-    sp = json.load(open(f"{d}/{sf}")); sp["status"] = f"approved on 2026-11-07 (founder asked for the zips); post on {p['post_on']}"
+    sp = json.load(open(f"{d}/{sf}")); sp["status"] = f"approved (founder); post on {p['post_on']}"
     json.dump(sp, open(f"{d}/{sf}", "w"), indent=2, ensure_ascii=False)
     acct = sp["account"]; plat = "(TikTok)" if acct == "@ezyxbt" else "(TikTok, + Instagram once the IG account exists)"
     if sp.get("format","").startswith("oneliner"):
@@ -24,7 +24,7 @@ for p in plan:
     if sp.get("new_format_test"): tests.append("**new-format test**" + (f": {sp['new_format_test']}" if isinstance(sp['new_format_test'], str) else f" ({sp.get('format','')})"))
     md = f"""# Posting pack: {p['set']}
 
-**Status: approved 2026-11-07. Post manually on {p['post_on']}.** Format: {sp.get('format','').split(' (')[0]}. Space posts on the same account about 3–4 hours apart.
+**Status: approved. Post manually on {p['post_on']}.** Format: {sp.get('format','').split(' (')[0]}. Space posts on the same account about 3–4 hours apart.
 
 - **Account:** {acct} {plat}
 - **Upload:** {up}
@@ -32,7 +32,7 @@ for p in plan:
 - **Sound:** {snd}
 - **AI-generated content label:** {ai}
 - **Before posting:** no download link (prelaunch).
-""" + (f"- **Test:** {'; '.join(tests)}. Note the result at Sunday's review.\n" if tests else "")
+""" + (f"- **Post at:** {p['post_time']} (UK time; target UK/US).\n" if p.get("post_time") else "") + (f"- **Test:** {'; '.join(tests)}. Note the result at Sunday's review.\n" if tests else "")
     open(f"{d}/posting.md", "w").write(md)
     os.makedirs(os.path.dirname(p["zip"]), exist_ok=True)
     with zipfile.ZipFile(p["zip"], "w", zipfile.ZIP_DEFLATED) as z:
