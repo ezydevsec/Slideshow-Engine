@@ -1,0 +1,101 @@
+{
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "angle": "winner variation: the whole Lower A day on slide 2 (series after upper A)",
+  "winner_variation": "the upper day behind EARND (10–12 saves); lower day 518 views / 9 saves",
+  "canvas": "1080x1350",
+  "caption": "the lower A day behind EARND. save it for leg day",
+  "hashtags": [
+    "#legday",
+    "#upperlower",
+    "#gymroutine",
+    "#gymtips",
+    "#workoutplan"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "som original — ANABOLIC",
+    "backup": "som original — bakura"
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "LOWER A.",
+          false
+        ],
+        [
+          "5 EXERCISES.",
+          false
+        ],
+        [
+          "2 SETS EACH.",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "leg-extension"
+    },
+    {
+      "type": "cards",
+      "title": "THE WHOLE LOWER A DAY",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Calf Press",
+          "calf-press"
+        ],
+        [
+          "Seated Leg Curl",
+          "leg-curl"
+        ],
+        [
+          "Leg Extension",
+          "leg-extension"
+        ],
+        [
+          "Adductor",
+          "adductor"
+        ],
+        [
+          "Hip Thrust",
+          "hip-thrust"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "HOW IT GOES UP",
+      "title": "BEAT LAST SESSION BY ONE REP.",
+      "body": "Own 8 clean reps, then add weight.",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "app",
+      "title": "MISSED LOWER DAY? MOVE IT. DON'T SKIP IT.",
+      "body": "Pick the day. The rotation stays the same.",
+      "shot": "01-app/assets/demo-move-session.png",
+      "crop": [
+        0.18,
+        0.49,
+        0.82,
+        0.92
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR LEG DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ],
+  "set_id": "2026-11-10-edu-lower-a-day-behind-earnd",
+  "status": "draft 2026-11-10, awaiting gate 3"
+}

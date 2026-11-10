@@ -1,0 +1,88 @@
+{
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "new_format_test": "gym-vs-swap list (trend 2026-11-09: workitapp gym vs home 2.8M / 174K saves)",
+  "angle": "machine taken? one swap per Upper A exercise, the full swap list on slide 2",
+  "canvas": "1080x1350",
+  "caption": "machine taken at 6pm? here's the swap for every exercise on upper A. save it",
+  "hashtags": [
+    "#gymtips",
+    "#upperbody",
+    "#gymtok",
+    "#upperlower",
+    "#gymhacks"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "som original — bakura",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "MACHINE TAKEN?",
+          false
+        ],
+        [
+          "THE SWAP FOR EVERY",
+          false
+        ],
+        [
+          "UPPER A EXERCISE.",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "thinking"
+    },
+    {
+      "type": "list",
+      "title": "UPPER A SWAPS",
+      "note": "same 2 × 4–8",
+      "items": [
+        "Chest press → DB bench press",
+        "Pulldown → assisted pull-up",
+        "Supported row → incline DB row",
+        "Lateral raise → cable raise",
+        "Preacher curl → incline DB curl",
+        "Pushdown → DB overhead ext."
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "THE ONE RULE",
+      "title": "A SWAP IS A NEW EXERCISE.",
+      "body": "Start fresh with it, then beat that number next time.",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY SET",
+      "body": "Last session and today's target.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR PEAK HOURS.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ],
+  "set_id": "2026-11-10-edu-machine-taken-swaps",
+  "status": "draft 2026-11-10, awaiting gate 3"
+}

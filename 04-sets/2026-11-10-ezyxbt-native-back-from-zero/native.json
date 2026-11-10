@@ -1,0 +1,96 @@
+{
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "'from zero' series #2 (chest went out 11-09): his 3 back exercises on slide 2",
+  "canvas": "1080x1920",
+  "caption": "how i'd train back if i started the gym from zero #backday #backworkout #gymtips #beginnergym #upperlower",
+  "sound": {
+    "mode": "trending",
+    "primary": "som original — Gym Infinity",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b9-02.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "how i'd train back if i started from zero",
+      "sub": "(3 exercises. that's it.)",
+      "hook_y": 0.2
+    },
+    {
+      "type": "list",
+      "title": "the whole plan",
+      "photo": {
+        "file": "b9-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [
+        "pulldown (upper A)",
+        "chest-supported row (upper A)",
+        "pullover (upper B)",
+        "",
+        "#2 hard sets each, 4–8 reps"
+      ]
+    },
+    {
+      "type": "list",
+      "title": "how it goes up",
+      "photo": {
+        "file": "b9-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "same weight, add a rep. once i own 8 clean reps, the weight goes up."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b13-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "i check last session before every set, so i know the exact rep to beat.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b10-02.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for back day",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ],
+  "set_id": "2026-11-10-ezyxbt-native-back-from-zero",
+  "status": "draft 2026-11-10, awaiting gate 3"
+}

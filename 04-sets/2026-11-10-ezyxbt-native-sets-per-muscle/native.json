@@ -1,0 +1,100 @@
+{
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "new_format_test": "exact-number card (trend 2026-11-09: bluebro.fit 'the exact number for every muscle' 1.6K saves in 6 h)",
+  "angle": "his exact weekly sets per muscle from the programme, full list on slide 2",
+  "canvas": "1080x1920",
+  "caption": "the exact number of sets i do per muscle, every week #hypertrophy #upperlower #gymtips #gymtok #workoutplan",
+  "sound": {
+    "mode": "trending",
+    "primary": "som original — ANABOLIC",
+    "backup": "🅒 Ink on Parchment — Marla Swick"
+  },
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b14-07.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "the exact number of sets i do per muscle",
+      "sub": "(it's less than you think)",
+      "hook_y": 0.2
+    },
+    {
+      "type": "list",
+      "title": "per week",
+      "photo": {
+        "file": "b10-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [
+        "chest: 4",
+        "back: 6",
+        "shoulders: 4",
+        "biceps: 4 · triceps: 4",
+        "quads: 6 · hamstrings: 6",
+        "calves: 4",
+        "",
+        "#every one is a hard set"
+      ]
+    },
+    {
+      "type": "list",
+      "title": "the catch",
+      "photo": {
+        "file": "b12-02.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "lines": [],
+      "text": "2 sets per exercise, 4–8 reps, close to failure. fewer sets, but none of them easy."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-08.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "every set shows what i did last time, so each one has a number to beat.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b16-02.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this before your next session",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ],
+  "set_id": "2026-11-10-ezyxbt-native-sets-per-muscle",
+  "status": "draft 2026-11-10, awaiting gate 3"
+}

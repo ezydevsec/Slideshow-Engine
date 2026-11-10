@@ -1,0 +1,40 @@
+{
+  "format": "earnie-meme-slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "angle": "leg day, a timeline (relatable skip-legs arc)",
+  "canvas": "1080x1350",
+  "caption": "leg day, a timeline 😭 who else #legday #gymhumor #gymtok #gymmemes #relatable",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — Be On Your Feelings",
+    "backup": "original sound — JBA"
+  },
+  "ai_images": true,
+  "ai_note": "Earnie scenes generated with Higgsfield from the mascot reference: TikTok AI label ON",
+  "slides": [
+    {
+      "caption": "leg day, a timeline. 6:00pm: today i'm doing legs",
+      "image": "01-app/brand/memes/walk-in.jpg"
+    },
+    {
+      "caption": "6:05pm: is the squat rack free?",
+      "image": "01-app/brand/memes/peeking-rack.jpg"
+    },
+    {
+      "caption": "6:10pm: somehow it's arm day",
+      "image": "01-app/brand/memes/corner-curls.jpg"
+    },
+    {
+      "caption": "6:40pm: legs next week. for sure.",
+      "image": "01-app/brand/memes/skipping-legs.jpg"
+    },
+    {
+      "caption": "earnie: legs are on the plan, so legs get done",
+      "image": "01-app/brand/memes/phone-bench.jpg",
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
+  ],
+  "set_id": "2026-11-10-earnie-meme-leg-day-timeline",
+  "status": "draft 2026-11-10, awaiting gate 3"
+}

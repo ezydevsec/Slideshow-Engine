@@ -1,0 +1,55 @@
+{
+  "set_id": "2026-11-10-earnie-video-gym-in-january",
+  "status": "draft 2026-11-10, awaiting gate 3",
+  "format": "one-line-meme-clip (5–8 s, punchline in the first second; learned rule 2026-11-08)",
+  "new_format_test": "UK gym-humour 7 s clip (trend 2026-11-09: puregym.lads 2.3M)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "caption": "see you all in february 😭 #gymhumor #gymtok #newyearnewme #gymmemes #relatable",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — Be On Your Feelings",
+    "backup": "original sound — lil car accident"
+  },
+  "ai_images": true,
+  "ai_note": "AI-generated clip (Kling via Higgsfield, from the packed-gym Earnie scene) and music: TikTok AI label ON",
+  "out": "earnie-gym-in-january.mp4",
+  "voice": "music.mp3",
+  "layout": "full",
+  "segments": [
+    {
+      "src": "clip.mp4",
+      "start": 0,
+      "end": 5.6,
+      "speed": 0.9,
+      "hold": true
+    },
+    {
+      "src": "endcard.png",
+      "start": 5.6,
+      "end": 7.2
+    }
+  ],
+  "labels": [
+    {
+      "text": "the gym in january:",
+      "start": 0,
+      "end": 5.6,
+      "y": 230,
+      "size": 88,
+      "font": "inter",
+      "color": "#FFFFFF",
+      "stroke": 6
+    }
+  ],
+  "captions": {
+    "on": false
+  },
+  "sfx": [
+    {
+      "type": "whoosh",
+      "t": 5.5,
+      "vol": 0.3
+    }
+  ]
+}

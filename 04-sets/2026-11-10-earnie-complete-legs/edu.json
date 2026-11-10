@@ -1,0 +1,104 @@
+{
+  "format": "edu-template-slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "theme": "dark",
+  "angle": "Earnie anatomy edu, legs (1 anatomy edu a day; back went out 11-09)",
+  "winner_variation": "4 exercises for complete arms (552 views, 8 saves)",
+  "canvas": "1080x1350",
+  "caption": "4 exercises. your whole legs. save it for leg day",
+  "hashtags": [
+    "#legday",
+    "#legworkout",
+    "#gymtips",
+    "#gymtok",
+    "#quads"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "som original — ANABOLIC",
+    "backup": "som original — bakura"
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "4 EXERCISES FOR",
+          false
+        ],
+        [
+          "COMPLETE",
+          false
+        ],
+        [
+          "LEGS",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "hack-squat"
+    },
+    {
+      "type": "cards",
+      "title": "THE WHOLE LEG DAY",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Hack Squat",
+          "hack-squat"
+        ],
+        [
+          "Leg Curl",
+          "leg-curl"
+        ],
+        [
+          "Leg Extension",
+          "leg-extension"
+        ],
+        [
+          "Calf Press",
+          "calf-press"
+        ]
+      ]
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "HACK SQUAT",
+      "muscle": "Quads · glutes",
+      "sets": "2 × 4–8",
+      "cue": "Feet mid-plate. Go as deep as you control.",
+      "pose": "hack-squat"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2",
+      "title": "LEG CURL",
+      "muscle": "Hamstrings",
+      "sets": "2 × 4–8",
+      "cue": "Hips down on the pad. Squeeze, then lower slowly.",
+      "pose": "leg-curl"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#3 + #4",
+      "title": "LEG EXTENSION + CALF PRESS",
+      "muscle": "Quads · calves",
+      "sets": "2 × 4–8",
+      "cue": "Pause at the top of both. Full stretch on the calves.",
+      "pose": "leg-extension"
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR LEG DAY.",
+      "body": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ],
+  "set_id": "2026-11-10-earnie-complete-legs",
+  "status": "draft 2026-11-10, awaiting gate 3"
+}
