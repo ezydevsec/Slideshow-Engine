@@ -10,3 +10,7 @@
 - **@earndapp mascot explainer video** ("progressive overload is simple…", 234): below median. Parked.
 - **@ezyxbt (median 271) and @earnie.lifts (median 289) under 300 after a week of 3–4 posts/day**: every post across all accounts sits in a 202–693 band, so suspect distribution (watch time / For You eligibility), not single posts. Founder to send TikTok Studio retention + traffic-source screenshots for best/worst post per account before adding volume.
 - Weak hooks: vague "the eternal gym question" / "#1 is the one almost everyone makes" (234–239), winter-arc plan (230).
+
+## 2026-11-10 · @earnie.lifts one-line meme clips stopped (founder)
+- **What:** 5–8 s one-line clips ("me on leg day:", "the gym in january:"). Founder: "not good, we need to be telling stories."
+- **Action:** format stopped. Earnie moves to story slideshows and narrated story videos (learned rule 2026-11-10).

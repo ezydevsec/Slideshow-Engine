@@ -54,6 +54,8 @@ default_app_slide: 4
 
 (Added after each weekly review. Newest at the top.)
 
+- 2026-11-10 (founder): **@earnie.lifts tells stories.** The one-line meme clips aren't good enough; stop making them. Every Earnie post, slideshow or video, is a story with a start, a problem, a turn and a payoff (his best post is the narrated squat-rack story, 672 views). Story slideshows narrate across the slides; story videos are narrated. Anatomy edu can continue alongside.
+
 - 2026-11-08 (TikTok Studio, founder-approved): every post gets its views on day 1 from For You, then flatlines; "most viewers left after 2 photos" on every slideshow; a 10 s video averaged 3.0 s watched (4.85% full). Retention, not suppression, is the bottleneck. So:
   1. **Slide 2 is the payoff.** It carries the complete answer (the whole split, all the fixes, the full exercise list) so people who leave at slide 2 still get the value and save it; later slides add detail.
   2. **5 slides by default** on @earndapp and @ezyxbt.
