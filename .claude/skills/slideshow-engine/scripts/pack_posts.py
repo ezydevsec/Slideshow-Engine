@@ -18,7 +18,7 @@ for p in plan:
         up = f"`slide-01.jpg`" + (f" … `slide-{len(files):02d}.jpg`" if len(files) > 1 else "") + f" ({size})"
     s = sp.get("sound", {})
     snd = p.get("sound") or f"**{str(s.get('primary')).replace('**','')}**. Backup: **{str(s.get('backup')).replace('**','')}**. ({SB})"
-    ai = "**TURN ON**" if sp.get("ai_images") or sf == "video.json" else "OFF (real photos and real app screens, nothing generated)"
+    ai = "**TURN ON**" if sp.get("ai_images") or (sf == "video.json" and sp.get("ai_images") is not False) else ("OFF (" + sp["ai_note"].split(":")[0] + ")" if sp.get("ai_note") else "OFF (real photos and real app screens, nothing generated)")
     tests = []
     if sp.get("length_test"): tests.append(f"slide-length test: **{sp['length_test']}** ({len(files)} slides)")
     if sp.get("new_format_test"): tests.append("**new-format test**" + (f": {sp['new_format_test']}" if isinstance(sp['new_format_test'], str) else f" ({sp.get('format','')})"))
