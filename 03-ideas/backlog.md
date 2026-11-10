@@ -151,3 +151,11 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @earndapp | **One more grain of sand**: he adds one grain to his bag each day; nobody notices; a year later he carries what others can't. Moral: "one more rep is enough." (no physique claim)
 - [ ] @earnie.lifts | Earnie parable spoof: "Imagine a man who skips leg day. Every week, he tells himself next week…" deadpan, ends on the meme | ILUSÃO (Slowed)
 - [ ] @ezyxbt | one-liner (photo) | "you're never standing still in the gym. you're either beating last week or losing to it." | son original (lyrics_song)
+
+## Daily scan 2026-11-10 (trend file: 02-research/trends/2026-11-10.md)
+- [ ] @earndapp | edu slideshow (white/black theme test pair) | "your first day on an upper/lower split: exactly what to do" (slide 2 = the whole Upper A day + 2 × 4–8) | sound: 🅒 Ink on Parchment (Marla Swick)
+- [ ] @earndapp | NEW FORMAT TEST: calm-piano narrated beginner explainer | "what to do on your first day at the gym (if you hate not knowing what to do)" | sound under VO: Gymnopedie No.1 (Kamimura Mahiro)
+- [ ] @ezyxbt | exact-number #2 | "the exact rest i take between sets: 2–3 minutes. here's why" | sound: 🅒 Ink on Parchment
+- [ ] @ezyxbt | one-liner | "nobody remembers their first day at the gym. everyone remembers the day they stopped guessing." | sound: son original (lyrics_song)
+- [ ] @earnie.lifts | NEW FORMAT TEST: ironic story slideshow | "progressive overload is a scam. a story by earnie" | sound: sonido original (musiktpt)
+- [ ] @earnie.lifts | narrated story video | "Earnie's first day at the gym" (video version of the first-week slideshow if it performs) | sound under VO: original sound (JBA)
