@@ -14,7 +14,7 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 3 | A vs B week-counter sim | founder link: @appforthegym 3.6M | packed, posts 11-14 |
 | 4 | "Imagine a man" line-art parable | founder link: @nolledge (4–5% saves) | packed, posts 11-15 |
 | 5 | A vs B in 3D (two mannequins under spotlights, closer to @appforthegym) | founder link: @appforthegym | to build |
-| 6 | Theme test: same topic in white vs black (Lower B day) | founder question 2026-11-10 | to build |
+| 6 | Theme test: white vs black edu slideshows, at least one of each per day | founder 2026-11-10 | running 11-11 → 11-15, decided at the 15 Nov review (founder leans black) |
 | 7 | Tier list of programme exercises | trend scan 11-09 (arrowfitnessapp, coachdjango 2.2M) | to build |
 
 ## @ezyxbt (photo slideshows only)
