@@ -1,0 +1,45 @@
+{
+  "set_id": "2026-11-10-earnie-story-first-week",
+  "status": "draft 2026-11-10, awaiting gate 3",
+  "format": "earnie-story-slideshow (6 slides, captions narrate one story; learned rule 2026-11-10)",
+  "new_format_test": "Earnie story slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "angle": "Earnie's first week at the gym: lost → copies a stranger → can't walk → gets a plan → beats his own numbers",
+  "canvas": "1080x1350",
+  "caption": "earnie's first week at the gym was rough 😭 who else #gymtok #gymbeginner #gymhumor #relatable #firstweek",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — Be On Your Feelings",
+    "backup": "original sound — JBA"
+  },
+  "ai_images": true,
+  "ai_note": "Earnie scenes generated with Higgsfield from the mascot reference: TikTok AI label ON",
+  "slides": [
+    {
+      "caption": "earnie's first week at the gym. day 1: walks in like he owns the place",
+      "image": "01-app/brand/memes/walk-in.jpg"
+    },
+    {
+      "caption": "10 minutes later: no idea what any of this is",
+      "image": "01-app/brand/memes/confused-rack.jpg"
+    },
+    {
+      "caption": "so he just copies whatever this guy is doing",
+      "image": "01-app/brand/memes/machine-scroller.jpg"
+    },
+    {
+      "caption": "day 3: can't sit down. can't stand up.",
+      "image": "01-app/brand/memes/slumped-bench.jpg"
+    },
+    {
+      "caption": "day 5: he gets a plan. 4 days. same exercises. one number to beat on every set",
+      "image": "01-app/brand/memes/phone-bench.jpg"
+    },
+    {
+      "caption": "week 6: lifting numbers he couldn't touch on day 1",
+      "image": "01-app/brand/memes/celebrate.jpg",
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
+  ]
+}

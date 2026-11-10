@@ -1,0 +1,140 @@
+{
+  "set_id": "2026-11-10-earnie-video-story-january",
+  "status": "draft 2026-11-10, awaiting gate 3",
+  "format": "narrated-story-cartoon (02-research/formats/narrated-story-cartoon.md; Earnie's proven format, 672 views)",
+  "new_format_test": false,
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "caption": "every january 😭 see you in february #gymtok #newyearnewme #gymhumor #relatable #gymmotivation",
+  "ai_images": true,
+  "ai_note": "AI-generated stills, voice (ElevenLabs v4 'Bob') and music via Higgsfield: TikTok AI label ON",
+  "out": "earnie-story-january.mp4",
+  "voice": "voice.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.15,
+  "layout": "full",
+  "segments": [
+    {
+      "src": "p-e0.mp4",
+      "start": 0,
+      "end": 6.0,
+      "hold": true
+    },
+    {
+      "src": "p-e1.mp4",
+      "start": 6.0,
+      "end": 9.3,
+      "hold": true
+    },
+    {
+      "src": "p-e2.mp4",
+      "start": 9.3,
+      "end": 13.4,
+      "hold": true
+    },
+    {
+      "src": "p-e3.mp4",
+      "start": 13.4,
+      "end": 18.6,
+      "hold": true
+    },
+    {
+      "src": "p-e4.mp4",
+      "start": 18.6,
+      "end": 22.1,
+      "hold": true
+    },
+    {
+      "src": "p-e5.mp4",
+      "start": 22.1,
+      "end": 28.2,
+      "hold": true
+    },
+    {
+      "src": "p-e6.mp4",
+      "start": 28.2,
+      "end": 30.9,
+      "hold": true
+    },
+    {
+      "src": "p-e7.mp4",
+      "start": 30.9,
+      "end": 36.9,
+      "hold": true
+    },
+    {
+      "src": "endcard.png",
+      "start": 36.9,
+      "end": 39.4
+    }
+  ],
+  "captions": {
+    "on": true,
+    "y": 1500,
+    "size": 70,
+    "words_per": 3,
+    "stroke": 8,
+    "until": 36.9,
+    "hl": "#FF4D4D",
+    "hl_words": [
+      "earnie",
+      "raining",
+      "sofa",
+      "plan",
+      "beat",
+      "gone"
+    ],
+    "fix": {
+      "ERNIE": "EARNIE",
+      "ERNIE'S": "EARNIE'S",
+      "EARNED": "EARND"
+    }
+  },
+  "sfx": [
+    {
+      "type": "pop",
+      "t": 6.0,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 9.3,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 13.4,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 18.6,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 22.1,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 28.2,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 30.9,
+      "vol": 0.22
+    },
+    {
+      "type": "whoosh",
+      "t": 36.8,
+      "vol": 0.3
+    }
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — JBA (under the voice, 5–10%)",
+    "backup": "original sound — Be On Your Feelings (5–10%)"
+  }
+}
