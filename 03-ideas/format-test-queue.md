@@ -26,9 +26,9 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 2 | Paradox one-liner as photo + 2-line twist | founder link: @cryothum | tested 11-11 |
 | 3 | Photo manifesto: "the rules i train by" (one rule per photo, second person, rhythm of @credora07) | founder link 11-11: @credora07 | to build |
 | 4 | "Imagine a man" as a 5-photo story ("imagine a guy who trains 6 days a week…") told in his voice | founder link: @nolledge | to build |
-| 4 | Who lets go last? as a photo slideshow (4 slides = 4 drop-outs, him last) | founder link: @focus.habits | to build |
-| 5 | A vs B in his voice: "my first year vs now: what actually changed" (programme, not physique) | founder link: @appforthegym | to build |
-| 6 | Exact-number series #2: "the exact rest i take between sets" / "the exact rep range i use" (scale if 11-10 sets-per-muscle performs) | trend scan 11-10 (bluebro 312K / 10.4K saves) | to build |
+| 5 | Who lets go last? as a photo slideshow (4 slides = 4 drop-outs, him last) | founder link: @focus.habits | to build |
+| 6 | A vs B in his voice: "my first year vs now: what actually changed" (programme, not physique) | founder link: @appforthegym | to build |
+| 7 | Exact-number series #2: "the exact rest i take between sets" / "the exact rep range i use" (scale if 11-10 sets-per-muscle performs) | trend scan 11-10 (bluebro 312K / 10.4K saves) | to build |
 
 ## @earnie.lifts (stories only, plus anatomy edu)
 | # | Format | Source | Status |
@@ -37,10 +37,10 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 2 | Narrated story video ("Earnie's January") | proven (squat-rack story 672) + founder rule | built, awaiting approval |
 | 3 | Gym-anxiety story: "Earnie's first day: everyone was watching. Nobody was." (narrated) | founder link 11-11: @credora07 'judgement' angle | to build |
 | 4 | Earnie parable: "Imagine a guy who skips leg day…" narrated, Earnie as the guy | founder link: @nolledge | to build |
-| 4 | Earnie paradox story: "The strongest guy at my gym doesn't even like the gym" | founder link: @cryothum | to build |
-| 5 | Story: Earnie vs his gym rival (rival changes workout weekly, Earnie runs one plan) | founder link: @appforthegym (A vs B as a story) | to build |
-| 6 | Story: the week Earnie missed (moves the session instead of quitting) | story backlog 2026-11-10 | narrated video 11-11 |
-| 7 | Ironic story slideshow: "progressive overload is a scam. a story by earnie" | trend scan 11-10 (ki.lilz 2.5M) | tested 11-11 |
+| 5 | Earnie paradox story: "The strongest guy at my gym doesn't even like the gym" | founder link: @cryothum | to build |
+| 6 | Story: Earnie vs his gym rival (rival changes workout weekly, Earnie runs one plan) | founder link: @appforthegym (A vs B as a story) | to build |
+| 7 | Story: the week Earnie missed (moves the session instead of quitting) | story backlog 2026-11-10 | narrated video 11-11 |
+| 8 | Ironic story slideshow: "progressive overload is a scam. a story by earnie" | trend scan 11-10 (ki.lilz 2.5M) | tested 11-11 |
 
 ## Tested
 | Date | Account | Format | Result (Sunday review) |
