@@ -1,266 +1,266 @@
 {
- "_readme": "Account settings for every posting account. Every set's slides.json names exactly one account by handle. Use that account's voice and visual template, and end with its CTA for the current phase. Readiness is checked per account (scripts/account_status.py): a field in an account's `required` list that is null or contains 'TO CONFIRM' blocks only that account's content. `bio` is advisory: unconfirmed bios produce a warning, not a block.",
- "phase": "prelaunch",
- "launch": {
-  "download_url": null,
-  "note": "Stays null until launch. Download CTAs are only allowed once phase is 'launched' and this is set."
- },
- "palette": {
-  "black": "#0B0B0B",
-  "lime": "#C6FF00",
-  "white": "#FFFFFF",
-  "status": "working palette, confirmed 2026-10-24"
- },
- "global_rules": [
-  "Never invent user experiences, testimonials, or independent endorsements, on any account.",
-  "Never present our own promotional pages as independent recommendations. Every account owned or run by us discloses that tie.",
-  "Every post needs approval in chat before it is queued, and approval before it publishes.",
-  "Our accounts never comment on, like, or reply to each other's posts.",
-  "@earndapp and @ezyxbt run in parallel (approved 2026-10-24). Don't add theme pages or more posting workload until a format shows repeatable results."
- ],
- "types": {
-  "brand": "The official EARND account. Speaks as EARND: direct product language.",
-  "founder": "The founder's personal account. First person as the person building EARND. Only real experiences the founder has confirmed.",
-  "theme": "A topic page run by the EARND team. Useful content first; any EARND mention is clearly our own product, never a neutral recommendation."
- },
- "accounts": [
-  {
-   "handle": "@earndapp",
-   "type": "brand",
-   "status": "active",
-   "platforms": [
-    "tiktok",
-    "instagram"
-   ],
-   "inactive_platforms": [
-    "instagram (inactive until confirmed)"
-   ],
-   "posting_tool_ids": {},
-   "required": [
-    "platforms",
-    "voice",
-    "visual_template",
-    "cta.prelaunch",
-    "disclosure"
-   ],
-   "voice": "Lowercase hooks in the audience's language; the app slide onward in direct EARND product language (\"EARND shows...\", \"EARND puts...\"). No first-person user claims.",
-   "visual_template": {
-    "name": "black-and-lime",
-    "canvas": "1080x1920",
-    "bg": "#0B0B0B",
-    "hook_and_cta_text": "#C6FF00",
-    "middle_text": "#FFFFFF",
-    "app_slide": "black text on a #C6FF00 box over the real screenshot",
-    "text_mode": "plain (app slide: background)",
-    "account_mark": "none: no handle/logo tag on slides (founder, 2026-10-30)",
-    "mascot_note": "@earnie.lifts paused 2026-10-31: the mascot can be used on @earndapp again (edu-template sets)."
-   },
-   "cta": {
-    "prelaunch": "EARND launches soon. Follow for the launch.",
-    "launched": "TO CONFIRM at launch",
-    "destination_prelaunch": "follow @earndapp",
-    "destination_launched": "launch.download_url"
-   },
-   "disclosure": "The account is EARND itself, so the tie is self-evident.",
-   "bio": "The 4-day upper/lower app. See what to beat every set. Launching soon.",
-   "personas": [
-    "Persona 1: The inconsistent tracker",
-    "Persona 2: The busy returning lifter"
-   ],
-   "bio_note": "set on TikTok by the founder 2026-10-29",
-   "content_mix": "Mixed content (founder, 2026-11-04): mascot edu slideshows (edu_render.py) plus mascot videos: Earnie demonstrating exercises (Kling image-to-video from 01-app/brand/poses/, wrong vs right, captions, real app screen at the end) or approved slideshows turned into videos (ffmpeg, 0 credits). Daily volume (founder, 2026-11-06): 3–5 posts: 2–4 slideshows + exactly 1 video a day, at least one post a new-format test."
+  "_readme": "Account settings for every posting account. Every set's slides.json names exactly one account by handle. Use that account's voice and visual template, and end with its CTA for the current phase. Readiness is checked per account (scripts/account_status.py): a field in an account's `required` list that is null or contains 'TO CONFIRM' blocks only that account's content. `bio` is advisory: unconfirmed bios produce a warning, not a block.",
+  "phase": "prelaunch",
+  "launch": {
+    "download_url": null,
+    "note": "Stays null until launch. Download CTAs are only allowed once phase is 'launched' and this is set."
   },
-  {
-   "handle": "@ezyxbt",
-   "type": "founder",
-   "status": "active",
-   "platforms": [
-    "tiktok"
-   ],
-   "inactive_platforms": [
-    "instagram (inactive until confirmed)"
-   ],
-   "posting_tool_ids": {},
-   "required": [
-    "platforms",
-    "voice",
-    "visual_template",
-    "cta.prelaunch",
-    "disclosure"
-   ],
-   "voice": "Direct, casual, first person, as EARND's founder. Only experiences the founder has confirmed as real.",
-   "visual_template": {
-    "name": "native-tip-9x16",
-    "canvas": "1080x1920",
-    "renderer": ".claude/skills/slideshow-engine/scripts/native_render.py (native.json)",
-    "reference": "02-research/formats/native-tip-slideshow.md (@gymbratzzzz / @mayaviefit)",
-    "images": "Cover and backgrounds: the founder's real photos (closed library, 01-app/founder-photo-catalog.md; minor edits only, never the face). Exercise slides: generated anatomy diagrams from 01-app/brand/anatomy/ (AI label on).",
-    "text": "TikTok-native: white centred text with soft shadow, white pill labels. Lowercase, casual, first person.",
-    "slide_count_labels": false,
-    "earnd_promotion": "Second-to-last slide only: 'real tip' slide with a real EARND screenshot, disclosed as the founder's app. Earlier slides don't mention EARND.",
-    "account_mark": "none",
-    "note": "Approved by the founder 2026-11-01, replacing founder-photo-edu-3x4 (1080x1350)."
-   },
-   "cta": {
-    "prelaunch": "i'm building EARND. follow @earndapp for the launch.",
-    "launched": "TO CONFIRM at launch",
-    "destination_prelaunch": "follow @earndapp",
-    "destination_launched": "launch.download_url"
-   },
-   "disclosure": "The tip slide says the founder is building EARND; the final CTA repeats it. Bio should say so too.",
-   "bio": null,
-   "bio_proposed": "Training + building EARND (@earndapp). The splits and rules I actually use.",
-   "personas": "Not set. Founder content follows the founder's real training, not a persona.",
-   "bio_note": "Founder confirmed 2026-11-04 that the @EARND bio link is correct.",
-   "content_mix": "Photo posts only (founder, 2026-11-04). Daily (founder, 2026-11-06): 3–5 posts: 2–4 native-tip slideshows (half of them 5-slide length tests) + 1 one-liner photo (single image, one line, no app slide, no CTA, no caption; founder, 2026-11-05; 02-research/formats/oneliner-photo.md).",
-   "caption_style": "Slideshows: first-person caption line (the hook in his words) + 3–5 hashtags. Never hashtags only (founder, 2026-11-04). One-liner photos: no caption at all (founder, 2026-11-05)."
+  "palette": {
+    "black": "#0B0B0B",
+    "lime": "#C6FF00",
+    "white": "#FFFFFF",
+    "status": "working palette, confirmed 2026-10-24"
   },
-  {
-   "handle": "@earnie.lifts",
-   "type": "theme",
-   "status": "active (format: memes, founder 2026-11-04)",
-   "platforms": [
-    "tiktok",
-    "instagram"
-   ],
-   "inactive_platforms": [],
-   "posting_tool_ids": {},
-   "required": [
-    "handle",
-    "platforms",
-    "voice",
-    "visual_template",
-    "cta.prelaunch",
-    "disclosure"
-   ],
-   "voice": "lowercase, deadpan, relatable gym moments from the pain bank (can't remember last week's weight, guessing, same reps for months, notes app chaos). One joke per slide, under 25 words. No physique promises; payoff is about tracking, never looks.",
-   "visual_template": {
-    "name": "earnie-meme-3x4",
-    "canvas": "1080x1350",
-    "renderer": ".claude/skills/slideshow-engine/scripts/meme_render.py (meme.json)",
-    "images": "Earnie scenes from 01-app/brand/memes/ (uniform matte graphite, no lime highlights); generate 1–3 new scenes per set with Higgsfield from the mascot reference. Never copyrighted characters or meme templates.",
-    "account_mark": "none"
-   },
-   "cta": {
-    "prelaunch": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
-    "launched": "TO CONFIRM at launch",
-    "destination_prelaunch": "follow @earndapp",
-    "destination_launched": "launch.download_url"
-   },
-   "disclosure": "Bio says 'by @EARND' (run by the EARND team). The final slide names EARND as our own app.",
-   "bio": "earnie lifts so you know what to lift. by @EARND",
-   "bio_note": "Founder confirmed 2026-11-04 that the @EARND bio link is correct.",
-   "personas": "Persona 1: The inconsistent tracker",
-   "created": "2026-10-30 by the founder (exception to the 'no new theme pages until a format repeats' rule)",
-   "settings_confirmed": "2026-10-30 by the founder (approved the first Earnie sets)",
-   "paused": "2026-10-31 by the founder: 2 posts (legs, back) at 0 views, 0 followers (Apify 2026-10-31). Account created 2026-10-30. | Resumed 2026-11-04 with the meme format.",
-   "format": "Relatable gym meme slideshows starring Earnie (white caption band over an Earnie scene). Chosen by the founder 2026-11-04 over 3D anatomy demos because @earndapp already does mascot anatomy education.",
-   "differentiation": "vs @earndapp: jokes, not education. vs @gymbro.skits: still meme slideshows with one character (Earnie), not 3D video skits with two gym bros.",
-   "content_mix": "Mixed content (founder, 2026-11-04): meme slideshows (meme_render.py) plus short meme videos: one Earnie scene from 01-app/brand/memes/ animated (Kling image-to-video, 5–10 s) with the meme caption burned in. Daily volume (founder, 2026-11-06): 3–5 posts: 2–4 slideshows + exactly 1 video a day, at least one post a new-format test."
+  "global_rules": [
+    "Never invent user experiences, testimonials, or independent endorsements, on any account.",
+    "Never present our own promotional pages as independent recommendations. Every account owned or run by us discloses that tie.",
+    "Every post needs approval in chat before it is queued, and approval before it publishes.",
+    "Our accounts never comment on, like, or reply to each other's posts.",
+    "@earndapp and @ezyxbt run in parallel (approved 2026-10-24). Don't add theme pages or more posting workload until a format shows repeatable results."
+  ],
+  "types": {
+    "brand": "The official EARND account. Speaks as EARND: direct product language.",
+    "founder": "The founder's personal account. First person as the person building EARND. Only real experiences the founder has confirmed.",
+    "theme": "A topic page run by the EARND team. Useful content first; any EARND mention is clearly our own product, never a neutral recommendation."
   },
-  {
-   "type": "theme",
-   "platforms": [
-    "tiktok",
-    "instagram"
-   ],
-   "inactive_platforms": [],
-   "posting_tool_ids": {},
-   "required": [
-    "handle",
-    "platforms",
-    "voice",
-    "visual_template",
-    "cta.prelaunch",
-    "disclosure"
-   ],
-   "cta": {
-    "prelaunch": "TO CONFIRM: \"we're building EARND. follow @earndapp for the launch.\"",
-    "launched": "TO CONFIRM at launch",
-    "destination_prelaunch": "follow @earndapp",
-    "destination_launched": "launch.download_url"
-   },
-   "personas": [
-    "Persona 1: The inconsistent tracker",
-    "Persona 2: The busy returning lifter"
-   ],
-   "handle": "TO CONFIRM: proposed @gymbro.skits (free on 2026-11-04)",
-   "status": "setup",
-   "format": "E. 3D comedic gym skits, optional hook-pivot to EARND on the final beat (try.lockin, dropship).",
-   "character": "TO CONFIRM: two original recurring 3D gym bros. Not the lockin skeletons, Bob or Zack D. Films style.",
-   "voice": "TO CONFIRM: situational, one-word labels (\"BRO\"), relatable gym moments from the pain bank (forgot last week's weight, no plan, guessing). Caption: \"send this to your gym bro\".",
-   "visual_template": "TO CONFIRM: 1080x1920 3D video, 30 to 60 s (Higgsfield). Phase-1 fallback: 3D still slideshows.",
-   "disclosure": "TO CONFIRM: bio \"by @earndapp\". Any EARND beat says it's ours.",
-   "bio": null,
-   "note": "Merged 2026-11-04 from session 'Replicate X post' (branch claude/zen-babbage-c72m2o). Founder confirmed keeping this account on 2026-11-04; handle and fields marked TO CONFIRM still need confirming once created. Instagram twin of the same brand (founder: 4 IG accounts)."
+  "accounts": [
+    {
+      "handle": "@earndapp",
+      "type": "brand",
+      "status": "active",
+      "platforms": [
+        "tiktok",
+        "instagram"
+      ],
+      "inactive_platforms": [
+        "instagram (inactive until confirmed)"
+      ],
+      "posting_tool_ids": {},
+      "required": [
+        "platforms",
+        "voice",
+        "visual_template",
+        "cta.prelaunch",
+        "disclosure"
+      ],
+      "voice": "Lowercase hooks in the audience's language; the app slide onward in direct EARND product language (\"EARND shows...\", \"EARND puts...\"). No first-person user claims.",
+      "visual_template": {
+        "name": "black-and-lime",
+        "canvas": "1080x1920",
+        "bg": "#0B0B0B",
+        "hook_and_cta_text": "#C6FF00",
+        "middle_text": "#FFFFFF",
+        "app_slide": "black text on a #C6FF00 box over the real screenshot",
+        "text_mode": "plain (app slide: background)",
+        "account_mark": "none: no handle/logo tag on slides (founder, 2026-10-30)",
+        "mascot_note": "@earnie.lifts paused 2026-10-31: the mascot can be used on @earndapp again (edu-template sets)."
+      },
+      "cta": {
+        "prelaunch": "EARND launches soon. Follow for the launch.",
+        "launched": "TO CONFIRM at launch",
+        "destination_prelaunch": "follow @earndapp",
+        "destination_launched": "launch.download_url"
+      },
+      "disclosure": "The account is EARND itself, so the tie is self-evident.",
+      "bio": "The 4-day upper/lower app. See what to beat every set. Launching soon.",
+      "personas": [
+        "Persona 1: The inconsistent tracker",
+        "Persona 2: The busy returning lifter"
+      ],
+      "bio_note": "set on TikTok by the founder 2026-10-29",
+      "content_mix": "Mixed content (founder, 2026-11-04): mascot edu slideshows (edu_render.py) plus mascot videos: Earnie demonstrating exercises (Kling image-to-video from 01-app/brand/poses/, wrong vs right, captions, real app screen at the end) or approved slideshows turned into videos (ffmpeg, 0 credits). Daily volume (founder, 2026-11-06): 3–5 posts: 2–4 slideshows + exactly 1 video a day, at least one post a new-format test."
+    },
+    {
+      "handle": "@ezyxbt",
+      "type": "founder",
+      "status": "active",
+      "platforms": [
+        "tiktok"
+      ],
+      "inactive_platforms": [
+        "instagram (inactive until confirmed)"
+      ],
+      "posting_tool_ids": {},
+      "required": [
+        "platforms",
+        "voice",
+        "visual_template",
+        "cta.prelaunch",
+        "disclosure"
+      ],
+      "voice": "Direct, casual, first person, as EARND's founder. Only experiences the founder has confirmed as real.",
+      "visual_template": {
+        "name": "native-tip-9x16",
+        "canvas": "1080x1920",
+        "renderer": ".claude/skills/slideshow-engine/scripts/native_render.py (native.json)",
+        "reference": "02-research/formats/native-tip-slideshow.md (@gymbratzzzz / @mayaviefit)",
+        "images": "Cover and backgrounds: the founder's real photos (closed library, 01-app/founder-photo-catalog.md; minor edits only, never the face). Exercise slides: generated anatomy diagrams from 01-app/brand/anatomy/ (AI label on).",
+        "text": "TikTok-native: white centred text with soft shadow, white pill labels. Lowercase, casual, first person.",
+        "slide_count_labels": false,
+        "earnd_promotion": "Second-to-last slide only: 'real tip' slide with a real EARND screenshot, disclosed as the founder's app. Earlier slides don't mention EARND.",
+        "account_mark": "none",
+        "note": "Approved by the founder 2026-11-01, replacing founder-photo-edu-3x4 (1080x1350)."
+      },
+      "cta": {
+        "prelaunch": "i'm building EARND. follow @earndapp for the launch.",
+        "launched": "TO CONFIRM at launch",
+        "destination_prelaunch": "follow @earndapp",
+        "destination_launched": "launch.download_url"
+      },
+      "disclosure": "The tip slide says the founder is building EARND; the final CTA repeats it. Bio should say so too.",
+      "bio": null,
+      "bio_proposed": "Training + building EARND (@earndapp). The splits and rules I actually use.",
+      "personas": "Not set. Founder content follows the founder's real training, not a persona.",
+      "bio_note": "Founder confirmed 2026-11-04 that the @EARND bio link is correct.",
+      "content_mix": "Photo posts only (founder, 2026-11-04). Daily (founder, 2026-11-06): 3–5 posts: 2–4 native-tip slideshows (half of them 5-slide length tests) + 1 one-liner photo (single image, one line, no app slide, no CTA, no caption; founder, 2026-11-05; 02-research/formats/oneliner-photo.md).",
+      "caption_style": "Slideshows: first-person caption line (the hook in his words) + 3–5 hashtags. Never hashtags only (founder, 2026-11-04). One-liner photos: no caption at all (founder, 2026-11-05)."
+    },
+    {
+      "handle": "@earnie.lifts",
+      "type": "theme",
+      "status": "active (format: memes, founder 2026-11-04)",
+      "platforms": [
+        "tiktok",
+        "instagram"
+      ],
+      "inactive_platforms": [],
+      "posting_tool_ids": {},
+      "required": [
+        "handle",
+        "platforms",
+        "voice",
+        "visual_template",
+        "cta.prelaunch",
+        "disclosure"
+      ],
+      "voice": "lowercase, deadpan, relatable gym moments from the pain bank (can't remember last week's weight, guessing, same reps for months, notes app chaos). One joke per slide, under 25 words. No physique promises; payoff is about tracking, never looks.",
+      "visual_template": {
+        "name": "earnie-meme-3x4",
+        "canvas": "1080x1350",
+        "renderer": ".claude/skills/slideshow-engine/scripts/meme_render.py (meme.json)",
+        "images": "Earnie scenes from 01-app/brand/memes/ (uniform matte graphite, no lime highlights); generate 1–3 new scenes per set with Higgsfield from the mascot reference. Never copyrighted characters or meme templates.",
+        "account_mark": "none"
+      },
+      "cta": {
+        "prelaunch": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
+        "launched": "TO CONFIRM at launch",
+        "destination_prelaunch": "follow @earndapp",
+        "destination_launched": "launch.download_url"
+      },
+      "disclosure": "Bio says 'by @EARND' (run by the EARND team). The final slide names EARND as our own app.",
+      "bio": "earnie lifts so you know what to lift. by @EARND",
+      "bio_note": "Founder confirmed 2026-11-04 that the @EARND bio link is correct.",
+      "personas": "Persona 1: The inconsistent tracker",
+      "created": "2026-10-30 by the founder (exception to the 'no new theme pages until a format repeats' rule)",
+      "settings_confirmed": "2026-10-30 by the founder (approved the first Earnie sets)",
+      "paused": "2026-10-31 by the founder: 2 posts (legs, back) at 0 views, 0 followers (Apify 2026-10-31). Account created 2026-10-30. | Resumed 2026-11-04 with the meme format.",
+      "format": "Relatable gym meme slideshows starring Earnie (white caption band over an Earnie scene). Chosen by the founder 2026-11-04 over 3D anatomy demos because @earndapp already does mascot anatomy education.",
+      "differentiation": "vs @earndapp: jokes, not education. vs @gymbro.skits: still meme slideshows with one character (Earnie), not 3D video skits with two gym bros.",
+      "content_mix": "Mixed content (founder, 2026-11-04): meme slideshows (meme_render.py) plus short meme videos: one Earnie scene from 01-app/brand/memes/ animated (Kling image-to-video, 5–10 s) with the meme caption burned in. Daily volume (founder, 2026-11-06): 3–5 posts: 2–4 slideshows + exactly 1 video a day, at least one post a new-format test."
+    },
+    {
+      "type": "theme",
+      "platforms": [
+        "tiktok",
+        "instagram"
+      ],
+      "inactive_platforms": [],
+      "posting_tool_ids": {},
+      "required": [
+        "handle",
+        "platforms",
+        "voice",
+        "visual_template",
+        "cta.prelaunch",
+        "disclosure"
+      ],
+      "cta": {
+        "prelaunch": "TO CONFIRM: \"we're building EARND. follow @earndapp for the launch.\"",
+        "launched": "TO CONFIRM at launch",
+        "destination_prelaunch": "follow @earndapp",
+        "destination_launched": "launch.download_url"
+      },
+      "personas": [
+        "Persona 1: The inconsistent tracker",
+        "Persona 2: The busy returning lifter"
+      ],
+      "handle": "TO CONFIRM: line-art account handle (founder 2026-11-11: replaces @gymbro.skits)",
+      "status": "setup",
+      "format": "Narrated line-art gym mindset videos: manifesto, paradox essay, 'imagine a man' parable, named concept (02-research/formats/line-art-manifesto.md, paradox-essay-animation.md, imagine-a-man-parable.md, named-concept-diagram.md). AI narrator (founder 2026-11-11). 2 videos a day.",
+      "character": "TO CONFIRM: two original recurring 3D gym bros. Not the lockin skeletons, Bob or Zack D. Films style.",
+      "voice": "Calm, intense second-person narration (AI narrator, founder 2026-11-11). Our own scripts; never other creators' audio. No swearing, no physique promises.",
+      "visual_template": "TO CONFIRM: 1080x1920 3D video, 30 to 60 s (Higgsfield). Phase-1 fallback: 3D still slideshows.",
+      "disclosure": "TO CONFIRM: bio \"by @earndapp\". Any EARND beat says it's ours.",
+      "bio": null,
+      "note": "Merged 2026-11-04 from session 'Replicate X post' (branch claude/zen-babbage-c72m2o). Founder confirmed keeping this account on 2026-11-04; handle and fields marked TO CONFIRM still need confirming once created. Instagram twin of the same brand (founder: 4 IG accounts). | 2026-11-11: founder chose a line-art account instead of 3D skits; launching weekend 14-15 Nov."
+    },
+    {
+      "type": "theme",
+      "platforms": [
+        "tiktok",
+        "instagram"
+      ],
+      "inactive_platforms": [],
+      "posting_tool_ids": {},
+      "required": [
+        "handle",
+        "platforms",
+        "voice",
+        "visual_template",
+        "cta.prelaunch",
+        "disclosure"
+      ],
+      "cta": {
+        "prelaunch": "TO CONFIRM: \"we're building EARND, the app that tracks every +2.5 kg. follow @earndapp for the launch.\"",
+        "launched": "TO CONFIRM at launch",
+        "destination_prelaunch": "follow @earndapp",
+        "destination_launched": "launch.download_url"
+      },
+      "personas": [
+        "Persona 1: The inconsistent tracker",
+        "Persona 2: The busy returning lifter"
+      ],
+      "handle": "TO CONFIRM: proposed @whatif.overload (free on 2026-11-04)",
+      "status": "setup",
+      "format": "F. What-if escalation (02-research/swipe/2026-11-04-3d-character-accounts.md).",
+      "character": "TO CONFIRM: one original recurring 3D guy (working name Dale), same outfit every post.",
+      "voice": "TO CONFIRM: deadpan, played straight. One rule repeated each step (+2.5 kg/week) until real objects turn absurd. Payoff is a joke, never a physique promise. No \"example\" tags on the escalation numbers (founder, 2026-11-04).",
+      "visual_template": "TO CONFIRM: 1080x1920 3D still slideshows first (bold white text, black stroke, week counter). Video only if a premise hits.",
+      "disclosure": "TO CONFIRM: bio \"by @earndapp\". The final slide says EARND is ours.",
+      "bio": null,
+      "note": "Merged 2026-11-04 from session 'Replicate X post' (branch claude/zen-babbage-c72m2o). Founder confirmed keeping this account on 2026-11-04; handle and fields marked TO CONFIRM still need confirming once created. Instagram twin of the same brand (founder: 4 IG accounts)."
+    }
+  ],
+  "planned_accounts": {
+    "_note": "Future theme pages. Inactive until confirmed. Add one only after a format shows repeatable results. Each needs its own hooks and visuals, adapted from scratch, not copies of other accounts' sets.",
+    "template": {
+      "handle": "TO CONFIRM",
+      "type": "theme",
+      "status": "planned",
+      "platforms": "TO CONFIRM",
+      "posting_tool_ids": {},
+      "required": [
+        "handle",
+        "platforms",
+        "voice",
+        "visual_template",
+        "cta.prelaunch",
+        "disclosure"
+      ],
+      "voice": "TO CONFIRM, from the matching persona's voice.",
+      "visual_template": "TO CONFIRM. Must be distinct from the brand and founder templates.",
+      "cta": {
+        "prelaunch": "TO CONFIRM. Must name EARND as our own product (e.g. \"we're building EARND. follow @earndapp for the launch.\").",
+        "launched": "TO CONFIRM at launch",
+        "destination_prelaunch": "follow @earndapp",
+        "destination_launched": "launch.download_url"
+      },
+      "disclosure": "Bio states the page is run by the EARND team (e.g. \"by @earndapp\"). Any EARND mention says it's ours.",
+      "bio": null,
+      "personas": "one persona per theme page"
+    }
   },
-  {
-   "type": "theme",
-   "platforms": [
-    "tiktok",
-    "instagram"
-   ],
-   "inactive_platforms": [],
-   "posting_tool_ids": {},
-   "required": [
-    "handle",
-    "platforms",
-    "voice",
-    "visual_template",
-    "cta.prelaunch",
-    "disclosure"
-   ],
-   "cta": {
-    "prelaunch": "TO CONFIRM: \"we're building EARND, the app that tracks every +2.5 kg. follow @earndapp for the launch.\"",
-    "launched": "TO CONFIRM at launch",
-    "destination_prelaunch": "follow @earndapp",
-    "destination_launched": "launch.download_url"
-   },
-   "personas": [
-    "Persona 1: The inconsistent tracker",
-    "Persona 2: The busy returning lifter"
-   ],
-   "handle": "TO CONFIRM: proposed @whatif.overload (free on 2026-11-04)",
-   "status": "setup",
-   "format": "F. What-if escalation (02-research/swipe/2026-11-04-3d-character-accounts.md).",
-   "character": "TO CONFIRM: one original recurring 3D guy (working name Dale), same outfit every post.",
-   "voice": "TO CONFIRM: deadpan, played straight. One rule repeated each step (+2.5 kg/week) until real objects turn absurd. Payoff is a joke, never a physique promise. No \"example\" tags on the escalation numbers (founder, 2026-11-04).",
-   "visual_template": "TO CONFIRM: 1080x1920 3D still slideshows first (bold white text, black stroke, week counter). Video only if a premise hits.",
-   "disclosure": "TO CONFIRM: bio \"by @earndapp\". The final slide says EARND is ours.",
-   "bio": null,
-   "note": "Merged 2026-11-04 from session 'Replicate X post' (branch claude/zen-babbage-c72m2o). Founder confirmed keeping this account on 2026-11-04; handle and fields marked TO CONFIRM still need confirming once created. Instagram twin of the same brand (founder: 4 IG accounts)."
-  }
- ],
- "planned_accounts": {
-  "_note": "Future theme pages. Inactive until confirmed. Add one only after a format shows repeatable results. Each needs its own hooks and visuals, adapted from scratch, not copies of other accounts' sets.",
-  "template": {
-   "handle": "TO CONFIRM",
-   "type": "theme",
-   "status": "planned",
-   "platforms": "TO CONFIRM",
-   "posting_tool_ids": {},
-   "required": [
-    "handle",
-    "platforms",
-    "voice",
-    "visual_template",
-    "cta.prelaunch",
-    "disclosure"
-   ],
-   "voice": "TO CONFIRM, from the matching persona's voice.",
-   "visual_template": "TO CONFIRM. Must be distinct from the brand and founder templates.",
-   "cta": {
-    "prelaunch": "TO CONFIRM. Must name EARND as our own product (e.g. \"we're building EARND. follow @earndapp for the launch.\").",
-    "launched": "TO CONFIRM at launch",
-    "destination_prelaunch": "follow @earndapp",
-    "destination_launched": "launch.download_url"
-   },
-   "disclosure": "Bio states the page is run by the EARND team (e.g. \"by @earndapp\"). Any EARND mention says it's ours.",
-   "bio": null,
-   "personas": "one persona per theme page"
-  }
- },
- "weekly_stats": "Sunday 08:35 London: scheduled task 'Weekly EARND stats pull (Sunday)' (trig_01JaYrXCmiMa7z7V4dAjzggE) scrapes @earndapp + @ezyxbt via Apify (cap $0.50), updates 07-results/performance.csv, drafts the weekly review for gate 4.",
- "weekly_trend_scan": "Monday 08:47 London: scheduled task 'Weekly EARND trend scan (Monday)' (trig_01FV2ZR4sTBmeUeZJowwL7om), one Apify run max (cap $0.50) + free web sources; output 02-research/trends/YYYY-MM-DD.md reused by daily runs Tue–Sun.",
- "distribution_plan": "03-ideas/distribution-plan-2026-11-04.md (merged 2026-11-04). TikTok 5: @earndapp, @ezyxbt, @earnie.lifts, @gymbro.skits, @whatif.overload. Instagram 4: @earndapp, @earnie.lifts, @gymbro.skits, @whatif.overload (same brand as TikTok; @ezyxbt TikTok only)."
+  "weekly_stats": "Sunday 08:35 London: scheduled task 'Weekly EARND stats pull (Sunday)' (trig_01JaYrXCmiMa7z7V4dAjzggE) scrapes @earndapp + @ezyxbt via Apify (cap $0.50), updates 07-results/performance.csv, drafts the weekly review for gate 4.",
+  "weekly_trend_scan": "Monday 08:47 London: scheduled task 'Weekly EARND trend scan (Monday)' (trig_01FV2ZR4sTBmeUeZJowwL7om), one Apify run max (cap $0.50) + free web sources; output 02-research/trends/YYYY-MM-DD.md reused by daily runs Tue–Sun.",
+  "distribution_plan": "03-ideas/distribution-plan-2026-11-04.md (merged 2026-11-04). TikTok 5: @earndapp, @ezyxbt, @earnie.lifts, @gymbro.skits, @whatif.overload. Instagram 4: @earndapp, @earnie.lifts, @gymbro.skits, @whatif.overload (same brand as TikTok; @ezyxbt TikTok only)."
 }
