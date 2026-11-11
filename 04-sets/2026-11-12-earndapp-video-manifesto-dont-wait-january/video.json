@@ -1,0 +1,20 @@
+{
+  "set_id": "2026-11-12-earndapp-video-manifesto-dont-wait-january",
+  "status": "draft 2026-11-11, awaiting gate 3",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "layout": "full",
+  "ai_images": true,
+  "ai_note": "AI voice (ElevenLabs via Higgsfield); visuals code-drawn: AI label ON",
+  "voice": "voice.mp3",
+  "renderer": ".claude/skills/slideshow-engine/scripts/anim_line.py",
+  "format": "line-art-manifesto (29 s)",
+  "new_format_test": "line-art manifesto, seasonal (founder link: @cluberich 'or we could go up')",
+  "out": "dont-wait-for-january.mp4",
+  "caption": "start tonight and you're 7 weeks in by january. we're building EARND so you know what to beat every session. EARND launches soon. Follow for the launch. #newyearnewme #gymtok #gymmotivation #beginnergym #startnow",
+  "sound": {
+    "mode": "trending",
+    "primary": "oryginalny dźwięk — oskr. (under the voice, 5–10%)",
+    "backup": "Les (Instrumental Slowed) — aurelia & dopuu (5–10%)"
+  }
+}

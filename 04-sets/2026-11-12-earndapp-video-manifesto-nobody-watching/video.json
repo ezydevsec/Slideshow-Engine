@@ -1,0 +1,20 @@
+{
+  "set_id": "2026-11-12-earndapp-video-manifesto-nobody-watching",
+  "status": "draft 2026-11-11, awaiting gate 3",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "layout": "full",
+  "ai_images": true,
+  "ai_note": "AI voice (ElevenLabs via Higgsfield); visuals code-drawn: AI label ON",
+  "voice": "voice.mp3",
+  "renderer": ".claude/skills/slideshow-engine/scripts/anim_line.py",
+  "format": "line-art-manifesto (31 s)",
+  "new_format_test": "line-art manifesto (founder links: @credora07, @ascendxlabs, @cluberich)",
+  "out": "nobody-is-watching.mp4",
+  "caption": "nobody at the gym is watching you. send this to someone scared to start 🤍 we're building EARND: one plan, every set written down. EARND launches soon. Follow for the launch. #gymanxiety #gymtok #gymmotivation #beginnergym #progressiveoverload",
+  "sound": {
+    "mode": "trending",
+    "primary": "Les (Instrumental Slowed) — aurelia & dopuu (under the voice, 5–10%)",
+    "backup": "FOCUS 3 (Ultra Slowed) — quietshadow (5–10%)"
+  }
+}
