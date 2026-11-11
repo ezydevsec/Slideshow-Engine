@@ -22,7 +22,7 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | # | Format | Source | Status |
 |---|---|---|---|
 | 1 | Exact-number card (sets per muscle) | trend scan 11-09 (bluebro.fit) | tested 11-10 |
-| 2 | Paradox one-liner ("the gym doesn't pay for knowing…") as photo + 2-line twist | founder link: @cryothum | to build |
+| 2 | Paradox one-liner as photo + 2-line twist | founder link: @cryothum | tested 11-11 |
 | 3 | "Imagine a man" as a 5-photo story ("imagine a guy who trains 6 days a week…") told in his voice | founder link: @nolledge | to build |
 | 4 | Who lets go last? as a photo slideshow (4 slides = 4 drop-outs, him last) | founder link: @focus.habits | to build |
 | 5 | A vs B in his voice: "my first year vs now: what actually changed" (programme, not physique) | founder link: @appforthegym | to build |
@@ -36,8 +36,8 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 3 | Earnie parable: "Imagine a guy who skips leg day…" narrated, Earnie as the guy | founder link: @nolledge | to build |
 | 4 | Earnie paradox story: "The strongest guy at my gym doesn't even like the gym" | founder link: @cryothum | to build |
 | 5 | Story: Earnie vs his gym rival (rival changes workout weekly, Earnie runs one plan) | founder link: @appforthegym (A vs B as a story) | to build |
-| 6 | Story: the week Earnie missed (moves the session instead of quitting) | story backlog 2026-11-10 | to build |
-| 7 | Ironic story slideshow: "progressive overload is a scam. a story by earnie" (skips it 6 weeks, nothing changes, then tracks one number) | trend scan 11-10 (ki.lilz 2.5M) | to build |
+| 6 | Story: the week Earnie missed (moves the session instead of quitting) | story backlog 2026-11-10 | narrated video 11-11 |
+| 7 | Ironic story slideshow: "progressive overload is a scam. a story by earnie" | trend scan 11-10 (ki.lilz 2.5M) | tested 11-11 |
 
 ## Tested
 | Date | Account | Format | Result (Sunday review) |
@@ -48,3 +48,6 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 11-10 | @earndapp | machine-taken swaps | |
 | 11-10 | @ezyxbt | exact-number card | |
 | 11-10 | @earnie.lifts | UK gym 7 s clip | killed by founder 11-10 (replace with January story) |
+| 11-11 | @earndapp | theme test day 1: Upper B white 18:30 vs Lower B black 21:00 (swap slots 11-12) | |
+| 11-11 | @ezyxbt | paradox photo pair ("most boring program") | |
+| 11-11 | @earnie.lifts | first-week story slideshow + ironic 'overload is a scam' story | |
