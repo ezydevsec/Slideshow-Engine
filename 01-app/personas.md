@@ -45,3 +45,27 @@ Wants a ready-made programme and needs training days to fit a changing schedule.
 - H2-02 "i'm back in the gym and need a simple plan to follow" *(brief pain 10)*
 - H2-03 "missed a workout. do i skip it or move everything?" *(brief pain 7)*
 - H2-04 "i need a workout plan that fits my shifts" *(brief pain 6)*
+
+---
+
+# Account personas: 5 accounts, 5 viewers (proposal 2026-11-11, awaiting founder approval)
+
+Founder (2026-11-11): "5 different accounts, 5 different personas, then take 4 to Instagram." Each account is written for **one viewer**, in its own voice and visual style (`02-research/formats/account-visual-styles.md`), and never repeats another account's post. All are provisional (assumptions to test against comments, follows and saves).
+
+| # | Account | Viewer (persona) | What they want | Voice | Style | Formats | Platforms |
+|---|---|---|---|---|---|---|---|
+| 1 | **@earndapp** | **The inconsistent tracker** (Persona 1): 18–35, trains 3–4×/week, logs in Notes or not at all | to know exactly what to beat next session | direct product voice, short, confident | graphite + lime brand, real app screens | edu slideshows (whole day on slide 2), data charts, app POV, A vs B with app screens | TikTok + IG |
+| 2 | **@ezyxbt** | **The copy-my-routine lifter**: 18–28, UK/US, follows real lifters and wants their exact plan ("steal my split") | a real person's exact programme and why | first person, lowercase, honest, build-in-public | real founder photos only | native tip slideshows, "from zero" series, exact-number cards, one-liners | TikTok only |
+| 3 | **@earnie.lifts** | **The busy, half-consistent gym-goer** (Persona 2): 18–30, misses weeks, comes back, loves relatable gym life | to feel seen, then a simple way back in | warm, funny storyteller, lowercase captions | **comic art** (panels, speech bubbles) | story slideshows, narrated comic story videos, anatomy "lesson" panels | TikTok + IG |
+| 4 | **Line-art account** (new, handle TBC) | **The self-improvement scroller**: 16–30, watches discipline and mindset content, scared to start or keep going at the gym | permission and a reason to start tonight | calm, intense second person (AI narrator) | **glow sketch** (gold line art on black) | manifestos, paradox essays, "imagine a man" parables, named concepts | TikTok + IG |
+| 5 | **@whatif.overload** (new) | **The numbers and optimisation nerd**: 16–30, gamer overlap, loves "what actually happens if…" debates | settle a training argument with numbers | deadpan, playful, game language (levels, XP) | **pixel art** | A vs B for N weeks, what-if escalations, "who lets go last" contests | TikTok + IG |
+
+## Rules
+- One persona per account; a set written for one never goes to another (standing rule).
+- Each account's CTA and disclosure: says EARND is ours, prelaunch CTA "follow @earndapp for the launch" (theme accounts) or the account's own CTA.
+- Instagram: the 4 non-founder accounts mirror their TikTok brand with Instagram-native posts (carousels stay carousels, videos as Reels, captions written for DM shares).
+
+## When to add a 6th or 7th account
+Only when a format is proven (above the account's median for a week) but doesn't fit any of the 5 personas. Candidates seen in the data:
+- **Beginner women's account** ("shy girl workout", first-day guides: julielawfit 16.6M, nesreen_010 27.7K saves). Huge audience; would need its own voice and visuals, and our no-physique-promise rule rules out glute-growth framing.
+- **UK gym-culture account** (PureGym-style humour and UK references) for the UK-first target, if Earnie's stories don't move the UK split.
