@@ -16,3 +16,11 @@ The original swears a lot ("f*** anyone who judges you…"). We keep the rhythm 
 - Rendered with `anim_formats.py` (glow line art) at 0 credits plus one voiceover.
 - Gym manifesto in our voice. The lines point to the method: one plan, the same exercises, write it down, beat it by one rep, show up on bad weeks. No physique promises, no swearing.
 - @earndapp: video slot. @ezyxbt: photo version ("the rules i train by", one rule per photo). @earnie.lifts: must be a story, so the gym-anxiety angle becomes "Earnie's first day: everyone was watching. Nobody was."
+
+## Second example (founder link 2026-11-11): @ascendxlabs "Seriously stop…"
+- **831K views, 176K likes, 40.1K saves (4.8%), 14.2K shares**, 57 s, posted 2026-11-07. Account: 8.7K followers from **5 videos**; its other posts got 3K–63K, so this one topic carried the whole account. Frames: `02-research/swipe/2026-11-11-ascendxlabs-stop-caring-frames.jpg`.
+- Same structure as @credora07: a sworn-at-you manifesto ("Stop giving a sh*t about what people think… someone laughing at your dreams? Let them… Stop asking for permission. Stop waiting for the perfect moment… become someone your old self wouldn't even recognise"). Glowing white figures with a light-bulb head, one scene per line (people laughing, a "JUN" calendar loop of the same year repeating, a mountain that's "TOO BIG", a clock for "PERFECT MOMENT?", a checklist for "OBSESSED", a target for "RUTHLESS FOCUS").
+- Sound: oryginalny dźwięk, oskr. (slowed piano/ambient).
+
+## The pattern across the founder's links
+5 of the last 6 links (@cryothum, @nolledge, @credora07, @lockd..in, @ascendxlabs) are the **same family**: white line art on black, one calm intense voice, 45–60 s, 1–5% saves. The two biggest manifestos (@credora07 1.0M, @ascendxlabs 831K) share **one topic: other people's judgement** ("stop caring what people think"). The gym version of that topic is gym anxiety ("everyone's watching me"), which is one of the biggest fears for beginners. So our first manifesto is: **"Nobody at the gym is watching you."**
