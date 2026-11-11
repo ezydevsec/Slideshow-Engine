@@ -21,6 +21,8 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 10 | Tier list of programme exercises | trend scan 11-09 (arrowfitnessapp, coachdjango 2.2M) | to build |
 | 11 | Calm-piano beginner explainer: "what to do on your first day of an upper/lower split" (narrated, Gymnopedie under) | trend scan 11-10 (@uub.irl 2.1M, nesreen 27.7K saves) | to build |
 
+| + | GTA 6 week: line-art paradox "You waited 13 years for a video game. You can wait 12 weeks to see your numbers move." | founder 11-12 (GTA 6 next week) | to build for release week |
+
 ## @ezyxbt (photo slideshows only)
 | # | Format | Source | Status |
 |---|---|---|---|
@@ -32,6 +34,8 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 6 | Who lets go last? as a photo slideshow (4 slides = 4 drop-outs, him last) | founder link: @focus.habits | to build |
 | 7 | A vs B in his voice: "my first year vs now: what actually changed" (programme, not physique) | founder link: @appforthegym | to build |
 | 8 | Exact-number series #2: "the exact rest i take between sets" / "the exact rep range i use" (scale if 11-10 sets-per-muscle performs) | trend scan 11-10 (bluebro 312K / 10.4K saves) | to build |
+
+| + | GTA 6 week one-liner: "13 years waiting for a game. people still won't give their bench 13 weeks." | founder 11-12 | to build for release week |
 
 ## @earnie.lifts (stories only, plus anatomy edu)
 | # | Format | Source | Status |
@@ -46,6 +50,9 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 8 | Story: Earnie vs his gym rival (rival changes workout weekly, Earnie runs one plan) | founder link: @appforthegym (A vs B as a story) | to build |
 | 9 | Story: the week Earnie missed (moves the session instead of quitting) | story backlog 2026-11-10 | narrated video 11-11 |
 | 10 | Ironic story slideshow: "progressive overload is a scam. a story by earnie" | trend scan 11-10 (ki.lilz 2.5M) | tested 11-11 |
+
+| + | GTA 6 week story slideshow: "the week GTA 6 came out" (empty gym, Earnie trains 4×, plays every night after) | founder 11-12 | to build for release week |
+| + | Two-panel dissolve meme ("Are you free friday?" / "For lower A."), sample built; needs founder OK as a non-story exception | founder screenshot 11-12: @gamblersdaily 208K shares | sample ready |
 
 ## Tested
 | Date | Account | Format | Result (Sunday review) |
