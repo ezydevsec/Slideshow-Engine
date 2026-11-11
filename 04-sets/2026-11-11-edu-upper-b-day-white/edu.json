@@ -1,0 +1,108 @@
+{
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "light",
+  "theme_test": "white (pair: 2026-11-11-edu-lower-b-day-black)",
+  "new_format_test": "theme test white vs black, day 1 (founder 2026-11-10)",
+  "angle": "winner variation: the whole Upper B day on slide 2",
+  "winner_variation": "the upper day behind EARND (10–12 saves)",
+  "canvas": "1080x1350",
+  "caption": "the upper B day behind EARND. save it for your next session",
+  "hashtags": [
+    "#upperbody",
+    "#upperlower",
+    "#gymroutine",
+    "#gymtips",
+    "#workoutplan"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ink on Parchment — Marla Swick",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "UPPER B.",
+          false
+        ],
+        [
+          "6 EXERCISES.",
+          false
+        ],
+        [
+          "2 SETS EACH.",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "shoulder-press"
+    },
+    {
+      "type": "cards",
+      "title": "THE WHOLE UPPER B DAY",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Shoulder Press",
+          "shoulder-press"
+        ],
+        [
+          "Pullover",
+          "pullover"
+        ],
+        [
+          "Shrug",
+          "shrug"
+        ],
+        [
+          "Pec Deck",
+          "pec-deck"
+        ],
+        [
+          "Bayesian Curl",
+          "bayesian-curl"
+        ],
+        [
+          "Triceps Extension",
+          "overhead-triceps-extension"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "HOW IT GOES UP",
+      "title": "BEAT LAST SESSION BY ONE REP.",
+      "body": "Own 8 clean reps, then add weight.",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY SET",
+      "body": "Last session and today's target.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR UPPER DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ],
+  "set_id": "2026-11-11-edu-upper-b-day-white",
+  "status": "draft 2026-11-11, awaiting gate 3"
+}

@@ -1,0 +1,87 @@
+{
+  "format": "edu-template-slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "theme": "dark",
+  "angle": "Earnie anatomy edu, shoulders (arms, back, legs done)",
+  "winner_variation": "4 exercises for complete arms (552 views, 8 saves)",
+  "canvas": "1080x1350",
+  "caption": "2 exercises. your whole shoulders. save it for upper day",
+  "hashtags": [
+    "#shoulderworkout",
+    "#shoulders",
+    "#gymtips",
+    "#gymtok",
+    "#lateralraise"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ink on Parchment — Marla Swick",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "2 EXERCISES FOR",
+          false
+        ],
+        [
+          "COMPLETE",
+          false
+        ],
+        [
+          "SHOULDERS",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "lateral-raise"
+    },
+    {
+      "type": "cards",
+      "title": "THE WHOLE SHOULDER DAY",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Shoulder Press",
+          "shoulder-press"
+        ],
+        [
+          "Lateral Raise",
+          "lateral-raise"
+        ]
+      ]
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "SHOULDER PRESS",
+      "muscle": "Front delts · triceps",
+      "sets": "2 × 4–8",
+      "cue": "Back on the pad. Press up, don't shrug.",
+      "pose": "shoulder-press"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2",
+      "title": "LATERAL RAISE",
+      "muscle": "Side delts: width",
+      "sets": "2 × 4–8",
+      "cue": "Lead with the elbows. Stop at shoulder height.",
+      "pose": "lateral-raise"
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR UPPER DAY.",
+      "body": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ],
+  "set_id": "2026-11-11-earnie-complete-shoulders",
+  "status": "draft 2026-11-11, awaiting gate 3"
+}

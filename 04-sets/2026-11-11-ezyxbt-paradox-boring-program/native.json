@@ -1,0 +1,47 @@
+{
+  "format": "paradox-photo-pair (2 photos: paradox line, then the twist)",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "new_format_test": "paradox one-liner with a 2-line twist (founder link: @cryothum 1.5M)",
+  "canvas": "1080x1920",
+  "caption": "the most boring program in the gym #gymtok #progressiveoverload #upperlower #gymmotivation #consistency",
+  "sound": {
+    "mode": "trending",
+    "primary": "son original — lyrics_song",
+    "backup": "original sound — s"
+  },
+  "ai_images": false,
+  "ai_note": "real founder photos, nothing generated",
+  "slides": [
+    {
+      "type": "oneliner",
+      "photo": {
+        "file": "b16-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "text": "i run the most boring program in my gym.",
+      "color": "white",
+      "dim": 0.25,
+      "y": 0.2
+    },
+    {
+      "type": "oneliner",
+      "photo": {
+        "file": "b11-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "text": "same 4 days. same exercises. the only thing that changes is the number i have to beat.",
+      "color": "white",
+      "dim": 0.3,
+      "y": 0.2
+    }
+  ],
+  "set_id": "2026-11-11-ezyxbt-paradox-boring-program",
+  "status": "draft 2026-11-11, awaiting gate 3"
+}

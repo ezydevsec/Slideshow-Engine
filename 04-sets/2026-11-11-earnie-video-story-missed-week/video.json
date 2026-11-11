@@ -1,0 +1,131 @@
+{
+  "set_id": "2026-11-11-earnie-video-story-missed-week",
+  "status": "draft 2026-11-11, awaiting gate 3",
+  "format": "narrated-story-cartoon (02-research/formats/narrated-story-cartoon.md; Earnie's proven format, 672 views)",
+  "new_format_test": false,
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "caption": "missed monday? don't skip the week 😭 #gymtok #gymmotivation #consistency #relatable #gymhumor",
+  "ai_images": true,
+  "ai_note": "AI-generated stills, voice (ElevenLabs v4 'Bob') and music via Higgsfield: TikTok AI label ON",
+  "out": "earnie-story-missed-week.mp4",
+  "voice": "voice.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.15,
+  "layout": "full",
+  "segments": [
+    {
+      "src": "p-e0.mp4",
+      "start": 0,
+      "end": 5.1,
+      "hold": true
+    },
+    {
+      "src": "p-e1.mp4",
+      "start": 5.1,
+      "end": 9.6,
+      "hold": true
+    },
+    {
+      "src": "p-e2.mp4",
+      "start": 9.6,
+      "end": 14.3,
+      "hold": true
+    },
+    {
+      "src": "p-e3.mp4",
+      "start": 14.3,
+      "end": 19.3,
+      "hold": true
+    },
+    {
+      "src": "p-e4.mp4",
+      "start": 19.3,
+      "end": 24.2,
+      "hold": true
+    },
+    {
+      "src": "p-e5.mp4",
+      "start": 24.2,
+      "end": 26.9,
+      "hold": true
+    },
+    {
+      "src": "p-e6.mp4",
+      "start": 26.9,
+      "end": 32.4,
+      "hold": true
+    },
+    {
+      "src": "endcard.png",
+      "start": 32.4,
+      "end": 34.9
+    }
+  ],
+  "captions": {
+    "on": true,
+    "y": 1500,
+    "size": 60,
+    "words_per": 3,
+    "stroke": 8,
+    "until": 32.4,
+    "hl": "#FF4D4D",
+    "hl_words": [
+      "earnie",
+      "sofa",
+      "ruined",
+      "plan",
+      "moves",
+      "wednesday",
+      "done",
+      "beat"
+    ],
+    "fix": {
+      "ERNIE": "EARNIE",
+      "ERNIE'S": "EARNIE'S",
+      "EARNED": "EARND"
+    }
+  },
+  "sfx": [
+    {
+      "type": "pop",
+      "t": 5.1,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 9.6,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 14.3,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 19.3,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 24.2,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 26.9,
+      "vol": 0.22
+    },
+    {
+      "type": "whoosh",
+      "t": 32.3,
+      "vol": 0.3
+    }
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — JBA (under the voice, 5–10%)",
+    "backup": "🅒 Ink on Parchment — Marla Swick (5–10%)"
+  }
+}

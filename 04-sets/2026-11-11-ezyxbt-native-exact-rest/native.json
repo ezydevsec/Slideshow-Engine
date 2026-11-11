@@ -1,0 +1,93 @@
+{
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "exact-number series #2 (bluebro 'exact number' 312K / 10.4K saves; his sets-per-muscle post 11-10)",
+  "canvas": "1080x1920",
+  "caption": "the exact rest i take between sets (and why it's not 60 seconds) #gymtips #hypertrophy #restbetweensets #upperlower #gymtok",
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ink on Parchment — Marla Swick",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b11-05.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "the exact rest i take between sets",
+      "sub": "(it's not 60 seconds)",
+      "hook_y": 0.2
+    },
+    {
+      "type": "list",
+      "title": "the answer",
+      "photo": {
+        "file": "b12-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [
+        "2–3 minutes",
+        "between every working set"
+      ]
+    },
+    {
+      "type": "list",
+      "title": "why",
+      "photo": {
+        "file": "b12-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "rush the rest and set 2 loses reps. i only do 2 sets, so both have to count."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-06.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "while i rest, i check what i did last time on the next set.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b7-15.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for your next session",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ],
+  "set_id": "2026-11-11-ezyxbt-native-exact-rest",
+  "status": "draft 2026-11-11, awaiting gate 3"
+}

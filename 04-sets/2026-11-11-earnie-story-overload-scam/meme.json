@@ -1,0 +1,45 @@
+{
+  "format": "earnie-story-slideshow (ironic: 'a story by earnie')",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "new_format_test": "ironic story slideshow (trend 2026-11-10: ki.lilz 'progressive overload seems like a scam' 2.5M)",
+  "angle": "Earnie thinks progressive overload is a scam; 6 weeks of the same weights; then he tracks one number",
+  "canvas": "1080x1350",
+  "caption": "progressive overload is a scam. a story 😭 #progressiveoverload #gymhumor #gymtok #relatable #gymmemes",
+  "sound": {
+    "mode": "trending",
+    "primary": "sonido original — musiktpt",
+    "backup": "original sound — JBA"
+  },
+  "ai_images": true,
+  "ai_note": "Earnie scenes generated with Higgsfield from the mascot reference: TikTok AI label ON",
+  "slides": [
+    {
+      "caption": "progressive overload is a scam. a story by earnie",
+      "image": "01-app/brand/memes/shrug.jpg"
+    },
+    {
+      "caption": "week 1: same weights as always",
+      "image": "01-app/brand/memes/struggling-bench.jpg"
+    },
+    {
+      "caption": "week 4: same weights. still feels heavy.",
+      "image": "01-app/brand/memes/towel-bench.jpg"
+    },
+    {
+      "caption": "week 6: \"why am i not stronger??\"",
+      "image": "01-app/brand/memes/confused-rack.jpg"
+    },
+    {
+      "caption": "week 7: writes every set down. tries to beat one number.",
+      "image": "01-app/brand/memes/texting.jpg"
+    },
+    {
+      "caption": "week 12: ok it wasn't a scam",
+      "image": "01-app/brand/memes/mirror-flex.jpg",
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
+  ],
+  "set_id": "2026-11-11-earnie-story-overload-scam",
+  "status": "draft 2026-11-11, awaiting gate 3"
+}
