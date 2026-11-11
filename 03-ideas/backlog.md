@@ -159,3 +159,8 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @ezyxbt | one-liner | "nobody remembers their first day at the gym. everyone remembers the day they stopped guessing." | sound: son original (lyrics_song)
 - [ ] @earnie.lifts | NEW FORMAT TEST: ironic story slideshow | "progressive overload is a scam. a story by earnie" | sound: sonido original (musiktpt)
 - [ ] @earnie.lifts | narrated story video | "Earnie's first day at the gym" (video version of the first-week slideshow if it performs) | sound under VO: original sound (JBA)
+
+## Daily scan 2026-11-11 (trend file: 02-research/trends/2026-11-11.md)
+- [ ] @earndapp | line-art manifesto (built, awaiting approval) | "Nobody at the gym is watching you" | sound under VO: Les (Instrumental Slowed)
+- [ ] @ezyxbt | exact-number #3 (if 11-10/11-11 perform) | "the exact rep range i use: 4–8. here's why" | sound: 🅒 Ink on Parchment
+- [ ] @earnie.lifts | narrated story (queue #3) | "Earnie's first day: everyone was watching. nobody was." (tyrgojym 811K on the same topic) | sound under VO: original sound (JBA)
