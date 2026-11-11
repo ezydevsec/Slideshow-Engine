@@ -14,10 +14,11 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 3 | A vs B week-counter sim | founder link: @appforthegym 3.6M | packed, posts 11-14 |
 | 4 | "Imagine a man" line-art parable | founder link: @nolledge (4–5% saves) | packed, posts 11-15 |
 | 5 | Line-art gym manifesto, narrated: "nobody at the gym is watching you…" one icon per line | founder link 11-11: @credora07 1.0M / 55.6K saves | to build (next video slot after 11-15) |
-| 6 | A vs B in 3D (two mannequins under spotlights, closer to @appforthegym) | founder link: @appforthegym | to build |
-| 7 | Theme test: white vs black edu slideshows, at least one of each per day | founder 2026-11-10 | running 11-11 → 11-15, decided at the 15 Nov review (founder leans black) |
-| 8 | Tier list of programme exercises | trend scan 11-09 (arrowfitnessapp, coachdjango 2.2M) | to build |
-| 9 | Calm-piano beginner explainer: "what to do on your first day of an upper/lower split" (narrated, Gymnopedie under) | trend scan 11-10 (@uub.irl 2.1M, nesreen 27.7K saves) | to build |
+| 6 | Named-concept diagram: "THE NOVICE CLIFF" ("your first year in the gym is easy. that's the problem."), one evolving graph, concept stamp | founder link 11-11: @lockd..in 1.2M / 9.8K shares | to build |
+| 7 | A vs B in 3D (two mannequins under spotlights, closer to @appforthegym) | founder link: @appforthegym | to build |
+| 8 | Theme test: white vs black edu slideshows, at least one of each per day | founder 2026-11-10 | running 11-11 → 11-15, decided at the 15 Nov review (founder leans black) |
+| 9 | Tier list of programme exercises | trend scan 11-09 (arrowfitnessapp, coachdjango 2.2M) | to build |
+| 10 | Calm-piano beginner explainer: "what to do on your first day of an upper/lower split" (narrated, Gymnopedie under) | trend scan 11-10 (@uub.irl 2.1M, nesreen 27.7K saves) | to build |
 
 ## @ezyxbt (photo slideshows only)
 | # | Format | Source | Status |
@@ -36,11 +37,12 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 1 | Story slideshow ("Earnie's first week at the gym") | founder rule 2026-11-10 | built, awaiting approval |
 | 2 | Narrated story video ("Earnie's January") | proven (squat-rack story 672) + founder rule | built, awaiting approval |
 | 3 | Gym-anxiety story: "Earnie's first day: everyone was watching. Nobody was." (narrated) | founder link 11-11: @credora07 'judgement' angle | to build |
-| 4 | Earnie parable: "Imagine a guy who skips leg day…" narrated, Earnie as the guy | founder link: @nolledge | to build |
-| 5 | Earnie paradox story: "The strongest guy at my gym doesn't even like the gym" | founder link: @cryothum | to build |
-| 6 | Story: Earnie vs his gym rival (rival changes workout weekly, Earnie runs one plan) | founder link: @appforthegym (A vs B as a story) | to build |
-| 7 | Story: the week Earnie missed (moves the session instead of quitting) | story backlog 2026-11-10 | narrated video 11-11 |
-| 8 | Ironic story slideshow: "progressive overload is a scam. a story by earnie" | trend scan 11-10 (ki.lilz 2.5M) | tested 11-11 |
+| 4 | Story: "the rubber band": Earnie skips Friday drinks for Lower A, the group pulls, he finds a way to keep both (narrated) | founder link 11-11: @lockd..in | to build |
+| 5 | Earnie parable: "Imagine a guy who skips leg day…" narrated, Earnie as the guy | founder link: @nolledge | to build |
+| 6 | Earnie paradox story: "The strongest guy at my gym doesn't even like the gym" | founder link: @cryothum | to build |
+| 7 | Story: Earnie vs his gym rival (rival changes workout weekly, Earnie runs one plan) | founder link: @appforthegym (A vs B as a story) | to build |
+| 8 | Story: the week Earnie missed (moves the session instead of quitting) | story backlog 2026-11-10 | narrated video 11-11 |
+| 9 | Ironic story slideshow: "progressive overload is a scam. a story by earnie" | trend scan 11-10 (ki.lilz 2.5M) | tested 11-11 |
 
 ## Tested
 | Date | Account | Format | Result (Sunday review) |
