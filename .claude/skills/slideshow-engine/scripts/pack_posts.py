@@ -3,7 +3,7 @@ import json, os, glob, zipfile, sys
 plan = json.load(open(sys.argv[1])); rows = []
 SB = "search the name in TikTok's Add sound; pick the version by the listed artist."
 for p in plan:
-    d = f"04-sets/{p['set']}"; sf = next(f for f in ("edu.json", "native.json", "meme.json", "video.json") if os.path.exists(f"{d}/{f}"))
+    d = f"04-sets/{p['set']}"; sf = next(f for f in ("edu.json", "native.json", "meme.json", "comic.json", "video.json") if os.path.exists(f"{d}/{f}"))
     sp = json.load(open(f"{d}/{sf}")); sp["status"] = f"approved (founder); post on {p['post_on']}"
     json.dump(sp, open(f"{d}/{sf}", "w"), indent=2, ensure_ascii=False)
     acct = sp["account"]; plat = "(TikTok)" if acct == "@ezyxbt" else "(TikTok, + Instagram once the IG account exists)"
