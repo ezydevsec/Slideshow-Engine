@@ -164,3 +164,8 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @earndapp | line-art manifesto (built, awaiting approval) | "Nobody at the gym is watching you" | sound under VO: Les (Instrumental Slowed)
 - [ ] @ezyxbt | exact-number #3 (if 11-10/11-11 perform) | "the exact rep range i use: 4–8. here's why" | sound: 🅒 Ink on Parchment
 - [ ] @earnie.lifts | narrated story (queue #3) | "Earnie's first day: everyone was watching. nobody was." (tyrgojym 811K on the same topic) | sound under VO: original sound (JBA)
+
+## Daily scan 2026-11-12 (trend file: 02-research/trends/2026-11-12.md)
+- [ ] @earndapp | 3D muscle demo #2 (workitapp 794K / 25.4K saves) | "3 exercises. your whole chest." | sound under VO: 🅒 Ink on Parchment
+- [ ] @ezyxbt | one-liner | "the weight doesn't care how you feel today. it just wants the same reps as last time." | sound: son original (FIGHT.MMA11)
+- [ ] @earnie.lifts | first comic-style story (queue #3) | "Earnie's first day: everyone was watching. nobody was." | sound: original sound (JBA)
