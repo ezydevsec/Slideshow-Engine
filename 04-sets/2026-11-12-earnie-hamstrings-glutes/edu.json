@@ -1,0 +1,90 @@
+{
+  "format": "edu-template-slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "theme": "dark",
+  "angle": "Earnie anatomy edu: back of the legs",
+  "canvas": "1080x1350",
+  "caption": "3 exercises. hamstrings and glutes. save it for leg day",
+  "hashtags": [
+    "#legday",
+    "#hamstrings",
+    "#glutes",
+    "#gymtips",
+    "#gymtok"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ink on Parchment — Marla Swick",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "3 EXERCISES FOR",
+          false
+        ],
+        [
+          "HAMSTRINGS +",
+          false
+        ],
+        [
+          "GLUTES",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "romanian-deadlift"
+    },
+    {
+      "type": "cards",
+      "title": "THE WHOLE BACK OF YOUR LEGS",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Leg Curl",
+          "leg-curl"
+        ],
+        [
+          "RDL",
+          "romanian-deadlift"
+        ],
+        [
+          "Hip Thrust",
+          "hip-thrust"
+        ]
+      ]
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "LEG CURL",
+      "muscle": "Hamstrings",
+      "sets": "2 × 4–8",
+      "cue": "Hips pinned. Squeeze, then lower slowly.",
+      "pose": "leg-curl"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2 + #3",
+      "title": "RDL + HIP THRUST",
+      "muscle": "Hamstrings · glutes",
+      "sets": "2 × 4–8",
+      "cue": "Hips back on the RDL. Pause at the top of the thrust.",
+      "pose": "romanian-deadlift"
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR LEG DAY.",
+      "body": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ],
+  "set_id": "2026-11-12-earnie-hamstrings-glutes",
+  "status": "draft 2026-11-12, awaiting gate 3"
+}

@@ -1,0 +1,41 @@
+{
+  "set_id": "2026-11-12-earnie-comic-everyone-watching",
+  "status": "draft 2026-11-12, awaiting gate 3",
+  "format": "earnie-comic-story-slideshow (comic art; 02-research/formats/account-visual-styles.md)",
+  "new_format_test": "comic-style story slideshow (first in Earnie's new look)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "angle": "gym anxiety: everyone's watching → nobody is (tyrgojym 811K; founder's judgement-topic links)",
+  "caption": "first day at the gym, be honest 😭 send this to someone scared to start #gymanxiety #gymtok #beginnergym #relatable #firstday",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — JBA",
+    "backup": "sonido original — musiktpt"
+  },
+  "ai_images": true,
+  "ai_note": "comic panels generated with Higgsfield from the mascot reference: TikTok AI label ON",
+  "slides": [
+    {
+      "image": "p1.png",
+      "caption": "earnie's first day at the gym. he was sure everyone was watching."
+    },
+    {
+      "image": "p2.png",
+      "caption": "every rep felt like a live performance."
+    },
+    {
+      "image": "p3.png",
+      "caption": "so he finally looked up..."
+    },
+    {
+      "image": "p4.png",
+      "caption": "nobody was watching. everyone was on their own set."
+    },
+    {
+      "image": "p5.png",
+      "caption": "the only one watching earnie's numbers was earnie.",
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
+  ]
+}

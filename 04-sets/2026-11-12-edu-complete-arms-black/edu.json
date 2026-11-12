@@ -1,0 +1,99 @@
+{
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "theme_test": "black (pair: 2026-11-12-edu-complete-chest-white); slots swapped vs 11-11",
+  "new_format_test": "theme test white vs black, day 2",
+  "angle": "the whole arm day on slide 2",
+  "canvas": "1080x1350",
+  "caption": "4 exercises. your whole arms. save it for upper day",
+  "hashtags": [
+    "#armday",
+    "#biceps",
+    "#triceps",
+    "#gymtips",
+    "#upperlower"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ink on Parchment — Marla Swick",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "4 EXERCISES.",
+          false
+        ],
+        [
+          "YOUR WHOLE",
+          false
+        ],
+        [
+          "ARMS.",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "preacher-curl"
+    },
+    {
+      "type": "cards",
+      "title": "THE WHOLE ARM DAY",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Preacher Curl",
+          "preacher-curl"
+        ],
+        [
+          "Bayesian Curl",
+          "bayesian-curl"
+        ],
+        [
+          "Pushdown",
+          "triceps-pushdown"
+        ],
+        [
+          "Overhead Extension",
+          "overhead-triceps-extension"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "HOW IT GOES UP",
+      "title": "BEAT LAST SESSION BY ONE REP.",
+      "body": "Own 8 clean reps, then add weight.",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY SET",
+      "body": "Last session and today's target.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR UPPER DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ],
+  "set_id": "2026-11-12-edu-complete-arms-black",
+  "status": "draft 2026-11-12, awaiting gate 3"
+}

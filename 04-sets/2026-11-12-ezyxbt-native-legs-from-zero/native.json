@@ -1,0 +1,95 @@
+{
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "'from zero' series #3 (chest 11-09: 680 / 7 saves, his best save count)",
+  "canvas": "1080x1920",
+  "caption": "how i'd train legs if i started the gym from zero #legday #legworkout #gymtips #beginnergym #upperlower",
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ink on Parchment — Marla Swick",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b5-16.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "how i'd train legs if i started from zero",
+      "sub": "(4 exercises. that's it.)",
+      "hook_y": 0.2
+    },
+    {
+      "type": "list",
+      "title": "the whole plan · 2 × 4–8",
+      "photo": {
+        "file": "b12-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [
+        "hack squat",
+        "leg curl",
+        "leg extension",
+        "rdl"
+      ]
+    },
+    {
+      "type": "list",
+      "title": "how it goes up",
+      "photo": {
+        "file": "b9-08.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "same weight, add a rep. once i own 8 clean reps, the weight goes up."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b17-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "i check last session before every set, so i know the exact rep to beat.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b6-08.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for leg day",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ],
+  "set_id": "2026-11-12-ezyxbt-native-legs-from-zero",
+  "status": "draft 2026-11-12, awaiting gate 3"
+}

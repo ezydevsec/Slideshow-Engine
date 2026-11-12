@@ -1,0 +1,91 @@
+{
+  "format": "native-tip-slideshow (photo manifesto: one rule per photo)",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "new_format_test": "photo manifesto (founder links: @credora07, @cluberich)",
+  "canvas": "1080x1920",
+  "caption": "the only 3 rules i train by #gymtips #upperlower #progressiveoverload #gymtok #consistency",
+  "sound": {
+    "mode": "trending",
+    "primary": "son original — lyrics_song",
+    "backup": "🅒 Ink on Parchment — Marla Swick"
+  },
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b14-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "the only 3 rules i train by",
+      "sub": "(everything else is noise)",
+      "hook_y": 0.2
+    },
+    {
+      "type": "list",
+      "title": "rule 1",
+      "photo": {
+        "file": "b9-01.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "lines": [],
+      "text": "same 4 days. same exercises. i don't change the plan when i get bored."
+    },
+    {
+      "type": "list",
+      "title": "rule 2",
+      "photo": {
+        "file": "b12-06.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "lines": [],
+      "text": "2 hard sets. 4–8 reps. if it's easy, it doesn't count."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b13-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "rule 3",
+      "text": "beat last time by one rep. i check the number before every set.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b16-01.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for your next session",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ],
+  "set_id": "2026-11-12-ezyxbt-rules-i-train-by",
+  "status": "draft 2026-11-12, awaiting gate 3"
+}

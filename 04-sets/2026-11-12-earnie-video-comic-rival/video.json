@@ -1,0 +1,123 @@
+{
+  "set_id": "2026-11-12-earnie-video-comic-rival",
+  "status": "draft 2026-11-12, awaiting gate 3",
+  "format": "narrated comic story video (Earnie's new comic look; proven narrated-story format)",
+  "new_format_test": "comic-style narrated story",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "caption": "every gym has a blake 😭 tag yours #gymtok #gymhumor #progressiveoverload #relatable #gymrival",
+  "ai_images": true,
+  "ai_note": "AI-generated comic panels, voice (ElevenLabs v4 'Bob') and music via Higgsfield: TikTok AI label ON",
+  "out": "earnie-comic-rival.mp4",
+  "voice": "voice.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.15,
+  "layout": "full",
+  "segments": [
+    {
+      "src": "p-e0.mp4",
+      "start": 0,
+      "end": 4.4,
+      "hold": true
+    },
+    {
+      "src": "p-e1.mp4",
+      "start": 4.4,
+      "end": 10.2,
+      "hold": true
+    },
+    {
+      "src": "p-e2.mp4",
+      "start": 10.2,
+      "end": 15.5,
+      "hold": true
+    },
+    {
+      "src": "p-e3.mp4",
+      "start": 15.5,
+      "end": 19.1,
+      "hold": true
+    },
+    {
+      "src": "p-e4.mp4",
+      "start": 19.1,
+      "end": 28.2,
+      "hold": true
+    },
+    {
+      "src": "p-e5.mp4",
+      "start": 28.2,
+      "end": 35.2,
+      "hold": true
+    },
+    {
+      "src": "endcard.png",
+      "start": 35.2,
+      "end": 37.7
+    }
+  ],
+  "captions": {
+    "on": true,
+    "y": 1500,
+    "size": 60,
+    "words_per": 3,
+    "stroke": 8,
+    "until": 35.2,
+    "hl": "#FF4D4D",
+    "hl_words": [
+      "blake",
+      "earnie",
+      "cooler",
+      "exactly",
+      "beat",
+      "rep"
+    ],
+    "fix": {
+      "ERNIE": "EARNIE",
+      "ERNIE'S": "EARNIE'S",
+      "EARNED": "EARND"
+    }
+  },
+  "sfx": [
+    {
+      "type": "pop",
+      "t": 4.4,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 10.2,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 15.5,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 19.1,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 28.2,
+      "vol": 0.22
+    },
+    {
+      "type": "thud",
+      "t": 30.3,
+      "vol": 0.35
+    },
+    {
+      "type": "whoosh",
+      "t": 35.1,
+      "vol": 0.3
+    }
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — JBA (under the voice, 5–10%)",
+    "backup": "🅒 Ink on Parchment — Marla Swick (5–10%)"
+  }
+}
