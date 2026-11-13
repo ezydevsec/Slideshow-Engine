@@ -1,0 +1,99 @@
+{
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "light",
+  "theme_test": "white (pair: 2026-11-13-edu-complete-back-black)",
+  "new_format_test": "theme test white vs black, day 3",
+  "angle": "the whole leg day on slide 2",
+  "canvas": "1080x1350",
+  "caption": "4 exercises. your whole legs. save it for leg day",
+  "hashtags": [
+    "#legday",
+    "#legworkout",
+    "#gymtips",
+    "#upperlower",
+    "#gymtok"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ink on Parchment — Marla Swick",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "4 EXERCISES.",
+          false
+        ],
+        [
+          "YOUR WHOLE",
+          false
+        ],
+        [
+          "LEGS.",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "hack-squat"
+    },
+    {
+      "type": "cards",
+      "title": "THE WHOLE LEG DAY",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Hack Squat",
+          "hack-squat"
+        ],
+        [
+          "Leg Curl",
+          "leg-curl"
+        ],
+        [
+          "Leg Extension",
+          "leg-extension"
+        ],
+        [
+          "Calf Press",
+          "calf-press"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "HOW IT GOES UP",
+      "title": "BEAT LAST SESSION BY ONE REP.",
+      "body": "Own 8 clean reps, then add weight.",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY SET",
+      "body": "Last session and today's target.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR LEG DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ],
+  "set_id": "2026-11-13-edu-complete-legs-white",
+  "status": "draft 2026-11-13, awaiting gate 3"
+}

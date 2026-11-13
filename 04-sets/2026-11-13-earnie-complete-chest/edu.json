@@ -1,0 +1,86 @@
+{
+  "format": "edu-template-slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "theme": "dark",
+  "angle": "Earnie anatomy edu: chest",
+  "canvas": "1080x1350",
+  "caption": "2 exercises. your whole chest. save it for upper day",
+  "hashtags": [
+    "#chestday",
+    "#chestworkout",
+    "#gymtips",
+    "#gymtok",
+    "#pecdeck"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ink on Parchment — Marla Swick",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "2 EXERCISES FOR",
+          false
+        ],
+        [
+          "COMPLETE",
+          false
+        ],
+        [
+          "CHEST",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "pec-deck"
+    },
+    {
+      "type": "cards",
+      "title": "THE WHOLE CHEST DAY",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Chest Press",
+          "chest-press"
+        ],
+        [
+          "Pec Deck",
+          "pec-deck"
+        ]
+      ]
+    },
+    {
+      "type": "exercise",
+      "kicker": "#1",
+      "title": "CHEST PRESS",
+      "muscle": "Chest · front delts · triceps",
+      "sets": "2 × 4–8",
+      "cue": "Shoulder blades back. Press, don't shrug.",
+      "pose": "chest-press"
+    },
+    {
+      "type": "exercise",
+      "kicker": "#2",
+      "title": "PEC DECK",
+      "muscle": "Chest: the stretch",
+      "sets": "2 × 4–8",
+      "cue": "Slow on the way back. Feel the stretch.",
+      "pose": "pec-deck"
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR UPPER DAY.",
+      "body": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ],
+  "set_id": "2026-11-13-earnie-complete-chest",
+  "status": "draft 2026-11-13, awaiting gate 3"
+}

@@ -1,0 +1,91 @@
+{
+  "format": "native-tip-slideshow (photo parable: 'imagine a guy…')",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "new_format_test": "'imagine a man' parable as a photo story (founder link: @nolledge)",
+  "canvas": "1080x1920",
+  "caption": "imagine training 6 days a week and still not knowing if you're getting stronger #gymtips #progressiveoverload #upperlower #gymtok #consistency",
+  "sound": {
+    "mode": "trending",
+    "primary": "son original — lyrics_song",
+    "backup": "🅒 Ink on Parchment — Marla Swick"
+  },
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b13-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "imagine a guy who trains 6 days a week",
+      "sub": "(and still can't tell if he's stronger)",
+      "hook_y": 0.2
+    },
+    {
+      "type": "list",
+      "title": "every day",
+      "photo": {
+        "file": "b12-02.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "lines": [],
+      "text": "a different workout. nothing ever repeats."
+    },
+    {
+      "type": "list",
+      "title": "so",
+      "photo": {
+        "file": "b10-03.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "lines": [],
+      "text": "he never has a number to compare. every session starts from scratch."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b15-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "what i do instead",
+      "text": "same 4 days. i check last time before every set, so there's always a number to beat.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b7-15.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this if you're still guessing",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ],
+  "set_id": "2026-11-13-ezyxbt-imagine-six-days",
+  "status": "draft 2026-11-13, awaiting gate 3"
+}

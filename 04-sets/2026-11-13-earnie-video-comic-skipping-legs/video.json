@@ -1,0 +1,112 @@
+{
+  "set_id": "2026-11-13-earnie-video-comic-skipping-legs",
+  "status": "draft 2026-11-13, awaiting gate 3",
+  "format": "narrated comic story video (Earnie's new comic look; proven narrated-story format)",
+  "new_format_test": "comic-style narrated story",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "caption": "legs next week. every week 😭 #legday #gymhumor #gymtok #relatable #skiplegday",
+  "ai_images": true,
+  "ai_note": "AI-generated comic panels, voice (ElevenLabs v4 'Bob') and music via Higgsfield: TikTok AI label ON",
+  "out": "earnie-comic-skipping-legs.mp4",
+  "voice": "voice.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.15,
+  "layout": "full",
+  "segments": [
+    {
+      "src": "p-e0.mp4",
+      "start": 0,
+      "end": 5.2,
+      "hold": true
+    },
+    {
+      "src": "p-e1.mp4",
+      "start": 5.2,
+      "end": 10.1,
+      "hold": true
+    },
+    {
+      "src": "p-e2.mp4",
+      "start": 10.1,
+      "end": 17.5,
+      "hold": true
+    },
+    {
+      "src": "p-e3.mp4",
+      "start": 17.5,
+      "end": 24.8,
+      "hold": true
+    },
+    {
+      "src": "p-e4.mp4",
+      "start": 24.8,
+      "end": 29.9,
+      "hold": true
+    },
+    {
+      "src": "endcard.png",
+      "start": 29.9,
+      "end": 32.4
+    }
+  ],
+  "captions": {
+    "on": true,
+    "y": 1500,
+    "size": 60,
+    "words_per": 3,
+    "stroke": 8,
+    "until": 29.9,
+    "hl": "#FF4D4D",
+    "hl_words": [
+      "legs",
+      "busy",
+      "stairs",
+      "lower",
+      "beat",
+      "notice"
+    ],
+    "fix": {
+      "ERNIE": "EARNIE",
+      "ERNIE'S": "EARNIE'S",
+      "EARNED": "EARND"
+    }
+  },
+  "sfx": [
+    {
+      "type": "pop",
+      "t": 5.2,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 10.1,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 17.5,
+      "vol": 0.22
+    },
+    {
+      "type": "pop",
+      "t": 24.8,
+      "vol": 0.22
+    },
+    {
+      "type": "thud",
+      "t": 12.8,
+      "vol": 0.35
+    },
+    {
+      "type": "whoosh",
+      "t": 29.8,
+      "vol": 0.3
+    }
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — JBA (under the voice, 5–10%)",
+    "backup": "🅒 Work It Out — Danny Halloway (5–10%)"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "format": "oneliner-photo",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "caption": "",
+  "sound": {
+    "mode": "trending",
+    "primary": "son original — lyrics_song",
+    "backup": "original sound — Slowed Down Songs"
+  },
+  "ai_images": false,
+  "ai_note": "real founder photo, nothing generated",
+  "slides": [
+    {
+      "type": "oneliner",
+      "photo": {
+        "file": "b7-16.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "text": "nobody claps for set 2. do it anyway.",
+      "color": "white",
+      "dim": 0.25,
+      "y": 0.2
+    }
+  ],
+  "set_id": "2026-11-13-ezyxbt-oneliner-nobody-claps",
+  "status": "draft 2026-11-13, awaiting gate 3"
+}

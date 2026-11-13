@@ -1,0 +1,94 @@
+{
+  "format": "native-tip-slideshow",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "angle": "exact-number series #3 (sets per muscle 11-10, rest 11-11)",
+  "canvas": "1080x1920",
+  "caption": "the exact rep range i use for every exercise #gymtips #hypertrophy #repranges #upperlower #progressiveoverload",
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ink on Parchment — Marla Swick",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b5-01.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "the exact rep range i use for everything",
+      "sub": "(and when the weight goes up)",
+      "hook_y": 0.2
+    },
+    {
+      "type": "list",
+      "title": "the answer",
+      "photo": {
+        "file": "b12-03.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [
+        "4–8 reps",
+        "4 = time to build",
+        "8 = time to add weight"
+      ]
+    },
+    {
+      "type": "list",
+      "title": "why",
+      "photo": {
+        "file": "b14-06.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "lines": [],
+      "text": "heavy enough that every rep counts. a clear point where the weight goes up."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b13-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "real tip",
+      "text": "every set shows my last reps, so i know if i'm at 8 or still building.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b9-03.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for your next session",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ],
+  "set_id": "2026-11-13-ezyxbt-native-exact-rep-range",
+  "status": "draft 2026-11-13, awaiting gate 3"
+}

@@ -1,0 +1,40 @@
+{
+  "set_id": "2026-11-13-earnie-comic-start-in-january",
+  "status": "draft 2026-11-13, awaiting gate 3",
+  "format": "earnie-comic-story-slideshow (comic art)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "angle": "'I'll start in January' (cluberich 'or we could go up' 4.7M: don't wait)",
+  "caption": "every year 😭 who's starting in january? #newyearnewme #gymtok #gymhumor #relatable #startnow",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — JBA",
+    "backup": "original sound — Be On Your Feelings"
+  },
+  "ai_images": true,
+  "ai_note": "comic panels generated with Higgsfield from the mascot reference: TikTok AI label ON",
+  "slides": [
+    {
+      "image": "p1.png",
+      "caption": "november. earnie decides he'll start the gym in january."
+    },
+    {
+      "image": "p2.png",
+      "caption": "december: 'no point starting before christmas.'"
+    },
+    {
+      "image": "p3.png",
+      "caption": "january 2nd: a queue for every machine."
+    },
+    {
+      "image": "p4.png",
+      "caption": "january 20th: he skips one week. then two."
+    },
+    {
+      "image": "p5.png",
+      "caption": "so this year he went tonight. no january. just upper A.",
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
+  ]
+}

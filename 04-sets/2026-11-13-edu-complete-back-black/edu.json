@@ -1,0 +1,99 @@
+{
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "dark",
+  "theme_test": "black (pair: 2026-11-13-edu-complete-legs-white)",
+  "new_format_test": "theme test white vs black, day 3",
+  "angle": "the whole back day on slide 2",
+  "canvas": "1080x1350",
+  "caption": "4 exercises. your whole back. save it for back day",
+  "hashtags": [
+    "#backday",
+    "#backworkout",
+    "#latpulldown",
+    "#gymtips",
+    "#upperlower"
+  ],
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ink on Parchment — Marla Swick",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "4 EXERCISES.",
+          false
+        ],
+        [
+          "YOUR WHOLE",
+          false
+        ],
+        [
+          "BACK.",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "pulldown"
+    },
+    {
+      "type": "cards",
+      "title": "THE WHOLE BACK DAY",
+      "note": "2 × 4–8 each",
+      "items": [
+        [
+          "Pulldown",
+          "pulldown"
+        ],
+        [
+          "Chest-Supported Row",
+          "chest-supported-row"
+        ],
+        [
+          "Pullover",
+          "pullover"
+        ],
+        [
+          "Shrug",
+          "shrug"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "kicker": "HOW IT GOES UP",
+      "title": "BEAT LAST SESSION BY ONE REP.",
+      "body": "Own 8 clean reps, then add weight.",
+      "pose": "pointing",
+      "mascot": true
+    },
+    {
+      "type": "app",
+      "title": "EARND SHOWS WHAT TO BEAT ON EVERY SET",
+      "body": "Last session and today's target.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true
+    },
+    {
+      "type": "cta",
+      "title": "SAVE THIS FOR BACK DAY.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
+  ],
+  "set_id": "2026-11-13-edu-complete-back-black",
+  "status": "draft 2026-11-13, awaiting gate 3"
+}
