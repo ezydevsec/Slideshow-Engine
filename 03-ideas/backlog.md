@@ -169,3 +169,9 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @earndapp | 3D muscle demo #2 (workitapp 794K / 25.4K saves) | "3 exercises. your whole chest." | sound under VO: 🅒 Ink on Parchment
 - [ ] @ezyxbt | one-liner | "the weight doesn't care how you feel today. it just wants the same reps as last time." | sound: son original (FIGHT.MMA11)
 - [ ] @earnie.lifts | first comic-style story (queue #3) | "Earnie's first day: everyone was watching. nobody was." | sound: original sound (JBA)
+
+## Daily scan 2026-11-13 (trend file: 02-research/trends/2026-11-13.md)
+- [ ] @earndapp | after launch: 3D muscle-demo slot (workitapp 4× 170K+ in 4 days) | "3 exercises. your whole chest." with the app screen as the last beat | sound under VO: 🅒 Work It Out (Danny Halloway)
+- [ ] @earndapp | launch day | "EARND is live. stop guessing what to do after every set." (trstnn's pain, our answer) | sound: som original (ANABOLIC)
+- [ ] @ezyxbt | one-liner | "nobody claps for set 2. do it anyway." | sound: son original (lyrics_song)
+- [ ] @earnie.lifts | comic story | "Earnie was going to start in January" (queue #1) | sound: original sound (JBA)
