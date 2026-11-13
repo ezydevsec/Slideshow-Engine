@@ -4,6 +4,8 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 1. **Formats from links the founder sends** (studied in `02-research/formats/`).
 2. **Formats breaking out in the daily trend scan** (`02-research/trends/YYYY-MM-DD.md` → "New formats worth testing").
 
+**Validation gate (founder 2026-11-13):** a format enters this queue only with 50K+ views, under 30 days old, easy to repeat, and 3+ different accounts using it. Otherwise it goes to **Watch** at the bottom.
+
 "Give me today's sets" picks each account's test from the top of its list. A tested format moves to "Tested" with its post date, and the Sunday review marks it **scale / iterate / kill**. New founder links go to the top of the matching account's list the same day.
 
 ## @earndapp
@@ -66,3 +68,16 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 11-11 | @earndapp | theme test day 1: Upper B white 18:30 vs Lower B black 21:00 (swap slots 11-12) | |
 | 11-11 | @ezyxbt | paradox photo pair ("most boring program") | |
 | 11-11 | @earnie.lifts | first-week story slideshow + ironic 'overload is a scam' story | |
+
+
+## Watch (single-account outliers, not yet validated)
+| Format | Source | Accounts seen | Next check |
+|---|---|---|---|
+| "Who lets go last?" contest | @focus.habits 3.6M | 1 | look for 2 more accounts |
+| Two-panel dissolve meme | @gamblersdaily (IG) | 1 | dropped (memes stopped 11-11) |
+
+## Winner remakes (rule 1)
+| Winner | Account | Views | Remakes done | Target |
+|---|---|---|---|---|
+| Ranking every gym split, worst to best | @earndapp | 1,864 | 0 | 5+ |
+| "you didn't stop improving. the wins just got smaller." (data chart video) | @earndapp | 1,370 | 1 (novice cliff) | 5+ |
