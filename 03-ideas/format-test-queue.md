@@ -75,9 +75,11 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 |---|---|---|---|
 | "Who lets go last?" contest | @focus.habits 3.6M | 1 | look for 2 more accounts |
 | Two-panel dissolve meme | @gamblersdaily (IG) | 1 | dropped (memes stopped 11-11) |
+| Myth fact-check slideshow (skincare derm explainers → gym) | web scan 11-14, no metrics | ? | needs an Apify scan |
+| Worth it / skip it (save-or-splurge → gym habits) | web scan 11-14, no metrics | ? | needs an Apify scan |
 
 ## Winner remakes (rule 1)
 | Winner | Account | Views | Remakes done | Target |
 |---|---|---|---|---|
-| Ranking every gym split, worst to best | @earndapp | 1,864 | 0 | 5+ |
+| Ranking every gym split, worst to best | @earndapp | 1,864 | 0 (remake #1 in backlog 11-14) | 5+ |
 | "you didn't stop improving. the wins just got smaller." (data chart video) | @earndapp | 1,370 | 1 (novice cliff) | 5+ |

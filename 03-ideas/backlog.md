@@ -175,3 +175,12 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @earndapp | launch day | "EARND is live. stop guessing what to do after every set." (trstnn's pain, our answer) | sound: som original (ANABOLIC)
 - [ ] @ezyxbt | one-liner | "nobody claps for set 2. do it anyway." | sound: son original (lyrics_song)
 - [ ] @earnie.lifts | comic story | "Earnie was going to start in January" (queue #1) | sound: original sound (JBA)
+
+## Daily scan 2026-11-14 (trend file: 02-research/trends/2026-11-14.md; web-only, Apify down)
+- [ ] @earndapp | WINNER REMAKE #1 (split ranking, 1,864) | "every gym split ranked by how easy it is to stick to" (slide 2 = the full ranking) | sound: 🅒 Ink on Parchment (Marla Swick) / backup som original (ANABOLIC)
+- [ ] @earndapp | PAIN COVER | "3 months in and you still can't tell if you're stronger" (slide 2: write down every set, beat one number next session) | 🅒 Ink on Parchment / som original (ANABOLIC)
+- [ ] @earndapp | WATCH (skincare bridge) | "the gym myth, fact-checked: you need to train to failure every set" | 🅒 Ink on Parchment
+- [ ] @earndapp | WATCH (finance bridge) | "worth it / skip it: month-1 gym edition" | som original (ANABOLIC)
+- [ ] @ezyxbt | IDENTITY #1 (rule 5) | "the guy who doesn't miss mondays" / "the guy who knows his numbers" over his strongest photos | son original (lyrics_song) / original sound (Slowed Down Songs)
+- [ ] @ezyxbt | PAIN COVER + native_text | "you've trained for a year and can't say what you lifted last week" | 🅒 Ink on Parchment / som original (ANABOLIC)
+- [ ] @earnie.lifts | comic story | "Earnie was going to start in January" (pain beat on slide 1) | original sound (JBA) / original sound (Be On Your Feelings)
