@@ -9,15 +9,130 @@
   "angle": "every split ranked by how easy it is to stick to",
   "canvas": "1080x1350",
   "caption": "every gym split ranked by how easy it is to actually stick to. where's yours? #gymsplit #upperlower #pushpulllegs #gymtips #workoutplan",
-  "sound": {"mode": "trending", "primary": "🅒 Ink on Parchment — Marla Swick", "backup": "som original — ANABOLIC"},
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ink on Parchment — Marla Swick",
+    "backup": "som original — ANABOLIC"
+  },
   "ai_images": true,
   "ai_note": "mascot is generated: TikTok AI label ON",
   "slides": [
-    {"type": "cover", "lines": [["EVERY GYM SPLIT", false], ["RANKED BY HOW", false], ["EASY IT IS", false], ["TO STICK TO", true]], "mascot": true, "pose": "thinking"},
-    {"type": "tier", "title": "EASIEST TO STICK TO → HARDEST", "rows": [["S", ["Upper/Lower, 4 days"]], ["A", ["Full body, 3 days"]], ["B", ["PPL + Upper/Lower, 5 days"]], ["C", ["PPL x2, 6 days"]], ["D", ["Bro split", "Arnold, 6 days"]]]},
-    {"type": "rank", "rank": 1, "title": "UPPER/LOWER", "stars": 4.5, "body": "4 sessions. Miss a day? Move it. Each muscle still gets hit twice a week.", "days": [["M", "UPPER"], ["T", "LOWER"], ["W", "REST"], ["T", "UPPER"], ["F", "LOWER"], ["S", "REST"], ["S", "REST"]]},
-    {"type": "app", "title": "EARND IS A 4-DAY UPPER / LOWER", "body": "Your week laid out. Move a session to any free day.", "shot": "01-app/assets/train-week-overview.png", "crop": [0, 0.05, 1, 0.76]},
-    {"type": "cta", "title": "THE BEST SPLIT IS THE ONE YOU FINISH.", "body": "EARND launches soon. Follow for the launch.", "mascot": true, "pose": "pointing"}
+    {
+      "type": "cover",
+      "lines": [
+        [
+          "EVERY GYM SPLIT",
+          false
+        ],
+        [
+          "RANKED BY HOW",
+          false
+        ],
+        [
+          "EASY IT IS",
+          false
+        ],
+        [
+          "TO STICK TO",
+          true
+        ]
+      ],
+      "mascot": true,
+      "pose": "thinking"
+    },
+    {
+      "type": "tier",
+      "title": "EASIEST TO STICK TO → HARDEST",
+      "rows": [
+        [
+          "S",
+          [
+            "Upper/Lower, 4 days"
+          ]
+        ],
+        [
+          "A",
+          [
+            "Full body, 3 days"
+          ]
+        ],
+        [
+          "B",
+          [
+            "PPL + Upper/Lower, 5 days"
+          ]
+        ],
+        [
+          "C",
+          [
+            "PPL x2, 6 days"
+          ]
+        ],
+        [
+          "D",
+          [
+            "Bro split",
+            "Arnold, 6 days"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "rank",
+      "rank": 1,
+      "title": "UPPER/LOWER",
+      "stars": 4.5,
+      "body": "4 sessions. Miss a day? Move it. Each muscle still gets hit twice a week.",
+      "days": [
+        [
+          "M",
+          "UPPER"
+        ],
+        [
+          "T",
+          "LOWER"
+        ],
+        [
+          "W",
+          "REST"
+        ],
+        [
+          "T",
+          "UPPER"
+        ],
+        [
+          "F",
+          "LOWER"
+        ],
+        [
+          "S",
+          "REST"
+        ],
+        [
+          "S",
+          "REST"
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": "EARND IS A 4-DAY UPPER / LOWER",
+      "body": "Your week laid out. Move a session to any free day.",
+      "shot": "01-app/assets/train-week-overview.png",
+      "crop": [
+        0,
+        0.05,
+        1,
+        0.76
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "THE BEST SPLIT IS THE ONE YOU FINISH.",
+      "body": "EARND launches soon. Follow for the launch.",
+      "mascot": true,
+      "pose": "pointing"
+    }
   ],
-  "status": "draft"
+  "status": "approved (founder); post on 2026-11-14"
 }
