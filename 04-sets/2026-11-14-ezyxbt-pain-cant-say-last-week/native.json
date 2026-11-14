@@ -4,8 +4,8 @@
   "account": "@ezyxbt",
   "account_type": "founder",
   "pain_cover": true,
-  "native_text": true,
-  "new_format_test": "native text (rule 6): clean photos, text typed in TikTok's editor",
+  "native_text": false,
+  "new_format_test": "pain cover (native-text test cancelled 2026-11-14; baked text)",
   "canvas": "1080x1920",
   "caption": "if you can't answer this, you're guessing #gymtips #progressiveoverload #gymtok #upperlower #gymbeginner",
   "sound": {
@@ -15,13 +15,6 @@
   },
   "ai_images": false,
   "ai_note": "founder photos and app screen are real; nothing generated",
-  "native_lines": [
-    "you've trained for a year and can't say what you lifted last week",
-    "the fix: write down weight × reps on every set. next session, beat one number.",
-    "if you don't know the number, you can't beat it. you're just showing up.",
-    "the real tip: i check last time's number before every set. (example on screen) i'm building it. it's called EARND.",
-    "save this for your next session. i'm building EARND. follow @earndapp for the launch."
-  ],
   "slides": [
     {
       "type": "cover",
