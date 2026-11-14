@@ -1,0 +1,25 @@
+{
+  "set_id": "2026-11-14-whatif-plus-2-5-every-week",
+  "format": "whatif-escalation-slideshow (pixel art)",
+  "account": "TO CONFIRM: @whatif.overload",
+  "account_type": "theme",
+  "new_format_test": "launch post #1: what-if escalation, pixel art",
+  "canvas": "1080x1920",
+  "caption": "dale never misses a week. here's the maths. #gymtok #progressiveoverload #overheadpress #gymhumor #whatif",
+  "sound": {"mode": "trending", "primary": "🅒 Cyberpunk Drive — Dennis Ahearne", "backup": "som original — ANABOLIC"},
+  "ai_images": false,
+  "ai_note": "pixel art drawn by code, nothing generated",
+  "slides": [
+    {"type": "level", "title": ["WHAT IF DALE ADDED", "+2.5 KG EVERY WEEK", "AND NEVER MISSED ONE?"], "hl": 1, "week": "WEEK 1", "kg": "60 KG", "bar": 0.02, "lv": "LV 1", "load": "plates"},
+    {"type": "stats", "title": ["DALE'S LIFT,", "+2.5 KG A WEEK"], "hl": 1, "hl_last": true,
+     "rows": [["WEEK 1", "60 KG", ""], ["WEEK 12", "87.5 KG", ""], ["YEAR 1", "190 KG", "gym legend"], ["YEAR 2", "320 KG", "a vending machine"], ["YEAR 5", "710 KG", "a dairy cow"], ["YEAR 10", "1,360 KG", "a small car"]],
+     "footer": "same rule. every week."},
+    {"type": "level", "title": ["YEAR 2", "320 KG"], "hl": 1, "week": "WEEK 104", "kg": "+260 KG", "bar": 0.2, "lv": "LV 104", "load": "vending", "caption": "about a vending machine"},
+    {"type": "level", "title": ["YEAR 5", "710 KG"], "hl": 1, "week": "WEEK 260", "kg": "+650 KG", "bar": 0.5, "lv": "LV 260", "load": "cow", "caption": "about a dairy cow", "sweat": true},
+    {"type": "level", "title": ["YEAR 10", "1,360 KG"], "hl": 1, "week": "WEEK 520", "kg": "+1,300 KG", "bar": 1.0, "lv": "LV 520", "load": "car", "caption": "about a small car", "sweat": true},
+    {"type": "end", "title": ["REAL LIFE:", "+2.5 KG WORKS FOR", "MONTHS, NOT DECADES"], "hl": 0,
+     "body": ["after that, the win is +1 rep.", "dale's secret: he always knows", "his number to beat."],
+     "footer": ["this page is made by EARND, our gym app.", "follow @earndapp for the launch."]}
+  ],
+  "status": "draft"
+}

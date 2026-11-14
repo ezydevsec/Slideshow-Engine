@@ -1,0 +1,13 @@
+{
+  "set_id": "2026-11-14-lineart-video-down-escalator",
+  "status": "draft",
+  "format": "imagine-a-man parable (gold line art, AI narrator)",
+  "account": "TO CONFIRM: line-art account",
+  "account_type": "theme",
+  "new_format_test": "launch post: imagine-a-man parable (gold line art, AI narrator)",
+  "caption": "missed a day? move it. don't skip it. #selfimprovement #discipline #gymmotivation #consistency #mindset",
+  "out": "down-escalator.mp4",
+  "ai_images": true,
+  "ai_note": "AI voiceover (ElevenLabs v4 'Knox' via Higgsfield); line art drawn by code: TikTok AI label ON",
+  "sound": {"mode": "trending", "primary": "Les (Instrumental Slowed) — aurelia & dopuu (under the voice, 5–10%)", "backup": "FOCUS 3 (Ultra Slowed) — quietshadow (5–10%)"}
+}

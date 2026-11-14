@@ -1,0 +1,33 @@
+{
+  "set_id": "2026-11-14-earnie-video-comic-mirror",
+  "status": "draft",
+  "format": "narrated comic story video (Earnie's comic look)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "pain_cover": true,
+  "caption": "3 months and the mirror says nothing 😭 #gymmotivation #gymtok #relatable #gymbeginner #progressiveoverload",
+  "ai_images": true,
+  "ai_note": "AI-generated comic panels, voice (ElevenLabs v4 'Bob') and music via Higgsfield: TikTok AI label ON",
+  "out": "earnie-comic-mirror.mp4",
+  "voice": "voice.mp3",
+  "music": "music.mp3",
+  "music_vol": 0.15,
+  "layout": "full",
+  "segments": [
+    {"src": "p-e0.mp4", "start": 0, "end": 5.4, "hold": true},
+    {"src": "p-e1.mp4", "start": 5.4, "end": 9.0, "hold": true},
+    {"src": "p-e2.mp4", "start": 9.0, "end": 14.6, "hold": true},
+    {"src": "p-e3.mp4", "start": 14.6, "end": 22.4, "hold": true},
+    {"src": "p-e4.mp4", "start": 22.4, "end": 28.3, "hold": true},
+    {"src": "endcard.png", "start": 28.3, "end": 30.8}
+  ],
+  "labels": [{"text": "3 MONTHS. NOTHING?", "start": 0, "end": 2.6, "color": "#FFFFFF", "size": 110, "y": 240, "font": "anton"}],
+  "captions": {"on": true, "y": 1500, "size": 60, "words_per": 3, "stroke": 8, "until": 28.3, "hl": "#FF4D4D",
+    "hl_words": ["mirror", "nothing", "done", "log", "higher", "numbers"],
+    "fix": {"ERNIE": "EARNIE", "ERNIE'S": "EARNIE'S", "EARNED": "EARND"}},
+  "sfx": [
+    {"type": "pop", "t": 5.4, "vol": 0.22}, {"type": "pop", "t": 9.0, "vol": 0.22}, {"type": "thud", "t": 11.3, "vol": 0.35},
+    {"type": "pop", "t": 14.6, "vol": 0.22}, {"type": "pop", "t": 22.4, "vol": 0.22}, {"type": "whoosh", "t": 28.2, "vol": 0.3}
+  ],
+  "sound": {"mode": "trending", "primary": "original sound — JBA (under the voice, 5–10%)", "backup": "🅒 Work It Out — Danny Halloway (5–10%)"}
+}

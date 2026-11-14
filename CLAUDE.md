@@ -53,6 +53,7 @@ default_app_slide: 4
 - Nothing is queued without my approval in chat. Posting is manual for now (2026-10-28): no Humanpost. Approved sets get a `posting.md` pack, and I post them myself.
 - Our accounts never comment on or engage with each other.
 - EARND has no free trial. Weekly reviews track paid subscriptions, not trials (the `trials` column in `07-results/revenue.csv` stays blank). Locate drop-offs with the funnel in `01-app/app-brief.md` → Pricing.
+- App launch postponed to **end of November** (founder, 2026-11-14; was Sat 14 Nov). Prelaunch CTAs stay until then. The line-art account and @whatif.overload start posting from 14 Nov regardless.
 - Prelaunch: every set ends with its account's prelaunch CTA from `accounts.json` (@earndapp: "EARND launches soon. Follow for the launch."). No download CTA or links until `phase` is "launched" and `launch.download_url` is set. No trial references.
 - Numerical examples (e.g. 100 kg × 7 → 100 kg × 8) are always labelled "example" on the slide. Sets × reps prescriptions (e.g. 2 × 4–8) are shown plain, without the "example" tag (founder, 2026-10-30); weights in progression examples stay labelled "example". Exception: @whatif.overload's joke escalations (e.g. Dale's +2.5 kg/week) carry no "example" tag (founder, 2026-11-04).
 - Scheduling: users move the four prescribed sessions to available days. Never say the programme adapts to fewer sessions.

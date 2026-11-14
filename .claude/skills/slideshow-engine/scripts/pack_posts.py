@@ -3,7 +3,7 @@ import json, os, glob, zipfile, sys
 plan = json.load(open(sys.argv[1])); rows = []
 SB = "search the name in TikTok's Add sound; pick the version by the listed artist."
 for p in plan:
-    d = f"04-sets/{p['set']}"; sf = next(f for f in ("edu.json", "native.json", "meme.json", "comic.json", "video.json") if os.path.exists(f"{d}/{f}"))
+    d = f"04-sets/{p['set']}"; sf = next(f for f in ("edu.json", "native.json", "meme.json", "comic.json", "pixel.json", "video.json") if os.path.exists(f"{d}/{f}"))
     sp = json.load(open(f"{d}/{sf}")); sp["status"] = f"approved (founder); post on {p['post_on']}"
     json.dump(sp, open(f"{d}/{sf}", "w"), indent=2, ensure_ascii=False)
     acct = sp["account"]; plat = "(TikTok)" if acct == "@ezyxbt" else "(TikTok, + Instagram once the IG account exists)"
@@ -14,7 +14,7 @@ for p in plan:
     if sf == "video.json":
         files = [f"{d}/{sp['out']}"]; up = f"`{sp['out']}` (1080×1920)"
     else:
-        files = sorted(glob.glob(f"{d}/final/preview/slide-*.jpg")); size = "1080×1920" if sp.get("canvas") == "1080x1920" else "1080×1350"
+        files = sorted(glob.glob(f"{d}/final/{'clean' if sp.get('native_text') else 'preview'}/slide-*.jpg")); size = "1080×1920" if sp.get("canvas") == "1080x1920" else "1080×1350"
         up = f"`slide-01.jpg`" + (f" … `slide-{len(files):02d}.jpg`" if len(files) > 1 else "") + f" ({size})"
     s = sp.get("sound", {})
     snd = p.get("sound") or f"**{str(s.get('primary')).replace('**','')}**. Backup: **{str(s.get('backup')).replace('**','')}**. ({SB})"
@@ -33,6 +33,10 @@ for p in plan:
 - **AI-generated content label:** {ai}
 - **Before posting:** no download link (prelaunch).
 """ + (f"- **Post at:** {p['post_time']} (UK time; target UK/US).\n" if p.get("post_time") else "") + (f"- **Test:** {'; '.join(tests)}. Note the result at Sunday's review.\n" if tests else "")
+    if sp.get("native_text"):
+        md += "- **Native text test (rule 6, `native_text: true`):** the images have no text. In TikTok's editor add each line below with **Text**, Classic font, white, centred in the top third, then post. Slide order and exact lines:\n"
+        md += "".join(f"  {i}. {ln}\n" for i, ln in enumerate(sp.get("native_lines", []), 1))
+        md += "  (`preview/` in the set folder shows the baked-in version for reference.)\n"
     open(f"{d}/posting.md", "w").write(md)
     os.makedirs(os.path.dirname(p["zip"]), exist_ok=True)
     with zipfile.ZipFile(p["zip"], "w", zipfile.ZIP_DEFLATED) as z:

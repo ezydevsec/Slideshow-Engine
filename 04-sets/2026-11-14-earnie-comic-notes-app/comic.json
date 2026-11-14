@@ -1,0 +1,21 @@
+{
+  "set_id": "2026-11-14-earnie-comic-notes-app",
+  "status": "draft",
+  "format": "earnie-comic-story-slideshow (comic art)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "pain_cover": true,
+  "angle": "pain: can't remember last week's weight (pain bank: notes-app chaos)",
+  "caption": "the notes app is not a training log 😭 #gymhumor #gymtok #relatable #benchpress #progressiveoverload",
+  "sound": {"mode": "trending", "primary": "original sound — JBA", "backup": "original sound — Be On Your Feelings"},
+  "ai_images": true,
+  "ai_note": "comic panels generated with Higgsfield from the mascot reference: TikTok AI label ON",
+  "slides": [
+    {"image": "p1.png", "caption": "earnie couldn't remember what he benched last week."},
+    {"image": "p2.png", "caption": "his notes app had 400 lines. none of them made sense."},
+    {"image": "p3.png", "caption": "so he guessed. he guessed wrong."},
+    {"image": "p4.png", "caption": "now he writes down every set. weight × reps. that's it."},
+    {"image": "p5.png", "caption": "this week: one more rep than last time. a win he can actually see.", "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."}
+  ]
+}

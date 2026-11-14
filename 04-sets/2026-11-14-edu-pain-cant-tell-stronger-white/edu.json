@@ -1,0 +1,23 @@
+{
+  "set_id": "2026-11-14-edu-pain-cant-tell-stronger-white",
+  "format": "edu-template-slideshow",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "theme": "light",
+  "theme_test": "white (pair: 2026-11-14-edu-split-ranking-stick-black)",
+  "pain_cover": true,
+  "angle": "pain: 3 months in and you can't tell if you're stronger (pain funnel back in rotation)",
+  "canvas": "1080x1350",
+  "caption": "3 months in and no idea if you're stronger? this is why. save it #gymtips #progressiveoverload #gymbeginner #strengthtraining #upperlower",
+  "sound": {"mode": "trending", "primary": "🅒 Ink on Parchment — Marla Swick", "backup": "som original — ANABOLIC"},
+  "ai_images": true,
+  "ai_note": "mascot is generated: TikTok AI label ON",
+  "slides": [
+    {"type": "cover", "lines": [["3 MONTHS IN.", false], ["STILL CAN'T TELL", false], ["IF YOU'RE", false], ["STRONGER?", true]], "mascot": true, "pose": "thinking"},
+    {"type": "list", "kicker": "THE FIX", "title": "STOP TRAINING FROM MEMORY.", "items": ["Write down every set", "Weight × reps, nothing else", "Next session, beat one number", "Every 4 weeks, compare"]},
+    {"type": "steps", "kicker": "WHAT \"STRONGER\" LOOKS LIKE", "title": "SAME WEIGHT. ONE MORE REP.", "body": "That's progress. You just can't see it without the number.", "example": "60 kg × 7 → 60 kg × 8", "mascot": true, "pose": "pointing"},
+    {"type": "app", "title": "EARND SHOWS YOUR PROGRESS ON EVERY EXERCISE", "body": "Every set you log, in one line.", "shot": "01-app/assets/progress-chest-press.png", "example": true},
+    {"type": "cta", "title": "SAVE THIS FOR YOUR NEXT SESSION.", "body": "EARND launches soon. Follow for the launch.", "mascot": true, "pose": "pointing"}
+  ],
+  "status": "draft"
+}

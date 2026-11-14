@@ -170,6 +170,23 @@ def render(s):
     raise ValueError(t)
 
 
+def render_clean(s):
+    """Rule 6 (native text test): the same slide with no baked-in text; the founder types the lines in TikTok's editor."""
+    if s["type"] == "tip":
+        img = photo_bg(s["photo"], dim=0.45)
+        shot = Image.open(os.path.join(ROOT, s["shot"])).convert("RGB")
+        if s.get("crop"):
+            x0, y0, x1, y1 = s["crop"]; w, h = shot.size
+            shot = shot.crop((int(x0 * w), int(y0 * h), int(x1 * w), int(y1 * h)))
+        shot.thumbnail((760, 900), Image.LANCZOS)
+        m = Image.new("L", shot.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0) + shot.size, radius=40, fill=255)
+        top = (H - shot.height) // 2 + 120
+        if s.get("example"): example_tag(img, W // 2, top - 80)
+        img.paste(shot, ((W - shot.width) // 2, top), m); return img
+    if s.get("photo"): return photo_bg(s["photo"], dim=0.15)
+    return render(s)
+
+
 def main(set_dir):
     spec = json.load(open(os.path.join(set_dir, "native.json")))
     out = os.path.join(set_dir, "final", "preview"); os.makedirs(out, exist_ok=True)
@@ -182,6 +199,10 @@ def main(set_dir):
     sheet = Image.new("RGB", (len(thumbs) * 280 + 10, 500), "white")
     for i, t in enumerate(thumbs): sheet.paste(t, (10 + i * 280, 10))
     sheet.save(os.path.join(set_dir, "final", "contact-sheet.jpg"), quality=85)
+    if spec.get("native_text"):
+        cl = os.path.join(set_dir, "final", "clean"); os.makedirs(cl, exist_ok=True)
+        for i, s in enumerate(spec["slides"], 1): render_clean(s).save(os.path.join(cl, f"slide-{i:02d}.jpg"), quality=92)
+        print(f"native_text: clean slides -> {cl}")
     print(f"rendered {len(thumbs)} slides -> {set_dir}/final")
 
 

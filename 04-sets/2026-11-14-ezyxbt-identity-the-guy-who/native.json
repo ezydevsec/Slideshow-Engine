@@ -1,0 +1,20 @@
+{
+  "set_id": "2026-11-14-ezyxbt-identity-the-guy-who",
+  "format": "native-tip-slideshow (identity: who the viewer wants to become)",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "new_format_test": "identity format (rule 5, #1 of 2 this week)",
+  "canvas": "1080x1920",
+  "caption": "be him. #gymmotivation #consistency #gymtok #upperlower #discipline",
+  "sound": {"mode": "trending", "primary": "son original — lyrics_song", "backup": "original sound — Slowed Down Songs"},
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "slides": [
+    {"type": "cover", "photo": {"file": "b15-02.jpg", "focus": [0.5, 0.45]}, "hook": "be the guy who…", "sub": "(it's not about talent)", "hook_y": 0.18},
+    {"type": "list", "title": "doesn't miss mondays", "photo": {"file": "b10-02.jpg", "focus": [0.5, 0.45]}, "lines": [], "text": "even the bad ones. a bad session still counts."},
+    {"type": "list", "title": "knows his numbers", "photo": {"file": "b14-05.jpg", "focus": [0.5, 0.45]}, "lines": [], "text": "he can tell you what he lifted last week. on every exercise."},
+    {"type": "tip", "photo": {"file": "b14-07.jpg", "focus": [0.5, 0.4]}, "label": "beats them by one rep", "text": "that's the whole plan. same exercises, one more rep, every week.", "shot": "01-app/assets/demo-last-time-target.png", "crop": [0.228, 0.305, 0.772, 0.622], "example": true, "footer": "i'm building it. it's called EARND."},
+    {"type": "cta", "photo": {"file": "b15-03.jpg", "focus": [0.5, 0.3]}, "text": "save this. be him.", "sub": "i'm building EARND. follow @earndapp for the launch."}
+  ],
+  "status": "draft"
+}

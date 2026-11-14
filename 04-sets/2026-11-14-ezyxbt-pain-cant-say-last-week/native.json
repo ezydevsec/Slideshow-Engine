@@ -1,0 +1,29 @@
+{
+  "set_id": "2026-11-14-ezyxbt-pain-cant-say-last-week",
+  "format": "native-tip-slideshow (pain cover)",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "pain_cover": true,
+  "native_text": true,
+  "new_format_test": "native text (rule 6): clean photos, text typed in TikTok's editor",
+  "canvas": "1080x1920",
+  "caption": "if you can't answer this, you're guessing #gymtips #progressiveoverload #gymtok #upperlower #gymbeginner",
+  "sound": {"mode": "trending", "primary": "🅒 Ink on Parchment — Marla Swick", "backup": "som original — ANABOLIC"},
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "native_lines": [
+    "you've trained for a year and can't say what you lifted last week",
+    "the fix: write down weight × reps on every set. next session, beat one number.",
+    "if you don't know the number, you can't beat it. you're just showing up.",
+    "the real tip: i check last time's number before every set. (example on screen) i'm building it. it's called EARND.",
+    "save this for your next session. i'm building EARND. follow @earndapp for the launch."
+  ],
+  "slides": [
+    {"type": "cover", "photo": {"file": "b14-04.jpg", "focus": [0.5, 0.45]}, "hook": "you've trained for a year and can't say what you lifted last week", "hook_y": 0.18},
+    {"type": "list", "title": "the fix", "photo": {"file": "b12-05.jpg", "focus": [0.5, 0.45]}, "lines": [], "text": "write down weight × reps on every set. next session, beat one number."},
+    {"type": "list", "title": "why it matters", "photo": {"file": "b9-07.jpg", "focus": [0.5, 0.45]}, "lines": [], "text": "if you don't know the number, you can't beat it. you're just showing up."},
+    {"type": "tip", "photo": {"file": "b11-05.jpg", "focus": [0.5, 0.4]}, "label": "the real tip", "text": "i check last time's number before every set.", "shot": "01-app/assets/demo-last-time-target.png", "crop": [0.228, 0.305, 0.772, 0.622], "example": true, "footer": "i'm building it. it's called EARND."},
+    {"type": "cta", "photo": {"file": "b9-02.jpg", "focus": [0.5, 0.3]}, "text": "save this for your next session", "sub": "i'm building EARND. follow @earndapp for the launch."}
+  ],
+  "status": "draft"
+}
