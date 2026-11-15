@@ -8,6 +8,11 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 
 "Give me today's sets" picks each account's test from the top of its list. A tested format moves to "Tested" with its post date, and the Sunday review marks it **scale / iterate / kill**. New founder links go to the top of the matching account's list the same day.
 
+## ALL ACCOUNTS: weekly (founder, 2026-11-15)
+| # | Format | Source | Status |
+|---|---|---|---|
+| 1 | **3D stickman comparison** ("same X, only one Y"), each account in its own look | @stickmaxx 3.05M/2.7M/1.9M, @neuronvisuals 65M/40M/36M, @focus.habits 3.6M: **passed the gate 11-15** | first round 16–22 Nov, every account; `02-research/formats/stick-comparison-3d.md` |
+
 ## @earndapp
 | # | Format | Source | Status |
 |---|---|---|---|
@@ -73,7 +78,7 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 ## Watch (single-account outliers, not yet validated)
 | Format | Source | Accounts seen | Next check |
 |---|---|---|---|
-| "Who lets go last?" contest | @focus.habits 3.6M | 1 | look for 2 more accounts |
+| "Who lets go last?" contest | @focus.habits 3.6M | 3 | **promoted 11-15** as part of the 3D stickman comparison format |
 | Two-panel dissolve meme | @gamblersdaily (IG) | 1 | dropped (memes stopped 11-11) |
 | **Animated study race** (wireframe gym, 3 groups side by side, week counter, bars grow to the paper's result) | founder link 11-15: @dialed.lift 536K / 6.3K likes in 1 day | 1 (+ cousins: workitapp, our A vs B) | strongest candidate; one more account confirms it |
 | "Under the hood" app explainer with cartoon narrator | founder link 11-15: @speedy_devv 10.1M, 12 Oct | 1 | 34 days old; look for a recent second account |
