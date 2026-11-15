@@ -1,0 +1,77 @@
+{
+  "set_id": "2026-11-15-earnie-stickstory-lower-lats",
+  "status": "draft",
+  "format": "stickman story slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "topic_source": "Paul Carter (@liftrunbang1) 16 & 22 Oct (204K, 169K): the whole lat does the same job; you can't train 'lower lats' separately",
+  "pain_cover": true,
+  "canvas": "1080x1350",
+  "caption": "earnie had a lower lats day 😭 #gymtok #lats #backday #gymhumor #relatable",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — JBA",
+    "backup": "sonido original — musiktpt"
+  },
+  "ai_images": false,
+  "ai_note": "drawn by code, nothing generated",
+  "slides": [
+    {
+      "text": "earnie wanted a wider back. so he gave his 'upper lats' and 'lower lats' their own days.",
+      "figs": [
+        {
+          "x": 540,
+          "p": 1.0,
+          "earnie": true
+        }
+      ]
+    },
+    {
+      "text": "6 lat exercises. 2 days. 3 months.",
+      "hud": "BACK WIDTH: ?",
+      "figs": [
+        {
+          "x": 540,
+          "p": 0.6,
+          "slump": 0.6,
+          "earnie": true
+        }
+      ]
+    },
+    {
+      "text": "then he found out the whole lat does the same job.",
+      "figs": [
+        {
+          "x": 540,
+          "p": 0.6,
+          "slump": 1.0,
+          "earnie": true
+        }
+      ]
+    },
+    {
+      "text": "now: a pulldown and a row. one more rep than last time.",
+      "hud": "2 EXERCISES · WRITTEN DOWN",
+      "figs": [
+        {
+          "x": 540,
+          "p": 0.2,
+          "earnie": true,
+          "plates": 3
+        }
+      ]
+    },
+    {
+      "text": "fewer exercises. more of what works.",
+      "figs": [
+        {
+          "x": 540,
+          "p": 1.0,
+          "earnie": true,
+          "plates": 3
+        }
+      ],
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
+  ]
+}

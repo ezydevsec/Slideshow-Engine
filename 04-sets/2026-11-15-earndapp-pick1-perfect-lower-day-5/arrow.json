@@ -1,0 +1,108 @@
+{
+  "set_id": "2026-11-15-earndapp-pick1-perfect-lower-day-5",
+  "status": "draft",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "length_test": "5 slides (pair: 2026-11-15-earndapp-pick1-perfect-upper-day, 9 slides)",
+  "topic_source": "Paul Carter (@liftrunbang1): '9 levers' (4–8 reps, 2 hard sets, 1–2 RIR) + 1 Nov calves (hold the stretch, heavy 4–8)",
+  "pain_cover": false,
+  "canvas": "1080x1350",
+  "caption": "the perfect lower day 🧪 4 jobs, pick 1 for each, 2 hard sets of 4–8. quads: hack squat or leg extension. hamstrings: leg curl or RDL. glutes: hip thrust. calves: calf press, hold the stretch at the bottom. which one are you picking for quads? #legday #lowerbody #gymtips #hypertrophy #workoutplan",
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ink on Parchment — Marla Swick",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "the science of the",
+          false
+        ],
+        [
+          "perfect lower day",
+          true
+        ]
+      ],
+      "sub": "(pick 1 exercise for each job → your full workout)",
+      "pose": "hack-squat"
+    },
+    {
+      "type": "structure",
+      "title": "the whole day",
+      "sub": "4 jobs. pick 1 for each.",
+      "items": [
+        "quads: hack squat or leg extension",
+        "hamstrings: leg curl or RDL",
+        "glutes: hip thrust",
+        "calves: calf press, hold the stretch"
+      ],
+      "note": "2 hard sets each. 4–8 reps."
+    },
+    {
+      "type": "pick",
+      "n": 1,
+      "muscle": "quads",
+      "sets": "2 × 4–8",
+      "anatomy": "quads",
+      "options": [
+        [
+          "hack squat",
+          "hack-squat"
+        ],
+        [
+          "leg extension",
+          "leg-extension"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 2,
+      "muscle": "hamstrings",
+      "sets": "2 × 4–8",
+      "anatomy": "hamstrings",
+      "options": [
+        [
+          "leg curl",
+          "leg-curl"
+        ],
+        [
+          "romanian deadlift",
+          "romanian-deadlift"
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND shows you",
+          false
+        ],
+        [
+          "what to beat",
+          true
+        ],
+        [
+          "on every set",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ]
+}

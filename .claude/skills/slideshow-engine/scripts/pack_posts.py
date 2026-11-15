@@ -3,7 +3,7 @@ import json, os, glob, zipfile, sys
 plan = json.load(open(sys.argv[1])); rows = []
 SB = "search the name in TikTok's Add sound; pick the version by the listed artist."
 for p in plan:
-    d = f"04-sets/{p['set']}"; sf = next(f for f in ("edu.json", "native.json", "meme.json", "comic.json", "pixel.json", "video.json") if os.path.exists(f"{d}/{f}"))
+    d = f"04-sets/{p['set']}"; sf = next(f for f in ("edu.json", "native.json", "meme.json", "comic.json", "pixel.json", "arrow.json", "stickslides.json", "study.json", "stick.json", "pixelvid.json", "video.json") if os.path.exists(f"{d}/{f}"))
     sp = json.load(open(f"{d}/{sf}")); sp["status"] = f"approved (founder); post on {p['post_on']}"
     json.dump(sp, open(f"{d}/{sf}", "w"), indent=2, ensure_ascii=False)
     acct = sp["account"]; plat = "(TikTok)" if acct == "@ezyxbt" else "(TikTok, + Instagram once the IG account exists)"
@@ -11,7 +11,7 @@ for p in plan:
         cap = "none. Leave it empty (founder, 2026-11-05)."
     else:
         cap = sp.get("caption", "") + (" " + " ".join(sp["hashtags"]) if sp.get("hashtags") else "")
-    if sf == "video.json":
+    if sp.get("out"):
         files = [f"{d}/{sp['out']}"]; up = f"`{sp['out']}` (1080×1920)"
     else:
         files = sorted(glob.glob(f"{d}/final/{'clean' if sp.get('native_text') else 'preview'}/slide-*.jpg")); size = "1080×1920" if sp.get("canvas") == "1080x1920" else "1080×1350"

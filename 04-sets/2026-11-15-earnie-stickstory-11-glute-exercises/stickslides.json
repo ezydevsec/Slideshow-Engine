@@ -1,0 +1,103 @@
+{
+  "set_id": "2026-11-15-earnie-stickstory-11-glute-exercises",
+  "status": "draft",
+  "format": "stickman story slideshow",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "new_format_test": "Earnie stickman story slideshow (new look, 2026-11-15)",
+  "topic_source": "Paul Carter (@liftrunbang1) 8 Oct (245K): glute routines repeat the same movement; cover 4 patterns instead",
+  "canvas": "1080x1350",
+  "caption": "earnie found an 11-exercise glute day 😭 #gymtok #glutes #legday #gymhumor #relatable",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — JBA",
+    "backup": "original sound — Be On Your Feelings"
+  },
+  "ai_images": false,
+  "ai_note": "drawn by code, nothing generated",
+  "slides": [
+    {
+      "text": "earnie found a glute workout with 11 exercises.",
+      "hud": "EXERCISE 1 / 11",
+      "figs": [
+        {
+          "x": 540,
+          "p": 1.0,
+          "earnie": true
+        }
+      ]
+    },
+    {
+      "text": "two hours later he was on number 9.",
+      "hud": "EXERCISE 9 / 11 · 1:58:41",
+      "figs": [
+        {
+          "x": 540,
+          "p": 0.6,
+          "slump": 1.0,
+          "earnie": true
+        }
+      ]
+    },
+    {
+      "text": "half of them were the same movement, done different ways.",
+      "figs": [
+        {
+          "x": 200,
+          "p": 0.0,
+          "plates": 1
+        },
+        {
+          "x": 540,
+          "p": 0.0,
+          "plates": 1
+        },
+        {
+          "x": 880,
+          "p": 0.0,
+          "plates": 1
+        }
+      ]
+    },
+    {
+      "text": "so he cut it to one exercise per movement.",
+      "list": [
+        "1. hip thrust",
+        "2. squat / leg press",
+        "3. cable kickback",
+        "4. split squat"
+      ],
+      "figs": [
+        {
+          "x": 800,
+          "p": 1.0,
+          "earnie": true
+        }
+      ]
+    },
+    {
+      "text": "4 exercises. every set hard. every number written down.",
+      "hud": "45 MIN",
+      "figs": [
+        {
+          "x": 540,
+          "p": 0.3,
+          "earnie": true,
+          "plates": 3
+        }
+      ]
+    },
+    {
+      "text": "same glute day. half the time.",
+      "figs": [
+        {
+          "x": 540,
+          "p": 1.0,
+          "earnie": true,
+          "plates": 3
+        }
+      ],
+      "footer": "earnie trains on EARND, our app. launching soon. follow @earndapp."
+    }
+  ]
+}

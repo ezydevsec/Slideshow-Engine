@@ -1,6 +1,6 @@
 {
-  "set_id": "2026-11-16-earnie-video-stick-same-gym",
-  "status": "draft (prototype)",
+  "set_id": "2026-11-15-earnie-video-stick-same-gym",
+  "status": "draft",
   "format": "3D stickman story (neuronvisuals style)",
   "account": "@earnie.lifts",
   "account_type": "theme",
@@ -33,5 +33,13 @@
   "endcard": [
     "earnie trains on EARND, our app.",
     "follow @earndapp for the launch."
-  ]
+  ],
+  "caption": "same effort. only one tracked it. #gymtok #progressiveoverload #gymmotivation #deadlift #relatable",
+  "ai_images": false,
+  "ai_note": "drawn by code, nothing generated",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — JBA",
+    "backup": "Interstellar on Piano — Andy Morris"
+  }
 }

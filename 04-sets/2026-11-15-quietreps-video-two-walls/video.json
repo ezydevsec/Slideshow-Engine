@@ -1,0 +1,13 @@
+{
+  "set_id": "2026-11-15-quietreps-video-two-walls",
+  "status": "draft",
+  "format": "stickman-style metaphor (gold line art, AI narrator)",
+  "account": "@quiet.reps4",
+  "account_type": "theme",
+  "new_format_test": "neuronvisuals-style metaphor in gold line art",
+  "caption": "pick one plan. lay the next brick. #selfimprovement #discipline #consistency #gymmotivation #mindset",
+  "out": "two-walls.mp4",
+  "ai_images": true,
+  "ai_note": "AI voiceover (ElevenLabs v4 'Knox' via Higgsfield); line art drawn by code: TikTok AI label ON",
+  "sound": {"mode": "trending", "primary": "Les (Instrumental Slowed) — aurelia & dopuu (under the voice, 5–10%)", "backup": "FOCUS 3 (Ultra Slowed) — quietshadow (5–10%)"}
+}

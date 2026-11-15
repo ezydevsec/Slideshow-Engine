@@ -1,0 +1,178 @@
+{
+  "set_id": "2026-11-15-earndapp-pick1-perfect-upper-day",
+  "status": "draft",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "new_format_test": "Arrow/bluebro pick-1 structure, 9 slides (vs our 5-slide default)",
+  "canvas": "1080x1350",
+  "caption": "the perfect upper day 🧪 pick 1 exercise per slide, 2 hard sets of 4–8 each, done. 1. chest press or pec deck 2. pulldown or pullover 3. chest-supported row or shrug 4. lateral raise or shoulder press 5. preacher or bayesian curl 6. pushdown or overhead extension. which one are you picking for slide 1? #upperday #upperbody #gymtips #hypertrophy #workoutplan",
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ink on Parchment — Marla Swick",
+    "backup": "som original — ANABOLIC"
+  },
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "the science of the",
+          false
+        ],
+        [
+          "perfect upper day",
+          true
+        ]
+      ],
+      "sub": "(pick 1 exercise per slide → your full workout)",
+      "pose": "cover-arms-open"
+    },
+    {
+      "type": "structure",
+      "title": "the structure",
+      "sub": "you don't need 10 exercises. you need these 6 jobs covered.",
+      "items": [
+        "chest (pressing)",
+        "lats (pulling down)",
+        "upper back (rowing)",
+        "side delts",
+        "biceps",
+        "triceps"
+      ],
+      "note": "2 hard sets each. 4–8 reps."
+    },
+    {
+      "type": "pick",
+      "n": 1,
+      "muscle": "chest",
+      "sets": "2 × 4–8",
+      "anatomy": "chest",
+      "options": [
+        [
+          "chest press",
+          "chest-press"
+        ],
+        [
+          "pec deck",
+          "pec-deck"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 2,
+      "muscle": "lats",
+      "sets": "2 × 4–8",
+      "anatomy": "lats",
+      "options": [
+        [
+          "pulldown",
+          "pulldown"
+        ],
+        [
+          "pullover",
+          "pullover"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 3,
+      "muscle": "upper back",
+      "sets": "2 × 4–8",
+      "anatomy": "upper-back",
+      "options": [
+        [
+          "chest-supported row",
+          "chest-supported-row"
+        ],
+        [
+          "shrug",
+          "shrug"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 4,
+      "muscle": "side delts",
+      "sets": "2 × 4–8",
+      "anatomy": "delts",
+      "options": [
+        [
+          "lateral raise",
+          "lateral-raise"
+        ],
+        [
+          "shoulder press",
+          "shoulder-press"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 5,
+      "muscle": "biceps",
+      "sets": "2 × 4–8",
+      "anatomy": "biceps",
+      "options": [
+        [
+          "preacher curl",
+          "preacher-curl"
+        ],
+        [
+          "bayesian curl",
+          "bayesian-curl"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 6,
+      "muscle": "triceps",
+      "sets": "2 × 4–8",
+      "anatomy": "triceps",
+      "options": [
+        [
+          "pushdown",
+          "triceps-pushdown"
+        ],
+        [
+          "overhead extension",
+          "overhead-triceps-extension"
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND shows you",
+          false
+        ],
+        [
+          "what to beat",
+          true
+        ],
+        [
+          "on every set",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ],
+  "length_test": "9 slides (pair: 2026-11-15-earndapp-pick1-perfect-lower-day-5)",
+  "topic_source": "Paul Carter (@liftrunbang1) 15 Oct '9 levers': 4–10 hard sets per muscle a week, 1–2 RIR, 4–8 reps, each muscle 2–3x a week"
+}

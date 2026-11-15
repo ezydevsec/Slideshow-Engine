@@ -1,6 +1,6 @@
 {
-  "set_id": "2026-11-16-earndapp-video-study-once-vs-twice",
-  "status": "draft (example)",
+  "set_id": "2026-11-15-earndapp-video-study-once-vs-twice",
+  "status": "draft",
   "format": "study race A vs B",
   "account": "@earndapp",
   "account_type": "brand",
@@ -68,5 +68,6 @@
     198,
     255,
     0
-  ]
+  ],
+  "topic_source": "Paul Carter (@liftrunbang1) 20 Oct: same weekly sets, frequency beyond 2x adds nothing; studies verified (Schoenfeld 2016, 2019)"
 }

@@ -1,0 +1,103 @@
+{
+  "set_id": "2026-11-15-ezyxbt-loop-write-it-down",
+  "status": "draft",
+  "format": "native-tip-slideshow (loop chain)",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "new_format_test": "the loop chain slideshow (@friendlygymbro structure; Watch list)",
+  "topic_source": "Paul Carter (@liftrunbang1) 15 Oct '9 levers': add load when you hit the top of the rep range",
+  "canvas": "1080x1920",
+  "caption": "it all ties together. #gymtips #progressiveoverload #gymtok #upperlower #consistency",
+  "sound": {
+    "mode": "trending",
+    "primary": "son original — lyrics_song",
+    "backup": "original sound — Slowed Down Songs"
+  },
+  "ai_images": false,
+  "ai_note": "founder photos are real; nothing generated",
+  "slides": [
+    {
+      "type": "oneliner",
+      "photo": {
+        "file": "b10-03.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "text": "remember this…",
+      "color": "white",
+      "dim": 0.3,
+      "y": 0.22,
+      "size": 64
+    },
+    {
+      "type": "oneliner",
+      "photo": {
+        "file": "b10-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "text": "the more you write down, the more you know what to beat.",
+      "color": "white",
+      "dim": 0.35,
+      "y": 0.22
+    },
+    {
+      "type": "oneliner",
+      "photo": {
+        "file": "b15-02.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "text": "the more you know what to beat, the more often you beat it.",
+      "color": "white",
+      "dim": 0.35,
+      "y": 0.22
+    },
+    {
+      "type": "oneliner",
+      "photo": {
+        "file": "b14-08.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "text": "the more often you beat it, the more you want to show up.",
+      "color": "white",
+      "dim": 0.35,
+      "y": 0.22
+    },
+    {
+      "type": "oneliner",
+      "photo": {
+        "file": "b12-06.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "text": "the more you show up, the more there is to write down.",
+      "color": "white",
+      "dim": 0.35,
+      "y": 0.22
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b16-05.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      },
+      "text": "it all ties together.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}
