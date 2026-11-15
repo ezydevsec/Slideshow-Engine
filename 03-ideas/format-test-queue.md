@@ -75,6 +75,8 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 |---|---|---|---|
 | "Who lets go last?" contest | @focus.habits 3.6M | 1 | look for 2 more accounts |
 | Two-panel dissolve meme | @gamblersdaily (IG) | 1 | dropped (memes stopped 11-11) |
+| **Animated study race** (wireframe gym, 3 groups side by side, week counter, bars grow to the paper's result) | founder link 11-15: @dialed.lift 536K / 6.3K likes in 1 day | 1 (+ cousins: workitapp, our A vs B) | strongest candidate; one more account confirms it |
+| "Under the hood" app explainer with cartoon narrator | founder link 11-15: @speedy_devv 10.1M, 12 Oct | 1 | 34 days old; look for a recent second account |
 | "The loop" chain slideshow (each slide starts with the last one's end, loops back) | founder link 11-14: @friendlygymbro 31.1K / 1.3K saves, 7 Oct | 1 | fails 50K + 30-day checks; look for 2 more accounts. Notes: `02-research/swipe/2026-11-14-friendlygymbro-loop.md` |
 | Myth fact-check slideshow (skincare derm explainers → gym) | web scan 11-14, no metrics | ? | needs an Apify scan |
 | Worth it / skip it (save-or-splurge → gym habits) | web scan 11-14, no metrics | ? | needs an Apify scan |
