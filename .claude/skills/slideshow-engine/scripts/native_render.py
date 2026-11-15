@@ -162,6 +162,22 @@ def render(s):
             d.text(((W - tw) / 2, y), ln, font=f, fill=s.get("color", "white"), stroke_width=2, stroke_fill=(0, 0, 0))
             y += lh
         return img
+    if t == "hud":  # stickman-comparison in photo form: week label top, two-column panel lower down (keeps the face clear)
+        img = photo_bg(s["photo"], dim=s.get("dim", 0.45)); d = ImageDraw.Draw(img)
+        y = native_text(img, s["title"], 80, int(H * 0.16))
+        if s.get("sub"): native_text(img, s["sub"], 44, y + 40, font=SEMI)
+        top = int(H * 0.58); box = Image.new("RGBA", (W - 120, int(H * 0.26)), (10, 10, 12, 215))
+        m = Image.new("L", box.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0) + box.size, 36, fill=255)
+        img.paste(box, (60, top), m); d = ImageDraw.Draw(img)
+        for i, col in enumerate(s["cols"]):
+            cx = 60 + (W - 120) * (0.25 + 0.5 * i); win = i == 1
+            fl = F(BOLD, 44); tw = d.textlength(col["label"], font=fl)
+            d.text((cx - tw / 2, top + 40), col["label"], font=fl, fill=(198, 255, 0) if win else (235, 235, 235))
+            for k, ln in enumerate(col["lines"]):
+                f2 = F(SEMI, 46 if k == len(col["lines"]) - 1 else 38); tw = d.textlength(ln, font=f2)
+                d.text((cx - tw / 2, top + 120 + k * 80), ln, font=f2, fill=((198, 255, 0) if win and k == len(col["lines"]) - 1 else (230, 230, 230)))
+        if s.get("example"): example_tag(img, W // 2, top + int(H * 0.26) + 30)
+        return img
     if t == "cta":
         img = photo_bg(s["photo"], dim=0.35)
         y = native_text(img, s["text"], 70, int(H * 0.45))

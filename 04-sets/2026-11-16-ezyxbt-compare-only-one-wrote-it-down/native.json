@@ -1,0 +1,108 @@
+{
+  "set_id": "2026-11-16-ezyxbt-compare-only-one-wrote-it-down",
+  "status": "draft (sample)",
+  "format": "native-tip-slideshow (stickman comparison, photo version)",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "new_format_test": "3D stickman comparison in photo form (weekly, all accounts)",
+  "canvas": "1080x1920",
+  "caption": "same gym. same days. only one wrote it down. #gymtips #progressiveoverload #gymtok #upperlower #consistency",
+  "sound": {
+    "mode": "trending",
+    "primary": "son original — lyrics_song",
+    "backup": "🅒 Ink on Parchment — Marla Swick"
+  },
+  "ai_images": false,
+  "ai_note": "founder photos and app screen are real; nothing generated",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b14-05.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "same gym. same days. only one wrote it down.",
+      "hook_y": 0.16
+    },
+    {
+      "type": "hud",
+      "photo": {
+        "file": "b15-02.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "week 1 → week 12",
+      "sub": "same exercise. same effort.",
+      "cols": [
+        {
+          "label": "GUESSING",
+          "lines": [
+            "week 1: 60 kg × 8",
+            "week 12:",
+            "60 kg × 8"
+          ]
+        },
+        {
+          "label": "WRITING IT DOWN",
+          "lines": [
+            "week 1: 60 kg × 8",
+            "week 12:",
+            "75 kg × 8"
+          ]
+        }
+      ],
+      "example": true
+    },
+    {
+      "type": "list",
+      "title": "why",
+      "photo": {
+        "file": "b10-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "lines": [],
+      "text": "if you don't know last week's number, you can't beat it. you just repeat it."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b13-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip",
+      "text": "i check last time's number before every set.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b16-05.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "be the one who writes it down",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

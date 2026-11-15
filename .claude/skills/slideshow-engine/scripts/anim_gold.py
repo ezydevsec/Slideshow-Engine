@@ -179,5 +179,45 @@ def feeling(set_dir):
     render(set_dir, "feeling-comes-after.mp4", END + 3.2, draw, (0.5, 3.5, 6, 9, 11.5, 14, 17, 21, 23.5, 26))
 
 
+# ------------------------------------------------------------------ two walls (stickman-style metaphor)
+def walls(set_dir):
+    END = 17.6
+    kws = [(0.0, "two men start", "THE SAME WALL"), (2.6, "one gets bored and", "STARTS A BETTER ONE"), (6.0, "", "THEN ANOTHER"),
+           (8.7, "the other", "LAYS THE NEXT BRICK"), (11.3, "a year later", "ONE HAS A WALL"), (14.4, None, None)]
+    BW, BH = 84, 48
+    def wall(d, x0, y0, n, cols=5, fill=230, w=4):
+        for i in range(n):
+            r, c = divmod(i, cols); off = (BW // 2) if r % 2 else 0
+            x = x0 + c * BW + off; y = y0 - (r + 1) * BH
+            d.rectangle([x, y, x + BW - 6, y + BH - 6], outline=fill, width=w)
+        return y0 - ((n + cols - 1) // cols) * BH
+    def draw(t, dc, dg):
+        if t >= END:
+            return endcard(dc, dg, t, END, "lay the next brick.", DISCLOSE)
+        if t > 14.4:
+            big(dc, "PICK ONE PLAN.", 760, ease((t - 14.4) / 0.3), 120); big(dg, "LAY THE NEXT BRICK.", 900, ease((t - 16.1) / 0.3), 110)
+            return
+        kw_draw(dc, dg, t, kws, ("LAYS THE NEXT BRICK", "ONE HAS A WALL"))
+        ground = 1520
+        dc.line([(60, ground), (W - 60, ground)], fill=120, width=3)
+        # left: restarts at 2.6, 6.0, 7.1 -> abandoned stubs to the left, current short wall
+        starts = [0.0, 2.6, 6.0, 7.1]
+        cur = max(i for i, s0 in enumerate(starts) if t >= s0)
+        for i in range(cur):                                   # abandoned stubs shrink into the distance
+            sx = 30 + i * 52; wall(dc, sx, ground, 2, cols=1, fill=110, w=3)
+        since = t - starts[cur]; n_left = min(9, int(since * 3.2))
+        lx = 200; ltop = wall(dc, lx, ground, n_left, cols=3)
+        stick(dc, lx + 300, ground, 0.8, w=6, pose="walk" if 0.2 < since < 2.5 else "stand", ph=t * 5)
+        # right: steady, never stops
+        n_right = int(min(t, 14.4) * 3.6)
+        rtop = wall(dg if t > 8.7 else dc, 560, ground, n_right, cols=5)
+        sy = min(ground, rtop + 2) if t > 8.7 else ground
+        stick(dg if t > 8.7 else dc, 1000, ground, 0.8, w=6, pose="walk", ph=t * 6)
+        if t > 11.3:
+            ctext(dg, f"BRICK {n_right}", F(MONO, 44), 1580, 255, x=780)
+            ctext(dc, f"BRICK {n_left}", F(MONO, 44), 1580, 160, x=330)
+    render(set_dir, "two-walls.mp4", END + 3.2, draw, (1, 4, 7.5, 10, 13, 16.5, 19.5))
+
+
 if __name__ == "__main__":
-    {"escalator": escalator, "feeling": feeling}[sys.argv[1]](sys.argv[2])
+    {"escalator": escalator, "feeling": feeling, "walls": walls}[sys.argv[1]](sys.argv[2])
