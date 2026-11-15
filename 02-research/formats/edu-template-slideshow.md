@@ -44,3 +44,16 @@ Status: **not yet tested on our accounts.** Data from an Apify scrape of each pr
 - Don't claim what's inside EARND's programme (exercise list, sets) until the founder confirms it. Templates are general advice; the last slide bridges to EARND tracking with the real screenshot plus the prelaunch CTA.
 - Sets × reps on templates are recommendations, not progression examples. Founder to confirm whether the "example" label rule applies to them.
 - Generated illustrations mean `ai_images: true` and the TikTok AI label on.
+
+## Re-check 2026-11-15 (Apify run HCiiQvDyprrtJfTii, last 20 posts each)
+**@arrowfitnessapp, last 2 weeks:** pull day "you don't need 10+ exercises, just better ones" **450K / 15.3K saves** · "#1 best exercise for each muscle" **394K / 13.6K** · "perfect leg day" **340K / 10.7K** · best chest exercises 123K · upper body workout 115K / 3.6K · arms 81K.
+**@bluebro.fit:** "You're probably doing too many. The exact number for every muscle. Save this one." **548K / 18.9K saves** · tier lists with fight-starting hooks ("Deadlifts in F tier. Argue with me." 68K; "Face pulls in F tier" 37K) · studies in captions ("Bottom-half reps: +15.2% vs +6.7%, Kassiano 2023").
+
+**Their current structure (what @earndapp now copies):**
+1. Cover: lowercase heavy sans, key words on a green highlight box, "(pick 1 exercise per slide → your full workout)" in italics, anatomy figure.
+2. "The structure": a checklist of the jobs to cover (the whole answer on slide 2).
+3. One slide per muscle: "pick 1" pill, "1 · lats (adduction)", sets × reps, anatomy thumbnail top-right with the muscle in green, **two exercise options side by side** split by a green line.
+4. Last slide: the app ("arrow tells you exactly what to eat and what to lift"). (Arrow adds a jokey 1-star "review"; **we never invent reviews**.)
+5. **9–17 slides**, not 5. Caption repeats the whole workout as a numbered list + a "which one are you picking?" question.
+
+**What we were doing differently:** Anton all-caps covers, 5 slides, the app on slide 4 of 5, one exercise per card. Renderer for the new structure: `arrow_render.py` (black + lime brand, graphite mascot, anatomy recoloured lime). The 9-slide length goes against our 5-slide rule (8 Nov), so it runs as a test.
