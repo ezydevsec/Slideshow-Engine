@@ -1,13 +1,107 @@
 {
   "set_id": "2026-11-15-earnie-tier-every-lat-exercise",
-  "status": "draft (example, gritty anime Earnie)",
+  "status": "draft",
   "format": "bluebro-style tier list (white, gritty anime Earnie)",
   "account": "@earnie.lifts",
   "account_type": "theme",
   "topic_source": "Paul Carter (@liftrunbang1) 16 Oct (204K) + 22 Oct (169K): the whole lat does one job; pulldowns, chin/pull-ups and lat rows; lean on pulldowns is fine (PMID 40981044, his 23 Oct post)",
   "canvas": "1080x1350",
   "caption": "every lat exercise, ranked. argue with me 👇 #gymtok #lats #backworkout #tierlist #widerback",
-  "sound": {"mode": "trending", "primary": "original sound — JBA", "backup": "som original — ANABOLIC"},
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — JBA",
+    "backup": "som original — ANABOLIC"
+  },
   "ai_images": true,
-  "ai_note": "Earnie art generated with Higgsfield: TikTok AI label ON"
+  "ai_note": "Earnie art generated with Higgsfield: TikTok AI label ON",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "every lat exercise,",
+        "ranked."
+      ],
+      "sub": "argue with me.",
+      "pose": "cover-arms-crossed"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "the whole lat does one job. pick from the top.",
+      "rows": [
+        [
+          "S",
+          [
+            "lat pulldown",
+            "pull-up / chin-up"
+          ]
+        ],
+        [
+          "A",
+          [
+            "single-arm row",
+            "chest-supported lat row"
+          ]
+        ],
+        [
+          "B",
+          [
+            "straight-arm pulldown",
+            "pullover"
+          ]
+        ],
+        [
+          "C",
+          [
+            "'lower lat' anything"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "lat pulldown",
+      "works": "lats",
+      "lines": [
+        "2 × 4–8. a slight lean back is fine:",
+        "same lats, a bit more upper back."
+      ],
+      "pose": "pulldown"
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "pull-up",
+      "works": "lats",
+      "lines": [
+        "same job as the pulldown.",
+        "add weight once you own 8 clean reps."
+      ],
+      "pose": "pull-up"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "single-arm row",
+      "works": "lats + upper back",
+      "lines": [
+        "pull to the hip, not the chest.",
+        "that's what makes it a lat row."
+      ],
+      "pose": "single-arm-row"
+    },
+    {
+      "type": "tier",
+      "tier": "B",
+      "name": "straight-arm pulldown",
+      "works": "lats",
+      "lines": [
+        "fine as an extra.",
+        "not instead of a pulldown or a row."
+      ],
+      "pose": "straight-arm-pulldown",
+      "footer": "earnie trains on EARND, our app. follow @earndapp"
+    }
+  ]
 }
