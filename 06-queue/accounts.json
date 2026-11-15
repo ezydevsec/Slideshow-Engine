@@ -139,9 +139,9 @@
         "disclosure"
       ],
       "voice": "lowercase, deadpan, relatable gym moments from the pain bank (can't remember last week's weight, guessing, same reps for months, notes app chaos). One joke per slide, under 25 words. No physique promises; payoff is about tracking, never looks.",
-      "visual_template": "3D stickman stories (founder, 2026-11-15; replaces comic): black void, glossy reflective floor, warm spotlight, white round-headed 3D stick figures; Earnie is the one with the warm amber glow. Short metaphor stories (11–16 s video, no voice) and the same look as still slideshows. Renderer anim_stick.py. Never the edu template (@earndapp's).",
+      "visual_template": "bluebro-style tier lists and rankings on white with gritty anime Ryo (tier_render.py); 3 slideshows a day, no videos (founder, 2026-11-15).",
       "cta": {
-        "prelaunch": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
+        "prelaunch": "ryo trains on EARND, our app. follow @earndapp for the launch.",
         "launched": "TO CONFIRM at launch",
         "destination_prelaunch": "follow @earndapp",
         "destination_launched": "launch.download_url"
@@ -157,8 +157,10 @@
       "differentiation": "vs @earndapp: jokes, not education. vs @gymbro.skits: still meme slideshows with one character (Earnie), not 3D video skits with two gym bros.",
       "content_mix": "Mixed content (founder, 2026-11-04): meme slideshows (meme_render.py) plus short meme videos: one Earnie scene from 01-app/brand/memes/ animated (Kling image-to-video, 5–10 s) with the meme caption burned in. Daily volume (founder, 2026-11-06): 3–5 posts: 2–4 slideshows + exactly 1 video a day, at least one post a new-format test.",
       "volume": "1 video + 2 slideshows a day, all stories (founder, 2026-11-14)",
-      "bio_proposal": "same gym. different choices. earnie's the one glowing.",
-      "avatar": "01-app/brand/avatars/earnie-stick.png"
+      "bio_proposal": "Ryo · every exercise, ranked. argue with me 👊",
+      "avatar": "01-app/brand/avatars/earnie-stick.png",
+      "character": "Ryo (renamed from Earnie, founder 2026-11-15): original gritty anime lifter, spiky black hair, white sleeveless shirt, black shorts, black wrist wraps; full colour, no muscle glow. Poses: 01-app/brand/earnie-v3/.",
+      "handle_new": "TO CONFIRM: @ryo.lifts (founder claims it in the app; until then posts go to @earnie.lifts)"
     },
     {
       "type": "theme",
