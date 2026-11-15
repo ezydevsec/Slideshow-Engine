@@ -1,21 +1,99 @@
 {
   "set_id": "2026-11-15-ryo-tier-every-hinge",
-  "status": "draft",
+  "status": "approved (founder); post on 2026-11-15",
   "format": "bluebro-style tier list (white, gritty anime Ryo)",
   "account": "@earnie.lifts",
   "account_type": "theme",
   "topic_source": "Paul Carter (@liftrunbang1) 31 Oct, 201K: ranking hinges, 45° back extension S tier",
   "canvas": "1080x1350",
   "caption": "every hinge, ranked for muscle growth. deadlift fans, argue with me 👇 #gymtok #hamstrings #deadlift #tierlist #legday",
-  "sound": {"mode": "trending", "primary": "original sound — JBA", "backup": "som original — ANABOLIC"},
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — JBA",
+    "backup": "som original — ANABOLIC"
+  },
   "ai_images": true,
   "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
   "slides": [
-    {"type": "cover", "title": ["every hinge,", "ranked."], "sub": "deadlift fans, argue with me.", "pose": "cover-arms-crossed"},
-    {"type": "list", "title": "the whole list", "sub": "ranked for muscle, not for ego.", "rows": [["S", ["45° back extension"]], ["A", ["stiff-leg deadlift", "romanian deadlift"]], ["B", ["conventional deadlift"]]]},
-    {"type": "tier", "tier": "S", "name": "45° back extension", "works": "hamstrings + glutes", "lines": ["the most stable hinge there is.", "hold a plate, own 8 clean reps."], "pose": "back-extension-45"},
-    {"type": "tier", "tier": "A", "name": "stiff-leg deadlift", "works": "hamstrings", "lines": ["legs nearly straight.", "the hamstring version of the hinge."], "pose": "stiff-leg-deadlift"},
-    {"type": "tier", "tier": "A", "name": "romanian deadlift", "works": "glutes + hamstrings", "lines": ["soft knees, hips back.", "the glute version of the hinge."], "pose": "romanian-deadlift"},
-    {"type": "tier", "tier": "B", "name": "conventional deadlift", "works": "quads + glutes + back", "lines": ["great lift. just not the best", "one for hamstring growth."], "pose": "deadlift", "footer": "ryo trains on EARND, our app. follow @earndapp"}
+    {
+      "type": "cover",
+      "title": [
+        "every hinge,",
+        "ranked."
+      ],
+      "sub": "deadlift fans, argue with me.",
+      "pose": "cover-arms-crossed"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "ranked for muscle, not for ego.",
+      "rows": [
+        [
+          "S",
+          [
+            "45° back extension"
+          ]
+        ],
+        [
+          "A",
+          [
+            "stiff-leg deadlift",
+            "romanian deadlift"
+          ]
+        ],
+        [
+          "B",
+          [
+            "conventional deadlift"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "45° back extension",
+      "works": "hamstrings + glutes",
+      "lines": [
+        "the most stable hinge there is.",
+        "hold a plate, own 8 clean reps."
+      ],
+      "pose": "back-extension-45"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "stiff-leg deadlift",
+      "works": "hamstrings",
+      "lines": [
+        "legs nearly straight.",
+        "the hamstring version of the hinge."
+      ],
+      "pose": "stiff-leg-deadlift"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "romanian deadlift",
+      "works": "glutes + hamstrings",
+      "lines": [
+        "soft knees, hips back.",
+        "the glute version of the hinge."
+      ],
+      "pose": "romanian-deadlift"
+    },
+    {
+      "type": "tier",
+      "tier": "B",
+      "name": "conventional deadlift",
+      "works": "quads + glutes + back",
+      "lines": [
+        "great lift. just not the best",
+        "one for hamstring growth."
+      ],
+      "pose": "deadlift",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
   ]
 }

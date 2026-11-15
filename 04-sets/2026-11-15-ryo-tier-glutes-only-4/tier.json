@@ -1,6 +1,6 @@
 {
   "set_id": "2026-11-15-ryo-tier-glutes-only-4",
-  "status": "draft",
+  "status": "approved (founder); post on 2026-11-15",
   "format": "bluebro-style tier list (white, gritty anime Ryo)",
   "account": "@earnie.lifts",
   "account_type": "theme",
@@ -8,15 +8,104 @@
   "pain_cover": true,
   "canvas": "1080x1350",
   "caption": "11 glute exercises and half of them do the same job. you need 4. which one are you cutting? 👇 #gymtok #glutes #legday #gluteworkout #hypertrophy",
-  "sound": {"mode": "trending", "primary": "original sound — JBA", "backup": "original sound — Be On Your Feelings"},
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — JBA",
+    "backup": "original sound — Be On Your Feelings"
+  },
   "ai_images": true,
   "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
   "slides": [
-    {"type": "cover", "title": ["11 glute exercises?", "you need 4."], "sub": "argue with me.", "pose": "cover-arms-crossed"},
-    {"type": "list", "title": "the only 4 jobs", "sub": "one exercise each. the rest is repeats.", "rows": [["S", ["both legs, short: hip thrust"]], ["S", ["both legs, stretched: leg press"]], ["S", ["one leg, short: cable kickback"]], ["S", ["one leg, stretched: split squat"]], ["C", ["3 abduction machines in a row"]]]},
-    {"type": "tier", "tier": "S", "name": "hip thrust", "works": "glutes, short position", "lines": ["both legs, top of the movement.", "2 × 4–8, pause at the top."], "pose": "hip-thrust"},
-    {"type": "tier", "tier": "S", "name": "leg press", "works": "glutes + quads, stretched", "lines": ["both legs, deep at the bottom.", "squats or RDLs do the same job."], "pose": "leg-press"},
-    {"type": "tier", "tier": "S", "name": "cable kickback", "works": "glutes, short position", "lines": ["one leg at a time.", "squeeze, don't swing."], "pose": "cable-kickback"},
-    {"type": "tier", "tier": "S", "name": "split squat", "works": "glutes + quads, stretched", "lines": ["one leg, deep stretch.", "lunges do the same job."], "pose": "split-squat", "footer": "ryo trains on EARND, our app. follow @earndapp"}
+    {
+      "type": "cover",
+      "title": [
+        "11 glute exercises?",
+        "you need 4."
+      ],
+      "sub": "argue with me.",
+      "pose": "cover-arms-crossed"
+    },
+    {
+      "type": "list",
+      "title": "the only 4 jobs",
+      "sub": "one exercise each. the rest is repeats.",
+      "rows": [
+        [
+          "S",
+          [
+            "both legs, short: hip thrust"
+          ]
+        ],
+        [
+          "S",
+          [
+            "both legs, stretched: leg press"
+          ]
+        ],
+        [
+          "S",
+          [
+            "one leg, short: cable kickback"
+          ]
+        ],
+        [
+          "S",
+          [
+            "one leg, stretched: split squat"
+          ]
+        ],
+        [
+          "C",
+          [
+            "3 abduction machines in a row"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "hip thrust",
+      "works": "glutes, short position",
+      "lines": [
+        "both legs, top of the movement.",
+        "2 × 4–8, pause at the top."
+      ],
+      "pose": "hip-thrust"
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "leg press",
+      "works": "glutes + quads, stretched",
+      "lines": [
+        "both legs, deep at the bottom.",
+        "squats or RDLs do the same job."
+      ],
+      "pose": "leg-press"
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "cable kickback",
+      "works": "glutes, short position",
+      "lines": [
+        "one leg at a time.",
+        "squeeze, don't swing."
+      ],
+      "pose": "cable-kickback"
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "split squat",
+      "works": "glutes + quads, stretched",
+      "lines": [
+        "one leg, deep stretch.",
+        "lunges do the same job."
+      ],
+      "pose": "split-squat",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
   ]
 }
