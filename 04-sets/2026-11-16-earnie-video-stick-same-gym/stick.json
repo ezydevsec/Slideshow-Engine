@@ -1,0 +1,37 @@
+{
+  "set_id": "2026-11-16-earnie-video-stick-same-gym",
+  "status": "draft (prototype)",
+  "format": "3D stickman story (neuronvisuals style)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "new_format_test": "Earnie's new look: 3D stickman stories (founder, 2026-11-15)",
+  "out": "same-gym.mp4",
+  "accent": [
+    255,
+    196,
+    120
+  ],
+  "premise": "same gym. same days.",
+  "left": {
+    "label": "GUESSES",
+    "lift": "DEADLIFT",
+    "start": 60,
+    "per_week": 0
+  },
+  "right": {
+    "label": "EARNIE: TRACKS IT",
+    "lift": "DEADLIFT",
+    "start": 60,
+    "per_week": 2.5
+  },
+  "weeks": 12,
+  "example": true,
+  "end_line": [
+    "same effort.",
+    "only earnie tracked it."
+  ],
+  "endcard": [
+    "earnie trains on EARND, our app.",
+    "follow @earndapp for the launch."
+  ]
+}

@@ -136,7 +136,7 @@
         "disclosure"
       ],
       "voice": "lowercase, deadpan, relatable gym moments from the pain bank (can't remember last week's weight, guessing, same reps for months, notes app chaos). One joke per slide, under 25 words. No physique promises; payoff is about tracking, never looks.",
-      "visual_template": "Comic art only (comic_render.py / narrated comic or cartoon videos). Never the edu template: that is @earndapp's (founder, 2026-11-15).",
+      "visual_template": "3D stickman stories (founder, 2026-11-15; replaces comic): black void, glossy reflective floor, warm spotlight, white round-headed 3D stick figures; Earnie is the one with the warm amber glow. Short metaphor stories (11–16 s video, no voice) and the same look as still slideshows. Renderer anim_stick.py. Never the edu template (@earndapp's).",
       "cta": {
         "prelaunch": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
         "launched": "TO CONFIRM at launch",

@@ -22,9 +22,9 @@ Gate: 50K+ ✓ · under 30 days ✓ (@stickmaxx, 24 days) · easy to repeat ✓ 
 - No talking, no faces, no logos. Loops cleanly.
 
 ## Our versions (one per account, each in its own look)
-- **@earndapp** (black + lime): "same gym. same days. only one knew what to beat." Weights labelled "example".
+- **@earnie.lifts owns the white 3D stickman look** (founder 2026-11-15): Earnie is the amber-glowing figure.
+- **@earndapp** (graphite mascot + lime, real app screen at the end): its own drawing of the comparison, never the white sticks. Weights labelled "example".
 - **@quiet.reps4** (gold glow): neuronvisuals-style metaphors (program hopper vs one plan; waits for Monday vs starts tonight).
 - **@whatif.overload** (pixel): Dale vs his twin, "+2.5 kg a week vs same weight", joke escalation, no example tags.
-- **@earnie.lifts** (comic): Earnie vs Blake side-by-side comic slideshow, week 1 → week 12.
 - **@ezyxbt** (photos): "same gym. only one wrote it down" photo version: his photos with the week HUD; any numbers labelled example.
 Never: physique promises (the winner lifts more, not "looks better"), copying the reference animations or their exact lines.

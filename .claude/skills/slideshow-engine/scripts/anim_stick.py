@@ -29,7 +29,9 @@ F = lambda s: ImageFont.truetype(MONO, s)
 def ease(t): t = max(0.0, min(1.0, t)); return t * t * (3 - 2 * t)
 
 
-def ctext(d, txt, y, f, fill, x=W / 2):
+def ctext(d, txt, y, f, fill, x=W / 2, maxw=None):
+    maxw = maxw or (W - 80 if x == W / 2 else 420)
+    while d.textlength(txt, font=f) > maxw and f.size > 18: f = F(f.size - 2)
     d.text((x - d.textlength(txt, font=f) / 2, y), txt, font=f, fill=fill)
 
 
@@ -120,10 +122,10 @@ def render(set_dir):
                     ctext(d, ln.upper(), 240 + i * 90, F(64), (a, a, a) if i == 0 else tuple(int(v * a / 255) for v in acc))
             kl = L["start"] + L["per_week"] * (wk - 1); kr = R["start"] + R["per_week"] * (wk - 1)
             for x, lab, col, kg in ((310, L["label"], (225, 225, 230), kl), (770, R["label"], acc, kr)):
-                ctext(d, lab, 520, F(36), col, x=x); ctext(d, f"{L['lift'] if x < 540 else R['lift']}: {kg:g} KG", 570, F(34), (235, 235, 240), x=x)
+                ctext(d, lab, 455, F(36), col, x=x); ctext(d, f"{L['lift'] if x < 540 else R['lift']}: {kg:g} KG", 500, F(34), (235, 235, 240), x=x)
             if sp.get("example"):
                 f = F(28); tw = d.textlength("example", font=f)
-                d.rounded_rectangle([W / 2 - tw / 2 - 16, 630, W / 2 + tw / 2 + 16, 674], 10, fill=acc); ctext(d, "example", 636, f, (10, 10, 10))
+                d.rounded_rectangle([W / 2 - tw / 2 - 16, 556, W / 2 + tw / 2 + 16, 600], 10, fill=acc); ctext(d, "example", 562, f, (10, 10, 10))
         else:
             a = ease((t - CARD_T) / 0.35)
             for i, ln in enumerate(sp["endcard"]):
