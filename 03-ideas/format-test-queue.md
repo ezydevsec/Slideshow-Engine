@@ -11,7 +11,8 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 ## ALL ACCOUNTS: weekly (founder, 2026-11-15)
 | # | Format | Source | Status |
 |---|---|---|---|
-| 1 | **3D stickman comparison** ("same X, only one Y"), each account in its own look | @stickmaxx 3.05M/2.7M/1.9M, @neuronvisuals 65M/40M/36M, @focus.habits 3.6M: **passed the gate 11-15** | first round 16–22 Nov, every account; `02-research/formats/stick-comparison-3d.md` |
+| 1 | **Study race A vs B** ("N guys did X for 8 weeks… here's the catch"): @earndapp's daily video for a week | @appforthegym 4.1M/2.2M/1.1M (13K→33K followers in 6 days), @dialed.lift 536K, @stickmaxx 3M: **passed the gate 11-15** | proposed; `02-research/formats/a-vs-b-sim-video.md` |
+| 2 | **3D stickman comparison** ("same X, only one Y"), each account in its own look | @stickmaxx 3.05M/2.7M/1.9M, @neuronvisuals 65M/40M/36M, @focus.habits 3.6M: **passed the gate 11-15** | first round 16–22 Nov, every account; `02-research/formats/stick-comparison-3d.md` |
 
 ## @earndapp
 | # | Format | Source | Status |

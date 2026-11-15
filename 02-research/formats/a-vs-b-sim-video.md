@@ -27,3 +27,26 @@ Source: @appforthegym ("IRON", a prelaunch gym app: bio "Spotify for music. Robi
 - Outcomes are told as strength, reps and what the research says, never physique promises ("watch the glutes" is out). Weights in progressions are labelled "example" (except @whatif.overload joke escalations, founder 2026-11-04).
 - The answer must be correct: cite the consensus (e.g. light vs heavy: similar growth when sets go close to failure; 0 vs 2 RIR: similar growth, less fatigue).
 - The winner side lines up with EARND: same programme + tracked, add a rep when you can, 2 hard sets.
+
+## Update 2026-11-15 (re-scrape, Apify run 9N04PMpdQTySFVHy5): the account is blowing up
+**13.1K → 33.4K followers in 6 days.** Newest posts:
+| Post | Views | Saves | Date |
+|---|---|---|---|
+| "you don't have to lift heavy to grow. here's the catch" | **4.1M** (was 3.6M) | 33K | 1 Nov |
+| "Half reps grew twice the calf of full reps. Here's the catch" | **2.2M** | 31.7K | 13 Nov |
+| "30 guys did the same curls for 8 weeks. The only difference was what they focused on" | **1.1M in 1 day** | 10.6K | 14 Nov |
+| full vs half squats / failure vs 2 RIR | 438K / 427K | | 6–7 Nov |
+| "You can take 6 weeks off and still grow" | 178K | | 8 Nov |
+
+What changed: the winners are now **study-backed** ("N guys did X for 8 weeks… here's the catch"), counter-intuitive results, 13–16 s, cinematic piano/score music (Ludwig Göransson, Hans Zimmer, Einaudi, Sigur Rós).
+
+**Gate: passes** (@appforthegym 4.1M/2.2M/1.1M in the last 2 weeks, @dialed.lift 536K, @stickmaxx 3M: 3 accounts, 50K+, under 30 days, code-drawable).
+
+**What we have vs what we lack:** our A vs B sim (11-10, 725 views, above median) used made-up "same program vs new workout" logic, flat 2D. Missing: (1) a real study and its real numbers on screen, (2) the counter-intuitive "here's the catch" hook, (3) 3D-looking figures, (4) cinematic music.
+
+**Our version: @earndapp "the study race"** (graphite mascot + lime, never Earnie's white sticks), our own topics, each checked against the paper before writing:
+- 1 vs 2 sessions a week per muscle (frequency meta-analysis, Schoenfeld et al. 2016): ties straight into EARND's upper/lower (each muscle twice a week).
+- 1 min vs 3 min rest (Schoenfeld et al. 2016).
+- 1 vs 3 vs 5 sets (Schoenfeld et al. 2019).
+- Lifting with a written target vs without (if a solid study exists; otherwise skip).
+Rules: real citation on screen, limits stated ("untrained men, 8 weeks"), never physique promises, ends on the app screen + prelaunch CTA.
