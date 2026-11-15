@@ -82,7 +82,7 @@ Status: **proposals awaiting founder approval (gate 4)**. Nothing below is appli
 
 ## Proposed CLAUDE.md changes
 1. **Theme:** @earndapp edu slideshows are black only (test closed).
-2. **@earnie.lifts:** 2 slideshows a day are anatomy edu (the format that works); the 1 video a day stays a narrated story. This changes the 11-10 "Earnie tells stories" rule for slideshows only.
+2. ~~@earnie.lifts: 2 slideshows a day are anatomy edu~~ **Withdrawn 2026-11-15:** Earnie's anatomy edu was the same template, mascot, exercises and captions as @earndapp's "your whole X" posts (dup_check.py flags 40 pairs). The anatomy format stays on @earndapp only. Earnie's 2 slideshows: comic "lesson" panels (Earnie demonstrating one exercise per panel, his own hooks) and the comic Earnie-vs-Blake stickman-style comparison.
 3. **Posting spacing:** posts on different accounts at least 30 min apart, never in the same minute (proposed on 11-13, not yet approved).
 
 ## Next week

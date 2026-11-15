@@ -136,13 +136,7 @@
         "disclosure"
       ],
       "voice": "lowercase, deadpan, relatable gym moments from the pain bank (can't remember last week's weight, guessing, same reps for months, notes app chaos). One joke per slide, under 25 words. No physique promises; payoff is about tracking, never looks.",
-      "visual_template": {
-        "name": "earnie-meme-3x4",
-        "canvas": "1080x1350",
-        "renderer": ".claude/skills/slideshow-engine/scripts/meme_render.py (meme.json)",
-        "images": "Earnie scenes from 01-app/brand/memes/ (uniform matte graphite, no lime highlights); generate 1–3 new scenes per set with Higgsfield from the mascot reference. Never copyrighted characters or meme templates.",
-        "account_mark": "none"
-      },
+      "visual_template": "Comic art only (comic_render.py / narrated comic or cartoon videos). Never the edu template: that is @earndapp's (founder, 2026-11-15).",
       "cta": {
         "prelaunch": "earnie trains on EARND, our app. launching soon. follow @earndapp.",
         "launched": "TO CONFIRM at launch",
