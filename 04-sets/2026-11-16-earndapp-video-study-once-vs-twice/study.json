@@ -6,10 +6,10 @@
   "account_type": "brand",
   "new_format_test": "study race A vs B (@appforthegym structure, our own study and look)",
   "out": "once-vs-twice.mp4",
-  "caption": "once a week vs twice a week. which grows more? here's the catch 👀 #gymtok #hypertrophy #upperlower #gymtips #workoutsplit",
-  "title_a": "ONCE A WEEK",
-  "title_b": "TWICE A WEEK",
-  "question": "same muscle. which grows more?",
+  "caption": "once vs twice a week. which grows more? here's the catch 👀 are you the left or the right? 👇 #gymtok #hypertrophy #upperlower #gymtips #workoutsplit",
+  "title_a": "ONCE",
+  "title_b": "TWICE",
+  "question": "Same muscle. Which grows more?",
   "days_a": [
     0
   ],
@@ -20,7 +20,7 @@
   "weeks": 8,
   "result_a": 0.3,
   "result_b": 0.49,
-  "result_head": "TWICE A WEEK GREW MORE",
+  "result_head": "Twice a week grew more.",
   "result_note": "across 10 studies",
   "result_a_label": "effect size 0.30",
   "result_b_label": "effect size 0.49",
@@ -33,7 +33,7 @@
   ],
   "catch_cite": "Schoenfeld, Grgic & Krieger 2019 (Journal of Sports Sciences)",
   "tie_in": [
-    "THAT'S UPPER/LOWER.",
+    "That's upper/lower.",
     "every muscle, twice a week. 2 hard sets each."
   ],
   "shot": "01-app/assets/train-week-overview.png",
@@ -53,5 +53,20 @@
     "mode": "trending",
     "primary": "Interstellar on Piano — Andy Morris (cinematic, as the format's winners use)",
     "backup": "Time — Hans Zimmer"
-  }
+  },
+  "style": "stage",
+  "head_a": "Once",
+  "head_b": "twice a week",
+  "sub_a": "1 session a week",
+  "sub_b": "2 sessions a week",
+  "color_a": [
+    110,
+    190,
+    255
+  ],
+  "color_b": [
+    198,
+    255,
+    0
+  ]
 }

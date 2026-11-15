@@ -42,6 +42,15 @@ def render(set_dir):
     for cx in (310, 770):
         base += 70 * np.exp(-(((xx - cx) / 240) ** 2 + ((yy - FLOOR) / 60) ** 2))[:, :, None] * np.array([210, 220, 200]) / 255
         base += 18 * np.exp(-(((xx - cx) / 200) ** 2 + ((yy - 900) / 600) ** 2))[:, :, None]
+    STAGE = sp.get("style") == "stage"          # @appforthegym look: charcoal stage, spotlight cones, ivory mannequins, 2 side colours
+    CA, CB = tuple(sp.get("color_a", (110, 190, 255))), tuple(sp.get("color_b", LIME))
+    if STAGE:
+        base = np.zeros((H, W, 3), np.float32) + np.array([15, 17, 23], np.float32)
+        for cx in (310, 770):
+            cone = Image.new("L", (W, H), 0); ImageDraw.Draw(cone).polygon([(cx - 40, 380), (cx + 40, 380), (cx + 230, FLOOR + 20), (cx - 230, FLOOR + 20)], fill=70)
+            cone = np.asarray(cone.filter(ImageFilter.GaussianBlur(40)), np.float32) / 255
+            base += cone[:, :, None] * np.array([120, 124, 135]) * (0.4 + 0.6 * (yy / H))[:, :, None]
+            base += 90 * np.exp(-(((xx - cx) / 220) ** 2 + ((yy - FLOOR) / 34) ** 2))[:, :, None] * np.array([0.75, 0.77, 0.82])
     base = Image.fromarray(base.clip(0, 255).astype(np.uint8))
     shot = Image.open(os.path.join(ROOT, sp["shot"])).convert("RGB")
     if sp.get("crop"):
@@ -64,25 +73,33 @@ def render(set_dir):
                 ph = (t * 2.2) % 1.0
                 p = ease(0.5 - 0.5 * math.cos(ph * 2 * math.pi)) if lifting else 1.0
                 lit = win and t >= T_RES
-                col = (226, 255, 120) if lit else GA
-                hy = st.figure(sd, x, p, col=col, shade=GB)
-                st.barbell(sd, x, hy, 2, LIME)
+                if STAGE:
+                    hy = st.figure(sd, x, p, col=(238, 232, 220), shade=(150, 144, 134))
+                    sc = CB if win else CA
+                    sd.line([(x - 190, hy), (x + 190, hy)], fill=(205, 205, 210), width=12)
+                    for side in (-1, 1):
+                        for k in range(2):
+                            px = x + side * (118 + k * 26); sd.ellipse([px - 14, hy - 74, px + 14, hy + 74], fill=sc)
+                else:
+                    col = (226, 255, 120) if lit else GA
+                    hy = st.figure(sd, x, p, col=col, shade=GB)
+                    st.barbell(sd, x, hy, 2, LIME)
                 if lit: st.figure(gd, x, p, col=255, shade=255)
                 # week strip: 7 day boxes, lifting days light up on their day
                 for k in range(7):
                     bx = x - 3 * 52 + k * 52 - 20
                     on = k in days; now = (k == day)
                     sd.rounded_rectangle([bx, FLOOR + 40, bx + 40, FLOOR + 80], 8,
-                                         outline=(90, 94, 100), width=3, fill=(LIME if (on and now) else ((70, 80, 40) if on else None)))
+                                         outline=(90, 94, 100), width=3, fill=(((CB if win else CA) if STAGE else LIME) if (on and now) else ((70, 80, 40) if on else None)))
                 # growth bar
                 target = sp["result_b"] if win else sp["result_a"]
                 frac = min(race, 1.0) * target / max(sp["result_a"], sp["result_b"])
                 if not win and t >= T_CATCH + 2.0:   # the catch: equal sets close the gap
                     frac += (1.0 - frac) * 0.85 * ease((t - T_CATCH - 2.0) / 0.8)
                 sd.rectangle([x - 150, FLOOR + 120, x + 150, FLOOR + 150], outline=(90, 94, 100), width=3)
-                sd.rectangle([x - 146, FLOOR + 124, x - 146 + 292 * frac, FLOOR + 146], fill=LIME if win else (170, 176, 186))
+                sd.rectangle([x - 146, FLOOR + 124, x - 146 + 292 * frac, FLOOR + 146], fill=(CB if win else CA) if STAGE else (LIME if win else (170, 176, 186)))
             top = scene.crop((0, FLOOR - 650, W, FLOOR)).transpose(Image.FLIP_TOP_BOTTOM)
-            refl = Image.blend(Image.new("RGB", top.size), top, 0.18)
+            refl = Image.blend(Image.new("RGB", top.size), top, 0.0 if STAGE else 0.18)
             img.paste(Image.composite(scene, img, scene.convert("L").point(lambda v: 255 if v > 4 else 0)), (0, 0))
             sub = img.crop((0, FLOOR, W, FLOOR + 650)); mask = refl.convert("L").point(lambda v: 255 if v > 3 else 0)
             img.paste(Image.composite(refl, sub, mask), (0, FLOOR))
@@ -90,36 +107,47 @@ def render(set_dir):
             img.paste(scene.crop((0, FLOOR + 30, W, FLOOR + 160)), (0, FLOOR + 30), scene.crop((0, FLOOR + 30, W, FLOOR + 160)).convert("L").point(lambda v: 255 if v > 4 else 0))
             if t >= T_RES:
                 g = glow.filter(ImageFilter.GaussianBlur(26))
-                arr = np.asarray(img).astype(np.float32) + np.asarray(g, np.float32)[:, :, None] / 255 * np.array(LIME) * 0.5
+                arr = np.asarray(img).astype(np.float32) + np.asarray(g, np.float32)[:, :, None] / 255 * np.array(CB if STAGE else LIME) * 0.5
                 img = Image.fromarray(arr.clip(0, 255).astype(np.uint8))
             d = ImageDraw.Draw(img)
             # labels
             for x, lab, win in ((310, sp["title_a"], False), (770, sp["title_b"], True)):
                 if T_CATCH <= t < T_APP: break
-                ct(d, lab, 540, 54, LIME if win else (225, 225, 230), x=x, maxw=440)
+                if STAGE:
+                    ct(d, lab.capitalize() if lab.isupper() else lab, 520, 58, CB if win else CA, x=x, maxw=440, path=INTER)
+                    sl = sp.get("sub_b" if win else "sub_a")
+                    if sl: ct(d, sl, 590, 32, (190, 192, 200), x=x, maxw=440, path=INTER)
+                else:
+                    ct(d, lab, 540, 54, LIME if win else (225, 225, 230), x=x, maxw=440)
             # top text by phase
             if t < T_RACE1:
                 a = ease(t / 0.3)
-                ct(d, sp["title_a"] + " vs " + sp["title_b"] + ".", 190, 96, (int(245 * a),) * 3)
+                if STAGE:
+                    parts = [(sp["head_a"], CA), (" vs ", (245, 245, 245)), (sp["head_b"], CB), (".", (245, 245, 245))]
+                    f = fit(d, "".join(t_ for t_, _ in parts), 96, W - 100, INTER); tx = (W - d.textlength("".join(t_ for t_, _ in parts), font=f)) / 2
+                    for t_, c_ in parts:
+                        d.text((tx, 190), t_, font=f, fill=tuple(int(v * a) for v in c_)); tx += d.textlength(t_, font=f)
+                else:
+                    ct(d, sp["title_a"] + " vs " + sp["title_b"] + ".", 190, 96, (int(245 * a),) * 3)
                 ct(d, sp["question"], 320, 50, (int(170 * a), int(175 * a), int(185 * a)), path=INTER)
                 if t >= T_RACE0: ct(d, f"WEEK {min(weeks, 1 + int(wk_f))}", 420, 44, LIME)
             elif t < T_CATCH:
                 a = ease((t - T_RES) / 0.3)
-                ct(d, sp["result_head"], 190, 96, tuple(int(v * a) for v in LIME))
+                ct(d, sp["result_head"], 190, 96, tuple(int(v * a) for v in (CB if STAGE else LIME)), path=INTER if STAGE else ANTON)
                 ct(d, sp["result_note"], 320, 44, (int(220 * a),) * 3, path=INTER)
                 for x, val, win in ((310, sp["result_a_label"], False), (770, sp["result_b_label"], True)):
                     ct(d, val, FLOOR + 175, 40, LIME if win else (200, 200, 205), x=x, maxw=400, path=INTER)
                 ct(d, sp["cite"], 1830, 30, (150, 150, 158), path=INTER)
             else:
                 a = ease((t - T_CATCH) / 0.3)
-                ct(d, "HERE'S THE CATCH", 170, 92, tuple(int(v * a) for v in LIME))
+                ct(d, "Here's the catch." if STAGE else "HERE'S THE CATCH", 170, 92, tuple(int(v * a) for v in (CB if STAGE else LIME)), path=INTER if STAGE else ANTON)
                 for i, ln in enumerate(sp["catch_lines"]):
                     aa = ease((t - T_CATCH - 0.5 - i * 1.0) / 0.3)
                     ct(d, ln, 290 + i * 66, 46, (int(235 * aa),) * 3, path=INTER)
                 ct(d, sp["catch_cite"], 1830, 30, (150, 150, 158), path=INTER)
         else:
             a = ease((t - T_APP) / 0.3)
-            ct(d, sp["tie_in"][0], 150, 84, tuple(int(v * a) for v in LIME))
+            ct(d, sp["tie_in"][0], 150, 84, tuple(int(v * a) for v in LIME), path=INTER if STAGE else ANTON)
             ct(d, sp["tie_in"][1], 260, 46, (int(230 * a),) * 3, path=INTER)
             img.paste(shot, ((W - shot.width) // 2, 360), m)
             for i, ln in enumerate(sp["endcard"]):
