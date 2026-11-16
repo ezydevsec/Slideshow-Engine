@@ -8,4 +8,4 @@
 - **Sound:** **son original — lyrics_song**. Backup: **original sound — Slowed Down Songs**. (search the name in TikTok's Add sound; pick the version by the listed artist.)
 - **AI-generated content label:** OFF (real founder photos, nothing generated)
 - **Before posting:** no download link (prelaunch).
-- **Post at:** 22:45 (UK time; target UK/US).
+- **Post at:** 21:45 (UK time; target UK/US).

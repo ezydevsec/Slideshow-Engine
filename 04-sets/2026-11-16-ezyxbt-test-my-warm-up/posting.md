@@ -8,5 +8,5 @@
 - **Sound:** **son original — lyrics_song**. Backup: **original sound — s**. (search the name in TikTok's Add sound; pick the version by the listed artist.)
 - **AI-generated content label:** OFF (real founder photos, nothing generated)
 - **Before posting:** no download link (prelaunch).
-- **Post at:** 20:15 (UK time; target UK/US).
+- **Post at:** 19:45 (UK time; target UK/US).
 - **Test:** **new-format test**: 'my X, exactly' ramp walkthrough (Paul Carter's warm-up method in his voice). Note the result at Sunday's review.

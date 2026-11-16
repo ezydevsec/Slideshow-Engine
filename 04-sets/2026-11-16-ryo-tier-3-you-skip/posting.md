@@ -8,5 +8,5 @@
 - **Sound:** **suara asli – HTS Plenger — 7 November 🎉🎊**. Backup: **Amnesia X No Hands — DJSpotifyTransitions**. (search the name in TikTok's Add sound; pick the version by the listed artist.)
 - **AI-generated content label:** **TURN ON**
 - **Before posting:** no download link (prelaunch).
-- **Post at:** 19:45 (UK time; target UK/US).
+- **Post at:** 20:15 (UK time; target UK/US).
 - **Test:** **new-format test**: 'exercises you're skipping, ranked' (Paul Carter's topic, our tiers). Note the result at Sunday's review.

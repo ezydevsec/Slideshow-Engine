@@ -8,4 +8,4 @@
 - **Sound:** **suara asli – HTS Plenger — 7 November 🎉🎊**. Backup: **Thats My Dog — Hotboyaqua**. (search the name in TikTok's Add sound; pick the version by the listed artist.)
 - **AI-generated content label:** **TURN ON**
 - **Before posting:** no download link (prelaunch).
-- **Post at:** 23:45 (UK time; target UK/US).
+- **Post at:** 00:15 (after midnight) (UK time; target UK/US).

@@ -8,5 +8,5 @@
 - **Sound:** **оригинальный звук — идипоспи**. Backup: **🅒 Ancient Hour — Tully Rowe**. (search the name in TikTok's Add sound; pick the version by the listed artist.)
 - **AI-generated content label:** **TURN ON**
 - **Before posting:** no download link (prelaunch).
-- **Post at:** 21:45 (UK time; target UK/US).
+- **Post at:** 21:15 (UK time; target UK/US).
 - **Test:** slide-length test: **9 slides (pair: 2026-11-16-earndapp-pick1-back-day-5-pain, 5 slides)** (9 slides). Note the result at Sunday's review.

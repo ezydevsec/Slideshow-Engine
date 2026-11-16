@@ -8,5 +8,5 @@
 - **Sound:** **🅒 Cyberpunk Drive — Dennis Ahearne**. Backup: **🅒 Dark Breakbeat Collision — Devon Farrar**. (search the name in TikTok's Add sound; pick the version by the listed artist.)
 - **AI-generated content label:** OFF (pixel art drawn by code, nothing generated)
 - **Before posting:** no download link (prelaunch).
-- **Post at:** 21:15 (UK time; target UK/US).
+- **Post at:** 22:45 (UK time; target UK/US).
 - **Test:** **new-format test**: what-if #2: reps instead of kg (same weight, the set gets longer). Note the result at Sunday's review.
