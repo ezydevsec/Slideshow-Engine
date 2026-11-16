@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-16-ezyxbt-test-my-warm-up
 
-**Status: approved. Post manually on 2026-11-16.** Format: native-text tip slideshow. Posts on the same account are 4 hours apart.
+**Status: approved. Post manually on 2026-11-16.** Format: native-text tip slideshow. Posts on the same account are 3 hours apart.
 
 - **Account:** @ezyxbt (TikTok)
 - **Upload:** `slide-01.jpg` … `slide-05.jpg` (1080×1920)
@@ -8,5 +8,5 @@
 - **Sound:** **son original — lyrics_song**. Backup: **original sound — s**. (search the name in TikTok's Add sound; pick the version by the listed artist.)
 - **AI-generated content label:** OFF (real founder photos, nothing generated)
 - **Before posting:** no download link (prelaunch).
-- **Post at:** 16:30 (UK time; target UK/US).
+- **Post at:** 18:20 (UK time; target UK/US).
 - **Test:** **new-format test**: 'my X, exactly' ramp walkthrough (Paul Carter's warm-up method in his voice). Note the result at Sunday's review.

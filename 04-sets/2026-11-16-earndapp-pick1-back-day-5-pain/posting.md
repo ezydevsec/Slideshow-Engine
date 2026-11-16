@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-16-earndapp-pick1-back-day-5-pain
 
-**Status: approved. Post manually on 2026-11-16.** Format: pick-1-per-slide slideshow. Posts on the same account are 4 hours apart.
+**Status: approved. Post manually on 2026-11-16.** Format: pick-1-per-slide slideshow. Posts on the same account are 3 hours apart.
 
 - **Account:** @earndapp (TikTok, + Instagram once the IG account exists)
 - **Upload:** `slide-01.jpg` … `slide-05.jpg` (1080×1350)
