@@ -184,3 +184,16 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @ezyxbt | IDENTITY #1 (rule 5) | "the guy who doesn't miss mondays" / "the guy who knows his numbers" over his strongest photos | son original (lyrics_song) / original sound (Slowed Down Songs)
 - [ ] @ezyxbt | PAIN COVER + native_text | "you've trained for a year and can't say what you lifted last week" | 🅒 Ink on Parchment / som original (ANABOLIC)
 - [ ] @earnie.lifts | comic story | "Earnie was going to start in January" (pain beat on slide 1) | original sound (JBA) / original sound (Be On Your Feelings)
+
+## Daily scan 2026-11-16 (trend file: 02-research/trends/2026-11-16.md)
+- [ ] @earndapp | STUDY RACE (verified: Bartolomei 2017) | "Heavy vs Light." 8×3 heavy vs 8×10 lighter, same lifters. Catch: the lighter one is still weaker 3 days later; heavy is back by the next check | sound: Can You Hear The Music (Ludwig Göransson) / backup Time (Hans Zimmer)
+- [ ] @earndapp | PICK-1, 5 slides + PAIN COVER | "you warm up for 15 minutes and still feel weak on set 1" (slide 2: the full ramp 50%×10 → 80%×6 → 90%×2, weights labelled example) | оригинальный звук (идипоспи) / 🅒 Ancient Hour (Tully Rowe)
+- [ ] @earndapp | PICK-1, 9 slides | "the perfect pull day: pick 1 per slide" | оригинальный звук (идипоспи) / 🅒 Ancient Hour (Tully Rowe)
+- [ ] @earndapp | WINNER REMAKE #2 (split ranking, 1,864) | "PPL vs upper/lower: which one you'll still be running in March" (2–5 days a week) | som original (ANABOLIC) / 🅒 Ink on Parchment
+- [ ] Ryo | NEW FORMAT TEST | "3 exercises you're skipping, ranked" (adductor machine, hip thrust, calf raise; amber works: tags) | suara asli – HTS Plenger / Amnesia X No Hands
+- [ ] Ryo | PAIN COVER | "a year of calf raises and you still can't say how many sets you do" → "exact sets for calves" | suara asli – HTS Plenger / Thats My Dog (Hotboyaqua)
+- [ ] Ryo | tier list | "every warm-up method ranked" (ramp sets S-tier; 10 min cardio / static stretching lower; opinion, no study claims) | Amnesia X No Hands / suara asli – HTS Plenger
+- [ ] @ezyxbt | NEW FORMAT TEST | "my warm-up, exactly" (one ramp set per photo, weights labelled example) | son original (lyrics_song) / original sound (s)
+- [ ] @ezyxbt | IDENTITY #2 (rule 5) | "the guy who knows his warm-up numbers" | son original (lyrics_song) / original sound (Slowed Down Songs)
+- [ ] @quiet.reps4 | WEEKLY STICKMAN (gold) | "same lifters. only one is still tired on day 3." heavy vs light | original sound (Slowed Down Songs) / Originalton (Razox)
+- [ ] @whatif.overload | weekly stickman, pixel look | "What if Dale only did light sets?" Dale vs twin, Dale still recovering on Thursday | 🅒 Cyberpunk Drive / 🅒 Dark Breakbeat Collision

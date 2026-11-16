@@ -86,6 +86,8 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | "The loop" chain slideshow (each slide starts with the last one's end, loops back) | founder link 11-14: @friendlygymbro 31.1K / 1.3K saves, 7 Oct | 1 | fails 50K + 30-day checks; look for 2 more accounts. Notes: `02-research/swipe/2026-11-14-friendlygymbro-loop.md` |
 | Myth fact-check slideshow (skincare derm explainers → gym) | web scan 11-14, no metrics | ? | needs an Apify scan |
 | Worth it / skip it (save-or-splurge → gym habits) | web scan 11-14, no metrics | ? | needs an Apify scan |
+| Faceless one-line motivation clip (one line, one figure, 5–7 s) → @quiet.reps4 gold version, our art only | scan 11-16: earned..not..given 3.6M, elevate799 2.4M/1.4M, believe.rise.succeed 1.7M, mmlux26 609K (self-improvement, videos) | 4 (other niche) | video from another niche; test once on @quiet.reps4 after warm-up week |
+| "Progressive overload, this simple" explainer | scan 11-16: going.mogging 242K, trainbloom 195K | 2 | 1 more account |
 
 ## Winner remakes (rule 1)
 | Winner | Account | Views | Remakes done | Target |
