@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-16-quietreps-video-stick-heavy-light
 
-**Status: approved. Post manually on 2026-11-16.** Format: 3D stickman comparison. Space posts on the same account about 3–4 hours apart.
+**Status: approved. Post manually on 2026-11-16.** Format: 3D stickman comparison. Posts on the same account are 4 hours apart.
 
 - **Account:** @quiet.reps4 (TikTok, + Instagram once the IG account exists)
 - **Upload:** `heavy-light.mp4` (1080×1920)
@@ -8,5 +8,5 @@
 - **Sound:** **original sound — Slowed Down Songs**. Backup: **Originalton — Razox**. (search the name in TikTok's Add sound; pick the version by the listed artist.)
 - **AI-generated content label:** OFF (drawn by code, nothing generated)
 - **Before posting:** no download link (prelaunch).
-- **Post at:** 20:45 (UK time; target UK/US).
+- **Post at:** 18:00 (UK time; target UK/US).
 - **Test:** **new-format test**: weekly stickman comparison #1 on @quiet.reps4, steps mode (hours after the session instead of weeks). Note the result at Sunday's review.
