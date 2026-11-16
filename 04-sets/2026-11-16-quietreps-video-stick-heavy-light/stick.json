@@ -1,26 +1,60 @@
 {
   "set_id": "2026-11-16-quietreps-video-stick-heavy-light",
-  "status": "draft, awaiting approval",
+  "status": "approved (founder); post on 2026-11-16",
   "format": "3D stickman comparison (weekly, gold look)",
   "account": "@quiet.reps4",
   "account_type": "theme",
   "new_format_test": "weekly stickman comparison #1 on @quiet.reps4, steps mode (hours after the session instead of weeks)",
   "topic_source": "Paul Carter (@liftrunbang1) 8 Nov, 127K: light high-rep sets cost more recovery; study verified: Bartolomei et al. 2017, Eur J Appl Physiol (PMID 28447186)",
   "out": "heavy-light.mp4",
-  "accent": [255, 196, 120],
+  "accent": [
+    255,
+    196,
+    120
+  ],
   "premise": "same 8 sets. same lifters.",
-  "left": {"label": "8 × 10 LIGHTER", "lift": "SQUAT", "start": 0, "per_week": 0, "plates": 2},
-  "right": {"label": "8 × 3 HEAVY", "lift": "SQUAT", "start": 0, "per_week": 0, "plates": 4},
+  "left": {
+    "label": "8 × 10 LIGHTER",
+    "lift": "SQUAT",
+    "start": 0,
+    "per_week": 0,
+    "plates": 2
+  },
+  "right": {
+    "label": "8 × 3 HEAVY",
+    "lift": "SQUAT",
+    "start": 0,
+    "per_week": 0,
+    "plates": 4
+  },
   "steps": [
-    {"hud": "30 MIN LATER", "left": "much weaker", "right": "weaker"},
-    {"hud": "72 HOURS LATER", "left": "still weaker", "right": "back to normal"}
+    {
+      "hud": "30 MIN LATER",
+      "left": "much weaker",
+      "right": "weaker"
+    },
+    {
+      "hud": "72 HOURS LATER",
+      "left": "still weaker",
+      "right": "back to normal"
+    }
   ],
   "step_t": 3.0,
-  "end_line": ["the light day", "took longer to recover."],
-  "endcard": ["this page is made by EARND,", "our gym app. follow @earndapp"],
+  "end_line": [
+    "the light day",
+    "took longer to recover."
+  ],
+  "endcard": [
+    "this page is made by EARND,",
+    "our gym app. follow @earndapp"
+  ],
   "cite": "Bartolomei et al. 2017, 12 trained men, max leg strength",
   "caption": "same 8 sets. the lighter one was still weaker 3 days later. (Bartolomei et al. 2017, 12 trained men) #gymtok #recovery #strengthtraining #hypertrophy #gymtips",
   "ai_images": false,
   "ai_note": "drawn by code, nothing generated",
-  "sound": {"mode": "trending", "primary": "original sound — Slowed Down Songs", "backup": "Originalton — Razox"}
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — Slowed Down Songs",
+    "backup": "Originalton — Razox"
+  }
 }

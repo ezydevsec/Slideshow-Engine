@@ -1,6 +1,6 @@
 {
   "set_id": "2026-11-16-whatif-video-plus-1-rep",
-  "status": "draft, awaiting approval",
+  "status": "approved (founder); post on 2026-11-16",
   "format": "what-if escalation video (pixel art)",
   "account": "@whatif.overload",
   "account_type": "theme",
@@ -8,20 +8,57 @@
   "topic_source": "double progression (EARND's own rule: add a rep, then add weight at the top of the range)",
   "out": "plus-1-rep.mp4",
   "caption": "dale found a loophole. he's still on set 1. #gymtok #progressiveoverload #gymhumor #whatif #overheadpress",
-  "title": ["WHAT IF DALE ADDED", "+1 REP EVERY WEEK?"],
+  "title": [
+    "WHAT IF DALE ADDED",
+    "+1 REP EVERY WEEK?"
+  ],
   "start": 8,
   "per_week": 1,
   "unit": "REPS",
   "stages": [
-    {"until_week": 40, "load": "plates", "caption": ""},
-    {"until_week": 150, "load": "plates", "caption": "the set takes 5 minutes"},
-    {"until_week": 330, "load": "plates", "caption": "he packs a lunch", "sweat": true},
-    {"until_week": 540, "load": "plates", "caption": "his membership ran out mid-set", "sweat": true}
+    {
+      "until_week": 40,
+      "load": "plates",
+      "caption": ""
+    },
+    {
+      "until_week": 150,
+      "load": "plates",
+      "caption": "the set takes 5 minutes"
+    },
+    {
+      "until_week": 330,
+      "load": "plates",
+      "caption": "he packs a lunch",
+      "sweat": true
+    },
+    {
+      "until_week": 540,
+      "load": "plates",
+      "caption": "his membership ran out mid-set",
+      "sweat": true
+    }
   ],
-  "end_title": ["REAL LIFE:", "+1 REP WORKS UNTIL", "THE TOP OF YOUR RANGE"],
-  "end_body": ["then add weight and start", "again from the bottom.", "dale's secret: he always knows", "his number to beat."],
-  "disclose": ["this page is made by EARND, our gym app.", "follow @earndapp for the launch."],
+  "end_title": [
+    "REAL LIFE:",
+    "+1 REP WORKS UNTIL",
+    "THE TOP OF YOUR RANGE"
+  ],
+  "end_body": [
+    "then add weight and start",
+    "again from the bottom.",
+    "dale's secret: he always knows",
+    "his number to beat."
+  ],
+  "disclose": [
+    "this page is made by EARND, our gym app.",
+    "follow @earndapp for the launch."
+  ],
   "ai_images": false,
   "ai_note": "pixel art drawn by code, nothing generated",
-  "sound": {"mode": "trending", "primary": "🅒 Cyberpunk Drive — Dennis Ahearne", "backup": "🅒 Dark Breakbeat Collision — Devon Farrar"}
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Cyberpunk Drive — Dennis Ahearne",
+    "backup": "🅒 Dark Breakbeat Collision — Devon Farrar"
+  }
 }
