@@ -1,0 +1,85 @@
+{
+  "set_id": "2026-11-16-ezyxbt-identity-be-the-guy-2",
+  "status": "draft, awaiting approval",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos, nothing generated",
+  "format": "identity (rule 5)",
+  "topic_source": "identity format (CLAUDE.md rule 5); rest time from Paul Carter's '9 levers' (2+ min)",
+  "pain_cover": false,
+  "caption": "be him. #gymmotivation #consistency #gymtok #upperlower #discipline",
+  "sound": {
+    "mode": "trending",
+    "primary": "son original — lyrics_song",
+    "backup": "original sound — Slowed Down Songs"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b16-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "be the guy who…",
+      "sub": "(none of this needs talent)",
+      "hook_y": 0.18
+    },
+    {
+      "type": "list",
+      "title": "finishes the hard set",
+      "photo": {
+        "file": "b9-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "lines": [],
+      "text": "even when the last rep is ugly."
+    },
+    {
+      "type": "list",
+      "title": "rests the full 2 minutes",
+      "photo": {
+        "file": "b11-05.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "lines": [],
+      "text": "he doesn't rush the set that matters."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b9-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "moves the session. doesn't skip it.",
+      "text": "busy tuesday? it goes to wednesday. the week still gets done.",
+      "shot": "01-app/assets/demo-move-session.png",
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b15-03.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this. be him.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

@@ -79,8 +79,9 @@ def render(set_dir):
             if s.get("note"): d.text((M, y + 30), s["note"], font=F(BOLD, 38), fill=LIME)
         elif t == "pick":
             y = 130
-            f = F(BLACK, 30); pw = d.textlength("pick 1", font=f)
-            d.rounded_rectangle([M, y, M + pw + 32, y + 50], 25, fill=LIME); d.text((M + 16, y + 7), "pick 1", font=f, fill=DARK)
+            pill = "pick 1" if len(s["options"]) > 1 else "do this"
+            f = F(BLACK, 30); pw = d.textlength(pill, font=f)
+            d.rounded_rectangle([M, y, M + pw + 32, y + 50], 25, fill=LIME); d.text((M + 16, y + 7), pill, font=f, fill=DARK)
             ana, am = anatomy(s["anatomy"], 230); img.paste(ana, (W - M - ana.width, y - 10), am)
             y += 80
             d.text((M, y), f"{s['n']} · {s['muscle']}", font=F(BLACK, 66), fill=INK); y += 90
@@ -89,10 +90,12 @@ def render(set_dir):
             top = max(y + 30, 450); bot = H - 150; mid = W // 2
             for i, (name, p) in enumerate(s["options"]):
                 x0 = M if i == 0 else mid + 20; x1 = mid - 20 if i == 0 else W - M
+                if len(s["options"]) == 1: x0, x1 = M + 120, W - M - 120
                 fit_in(img, pose(p), (x0, top, x1, bot))
                 f2 = F(BOLD, 38); tw = d.textlength(name, font=f2)
                 d.text(((x0 + x1 - tw) / 2, bot + 30), name, font=f2, fill=INK)
-            d = ImageDraw.Draw(img); d.line([(mid, top + 40), (mid, bot)], fill=LIME, width=5)
+            d = ImageDraw.Draw(img)
+            if len(s["options"]) > 1: d.line([(mid, top + 40), (mid, bot)], fill=LIME, width=5)
         elif t == "app":
             y = 120
             for text, hl in s["title"]: y = hl_line(d, 0, y, text, 76, hl, center=True)

@@ -1,0 +1,103 @@
+{
+  "set_id": "2026-11-16-ezyxbt-test-my-warm-up",
+  "status": "draft, awaiting approval",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos, nothing generated",
+  "format": "native-text tip slideshow",
+  "new_format_test": "'my X, exactly' ramp walkthrough (Paul Carter's warm-up method in his voice)",
+  "topic_source": "Paul Carter (@liftrunbang1) 9 Nov, 215K: ramp warm-up sets (method)",
+  "pain_cover": false,
+  "caption": "my warm-up, exactly. takes about 4 minutes. #gymtips #warmup #gymtok #upperlower #strengthtraining",
+  "sound": {
+    "mode": "trending",
+    "primary": "son original — lyrics_song",
+    "backup": "original sound — s"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b14-02.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "my warm-up, exactly",
+      "sub": "(before my first heavy lift)",
+      "hook_y": 0.16
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b9-06.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "the whole thing",
+      "lines": [
+        "set 1: 50% × 10",
+        "set 2: 80% × 6",
+        "set 3: 90% × 2 (heavy lifts only)",
+        "30–60 s rest between",
+        "then my work set"
+      ],
+      "note": "% of my work-set weight"
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b10-03.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "why each one",
+      "lines": [
+        "50%: how do my joints feel today?",
+        "80%: is today's weight right?",
+        "90%: a bridge to the heavy set"
+      ],
+      "note": "later exercises: just 80% × 6."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b13-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip",
+      "text": "my app shows last time's weight, so i know what 50% is before i start.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b16-01.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      },
+      "text": "save this for your next session.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

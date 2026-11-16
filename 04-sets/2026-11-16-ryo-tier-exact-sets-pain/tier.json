@@ -1,0 +1,100 @@
+{
+  "set_id": "2026-11-16-ryo-tier-exact-sets-pain",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "topic_source": "Paul Carter (@liftrunbang1) 15 Oct, 106K '9 levers': 4–10 hard sets per muscle per week, 2–3× a week, 4–8 reps, 1–2 RIR",
+  "pain_cover": true,
+  "caption": "20 sets of chest. 0 for hamstrings. here's the exact week instead 👇 #gymtok #hypertrophy #workoutplan #hamstrings #gymtips",
+  "sound": {
+    "mode": "trending",
+    "primary": "suara asli – HTS Plenger — 7 November 🎉🎊",
+    "backup": "Thats My Dog — Hotboyaqua"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "20 sets of chest.",
+        "0 for hamstrings."
+      ],
+      "sub": "the exact week instead.",
+      "pose": "cover-arms-crossed"
+    },
+    {
+      "type": "list",
+      "title": "the exact week",
+      "sub": "every muscle, same rules.",
+      "rows": [
+        [
+          "S",
+          [
+            "4–10 hard sets per muscle"
+          ]
+        ],
+        [
+          "S",
+          [
+            "split over 2 days"
+          ]
+        ],
+        [
+          "A",
+          [
+            "4–8 reps, 1–2 from failure"
+          ]
+        ],
+        [
+          "C",
+          [
+            "20 sets for one muscle, one day"
+          ]
+        ],
+        [
+          "F",
+          [
+            "0 sets for hamstrings"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "hamstrings",
+      "works": "hamstrings",
+      "lines": [
+        "4–10 hard sets a week, like chest.",
+        "RDL or leg curl, 2 days a week."
+      ],
+      "pose": "romanian-deadlift"
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "split over 2 days",
+      "works": "every muscle",
+      "lines": [
+        "half the sets on day 1, half on day 2.",
+        "upper/lower does this for you."
+      ],
+      "pose": "leg-press"
+    },
+    {
+      "type": "tier",
+      "tier": "C",
+      "name": "20 sets in one day",
+      "works": "mostly fatigue",
+      "lines": [
+        "spread them out instead.",
+        "same total, fresher sets."
+      ],
+      "pose": "pulldown",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

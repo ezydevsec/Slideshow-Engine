@@ -1,0 +1,95 @@
+{
+  "set_id": "2026-11-16-ryo-tier-3-you-skip",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "new_format_test": "'exercises you're skipping, ranked' (Paul Carter's topic, our tiers)",
+  "topic_source": "Paul Carter (@liftrunbang1) 1 Nov, 137K: adductor machine, hip thrust, calf raises (opinion, no study)",
+  "pain_cover": false,
+  "caption": "3 exercises most people skip. which one are you adding this week? 👇 #gymtok #legday #glutes #calves #gymtips",
+  "sound": {
+    "mode": "trending",
+    "primary": "suara asli – HTS Plenger — 7 November 🎉🎊",
+    "backup": "Amnesia X No Hands — DJSpotifyTransitions"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "3 exercises",
+        "you're skipping."
+      ],
+      "sub": "ranked. argue with me.",
+      "pose": "cover-arms-crossed"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "add one this week.",
+      "rows": [
+        [
+          "S",
+          [
+            "hip thrust"
+          ]
+        ],
+        [
+          "A",
+          [
+            "adductor machine"
+          ]
+        ],
+        [
+          "A",
+          [
+            "calf raise, straight leg"
+          ]
+        ],
+        [
+          "F",
+          [
+            "a 5th set of curls"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "hip thrust",
+      "works": "glutes",
+      "lines": [
+        "easy to learn, easy to load.",
+        "2 × 4–8, pause at the top."
+      ],
+      "pose": "hip-thrust"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "adductor machine",
+      "works": "inner thighs (5 muscles)",
+      "lines": [
+        "one machine covers the group",
+        "most programs forget."
+      ],
+      "pose": "adductor"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "calf raise",
+      "works": "calves",
+      "lines": [
+        "first in the session, straight leg.",
+        "pause 3 s in the stretch. 2 × 4–8."
+      ],
+      "pose": "calf-raise",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

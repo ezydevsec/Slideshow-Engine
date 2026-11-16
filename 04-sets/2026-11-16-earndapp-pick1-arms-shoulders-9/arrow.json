@@ -1,0 +1,170 @@
+{
+  "set_id": "2026-11-16-earndapp-pick1-arms-shoulders-9",
+  "status": "draft, awaiting approval",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "length_test": "9 slides (pair: 2026-11-16-earndapp-pick1-back-day-5-pain, 5 slides)",
+  "topic_source": "Paul Carter (@liftrunbang1) '9 levers' 15 Oct, 106K: 2 hard sets, 4–8 reps, 1–2 RIR",
+  "pain_cover": false,
+  "caption": "the perfect arms & shoulders 🧪 pick 1 per slide, 2 hard sets of 4–8 each. 1. lateral raise or shoulder press 2. preacher or bayesian curl 3. hammer curl 4. overhead extension 5. pushdown 6. shrug. which one are you picking for slide 1? #armday #shoulders #gymtips #hypertrophy #workoutplan",
+  "sound": {
+    "mode": "trending",
+    "primary": "оригинальный звук — идипоспи",
+    "backup": "🅒 Ancient Hour — Tully Rowe"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "the science of the",
+          false
+        ],
+        [
+          "perfect arms",
+          true
+        ],
+        [
+          "& shoulders",
+          true
+        ]
+      ],
+      "sub": "(pick 1 exercise per slide → your full workout)",
+      "pose": "lateral-raise"
+    },
+    {
+      "type": "structure",
+      "title": "the structure",
+      "sub": "6 jobs. pick 1 for each.",
+      "items": [
+        "side delts",
+        "biceps",
+        "brachialis (arm thickness)",
+        "triceps, overhead",
+        "triceps, pushdown",
+        "traps"
+      ],
+      "note": "2 hard sets each. 4–8 reps."
+    },
+    {
+      "type": "pick",
+      "n": 1,
+      "muscle": "side delts",
+      "sets": "2 × 4–8",
+      "anatomy": "delts",
+      "options": [
+        [
+          "lateral raise",
+          "lateral-raise"
+        ],
+        [
+          "shoulder press",
+          "shoulder-press"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 2,
+      "muscle": "biceps",
+      "sets": "2 × 4–8",
+      "anatomy": "biceps",
+      "options": [
+        [
+          "preacher curl",
+          "preacher-curl"
+        ],
+        [
+          "bayesian curl",
+          "bayesian-curl"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 3,
+      "muscle": "brachialis",
+      "sets": "2 × 4–8",
+      "anatomy": "biceps",
+      "options": [
+        [
+          "hammer curl",
+          "hammer-curl"
+        ]
+      ],
+      "note": "thumbs up. it sits under the biceps."
+    },
+    {
+      "type": "pick",
+      "n": 4,
+      "muscle": "triceps",
+      "sets": "2 × 4–8",
+      "anatomy": "triceps",
+      "options": [
+        [
+          "overhead extension",
+          "overhead-triceps-extension"
+        ]
+      ],
+      "note": "overhead: the long head, stretched."
+    },
+    {
+      "type": "pick",
+      "n": 5,
+      "muscle": "triceps",
+      "sets": "2 × 4–8",
+      "anatomy": "triceps",
+      "options": [
+        [
+          "pushdown",
+          "triceps-pushdown"
+        ]
+      ],
+      "note": "pushdown: the heavy one."
+    },
+    {
+      "type": "pick",
+      "n": 6,
+      "muscle": "traps",
+      "sets": "2 × 4–8",
+      "anatomy": "traps",
+      "options": [
+        [
+          "shrug",
+          "shrug"
+        ]
+      ],
+      "note": "pause at the top."
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND shows you",
+          false
+        ],
+        [
+          "what to beat",
+          true
+        ],
+        [
+          "on every set",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ]
+}

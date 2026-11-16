@@ -6,6 +6,7 @@
 pixelvid.json: {"out": "...mp4", "title": ["WHAT IF DALE ADDED", "+2.5 KG EVERY WEEK"], "start": 60, "per_week": 2.5,
  "stages": [{"until_week": 52, "load": "plates", "caption": ""}, {"until_week": 104, "load": "vending", "caption": "about a vending machine"}, ...],
  "end_title": [...], "end_body": [...], "disclose": [...]}
+Optional: "unit" (default "KG", e.g. "REPS"), "counter" (default "WEEK"), per-stage "sweat".
 Weeks speed up as the counter climbs (the joke accelerates). No "example" tags on joke escalations (founder 2026-11-04).
 """
 import json, os, subprocess, sys
@@ -30,7 +31,7 @@ def render(set_dir):
         t = fi / FPS
         if t < END:
             wk = week_at(min(t, RUN)); st = next(s for s in sp["stages"] if wk <= s["until_week"])
-            sweat = st["load"] in ("cow", "car")
+            sweat = st.get("sweat", st["load"] in ("cow", "car"))
             key = (st["load"], sweat)
             if key not in scenes: scenes[key] = pr.scene(st["load"], sweat)
             img = scenes[key].copy(); d = ImageDraw.Draw(img)
@@ -40,8 +41,8 @@ def render(set_dir):
             frac = wk / last
             d.rectangle([90, y, W - 90, y + 60], outline=pr.WHITE, width=6)
             d.rectangle([98, y + 8, 98 + (W - 196) * frac, y + 52], fill=pr.GREEN)
-            d.text((100, y + 80), f"WEEK {wk}", font=pr.F(46), fill=pr.WHITE)
-            kg = f"{sp['start'] + sp['per_week'] * (wk - 1):,.1f}".rstrip("0").rstrip(".") + " KG"
+            d.text((100, y + 80), f"{sp.get('counter', 'WEEK')} {wk}", font=pr.F(46), fill=pr.WHITE)
+            kg = f"{sp['start'] + sp['per_week'] * (wk - 1):,.1f}".rstrip("0").rstrip(".") + " " + sp.get("unit", "KG")
             d.text((W - 100 - d.textlength(kg, font=pr.F(46)), y + 80), kg, font=pr.F(46), fill=pr.GOLD)
             if st.get("caption"): pr.ctext(d, st["caption"], 1560, pr.F(52), pr.WHITE)
             pr.ctext(d, f"LV {wk}", 1720, pr.F(84), pr.BLUE)

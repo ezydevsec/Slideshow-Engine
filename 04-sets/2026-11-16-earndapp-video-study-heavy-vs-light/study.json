@@ -1,0 +1,80 @@
+{
+  "set_id": "2026-11-16-earndapp-video-study-heavy-vs-light",
+  "status": "draft, awaiting approval",
+  "format": "study race A vs B",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "new_format_test": "study race day 2 (stage style): recovery instead of growth, one session",
+  "topic_source": "Paul Carter (@liftrunbang1) 8 Nov, 127K; studies verified 11-16: Bartolomei et al. 2017 (PMID 28447186), Schoenfeld et al. 2017 (PMID 28834797)",
+  "out": "heavy-vs-light.mp4",
+  "caption": "same 8 sets. one is still weaker 3 days later. here's the catch 👀 are you the left or the right? 👇 #gymtok #recovery #strengthtraining #upperlower #gymtips",
+  "title_a": "LIGHT",
+  "title_b": "HEAVY",
+  "head_a": "Light",
+  "head_b": "heavy",
+  "sub_a": "8 sets × 10, lighter",
+  "sub_b": "8 sets × 3, heavy",
+  "question": "Same 8 sets. Which recovers faster?",
+  "days_a": [
+    0
+  ],
+  "days_b": [
+    0
+  ],
+  "weeks": 1,
+  "week_t": 4.2,
+  "result_a": 0.72,
+  "result_b": 1.0,
+  "result_head": "Heavy was back first.",
+  "result_note": "max leg strength, 3 days later",
+  "result_a_label": "still weaker",
+  "result_b_label": "back to normal",
+  "cite": "Bartolomei et al. 2017 (Eur J Appl Physiol), 12 trained men",
+  "catch_lines": [
+    "light sets didn't grow more muscle.",
+    "heavy built more strength.",
+    "the light day just costs more recovery."
+  ],
+  "catch_cite": "Schoenfeld et al. 2017 (J Strength Cond Res), 21 studies, sets to failure",
+  "catch_closes": false,
+  "tie_in": [
+    "That's why EARND uses 4–8 reps.",
+    "heavy enough to grow. quick to recover."
+  ],
+  "shot": "01-app/assets/demo-last-time-target.png",
+  "crop": [
+    0.228,
+    0.305,
+    0.772,
+    0.622
+  ],
+  "endcard": [
+    "EARND launches soon.",
+    "follow for the launch."
+  ],
+  "ai_images": false,
+  "ai_note": "drawn by code, real app screen; nothing generated",
+  "sound": {
+    "mode": "trending",
+    "primary": "Can You Hear The Music — Ludwig Göransson",
+    "backup": "Time — Hans Zimmer"
+  },
+  "style": "stage",
+  "color_a": [
+    110,
+    190,
+    255
+  ],
+  "color_b": [
+    198,
+    255,
+    0
+  ],
+  "days_shown": 4,
+  "day_labels": [
+    "the session",
+    "24 h later",
+    "48 h later",
+    "72 h later"
+  ]
+}

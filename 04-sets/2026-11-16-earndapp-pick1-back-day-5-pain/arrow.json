@@ -1,0 +1,104 @@
+{
+  "set_id": "2026-11-16-earndapp-pick1-back-day-5-pain",
+  "status": "draft, awaiting approval",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "length_test": "5 slides (pair: 2026-11-16-earndapp-pick1-arms-shoulders-9, 9 slides)",
+  "topic_source": "Paul Carter (@liftrunbang1) 23 Oct, 232K pulldowns + '9 levers' (2 hard sets, 4–8 reps)",
+  "pain_cover": true,
+  "caption": "6 back exercises and they're all rows? you need 3 jobs 🧪 lats: pulldown or pullover. upper back: chest-supported row. traps: shrug. 2 hard sets of 4–8 each. which one are you cutting? #backday #backworkout #gymtips #hypertrophy #workoutplan",
+  "sound": {
+    "mode": "trending",
+    "primary": "оригинальный звук — идипоспи",
+    "backup": "🅒 Ancient Hour — Tully Rowe"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "6 back exercises?",
+          false
+        ],
+        [
+          "they're all rows.",
+          true
+        ]
+      ],
+      "sub": "(you need 3 jobs. pick 1 for each.)",
+      "pose": "chest-supported-row"
+    },
+    {
+      "type": "structure",
+      "title": "the whole back day",
+      "sub": "3 jobs. pick 1 for each.",
+      "items": [
+        "lats: pulldown or pullover",
+        "upper back: chest-supported row",
+        "traps: shrug"
+      ],
+      "note": "2 hard sets each. 4–8 reps."
+    },
+    {
+      "type": "pick",
+      "n": 1,
+      "muscle": "lats",
+      "sets": "2 × 4–8",
+      "anatomy": "lats",
+      "options": [
+        [
+          "pulldown",
+          "pulldown"
+        ],
+        [
+          "pullover",
+          "pullover"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 2,
+      "muscle": "upper back",
+      "sets": "2 × 4–8",
+      "anatomy": "upper-back",
+      "options": [
+        [
+          "chest-supported row",
+          "chest-supported-row"
+        ]
+      ],
+      "note": "chest on the pad. no swinging."
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND shows you",
+          false
+        ],
+        [
+          "what to beat",
+          true
+        ],
+        [
+          "on every set",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ]
+}

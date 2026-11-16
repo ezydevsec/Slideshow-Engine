@@ -6,6 +6,7 @@ Graphite mannequins + lime (never Earnie's white/amber sticks), a real study's r
 
 study.json: title_a/title_b, question, days_a/days_b (lifting days per week, 0=Mon), weeks, result_a/result_b,
 result_note, cite, catch_lines [..], catch_cite, tie_in, shot, endcard [..]
+Optional: days_shown + day_labels (e.g. 4 days: "the session", "24 h later", ...) replace the WEEK counter; week_t (seconds per week, default 0.9), catch_closes (default true: the losing bar catches up during the catch).
 """
 import json, math, os, subprocess, sys
 import numpy as np
@@ -34,7 +35,7 @@ def ct(d, txt, y, size, fill, x=W / 2, maxw=W - 100, path=ANTON):
 
 def render(set_dir):
     sp = json.load(open(os.path.join(set_dir, "study.json")))
-    weeks = sp.get("weeks", 8); WK = 0.9
+    weeks = sp.get("weeks", 8); WK = sp.get("week_t", 0.9)
     T_RACE0, T_RACE1 = 1.4, 1.4 + weeks * WK
     T_RES, T_CATCH, T_APP = T_RACE1, T_RACE1 + 2.6, T_RACE1 + 6.6
     DUR = T_APP + 3.6
@@ -66,7 +67,7 @@ def render(set_dir):
         img = base.copy(); d = ImageDraw.Draw(img)
         if t < T_APP:
             race = max(0.0, min(1.0, (t - T_RACE0) / (T_RACE1 - T_RACE0)))
-            wk_f = race * weeks; day = int((wk_f % 1) * 7) if t < T_RACE1 else -1
+            wk_f = race * weeks; day = int((wk_f % 1) * sp.get("days_shown", 7)) if t < T_RACE1 else -1
             scene = Image.new("RGB", (W, H)); sd = ImageDraw.Draw(scene); glow = Image.new("L", (W, H)); gd = ImageDraw.Draw(glow)
             for x, days, win in ((310, sp["days_a"], False), (770, sp["days_b"], True)):
                 lifting = day in days
@@ -94,7 +95,7 @@ def render(set_dir):
                 # growth bar
                 target = sp["result_b"] if win else sp["result_a"]
                 frac = min(race, 1.0) * target / max(sp["result_a"], sp["result_b"])
-                if not win and t >= T_CATCH + 2.0:   # the catch: equal sets close the gap
+                if not win and sp.get("catch_closes", True) and t >= T_CATCH + 2.0:   # the catch: equal sets close the gap
                     frac += (1.0 - frac) * 0.85 * ease((t - T_CATCH - 2.0) / 0.8)
                 sd.rectangle([x - 150, FLOOR + 120, x + 150, FLOOR + 150], outline=(90, 94, 100), width=3)
                 sd.rectangle([x - 146, FLOOR + 124, x - 146 + 292 * frac, FLOOR + 146], fill=(CB if win else CA) if STAGE else (LIME if win else (170, 176, 186)))
@@ -114,9 +115,9 @@ def render(set_dir):
             for x, lab, win in ((310, sp["title_a"], False), (770, sp["title_b"], True)):
                 if T_CATCH <= t < T_APP: break
                 if STAGE:
-                    ct(d, lab.capitalize() if lab.isupper() else lab, 520, 58, CB if win else CA, x=x, maxw=440, path=INTER)
+                    ct(d, lab.capitalize() if lab.isupper() else lab, 455, 58, CB if win else CA, x=x, maxw=440, path=INTER)
                     sl = sp.get("sub_b" if win else "sub_a")
-                    if sl: ct(d, sl, 590, 32, (190, 192, 200), x=x, maxw=440, path=INTER)
+                    if sl: ct(d, sl, 522, 32, (190, 192, 200), x=x, maxw=440, path=INTER)
                 else:
                     ct(d, lab, 540, 54, LIME if win else (225, 225, 230), x=x, maxw=440)
             # top text by phase
@@ -130,7 +131,7 @@ def render(set_dir):
                 else:
                     ct(d, sp["title_a"] + " vs " + sp["title_b"] + ".", 190, 96, (int(245 * a),) * 3)
                 ct(d, sp["question"], 320, 50, (int(170 * a), int(175 * a), int(185 * a)), path=INTER)
-                if t >= T_RACE0: ct(d, f"WEEK {min(weeks, 1 + int(wk_f))}", 420, 44, LIME)
+                if t >= T_RACE0: ct(d, sp["day_labels"][max(day, 0)] if sp.get("day_labels") else f"WEEK {min(weeks, 1 + int(wk_f))}", 390, 44, LIME, path=INTER if sp.get("day_labels") else ANTON)
             elif t < T_CATCH:
                 a = ease((t - T_RES) / 0.3)
                 ct(d, sp["result_head"], 190, 96, tuple(int(v * a) for v in (CB if STAGE else LIME)), path=INTER if STAGE else ANTON)

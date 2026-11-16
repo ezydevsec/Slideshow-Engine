@@ -1,0 +1,100 @@
+{
+  "set_id": "2026-11-16-ryo-tier-every-warm-up",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "topic_source": "Paul Carter (@liftrunbang1) 9 Nov, 215K: ramp warm-up sets (method, no study); ranking is our opinion",
+  "pain_cover": false,
+  "caption": "every warm-up, ranked. what's yours? 👇 #gymtok #warmup #gymtips #strengthtraining #legday",
+  "sound": {
+    "mode": "trending",
+    "primary": "Amnesia X No Hands — DJSpotifyTransitions",
+    "backup": "suara asli – HTS Plenger — 7 November 🎉🎊"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "every warm-up,",
+        "ranked."
+      ],
+      "sub": "argue with me.",
+      "pose": "warm-up-plate"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "before your first heavy lift.",
+      "rows": [
+        [
+          "S",
+          [
+            "ramp sets: 50% → 80% → 90%"
+          ]
+        ],
+        [
+          "A",
+          [
+            "5 min easy bike"
+          ]
+        ],
+        [
+          "C",
+          [
+            "15 min foam rolling"
+          ]
+        ],
+        [
+          "D",
+          [
+            "long static stretches"
+          ]
+        ],
+        [
+          "F",
+          [
+            "no warm-up at all"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "ramp sets",
+      "works": "the lift you're about to do",
+      "lines": [
+        "50% × 10, 80% × 6, 90% × 2.",
+        "30–60 s rest. then your work set."
+      ],
+      "pose": "warm-up-plate"
+    },
+    {
+      "type": "tier",
+      "tier": "D",
+      "name": "long static stretches",
+      "works": "not the lift",
+      "lines": [
+        "doesn't rehearse the movement.",
+        "save them for after."
+      ],
+      "pose": "static-stretch"
+    },
+    {
+      "type": "tier",
+      "tier": "F",
+      "name": "no warm-up",
+      "works": "nothing",
+      "lines": [
+        "your first set becomes the warm-up.",
+        "and it's your heaviest one."
+      ],
+      "pose": "cover-arms-crossed",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

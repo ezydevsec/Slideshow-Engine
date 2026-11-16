@@ -1,0 +1,13 @@
+# Posting pack: 2026-11-16-earndapp-video-study-heavy-vs-light
+
+**Status: draft, awaiting approval.** Format: study race A vs B. Space posts on the same account about 2–3 hours apart.
+
+- **Account:** @earndapp (TikTok, + Instagram once the IG account exists)
+- **Upload:** `heavy-vs-light.mp4` (1080×1920)
+- **Caption:** same 8 sets. one is still weaker 3 days later. here's the catch 👀 are you the left or the right? 👇 #gymtok #recovery #strengthtraining #upperlower #gymtips
+- **Sound:** **Can You Hear The Music — Ludwig Göransson**. Backup: **Time — Hans Zimmer**. (search the name in TikTok's Add sound; pick the version by the listed artist.)
+- **AI-generated content label:** OFF (drawn by code, real app screen; nothing generated)
+- **Before posting:** no download link (prelaunch). Text is baked into the images/video: add nothing in TikTok's editor.
+- **Post at:** 19:15 (UK time; target UK/US).
+- **Topic source:** Paul Carter (@liftrunbang1) 8 Nov, 127K; studies verified 11-16: Bartolomei et al. 2017 (PMID 28447186), Schoenfeld et al. 2017 (PMID 28834797)
+- **Test:** **new-format test**: study race day 2 (stage style): recovery instead of growth, one session. Note the result at Sunday's review.

@@ -13,6 +13,8 @@ stick.json:
   "end_line": ["same effort.", "only one knew what to beat."],
   "endcard": ["EARND launches soon.", "follow for the launch."]
 }
+Steps mode (no weekly counter): "steps": [{"hud": "24 HOURS", "left": "still weaker", "right": "back to normal"}, ...],
+"step_t": 2.0, and fixed "plates" per side. The left figure looks more tired each step.
 Look: black void, glossy floor with reflections, spotlight pools, round-headed white figures; the right figure glows.
 Our own drawing; the reference accounts only informed the structure.
 """
@@ -76,8 +78,10 @@ def barbell(d, x, y, plates, accent):
 
 def render(set_dir):
     sp = json.load(open(os.path.join(set_dir, "stick.json")))
-    acc = tuple(sp.get("accent", (198, 255, 0))); weeks = sp.get("weeks", 12)
-    WEEK_T, END_T, CARD_T = 0.9, weeks * 0.9 + 0.6, weeks * 0.9 + 3.4
+    acc = tuple(sp.get("accent", (198, 255, 0))); steps = sp.get("steps")
+    weeks = len(steps) if steps else sp.get("weeks", 12)
+    WEEK_T = sp.get("step_t", 2.0) if steps else 0.9
+    END_T, CARD_T = weeks * WEEK_T + 0.6, weeks * WEEK_T + 3.4
     DUR = CARD_T + 2.6
     base = np.zeros((H, W, 3), np.float32); yy, xx = np.mgrid[0:H, 0:W]
     for cx, c in ((310, (255, 170, 80)), (770, (255, 190, 110))):
@@ -97,11 +101,13 @@ def render(set_dir):
             glow = Image.new("L", (W, H), 0); gd = ImageDraw.Draw(glow)
             # left: same weight, slows down and slumps at the end
             pl = ease(0.5 - 0.5 * math.cos(t * 2 * math.pi / (1.5 + prog * 0.9))) * (1 - 0.6 * ease((t - END_T + 0.4) / 0.6))
-            hl = figure(sd, 310, pl, slump=ease((t - END_T + 0.4) / 0.6), col=(205, 205, 212) if t > END_T else (235, 235, 240))
-            barbell(sd, 310, hl, 2, acc)
+            sl = ease((t - END_T + 0.4) / 0.6)
+            if steps: sl = max(sl, 0.25 + 0.5 * prog); pl *= (1 - 0.4 * prog)
+            hl = figure(sd, 310, pl, slump=sl, col=(205, 205, 212) if (t > END_T or steps) else (235, 235, 240))
+            barbell(sd, 310, hl, L.get("plates", 2), acc)
             pr_ = ease(0.5 - 0.5 * math.cos(t * 2 * math.pi / 1.5))
             hr = figure(sd, 770, pr_, col=(255, 255, 255))
-            nplates = 2 + int(4 * prog)
+            nplates = R["plates"] if "plates" in R else 2 + int(4 * prog)
             barbell(sd, 770, hr, nplates, acc)
             figure(gd, 770, pr_, col=255, shade=255)
             # reflection
@@ -114,7 +120,7 @@ def render(set_dir):
             img = Image.fromarray(arr.clip(0, 255).astype(np.uint8)); d = ImageDraw.Draw(img)
             # HUD
             if t < END_T:
-                ctext(d, f"WEEK {wk}" + ("  >>" if wk > 1 else ""), 250, F(84), (245, 245, 245))
+                ctext(d, steps[wk - 1]["hud"] if steps else f"WEEK {wk}" + ("  >>" if wk > 1 else ""), 250, F(84), (245, 245, 245))
                 ctext(d, sp["premise"].upper(), 360, F(34), (190, 190, 195))
             else:
                 a = int(255 * ease((t - END_T) / 0.3))
@@ -122,7 +128,9 @@ def render(set_dir):
                     ctext(d, ln.upper(), 240 + i * 90, F(64), (a, a, a) if i == 0 else tuple(int(v * a / 255) for v in acc))
             kl = L["start"] + L["per_week"] * (wk - 1); kr = R["start"] + R["per_week"] * (wk - 1)
             for x, lab, col, kg in ((310, L["label"], (225, 225, 230), kl), (770, R["label"], acc, kr)):
-                ctext(d, lab, 455, F(36), col, x=x); ctext(d, f"{L['lift'] if x < 540 else R['lift']}: {kg:g} KG", 500, F(34), (235, 235, 240), x=x)
+                ctext(d, lab, 455, F(36), col, x=x)
+                line2 = steps[wk - 1]["left" if x < 540 else "right"] if steps else f"{L['lift'] if x < 540 else R['lift']}: {kg:g} KG"
+                ctext(d, line2.upper() if steps else line2, 500, F(34), (235, 235, 240), x=x)
             if sp.get("example"):
                 f = F(28); tw = d.textlength("example", font=f)
                 d.rounded_rectangle([W / 2 - tw / 2 - 16, 556, W / 2 + tw / 2 + 16, 600], 10, fill=acc); ctext(d, "example", 562, f, (10, 10, 10))
@@ -131,7 +139,7 @@ def render(set_dir):
             for i, ln in enumerate(sp["endcard"]):
                 ctext(d, ln.upper(), 820 + i * 90, F(56), tuple(int(v * a) for v in (acc if i == 0 else (235, 235, 240))))
         pr.stdin.write(img.tobytes())
-        if fi in [int(s * FPS) for s in (0.5, weeks * 0.45, weeks * 0.9 - 0.2, END_T + 1.5, CARD_T + 1.5)]:
+        if fi in [int(s * FPS) for s in (0.5, weeks * WEEK_T * 0.5, weeks * WEEK_T - 0.2, END_T + 1.5, CARD_T + 1.5)]:
             img.resize((540, 960)).save(os.path.join(set_dir, "preview", f"f{fi:04d}.jpg"), quality=88)
     pr.stdin.close(); pr.wait()
     print("DONE", out, round(DUR, 1), "s")
