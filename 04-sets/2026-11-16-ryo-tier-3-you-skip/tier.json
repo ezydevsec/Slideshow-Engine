@@ -46,7 +46,7 @@
         [
           "A",
           [
-            "calf raise, straight leg"
+            "calf press, straight leg"
           ]
         ],
         [
@@ -82,13 +82,13 @@
     {
       "type": "tier",
       "tier": "A",
-      "name": "calf raise",
+      "name": "calf press",
       "works": "calves",
       "lines": [
-        "first in the session, straight leg.",
+        "first in the session, legs straight.",
         "pause 3 s in the stretch. 2 × 4–8."
       ],
-      "pose": "calf-raise",
+      "pose": "calf-press",
       "footer": "ryo trains on EARND, our app. follow @earndapp"
     }
   ]
