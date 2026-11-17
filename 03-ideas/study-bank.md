@@ -2,7 +2,7 @@
 
 Rules: use his **topics and the papers**, never his wording, jokes or insults; never present him as endorsing EARND. A study goes in a video only once it's marked **verified** (checked on PubMed or the abstract, real numbers noted). Skip physique, PED/"natty", diet and medical topics.
 
-Last post logged: 2026-11-14 (Dfu7kIPRLew). Scan 11-16: nothing newer; 3 older posts added below.
+Last post logged: 2026-11-16 (Df0G4O6BNad).
 
 | Post date | Post | Views | Claim | Studies cited | Study-race angle (@earndapp) | Status |
 |---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Last post logged: 2026-11-14 (Dfu7kIPRLew). Scan 11-16: nothing newer; 3 older p
 | 10-23 | De12AJTvCa0 | 232K | Leaning back on pulldowns doesn't reduce lat work | PMID 40981044 (EMG, within-subject) | "upright vs lean back pulldown" catch: same lats, more upper back | unverified |
 | 11-13 | DfsBaZyBTRo | 95K | Overhead press grows side delts as well as lateral raises | new study (Contreras, not yet published) | wait until published | not usable yet |
 | 10-15 | Dehg36NOKro | 106K | 9 levers: 4–10 hard sets/muscle/week, 1–2 RIR, 4–8 reps, 2–3×/week, 2+ min rest | (summary, no single study) | topic source for edu slideshows (matches EARND's rules) | n/a |
-| 10-29 | DfFjCUSlHl3 | carousel | "More first sets" myth; multi-set beats single-set | multi-set vs single-set literature | "1 set vs 3 sets" | to find a study |
+| 10-29 | DfFjCUSlHl3 | carousel | "More first sets" myth; multi-set beats single-set | Krieger 2010 (J Strength Cond Res, PMID 20300012) | **"1 set vs 3 sets"** catch: 4–6 sets weren't clearly better than 2–3 | **verified 11-17**: 8 studies; multiple sets ~40% larger hypertrophy effect than 1 set (ES 0.24 for 1 set, 0.34 for 2–3, 0.44 for 4–6); 2–3 vs 4–6 not significant (p = 0.29). Used 11-17. |
 | 10-31 | DfK8Lq9R2Hp | 201K | Ranking hinges (45° back extension S-tier) | opinion | tier-list slideshow topic | n/a |
 | 10-30 | DfH0gMZhCNZ | 152K | Wall sits lower blood pressure | Edwards 2023 BJSM | skip (medical) | skip |
 | 11-06 | DfaHCYOxLKw | 353K | Natural FFMI ceiling | Kouri 1995 | skip (physique/PED) | skip |
@@ -19,3 +19,4 @@ Last post logged: 2026-11-14 (Dfu7kIPRLew). Scan 11-16: nothing newer; 3 older p
 | 11-09 | Dfhx56ypslj | 215K | Warm-up ramp: 50%×10, 80%×6, optional 90%×2 (30–60 s rest), then 1 top set ×5–6 @1–2 RIR + back-off set −10–15% ×6–8 | none (method) | not a study race; topic for @earndapp/@ezyxbt warm-up posts | n/a (method) |
 | 11-01 | DfNfNeJNnLf | 137K | 3 moves people skip: adductor machine, hip thrust, calf raise (calves first, straight leg, 3–5 s stretch hold, 4–8 reps, 2–3 sets, 2–3×/week) | none | Ryo tier/ranking topic | n/a (opinion) |
 | 10-27 | DfALMOvlL7T | carousel | Moved from PPL to Upper/Lower; 2–5 days a week beats 6 | none | split ranking remake topic (matches EARND's 4-day U/L) | n/a (opinion) |
+| 11-16 | Df0G4O6BNad | 66K (1 day) | His 5 go-to triceps exercises: seated (Poliquin) pushdown, cable Tate press, cross-body pushdown, overhead extension, machine dip | none (he says the long-head stretch data is mixed) | Ryo tier topic (our ranking, our words) | n/a (opinion) |

@@ -88,6 +88,8 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | Worth it / skip it (save-or-splurge → gym habits) | web scan 11-14, no metrics | ? | needs an Apify scan |
 | Faceless one-line motivation clip (one line, one figure, 5–7 s) → @quiet.reps4 gold version, our art only | scan 11-16: earned..not..given 3.6M, elevate799 2.4M/1.4M, believe.rise.succeed 1.7M, mmlux26 609K (self-improvement, videos) | 4 (other niche) | video from another niche; test once on @quiet.reps4 after warm-up week |
 | "Progressive overload, this simple" explainer | scan 11-16: going.mogging 242K, trainbloom 195K | 2 | 1 more account |
+| "X or Y? you need a different fix" (skincare) → "stalled or under-recovered?" | scan 11-17: purederm 560K | 1 (other niche) | 2 more accounts |
+| "Advice I'd give myself N years ago" (dating) → @ezyxbt "gym advice i'd give myself 4 years ago" | scan 11-17: spencer.barbosa 921K | 1 (other niche) | tested on @ezyxbt 11-17 as its daily test |
 
 ## Winner remakes (rule 1)
 | Winner | Account | Views | Remakes done | Target |

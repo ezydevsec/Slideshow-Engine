@@ -197,3 +197,15 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @ezyxbt | IDENTITY #2 (rule 5) | "the guy who knows his warm-up numbers" | son original (lyrics_song) / original sound (Slowed Down Songs)
 - [ ] @quiet.reps4 | WEEKLY STICKMAN (gold) | "same lifters. only one is still tired on day 3." heavy vs light | original sound (Slowed Down Songs) / Originalton (Razox)
 - [ ] @whatif.overload | weekly stickman, pixel look | "What if Dale only did light sets?" Dale vs twin, Dale still recovering on Thursday | 🅒 Cyberpunk Drive / 🅒 Dark Breakbeat Collision
+
+## Daily scan 2026-11-17 (trend file: 02-research/trends/2026-11-17.md)
+- [ ] @earndapp | STUDY RACE (verified: Krieger 2010) | "1 set vs 3 sets." catch: 4–6 sets weren't clearly better than 2–3 | Can You Hear The Music (Ludwig Göransson) / Time (Hans Zimmer)
+- [ ] @earndapp | PICK-1, 9 slides | "the perfect full-body day" (Paul's full-body carousel) | 🅒 Ancient Hour / оригинальный звук (идипоспи)
+- [ ] @earndapp | PICK-1, 5 slides + PAIN | "90 minutes on chest day? you need 2 exercises." | 🅒 Ancient Hour / 🅒 The Kettle Screams
+- [ ] Ryo | NEW FORMAT TEST | gym myths ranked by how wrong they are | HTS Plenger / Amnesia X No Hands
+- [ ] Ryo | PAIN COVER | "6 triceps exercises and you can't say which one works" → every triceps exercise ranked (Paul 11-16 topic) | HTS Plenger / Diamonds on me
+- [ ] Ryo | tier list | every chest exercise ranked | Amnesia X No Hands / HTS Plenger
+- [ ] @ezyxbt | NEW FORMAT TEST | "gym advice i'd give myself 4 years ago" (dating bridge) | original sound (~) / son original (lyrics_song)
+- [ ] @ezyxbt | PAIN COVER | "you finish every workout and can't say if it beat last week" | son original (lyrics_song) / original sound (~)
+- [ ] @quiet.reps4 | NEW FORMAT TEST | faceless one-line gold clip | original sound (Ry) / 🅒 Midnight Grid
+- [ ] @whatif.overload | Dale "+1 kg every session" (4 a week) | 🅒 Cyberpunk Drive / 🅒 Midnight Grid
