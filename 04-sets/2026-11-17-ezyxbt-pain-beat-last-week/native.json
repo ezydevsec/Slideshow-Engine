@@ -1,0 +1,96 @@
+{
+  "set_id": "2026-11-17-ezyxbt-pain-beat-last-week",
+  "status": "draft, awaiting approval",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "format": "native-text tip slideshow",
+  "topic_source": "pain bank (rule 4); EARND's rule: beat one number next session",
+  "pain_cover": true,
+  "caption": "if you can't say whether today beat last week, do this. #gymtips #progressiveoverload #gymtok #upperlower #gymbeginner",
+  "sound": {
+    "mode": "trending",
+    "primary": "son original — lyrics_song",
+    "backup": "original sound — ~"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b14-04.jpg",
+        "focus": [
+          0.5,
+          0.42
+        ]
+      },
+      "hook": "you can't say if today beat last week",
+      "sub": "(that's why it feels like nothing's changing)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b6-08.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "title": "the fix",
+      "lines": [
+        "write down weight × reps, every set",
+        "next session: beat 1 number",
+        "+1 rep counts",
+        "+1 kg counts. that's it."
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b5-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "title": "why it works",
+      "lines": [],
+      "text": "you stop guessing. you can see when you've improved."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b17-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip",
+      "text": "my app shows last time's numbers on every set.",
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0,
+        0.14,
+        1,
+        0.6
+      ],
+      "example": true,
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b15-02.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      },
+      "text": "save this for your next session.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

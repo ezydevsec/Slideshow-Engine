@@ -1,0 +1,97 @@
+{
+  "set_id": "2026-11-17-ezyxbt-test-advice-4-years-ago",
+  "status": "draft, awaiting approval",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "format": "native-text tip slideshow",
+  "new_format_test": "'advice i'd give myself N years ago' (dating structure, scan 11-17)",
+  "topic_source": "dating structure (spencer.barbosa 921K); advice = EARND's own rules (one plan, 2 hard sets, write it down, beat 1 number)",
+  "pain_cover": false,
+  "caption": "gym advice i'd give myself 4 years ago. #gymtips #gymtok #beginnergym #upperlower #consistency",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — ~",
+    "backup": "son original — lyrics_song"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b14-07.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "hook": "gym advice i'd give myself 4 years ago",
+      "sub": "(save this if you're starting)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b13-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "title": "the whole list",
+      "lines": [
+        "1. pick one plan. run it 12 weeks.",
+        "2. 2 hard sets beat 5 easy ones.",
+        "3. write down every set.",
+        "4. beat one number next time."
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b10-02.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "the one that matters most",
+      "lines": [],
+      "text": "write it down. then you always know what to beat."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b9-07.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip",
+      "text": "i'm building an app that does #3 and #4 for you.",
+      "shot": "01-app/assets/workout-complete-progressed.png",
+      "crop": [
+        0,
+        0.2,
+        1,
+        0.8
+      ],
+      "example": true,
+      "footer": "it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b7-16.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for your first year.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

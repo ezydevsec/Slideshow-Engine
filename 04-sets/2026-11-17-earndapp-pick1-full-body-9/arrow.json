@@ -1,0 +1,179 @@
+{
+  "set_id": "2026-11-17-earndapp-pick1-full-body-9",
+  "status": "draft, awaiting approval",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "length_test": "9 slides (pair: 2026-11-17-earndapp-pick1-chest-day-5-pain, 5 slides)",
+  "topic_source": "Paul Carter (@liftrunbang1) 29 Oct carousel: full body only needs the main muscles, 2–3 sets",
+  "pain_cover": false,
+  "caption": "the perfect full-body day 🧪 6 jobs, pick 1 for each, 2 hard sets of 4–8. 1. hack squat or leg extension 2. leg curl or RDL 3. chest press or pec deck 4. pulldown or pullover 5. chest-supported row 6. lateral raise or shoulder press. which one are you picking for slide 1? #fullbody #fullbodyworkout #gymtips #hypertrophy #workoutplan",
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ancient Hour — Tully Rowe",
+    "backup": "оригинальный звук — идипоспи"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "the science of the",
+          false
+        ],
+        [
+          "perfect",
+          true
+        ],
+        [
+          "full-body day",
+          true
+        ]
+      ],
+      "sub": "(pick 1 exercise per slide → your full workout)",
+      "pose": "cover-arms-open"
+    },
+    {
+      "type": "structure",
+      "title": "the structure",
+      "sub": "6 jobs. pick 1 for each.",
+      "items": [
+        "quads",
+        "hamstrings",
+        "chest",
+        "lats",
+        "upper back",
+        "side delts"
+      ],
+      "note": "2 hard sets each. 4–8 reps."
+    },
+    {
+      "type": "pick",
+      "n": 1,
+      "muscle": "quads",
+      "sets": "2 × 4–8",
+      "anatomy": "quads",
+      "options": [
+        [
+          "hack squat",
+          "hack-squat"
+        ],
+        [
+          "leg extension",
+          "leg-extension"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 2,
+      "muscle": "hamstrings",
+      "sets": "2 × 4–8",
+      "anatomy": "hamstrings",
+      "options": [
+        [
+          "leg curl",
+          "leg-curl"
+        ],
+        [
+          "romanian deadlift",
+          "romanian-deadlift"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 3,
+      "muscle": "chest",
+      "sets": "2 × 4–8",
+      "anatomy": "chest",
+      "options": [
+        [
+          "chest press",
+          "chest-press"
+        ],
+        [
+          "pec deck",
+          "pec-deck"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 4,
+      "muscle": "lats",
+      "sets": "2 × 4–8",
+      "anatomy": "lats",
+      "options": [
+        [
+          "pulldown",
+          "pulldown"
+        ],
+        [
+          "pullover",
+          "pullover"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 5,
+      "muscle": "upper back",
+      "sets": "2 × 4–8",
+      "anatomy": "upper-back",
+      "options": [
+        [
+          "chest-supported row",
+          "chest-supported-row"
+        ]
+      ],
+      "note": "chest on the pad. pull to your ribs."
+    },
+    {
+      "type": "pick",
+      "n": 6,
+      "muscle": "side delts",
+      "sets": "2 × 4–8",
+      "anatomy": "delts",
+      "options": [
+        [
+          "lateral raise",
+          "lateral-raise"
+        ],
+        [
+          "shoulder press",
+          "shoulder-press"
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND shows you",
+          false
+        ],
+        [
+          "what to beat",
+          true
+        ],
+        [
+          "on every set",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ]
+}

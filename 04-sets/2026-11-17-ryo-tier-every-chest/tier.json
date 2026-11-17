@@ -1,0 +1,94 @@
+{
+  "set_id": "2026-11-17-ryo-tier-every-chest",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "topic_source": "Paul Carter (@liftrunbang1) '9 levers' (2 hard sets, 4–8 reps); ranking is our opinion",
+  "pain_cover": false,
+  "caption": "every chest exercise, ranked. what's your S-tier? 👇 #gymtok #chestday #chestworkout #gymtips #hypertrophy",
+  "sound": {
+    "mode": "trending",
+    "primary": "Amnesia X No Hands — DJSpotifyTransitions",
+    "backup": "suara asli – HTS Plenger — 7 November 🎉🎊"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "every chest exercise,",
+        "ranked."
+      ],
+      "sub": "argue with me.",
+      "pose": "chest-press"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "pick 1 or 2. done.",
+      "rows": [
+        [
+          "S",
+          [
+            "machine chest press"
+          ]
+        ],
+        [
+          "A",
+          [
+            "pec deck"
+          ]
+        ],
+        [
+          "B",
+          [
+            "push-ups"
+          ]
+        ],
+        [
+          "D",
+          [
+            "5 fly variations in one day"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "machine chest press",
+      "works": "chest",
+      "lines": [
+        "stable, easy to load heavy.",
+        "2 × 4–8, add a rep each week."
+      ],
+      "pose": "chest-press"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "pec deck",
+      "works": "chest, stretched",
+      "lines": [
+        "big stretch at the back.",
+        "pause there. 2 × 4–8."
+      ],
+      "pose": "pec-deck"
+    },
+    {
+      "type": "tier",
+      "tier": "B",
+      "name": "push-ups",
+      "works": "chest + triceps",
+      "lines": [
+        "anywhere, any day.",
+        "hard to load heavy."
+      ],
+      "pose": "push-up",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

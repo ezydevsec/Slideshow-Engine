@@ -4,8 +4,9 @@ Gold, never @earndapp's lime, so the account reads as its own page. 0 generation
 
   python3 anim_gold.py escalator <set_dir>   # parable: "the down escalator"
   python3 anim_gold.py feeling   <set_dir>   # manifesto: "the feeling comes after"
+  python3 anim_gold.py oneline   <set_dir>   # faceless one-line clip, no voice: reads <set_dir>/oneline.json {"out","line1","line2","end"}
 
-Needs <set_dir>/voice.mp3; scene timings match the current voiceovers (video_finish.py --words).
+Voiced scenes need <set_dir>/voice.mp3 (oneline has none); scene timings match the current voiceovers (video_finish.py --words).
 Every video ends on a disclosure card: the account is ours and EARND is our app.
 """
 import os, sys, math
@@ -55,7 +56,7 @@ def endcard(dc, dg, t, t0, line1, line2):
 
 
 def render(set_dir, out, dur, draw, previews):
-    base = warm_base(); wr = Writer(os.path.join(set_dir, out), audio=os.path.join(set_dir, "voice.mp3"))
+    base = warm_base(); va = os.path.join(set_dir, "voice.mp3"); wr = Writer(os.path.join(set_dir, out), audio=va if os.path.exists(va) else None)
     for fi in range(int(dur * FPS)):
         t = fi / FPS
         c = Image.new("L", (W, H), 0); g = Image.new("L", (W, H), 0)
@@ -219,5 +220,31 @@ def walls(set_dir):
     render(set_dir, "two-walls.mp4", END + 3.2, draw, (1, 4, 7.5, 10, 13, 16.5, 19.5))
 
 
+# ------------------------------------------------------------------ one line (faceless clip, no voice)
+def oneline(set_dir):
+    import json
+    sp = json.load(open(os.path.join(set_dir, "oneline.json")))
+    END = 6.4
+    def bar(d, x, y, fill):
+        d.line([(x - 150, y), (x + 150, y)], fill=fill, width=8)
+        for sx in (-1, 1):
+            for k in range(2): px = x + sx * (110 + k * 22); d.rounded_rectangle([px - 8, y - 55, px + 8, y + 55], 6, outline=fill, width=5)
+    def draw(t, dc, dg):
+        if t >= END:
+            return endcard(dc, dg, t, END, sp.get("end", "save this."), DISCLOSE)
+        big(dc, sp["line1"], 300, ease((t - 0.2) / 0.35), 110)
+        if t > 2.6: big(dg, sp["line2"], 450, ease((t - 2.6) / 0.35), 110)
+        fy = 1560
+        x = 160 + 380 * ease(t / 2.4)
+        if t < 2.4:
+            stick(dc, x, fy, 1.4, w=9, pose="walk", ph=t * 7); bar(dc, 540, fy - 40, 200)
+        else:
+            p = ease((t - 3.2) / 1.2)                      # bar from the floor to the hips
+            hy = fy - 40 - (175 * 1.4 - 40) * p
+            stick(dg, 540, fy, 1.4, w=9); bar(dg, 540, hy, 255)
+        dc.line([(80, fy + 4), (W - 80, fy + 4)], fill=90, width=3)
+    render(set_dir, sp["out"], END + 3.0, draw, (1.0, 3.0, 5.0, 8.0))
+
+
 if __name__ == "__main__":
-    {"escalator": escalator, "feeling": feeling, "walls": walls}[sys.argv[1]](sys.argv[2])
+    {"escalator": escalator, "feeling": feeling, "walls": walls, "oneline": oneline}[sys.argv[1]](sys.argv[2])

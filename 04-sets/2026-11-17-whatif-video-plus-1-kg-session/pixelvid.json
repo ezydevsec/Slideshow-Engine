@@ -1,0 +1,26 @@
+{
+  "set_id": "2026-11-17-whatif-video-plus-1-kg-session",
+  "status": "draft, awaiting approval",
+  "format": "what-if escalation video (pixel art)",
+  "account": "@whatif.overload",
+  "account_type": "theme",
+  "new_format_test": "what-if #3: per session instead of per week (4 sessions a week, the counter runs faster)",
+  "topic_source": "EARND's 4 sessions a week; joke escalation, no study",
+  "out": "plus-1-kg-session.mp4",
+  "caption": "4 sessions a week. +1 kg every time. dale did the maths. #gymtok #progressiveoverload #gymhumor #whatif #overheadpress",
+  "title": ["WHAT IF DALE ADDED", "+1 KG EVERY SESSION?"],
+  "start": 60,
+  "per_week": 4,
+  "stages": [
+    {"until_week": 56, "load": "plates", "caption": "4 sessions a week"},
+    {"until_week": 125, "load": "vending", "caption": "about a vending machine"},
+    {"until_week": 250, "load": "cow", "caption": "about a dairy cow"},
+    {"until_week": 337, "load": "car", "caption": "about a small car"}
+  ],
+  "end_title": ["REAL LIFE:", "+1 KG A SESSION", "STOPS WORKING FAST"],
+  "end_body": ["then the win is +1 rep.", "dale's secret: he always knows", "his number to beat."],
+  "disclose": ["this page is made by EARND, our gym app.", "follow @earndapp for the launch."],
+  "ai_images": false,
+  "ai_note": "pixel art drawn by code, nothing generated",
+  "sound": {"mode": "trending", "primary": "🅒 Cyberpunk Drive — Dennis Ahearne", "backup": "🅒 Midnight Grid — Harold Fender"}
+}

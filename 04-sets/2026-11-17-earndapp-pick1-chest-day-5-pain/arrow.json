@@ -1,0 +1,106 @@
+{
+  "set_id": "2026-11-17-earndapp-pick1-chest-day-5-pain",
+  "status": "draft, awaiting approval",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "length_test": "5 slides (pair: 2026-11-17-earndapp-pick1-full-body-9, 9 slides)",
+  "topic_source": "Paul Carter (@liftrunbang1) '9 levers' 15 Oct, 106K: 2 hard sets, 4–8 reps",
+  "pain_cover": true,
+  "caption": "90 minutes on chest day? you need 2 jobs 🧪 chest: chest press or pec deck. shoulders: shoulder press or lateral raise. 2 hard sets of 4–8 each. which one are you cutting? #chestday #chestworkout #gymtips #hypertrophy #workoutplan",
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ancient Hour — Tully Rowe",
+    "backup": "🅒 The Kettle Screams — Doreen Lafferty"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "90 minutes on",
+          false
+        ],
+        [
+          "chest day?",
+          true
+        ]
+      ],
+      "sub": "(you need 2 jobs. pick 1 for each.)",
+      "pose": "chest-press"
+    },
+    {
+      "type": "structure",
+      "title": "the whole chest day",
+      "sub": "2 jobs. pick 1 for each.",
+      "items": [
+        "chest: chest press or pec deck",
+        "shoulders: shoulder press or lateral raise"
+      ],
+      "note": "2 hard sets each. 4–8 reps. about 20 minutes."
+    },
+    {
+      "type": "pick",
+      "n": 1,
+      "muscle": "chest",
+      "sets": "2 × 4–8",
+      "anatomy": "chest",
+      "options": [
+        [
+          "chest press",
+          "chest-press"
+        ],
+        [
+          "pec deck",
+          "pec-deck"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 2,
+      "muscle": "shoulders",
+      "sets": "2 × 4–8",
+      "anatomy": "delts",
+      "options": [
+        [
+          "shoulder press",
+          "shoulder-press"
+        ],
+        [
+          "lateral raise",
+          "lateral-raise"
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND shows you",
+          false
+        ],
+        [
+          "what to beat",
+          true
+        ],
+        [
+          "on every set",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ]
+}

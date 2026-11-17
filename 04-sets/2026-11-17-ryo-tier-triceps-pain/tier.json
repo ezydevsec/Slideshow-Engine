@@ -1,0 +1,100 @@
+{
+  "set_id": "2026-11-17-ryo-tier-triceps-pain",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "topic_source": "Paul Carter (@liftrunbang1) 16 Nov, 66K: his go-to triceps exercises (opinion; our ranking and words)",
+  "pain_cover": true,
+  "caption": "6 triceps exercises and you can't say which one works? here's the list 👇 #gymtok #triceps #armday #tricepsworkout #gymtips",
+  "sound": {
+    "mode": "trending",
+    "primary": "suara asli – HTS Plenger — 7 November 🎉🎊",
+    "backup": "Diamonds on me — Capivara Dj"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "6 triceps exercises.",
+        "which one works?"
+      ],
+      "sub": "ranked. argue with me.",
+      "pose": "overhead-extension"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "pick 2. done.",
+      "rows": [
+        [
+          "S",
+          [
+            "seated pushdown"
+          ]
+        ],
+        [
+          "S",
+          [
+            "overhead extension"
+          ]
+        ],
+        [
+          "A",
+          [
+            "machine dip"
+          ]
+        ],
+        [
+          "B",
+          [
+            "close push-up"
+          ]
+        ],
+        [
+          "D",
+          [
+            "6 exercises in one day"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "seated pushdown",
+      "works": "triceps",
+      "lines": [
+        "sit down: nothing to brace,",
+        "just elbows. 2 × 4–8."
+      ],
+      "pose": "pushdown"
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "overhead extension",
+      "works": "triceps, long head",
+      "lines": [
+        "arms overhead stretch the long head.",
+        "2 × 4–8."
+      ],
+      "pose": "overhead-extension"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "machine dip",
+      "works": "triceps (+ chest)",
+      "lines": [
+        "the heavy press for triceps.",
+        "easy to add weight each week."
+      ],
+      "pose": "machine-dip",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

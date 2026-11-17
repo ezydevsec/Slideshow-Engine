@@ -1,0 +1,17 @@
+{
+  "set_id": "2026-11-17-quietreps-video-oneline",
+  "status": "draft, awaiting approval",
+  "format": "faceless one-line clip (gold line art, no voice)",
+  "account": "@quiet.reps4",
+  "account_type": "theme",
+  "new_format_test": "faceless one-line clip (self-improvement structure, scan 11-16/11-17): one figure, one line, 6 s",
+  "topic_source": "self-improvement one-line clips (earned..not..given, elevate799, believe.rise.succeed, mmlux26); our own line and art",
+  "out": "nobody-is-coming.mp4",
+  "line1": "NOBODY IS COMING",
+  "line2": "TO LIFT IT FOR YOU.",
+  "end": "go anyway.",
+  "caption": "go anyway. #selfimprovement #discipline #gymmotivation #consistency #mindset",
+  "ai_images": false,
+  "ai_note": "drawn by code, no voice, nothing generated",
+  "sound": {"mode": "trending", "primary": "original sound — Ry", "backup": "🅒 Midnight Grid — Harold Fender"}
+}

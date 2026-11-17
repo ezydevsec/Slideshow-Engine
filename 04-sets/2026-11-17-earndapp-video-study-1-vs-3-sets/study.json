@@ -1,0 +1,74 @@
+{
+  "set_id": "2026-11-17-earndapp-video-study-1-vs-3-sets",
+  "status": "draft, awaiting approval",
+  "format": "study race A vs B",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "new_format_test": "study race day 3 (stage style): sets per exercise",
+  "topic_source": "Paul Carter (@liftrunbang1) 29 Oct carousel (multi-set beats single set); study verified 11-17: Krieger 2010, J Strength Cond Res (PMID 20300012)",
+  "out": "1-vs-3-sets.mp4",
+  "caption": "1 set vs 2–3 sets. which grows more? here's the catch 👀 are you the left or the right? 👇 #gymtok #hypertrophy #upperlower #gymtips #sets",
+  "title_a": "1 SET",
+  "title_b": "2–3 SETS",
+  "head_a": "1 set",
+  "head_b": "2–3 sets",
+  "sub_a": "1 set per exercise",
+  "sub_b": "2–3 sets per exercise",
+  "question": "Same exercises. Which grows more?",
+  "days_a": [
+    0,
+    3
+  ],
+  "days_b": [
+    0,
+    3
+  ],
+  "weeks": 8,
+  "result_a": 0.24,
+  "result_b": 0.34,
+  "result_head": "2–3 sets grew more.",
+  "result_note": "about 40% bigger effect, 8 studies",
+  "result_a_label": "effect size 0.24",
+  "result_b_label": "effect size 0.34",
+  "cite": "Krieger 2010 (J Strength Cond Res), meta-analysis of 8 studies",
+  "catch_lines": [
+    "4–6 sets weren't clearly better than 2–3.",
+    "the big jump is from 1 set to 2–3.",
+    "more sets after that: smaller and smaller."
+  ],
+  "catch_cite": "Krieger 2010: 2–3 vs 4–6 sets, no significant difference",
+  "catch_closes": false,
+  "tie_in": [
+    "That's why EARND gives you 2 hard sets.",
+    "on every exercise. twice a week."
+  ],
+  "shot": "01-app/assets/demo-last-time-target.png",
+  "crop": [
+    0.228,
+    0.305,
+    0.772,
+    0.622
+  ],
+  "endcard": [
+    "EARND launches soon.",
+    "follow for the launch."
+  ],
+  "ai_images": false,
+  "ai_note": "drawn by code, real app screen; nothing generated",
+  "sound": {
+    "mode": "trending",
+    "primary": "Can You Hear The Music — Ludwig Göransson",
+    "backup": "Time — Hans Zimmer"
+  },
+  "style": "stage",
+  "color_a": [
+    110,
+    190,
+    255
+  ],
+  "color_b": [
+    198,
+    255,
+    0
+  ]
+}

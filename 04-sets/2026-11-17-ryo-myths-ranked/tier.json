@@ -1,0 +1,102 @@
+{
+  "set_id": "2026-11-17-ryo-myths-ranked",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "new_format_test": "myths ranked by how wrong they are (new slide type for Ryo: verdict tag)",
+  "topic_source": "verified studies only: Schoenfeld et al. 2017 (load, PMID 28834797), Krieger 2010 (sets, PMID 20300012); the rest is opinion",
+  "pain_cover": false,
+  "caption": "gym myths, ranked by how wrong they are. which one did you believe? 👇 #gymtok #gymmyths #gymtips #hypertrophy #strengthtraining",
+  "sound": {
+    "mode": "trending",
+    "primary": "suara asli – HTS Plenger — 7 November 🎉🎊",
+    "backup": "Amnesia X No Hands — DJSpotifyTransitions"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "gym myths,",
+        "ranked by how wrong."
+      ],
+      "sub": "F = most wrong. argue with me.",
+      "pose": "cover-arms-crossed"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "F = most wrong.",
+      "rows": [
+        [
+          "F",
+          [
+            "light tones, heavy bulks"
+          ]
+        ],
+        [
+          "F",
+          [
+            "confuse your muscles every week"
+          ]
+        ],
+        [
+          "D",
+          [
+            "1 set is all you need"
+          ]
+        ],
+        [
+          "C",
+          [
+            "every set has to go to failure"
+          ]
+        ],
+        [
+          "B",
+          [
+            "no soreness = no growth"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "F",
+      "name": "light tones, heavy bulks",
+      "tag": "verdict: wrong",
+      "lines": [
+        "light and heavy grew about the same",
+        "when sets went to failure (21 studies)."
+      ],
+      "pose": "leg-press",
+      "footer": "Schoenfeld et al. 2017"
+    },
+    {
+      "type": "tier",
+      "tier": "F",
+      "name": "confuse your muscles",
+      "tag": "verdict: wrong",
+      "lines": [
+        "same exercises, a bit more each time.",
+        "that's the signal to grow."
+      ],
+      "pose": "pulldown"
+    },
+    {
+      "type": "tier",
+      "tier": "D",
+      "name": "1 set is all you need",
+      "tag": "verdict: mostly wrong",
+      "lines": [
+        "2–3 sets beat 1 set in 8 studies.",
+        "1 set still works. just less."
+      ],
+      "pose": "split-squat",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

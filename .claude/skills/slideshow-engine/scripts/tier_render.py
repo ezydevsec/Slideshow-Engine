@@ -7,6 +7,7 @@ tier.json slides:
   {"type": "cover", "title": ["every lat exercise,", "ranked."], "sub": "argue with me.", "pose": "cover-arms-crossed"}
   {"type": "list", "title": "the whole list", "sub": "...", "rows": [["S", ["lat pulldown", "pull-up"]], ...]}
   {"type": "tier", "tier": "S", "name": "lat pulldown", "works": "lats", "lines": ["...", "..."], "pose": "pulldown", "footer": "optional"}
+  optional "tag": full tag text instead of "works: ..." (e.g. "verdict: wrong" for myths ranked)
 Poses: 01-app/brand/earnie-v3/<pose>.png
 """
 import json, os, sys
@@ -68,8 +69,8 @@ def render(set_dir):
             fn = F(BL, 62)
             while d.textlength(s["name"], font=fn) > W - 300: fn = F(BL, fn.size - 4)
             d.text((220, y + 24), s["name"], font=fn, fill=INK); y += 145
-            if s.get("works"):
-                tag = "works: " + s["works"]; ft = F(BL, 32); tw = d.textlength(tag, font=ft)
+            if s.get("works") or s.get("tag"):
+                tag = s.get("tag") or ("works: " + s["works"]); ft = F(BL, 32); tw = d.textlength(tag, font=ft)
                 d.rounded_rectangle([70, y, 70 + tw + 36, y + 52], 26, fill=AMB); d.text((88, y + 7), tag, font=ft, fill=INK); y += 75
             for ln in s.get("lines", []): d.text((70, y), ln, font=F(BO, 40), fill=(90, 90, 95)); y += 56
             bot = H - (110 if s.get("footer") else 30); place(img, im, y + 20, bot)
