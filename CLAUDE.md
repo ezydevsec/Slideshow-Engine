@@ -18,7 +18,7 @@ This folder runs TikTok and Instagram slideshows for EARND using the `slideshow-
 daily_batch_size: 15  # founder 2026-11-14: @earndapp 3 (1 video + 2 slideshows), @earnie.lifts 3 (1 video + 2 slideshows), @ezyxbt 3 (1+ new-format test daily), @quiet.reps4 3 videos, @whatif.overload 3 videos
 winner_variation_share: 0.6
 trend_communities: [r/naturalbodybuilding, r/StrongerByScience, r/GYM]
-trend_scan: daily, 04:30 London (founder, 2026-11-12; was 00:00, before that 07:47), trend file + sound bank refreshed every day (founder, 2026-11-06; replaces the weekly scan).
+trend_scan: daily, 03:40 London (founder, 2026-11-17, so it is done before drafts at ~04:40; was 04:30, 00:00, 07:47), trend file + sound bank refreshed every day (founder, 2026-11-06; replaces the weekly scan).
 stats_pull: weekly, Sunday morning (founder, 2026-11-01).
 banned_words: []
 default_app_slide: 4
