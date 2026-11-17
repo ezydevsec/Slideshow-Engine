@@ -8,7 +8,7 @@ a similar caption or similar slide titles (difflib ratio >= 0.6). Exit code 1 if
 """
 import json, os, re, sys, glob, difflib, datetime
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "..", ".."))
-SPECS = ("edu.json", "native.json", "comic.json", "meme.json", "pixel.json", "stick.json", "arrow.json", "study.json", "stickslides.json", "tier.json", "pixelvid.json", "video.json")
+SPECS = ("edu.json", "native.json", "comic.json", "meme.json", "pixel.json", "stick.json", "arrow.json", "study.json", "stickslides.json", "tier.json", "pixelvid.json", "oneline.json", "video.json")
 args = sys.argv[1:]; days = 21
 if "--days" in args: i = args.index("--days"); days = int(args[i + 1]); del args[i:i + 2]
 

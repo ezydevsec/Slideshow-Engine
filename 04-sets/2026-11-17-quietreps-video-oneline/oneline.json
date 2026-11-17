@@ -1,6 +1,6 @@
 {
   "set_id": "2026-11-17-quietreps-video-oneline",
-  "status": "draft, awaiting approval",
+  "status": "approved (founder); post on 2026-11-17",
   "format": "faceless one-line clip (gold line art, no voice)",
   "account": "@quiet.reps4",
   "account_type": "theme",
@@ -13,5 +13,9 @@
   "caption": "go anyway. #selfimprovement #discipline #gymmotivation #consistency #mindset",
   "ai_images": false,
   "ai_note": "drawn by code, no voice, nothing generated",
-  "sound": {"mode": "trending", "primary": "original sound — Ry", "backup": "🅒 Midnight Grid — Harold Fender"}
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — Ry",
+    "backup": "🅒 Midnight Grid — Harold Fender"
+  }
 }
