@@ -1,0 +1,42 @@
+{
+  "set_id": "2026-11-19-quietreps-video-doer-new-programme",
+  "status": "draft, awaiting approval (founder links 11-18: @sticktoit16 4.6M / 3.5M)",
+  "format": "overthinker vs doer (stickman, two panels, gold glow)",
+  "account": "@quiet.reps4",
+  "account_type": "theme",
+  "new_format_test": "overthinker vs doer #2 (founder links 11-18), 3D stick figures",
+  "topic_source": "founder links 11-18",
+  "out": "new-programme.mp4",
+  "title": "THE NEW PROGRAMME",
+  "top": "OVERTHINKER",
+  "bottom": "DOER",
+  "thoughts": [
+    "PPL or upper/lower?",
+    "one more video first",
+    "maybe a 6-day split?",
+    "i'll start monday"
+  ],
+  "doer_label": "ALREADY ON WEEK 3",
+  "end_line": [
+    "same plan.",
+    "one actually ran it."
+  ],
+  "endcard": [
+    "this page is made by EARND,",
+    "our gym app. follow @earndapp"
+  ],
+  "accent": [
+    255,
+    196,
+    120
+  ],
+  "caption": "one's on week 3. the other is still choosing a split. which one are you? be honest #gymtok #overthinking #discipline #gymmotivation #upperlower",
+  "ai_images": false,
+  "ai_note": "drawn by code, no voice, nothing generated",
+  "sound": {
+    "mode": "trending",
+    "primary": "som original — KING SONG SLOWED (the original's sound)",
+    "backup": "оригінальний звук — Itachi"
+  },
+  "render": "3d"
+}
