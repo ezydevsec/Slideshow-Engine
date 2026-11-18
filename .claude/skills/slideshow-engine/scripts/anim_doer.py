@@ -43,13 +43,13 @@ def render(set_dir):
     if THREE_D:                                   # real 3D stick figures (mannequin3d.py), each pose rendered once
         q = lambda v, n: round(v * n) / n
         def top_state(t):
-            step = 0.5 - 0.5 * math.cos(t * 2 * math.pi / 2.6); return (0.0, 0.0, q(-0.12 + 0.12 * step, 8))
+            step = 0.5 - 0.5 * math.cos(t * 2 * math.pi / 2.6); return (0.0, 0.0, q(-0.25 + 0.3 * step, 20))
         def bot_state(t):
             if t < 4.2:
                 p = ease(0.5 - 0.5 * math.cos(max(0.0, t - 0.6) * 2 * math.pi / 1.2)) if t > 0.6 else 0.0
-                return ("lift", (q(p, 12), 2.0, 0.0))
+                return ("lift", (q(p, 12), 3.0, 0.0))
             dx = 3.2 * ease((t - 4.4) / 2.0)
-            return ("walk", (q((t * 1.6) % 1.0, 6), 2.0, q(dx, 16)))
+            return ("walk", (q((t * 1.6) % 1.0, 4), 3.0, q(dx, 10)))
         tk, bk = {}, {"lift": {}, "walk": {}}
         for fi in range(int(END * FPS)):
             t = fi / FPS; tk.setdefault(top_state(t), len(tk))

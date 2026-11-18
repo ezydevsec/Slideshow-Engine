@@ -161,16 +161,16 @@ class Mannequin:
         bpy.ops.mesh.primitive_uv_sphere_add(radius=1, segments=32, ring_count=16); self.hips = bpy.context.object
         self.hips.data.materials.append(self.body); bpy.ops.object.shade_smooth()
         self.equip()
-        if floor_bar:                                   # a loaded bar resting on the floor in front of the figure
-            bpy.ops.mesh.primitive_cylinder_add(radius=0.015, depth=1.15, vertices=16, location=(0, -0.32, 0.19), rotation=(0, math.pi / 2, 0))
-            bpy.context.object.data.materials.append(self.metal)
-            for sx in (-0.42, -0.37, 0.37, 0.42):
-                bpy.ops.mesh.primitive_cylinder_add(radius=0.19, depth=0.045, vertices=40, location=(sx, -0.32, 0.19), rotation=(0, math.pi / 2, 0))
-                bpy.context.object.data.materials.append(self.kit)
         bpy.ops.object.empty_add(location=(x0, 0, 0)); self.root = bpy.context.object
         self.root.rotation_euler = (0, 0, math.radians(YAW.get(motion, 0)))
         for o in set(bpy.data.objects) - before - {self.root}:
             o.parent = self.root; o.matrix_parent_inverse.identity()
+        if floor_bar:                                   # a loaded bar resting on the floor in front of the figure (stays put)
+            bpy.ops.mesh.primitive_cylinder_add(radius=0.015, depth=1.15, vertices=16, location=(x0, -0.32, 0.19), rotation=(0, math.pi / 2, 0))
+            bpy.context.object.data.materials.append(self.metal)
+            for sx in (-0.42, -0.37, 0.37, 0.42):
+                bpy.ops.mesh.primitive_cylinder_add(radius=0.19, depth=0.045, vertices=40, location=(x0 + sx, -0.32, 0.19), rotation=(0, math.pi / 2, 0))
+                bpy.context.object.data.materials.append(self.kit)
 
     def equip(self):
         m = self.motion; self.dbs = []; self.bar = None
@@ -261,7 +261,10 @@ def render_single(motion, poses, out_dir, kit_rgb, style="stick", floor_bar=Fals
     sc = reset(res); sc.cycles.samples = samples
     stage([x0]); camera(1, motion, dist_override=dist)
     m = Mannequin(x0, tuple(c / 255 for c in kit_rgb) + (1,), motion, style=style, floor_bar=floor_bar)
-    if glow_rgb: m.body.node_tree.nodes["Principled BSDF"].inputs["Emission Color"].default_value = tuple(c / 255 for c in glow_rgb) + (1,)
+    if glow_rgb:
+        bsdf = m.body.node_tree.nodes["Principled BSDF"]
+        bsdf.inputs["Emission Color"].default_value = tuple(c / 255 for c in glow_rgb) + (1,)
+        bsdf.inputs["Base Color"].default_value = tuple(0.55 + 0.45 * c / 255 for c in glow_rgb) + (1,)
     os.makedirs(out_dir, exist_ok=True)
     for i, (p, g, dx) in enumerate(poses):
         fp = os.path.join(out_dir, f"f{i:05d}.png")

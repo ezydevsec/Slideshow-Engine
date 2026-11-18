@@ -10,13 +10,33 @@
   "title": "THE HEAVY SET",
   "top": "OVERTHINKER",
   "bottom": "DOER",
-  "thoughts": ["what if i fail it?", "one more warm-up?", "let me check my form", "maybe next week"],
+  "thoughts": [
+    "what if i fail it?",
+    "one more warm-up?",
+    "let me check my form",
+    "maybe next week"
+  ],
   "doer_label": "ALREADY HOME",
-  "end_line": ["same weight.", "one just started."],
-  "endcard": ["this page is made by EARND,", "our gym app. follow @earndapp"],
-  "accent": [255, 196, 120],
+  "end_line": [
+    "same weight.",
+    "one just started."
+  ],
+  "endcard": [
+    "this page is made by EARND,",
+    "our gym app. follow @earndapp"
+  ],
+  "accent": [
+    255,
+    196,
+    120
+  ],
   "caption": "one's already home. the bar hasn't moved for the other one. which one are you? be honest #gymtok #overthinking #discipline #gymmotivation #mindset",
   "ai_images": false,
   "ai_note": "drawn by code, no voice, nothing generated",
-  "sound": {"mode": "trending", "primary": "son original — Trendformusic", "backup": "original sound — pяѳдчcяs"}
+  "sound": {
+    "mode": "trending",
+    "primary": "son original — Trendformusic",
+    "backup": "original sound — pяѳдчcяs"
+  },
+  "render": "3d"
 }
