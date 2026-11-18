@@ -30,8 +30,8 @@
   "ai_note": "drawn by code, real app screen; nothing generated",
   "sound": {
     "mode": "trending",
-    "primary": "Can You Hear The Music — Ludwig Göransson",
-    "backup": "Time — Hans Zimmer"
+    "primary": "suono originale — swami (the original's sound)",
+    "backup": "Can You Hear The Music — Ludwig Göransson"
   },
   "style": "stage",
   "color_a": [
@@ -49,12 +49,12 @@
   "topic_source": "founder link 11-18 (@appforthegym 2.4M); study verified 11-18: Schoenfeld et al. 2018, Eur J Sport Sci (PMID 29533715)",
   "out": "lift-vs-squeeze.mp4",
   "caption": "same curls for 8 weeks. one group just lifted it, one squeezed the muscle. here's the catch 👀 are you the left or the right? 👇 #gymtok #biceps #armday #hypertrophy #gymtips",
-  "title_a": "LIFT IT",
-  "title_b": "SQUEEZE IT",
-  "head_a": "Lift it",
-  "head_b": "squeeze it",
-  "sub_a": "focus: move the weight",
-  "sub_b": "focus: squeeze the biceps",
+  "title_a": "LIFT THE WEIGHT",
+  "title_b": "SQUEEZE THE MUSCLE",
+  "head_a": "Lift the weight",
+  "head_b": "squeeze the muscle",
+  "sub_a": "focus on moving it",
+  "sub_b": "focus on the biceps",
   "question": "Same curls, 8 weeks. Which arm grew more?",
   "result_a": 6.9,
   "result_b": 12.4,
@@ -72,5 +72,50 @@
   "tie_in": [
     "EARND gives you the weight.",
     "you bring the squeeze."
-  ]
+  ],
+  "motion": "curl",
+  "week_t": 0.55,
+  "res_t": 2.0,
+  "catch_t": 3.2,
+  "app_t": 2.2,
+  "sides": [
+    {
+      "title": "Lift the weight",
+      "head": "Lift the weight",
+      "sub": "focus on moving it",
+      "days": [
+        0,
+        2,
+        4
+      ],
+      "result": 6.9,
+      "label": "+6.9%",
+      "color": [
+        110,
+        190,
+        255
+      ],
+      "focus": "hand"
+    },
+    {
+      "title": "Squeeze the muscle",
+      "head": "squeeze the muscle",
+      "sub": "focus on the biceps",
+      "days": [
+        0,
+        2,
+        4
+      ],
+      "result": 12.4,
+      "label": "+12.4%",
+      "color": [
+        198,
+        255,
+        0
+      ],
+      "focus": "biceps",
+      "win": true
+    }
+  ],
+  "always_move": true
 }

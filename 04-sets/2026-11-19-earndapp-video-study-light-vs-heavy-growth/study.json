@@ -1,0 +1,134 @@
+{
+  "status": "draft, awaiting approval (founder link 11-18: @appforthegym 4.5M)",
+  "format": "study race A vs B",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "weeks": 8,
+  "catch_closes": false,
+  "shot": "01-app/assets/demo-last-time-target.png",
+  "crop": [
+    0.228,
+    0.305,
+    0.772,
+    0.622
+  ],
+  "endcard": [
+    "EARND launches soon.",
+    "follow for the launch."
+  ],
+  "ai_images": false,
+  "ai_note": "drawn by code, real app screen; nothing generated",
+  "sound": {
+    "mode": "trending",
+    "primary": "Interstellar on Piano — Andy Morris (the original's sound)",
+    "backup": "Can You Hear The Music — Ludwig Göransson"
+  },
+  "style": "stage",
+  "color_a": [
+    110,
+    190,
+    255
+  ],
+  "color_b": [
+    198,
+    255,
+    0
+  ],
+  "set_id": "2026-11-19-earndapp-video-study-light-vs-heavy-growth",
+  "new_format_test": "study race recreated from founder link (@appforthegym 'light vs heavy', 4.5M)",
+  "topic_source": "founder link 11-18 (@appforthegym 4.5M); study verified 11-17: Schoenfeld et al. 2017, J Strength Cond Res (PMID 28834797)",
+  "out": "light-vs-heavy-growth.mp4",
+  "caption": "you don't have to lift heavy to grow. here's the catch 👀 are you the left or the right? 👇 #gymtok #hypertrophy #gymtips #upperlower #lightvsheavy",
+  "question": "Same sets, taken to failure. Which grows more?",
+  "result_head": "About the same muscle.",
+  "result_note": "21 studies, sets taken to failure",
+  "cite": "Schoenfeld et al. 2017 (J Strength Cond Res), meta-analysis of 21 studies",
+  "catch_lines": [
+    "heavy built more strength.",
+    "light only works close to failure.",
+    "and 30 reps to failure hurts. a lot."
+  ],
+  "catch_cite": "Schoenfeld 2017: 1RM gains greater with heavy loads",
+  "tie_in": [
+    "That's why EARND uses 4–8 reps.",
+    "grows the muscle. builds the strength."
+  ],
+  "motion": "curl",
+  "week_t": 0.6,
+  "res_t": 2.2,
+  "catch_t": 3.6,
+  "app_t": 2.6,
+  "title_parts": [
+    [
+      "Light",
+      [
+        110,
+        190,
+        255
+      ]
+    ],
+    [
+      " vs ",
+      [
+        245,
+        245,
+        245
+      ]
+    ],
+    [
+      "heavy",
+      [
+        198,
+        255,
+        0
+      ]
+    ],
+    [
+      ".",
+      [
+        245,
+        245,
+        245
+      ]
+    ]
+  ],
+  "tie": true,
+  "sides": [
+    {
+      "title": "Light",
+      "head": "Light",
+      "sub": "25–35 reps",
+      "days": [
+        0,
+        2,
+        4
+      ],
+      "result": 1.0,
+      "label": "same growth",
+      "color": [
+        110,
+        190,
+        255
+      ]
+    },
+    {
+      "title": "Heavy",
+      "head": "heavy",
+      "sub": "8–12 reps",
+      "days": [
+        0,
+        2,
+        4
+      ],
+      "result": 1.0,
+      "label": "same growth",
+      "color": [
+        198,
+        255,
+        0
+      ],
+      "win": true
+    }
+  ],
+  "always_move": true
+}

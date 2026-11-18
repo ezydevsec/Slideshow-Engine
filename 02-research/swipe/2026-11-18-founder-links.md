@@ -24,3 +24,11 @@
 
 ## Not copied
 Their art, mascots, music choices tied to them, captions and wording. Topics/studies and the structure only.
+
+## Recreations (founder 11-18: "recreate them exactly the same, just tailor them to my app")
+| Original | Ours | Matched | Not matched (and why) |
+|---|---|---|---|
+| @appforthegym "Lift the weight vs squeeze the muscle" 13 s | `2026-11-19-earndapp-video-study-lift-vs-squeeze` 13.2 s | titles, 2 sides, curl motion, FOCUS brackets on dumbbell vs biceps, result %, "here's the catch", length, sound | their 3D mannequin art (ours is our own drawing); side colours are our blue/lime, not their blue/orange |
+| @appforthegym "Half reps vs full reps." 15 s | `…-half-vs-full-reps` 14.6 s | 3 sides (top half / full / bottom half), calf raise on a step, each side moves through only its range, length, sound | % labels: only secondary sources, so labels name the groups instead of numbers |
+| @appforthegym "Light vs heavy." 16 s | `…-light-vs-heavy-growth` 14.6 s | 2 sides with rep ranges (25–35 vs 8–12), tie result, catch, sound | the study is the 21-study meta-analysis, not a single trial |
+| @sticktoit16 flu shot / band-aid 15 s | `2026-11-19-quietreps-video-doer-heavy-set` 14.8 s | 2 stacked spotlight panels, overthinker vs doer, doer leaves first, "which one are you? be honest" | gym story instead of a needle/band-aid (tailored), gold glow (our account look) |

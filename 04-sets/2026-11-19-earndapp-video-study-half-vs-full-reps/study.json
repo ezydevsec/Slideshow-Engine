@@ -28,7 +28,7 @@
   "ai_note": "drawn by code, real app screen; nothing generated",
   "sound": {
     "mode": "trending",
-    "primary": "Can You Hear The Music — Ludwig Göransson",
+    "primary": "Can You Hear The Music — Ludwig Göransson (the original's sound)",
     "backup": "Time — Hans Zimmer"
   },
   "style": "stage",
@@ -46,17 +46,17 @@
   "new_format_test": "study race from founder link (@appforthegym 'half reps vs full reps', 3.4M), our look, 2 sides",
   "topic_source": "founder link 11-18 (@appforthegym 3.4M); study verified 11-18: Kassiano et al. 2023, J Strength Cond Res (PMID 37015016), figures from secondary summaries",
   "out": "half-vs-full-reps.mp4",
-  "caption": "full calf raises vs only the bottom half. which grew more? here's the catch 👀 are you the left or the right? 👇 #gymtok #calves #legday #hypertrophy #gymtips",
+  "caption": "half reps vs full reps for calves. which grew most? here's the catch 👀 are you the left, the middle or the right? 👇 #gymtok #calves #legday #hypertrophy #gymtips",
   "title_a": "FULL REPS",
   "title_b": "BOTTOM HALF",
   "head_a": "Full reps",
   "head_b": "bottom half",
   "sub_a": "all the way up and down",
   "sub_b": "only the stretched half",
-  "question": "Same calf raises, 8 weeks. Which grew more?",
+  "question": "Same calf raises, 8 weeks. Which grew most?",
   "result_a": 6.7,
   "result_b": 15.2,
-  "result_head": "The bottom half grew more.",
+  "result_head": "The bottom half grew most.",
   "result_note": "inner calf thickness, 8 weeks",
   "result_a_label": "full reps",
   "result_b_label": "bottom half",
@@ -70,5 +70,112 @@
   "tie_in": [
     "Live in the stretch.",
     "EARND shows you what to beat."
-  ]
+  ],
+  "motion": "calf",
+  "range_b": [
+    0.0,
+    0.45
+  ],
+  "week_t": 0.6,
+  "res_t": 2.2,
+  "catch_t": 3.6,
+  "app_t": 2.6,
+  "title_parts": [
+    [
+      "Half reps",
+      [
+        245,
+        245,
+        245
+      ]
+    ],
+    [
+      " vs ",
+      [
+        245,
+        245,
+        245
+      ]
+    ],
+    [
+      "full reps",
+      [
+        245,
+        245,
+        245
+      ]
+    ],
+    [
+      ".",
+      [
+        245,
+        245,
+        245
+      ]
+    ]
+  ],
+  "sides": [
+    {
+      "title": "Top half",
+      "head": "Top half",
+      "sub": "only the squeeze",
+      "days": [
+        0,
+        3
+      ],
+      "result": 3.4,
+      "label": "top half",
+      "color": [
+        110,
+        190,
+        255
+      ],
+      "range": [
+        0.45,
+        1.0
+      ]
+    },
+    {
+      "title": "Full reps",
+      "head": "Full reps",
+      "sub": "all the way",
+      "days": [
+        0,
+        3
+      ],
+      "result": 6.7,
+      "label": "full reps",
+      "color": [
+        225,
+        222,
+        212
+      ],
+      "range": [
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "title": "Bottom half",
+      "head": "Bottom half",
+      "sub": "only the stretch",
+      "days": [
+        0,
+        3
+      ],
+      "result": 15.2,
+      "label": "bottom half",
+      "color": [
+        198,
+        255,
+        0
+      ],
+      "range": [
+        0.0,
+        0.45
+      ],
+      "win": true
+    }
+  ],
+  "always_move": true
 }

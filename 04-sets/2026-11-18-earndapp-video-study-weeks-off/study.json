@@ -82,5 +82,7 @@
     198,
     255,
     0
-  ]
+  ],
+  "motion": "bench",
+  "always_move": true
 }

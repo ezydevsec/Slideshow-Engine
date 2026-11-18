@@ -6,13 +6,14 @@ Graphite mannequins + lime (never Earnie's white/amber sticks), a real study's r
 
 study.json: title_a/title_b, question, days_a/days_b (lifting days per week, 0=Mon), weeks, result_a/result_b,
 result_note, cite, catch_lines [..], catch_cite, tie_in, shot, endcard [..]
-Optional: off_weeks_a / off_weeks_b (weeks with no training; the bar dips, then regains), tie (light both sides at the result), days_shown + day_labels (e.g. 4 days: "the session", "24 h later", ...) replace the WEEK counter; week_t (seconds per week, default 0.9), catch_closes (default true: the losing bar catches up during the catch).
+Optional: sides (2–3 sides: [{title, head, sub, days, result, label, color, range, off_weeks, win}]), always_move (rep continuously during the race, like the reference videos), title_parts ([[text, colour], ...] headline override), focus per side ("hand" | "biceps" on curls), res_t / catch_t / app_t (phase lengths, defaults 2.6 / 4.0 / 3.6), motion (deadlift | squat | curl | calf | press | bench; must match the study's exercise), range_a / range_b ([lo, hi] part of the rep each side moves through, e.g. bottom-half partials), off_weeks_a / off_weeks_b (weeks with no training; the bar dips, then regains), tie (light both sides at the result), days_shown + day_labels (e.g. 4 days: "the session", "24 h later", ...) replace the WEEK counter; week_t (seconds per week, default 0.9), catch_closes (default true: the losing bar catches up during the catch).
 """
 import json, math, os, subprocess, sys
 import numpy as np
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import anim_stick as st
+import motions
 
 W, H, FPS = st.W, st.H, st.FPS
 FLOOR = st.FLOOR
@@ -48,25 +49,44 @@ def growth(off, weeks, w):
     return cum(w) / cum(weeks)
 
 
+def sides_of(sp):
+    """Normalise to a list of sides. Either sp["sides"] = [{title, head, sub, days, result, label, color, range, off_weeks, win}]
+    (2 or 3 sides) or the classic _a/_b keys (b is the winner)."""
+    if sp.get("sides"): return sp["sides"]
+    out = []
+    for k, win in (("a", False), ("b", True)):
+        out.append(dict(title=sp["title_" + k], head=sp.get("head_" + k, sp["title_" + k]), sub=sp.get("sub_" + k), days=sp["days_" + k],
+                        result=sp["result_" + k], label=sp["result_" + k + "_label"], win=win,
+                        color=sp.get("color_" + k, (198, 255, 0) if win else (110, 190, 255)),
+                        range=sp.get("range_" + k, [0.0, 1.0]), off_weeks=sp.get("off_weeks_" + k, [])))
+    return out
+
+
 def render(set_dir):
     sp = json.load(open(os.path.join(set_dir, "study.json")))
+    SIDES = sides_of(sp); N = len(SIDES)
+    XS = [310, 770] if N == 2 else [190, 540, 890]
+    HALF = 150 if N == 2 else 125
     weeks = sp.get("weeks", 8); WK = sp.get("week_t", 0.9)
     T_RACE0, T_RACE1 = 1.4, 1.4 + weeks * WK
-    T_RES, T_CATCH, T_APP = T_RACE1, T_RACE1 + 2.6, T_RACE1 + 6.6
-    DUR = T_APP + 3.6
+    T_RES = T_RACE1; T_CATCH = T_RES + sp.get("res_t", 2.6); T_APP = T_CATCH + sp.get("catch_t", 4.0)
+    DUR = T_APP + sp.get("app_t", 3.6)
+    STAGE = sp.get("style") == "stage"          # @appforthegym look: charcoal stage, spotlight cones, ivory mannequins, side colours
+    WINC = tuple(next((sd_["color"] for sd_ in SIDES if sd_.get("win")), LIME))
+    MAXR = max(sd_["result"] for sd_ in SIDES)
+    MOT = sp.get("motion", "deadlift")
     base = np.zeros((H, W, 3), np.float32); yy, xx = np.mgrid[0:H, 0:W]
-    for cx in (310, 770):
-        base += 70 * np.exp(-(((xx - cx) / 240) ** 2 + ((yy - FLOOR) / 60) ** 2))[:, :, None] * np.array([210, 220, 200]) / 255
-        base += 18 * np.exp(-(((xx - cx) / 200) ** 2 + ((yy - 900) / 600) ** 2))[:, :, None]
-    STAGE = sp.get("style") == "stage"          # @appforthegym look: charcoal stage, spotlight cones, ivory mannequins, 2 side colours
-    CA, CB = tuple(sp.get("color_a", (110, 190, 255))), tuple(sp.get("color_b", LIME))
     if STAGE:
-        base = np.zeros((H, W, 3), np.float32) + np.array([15, 17, 23], np.float32)
-        for cx in (310, 770):
-            cone = Image.new("L", (W, H), 0); ImageDraw.Draw(cone).polygon([(cx - 40, 380), (cx + 40, 380), (cx + 230, FLOOR + 20), (cx - 230, FLOOR + 20)], fill=70)
+        base += np.array([15, 17, 23], np.float32)
+        for cx in XS:
+            cone = Image.new("L", (W, H), 0); ImageDraw.Draw(cone).polygon([(cx - 40, 380), (cx + 40, 380), (cx + 230 * HALF / 150, FLOOR + 20), (cx - 230 * HALF / 150, FLOOR + 20)], fill=70)
             cone = np.asarray(cone.filter(ImageFilter.GaussianBlur(40)), np.float32) / 255
             base += cone[:, :, None] * np.array([120, 124, 135]) * (0.4 + 0.6 * (yy / H))[:, :, None]
-            base += 90 * np.exp(-(((xx - cx) / 220) ** 2 + ((yy - FLOOR) / 34) ** 2))[:, :, None] * np.array([0.75, 0.77, 0.82])
+            base += 90 * np.exp(-(((xx - cx) / (220 * HALF / 150)) ** 2 + ((yy - FLOOR) / 34) ** 2))[:, :, None] * np.array([0.75, 0.77, 0.82])
+    else:
+        for cx in XS:
+            base += 70 * np.exp(-(((xx - cx) / 240) ** 2 + ((yy - FLOOR) / 60) ** 2))[:, :, None] * np.array([210, 220, 200]) / 255
+            base += 18 * np.exp(-(((xx - cx) / 200) ** 2 + ((yy - 900) / 600) ** 2))[:, :, None]
     base = Image.fromarray(base.clip(0, 255).astype(np.uint8))
     shot = Image.open(os.path.join(ROOT, sp["shot"])).convert("RGB")
     if sp.get("crop"):
@@ -84,87 +104,94 @@ def render(set_dir):
             race = max(0.0, min(1.0, (t - T_RACE0) / (T_RACE1 - T_RACE0)))
             wk_f = race * weeks; day = int((wk_f % 1) * sp.get("days_shown", 7)) if t < T_RACE1 else -1
             scene = Image.new("RGB", (W, H)); sd = ImageDraw.Draw(scene); glow = Image.new("L", (W, H)); gd = ImageDraw.Draw(glow)
-            for x, days, win in ((310, sp["days_a"], False), (770, sp["days_b"], True)):
-                offw = sp.get("off_weeks_b" if win else "off_weeks_a", [])
+            for x, S_ in zip(XS, SIDES):
+                win = bool(S_.get("win")); offw = S_.get("off_weeks", []); sc = tuple(S_["color"])
                 is_off = t < T_RACE1 and (int(wk_f) + 1) in offw
-                lifting = day in days and not is_off
+                lifting = (sp.get("always_move") and t < T_RES) or (day in S_["days"]) and not is_off
+                lifting = lifting and not is_off
                 ph = (t * 2.2) % 1.0
-                p = ease(0.5 - 0.5 * math.cos(ph * 2 * math.pi)) if lifting else 1.0
+                lo, hi = S_.get("range", [0.0, 1.0])
+                p = lo + (hi - lo) * ease(0.5 - 0.5 * math.cos(ph * 2 * math.pi)) if lifting else motions.IDLE[MOT]
                 lit = (win or sp.get("tie")) and t >= T_RES
                 if STAGE:
-                    hy = st.figure(sd, x, p, col=(238, 232, 220), shade=(150, 144, 134))
-                    sc = CB if win else CA
-                    sd.line([(x - 190, hy), (x + 190, hy)], fill=(205, 205, 210), width=12)
-                    for side in (-1, 1):
-                        for k in range(2):
-                            px = x + side * (118 + k * 26); sd.ellipse([px - 14, hy - 74, px + 14, hy + 74], fill=sc)
+                    pts = motions.draw(sd, MOT, x, FLOOR, p, (238, 232, 220), (150, 144, 134), sc) or {}
+                    fo = S_.get("focus")
+                    if fo and fo in pts and t < T_CATCH:          # "FOCUS" corner brackets on the hand or the muscle
+                        fx, fy = pts[fo]; r = 58
+                        for cx_, cy_ in ((-1, -1), (1, -1), (-1, 1), (1, 1)):
+                            px_, py_ = fx + cx_ * r, fy + cy_ * r
+                            sd.line([(px_, py_), (px_ - cx_ * 22, py_)], fill=sc, width=5); sd.line([(px_, py_), (px_, py_ - cy_ * 22)], fill=sc, width=5)
+                        sd.text((fx - 34, fy + r + 8), "FOCUS", font=ImageFont.truetype(INTER, 24), fill=sc)
                 else:
-                    col = (226, 255, 120) if lit else GA
-                    hy = st.figure(sd, x, p, col=col, shade=GB)
-                    st.barbell(sd, x, hy, 2, LIME)
-                if lit: st.figure(gd, x, p, col=255, shade=255)
-                # week strip: 7 day boxes, lifting days light up on their day
+                    hy = st.figure(sd, x, p, col=(226, 255, 120) if lit else GA, shade=GB); st.barbell(sd, x, hy, 2, LIME)
+                if lit:
+                    if STAGE: motions.draw(gd, MOT, x, FLOOR, p, 255, 255, None)
+                    else: st.figure(gd, x, p, col=255, shade=255)
+                bw = 52 if N == 2 else 40
                 for k in range(7):
-                    bx = x - 3 * 52 + k * 52 - 20
-                    on = k in days; now = (k == day)
-                    sd.rounded_rectangle([bx, FLOOR + 40, bx + 40, FLOOR + 80], 8,
-                                         outline=(90, 94, 100), width=3, fill=(((CB if win else CA) if STAGE else LIME) if (on and now) else ((70, 80, 40) if on else None)))
-                # growth bar
-                target = sp["result_b"] if win else sp["result_a"]
-                frac = min(race, 1.0) * target / max(sp["result_a"], sp["result_b"])
-                if offw: frac = growth(offw, weeks, min(race, 1.0) * weeks) * target / max(sp["result_a"], sp["result_b"])
-                if not win and sp.get("catch_closes", True) and t >= T_CATCH + 2.0:   # the catch: equal sets close the gap
+                    bx = x - 3 * bw + k * bw - (20 if N == 2 else 15)
+                    on = k in S_["days"]; now = (k == day)
+                    sd.rounded_rectangle([bx, FLOOR + 40, bx + bw - 12, FLOOR + 80], 8, outline=(90, 94, 100), width=3,
+                                         fill=((sc if STAGE else LIME) if (on and now) else ((70, 80, 40) if on else None)))
+                frac = min(race, 1.0) * S_["result"] / MAXR
+                if offw: frac = growth(offw, weeks, min(race, 1.0) * weeks) * S_["result"] / MAXR
+                if N == 2 and not win and sp.get("catch_closes", True) and t >= T_CATCH + 2.0:
                     frac += (1.0 - frac) * 0.85 * ease((t - T_CATCH - 2.0) / 0.8)
-                sd.rectangle([x - 150, FLOOR + 120, x + 150, FLOOR + 150], outline=(90, 94, 100), width=3)
-                sd.rectangle([x - 146, FLOOR + 124, x - 146 + 292 * frac, FLOOR + 146], fill=(CB if win else CA) if STAGE else (LIME if win else (170, 176, 186)))
+                sd.rectangle([x - HALF, FLOOR + 120, x + HALF, FLOOR + 150], outline=(90, 94, 100), width=3)
+                sd.rectangle([x - HALF + 4, FLOOR + 124, x - HALF + 4 + (2 * HALF - 8) * frac, FLOOR + 146], fill=sc if STAGE else (LIME if win else (170, 176, 186)))
             top = scene.crop((0, FLOOR - 650, W, FLOOR)).transpose(Image.FLIP_TOP_BOTTOM)
             refl = Image.blend(Image.new("RGB", top.size), top, 0.0 if STAGE else 0.18)
             img.paste(Image.composite(scene, img, scene.convert("L").point(lambda v: 255 if v > 4 else 0)), (0, 0))
             sub = img.crop((0, FLOOR, W, FLOOR + 650)); mask = refl.convert("L").point(lambda v: 255 if v > 3 else 0)
             img.paste(Image.composite(refl, sub, mask), (0, FLOOR))
-            # redraw strip + bars over the reflection
             img.paste(scene.crop((0, FLOOR + 30, W, FLOOR + 160)), (0, FLOOR + 30), scene.crop((0, FLOOR + 30, W, FLOOR + 160)).convert("L").point(lambda v: 255 if v > 4 else 0))
             if t >= T_RES:
                 g = glow.filter(ImageFilter.GaussianBlur(26))
-                arr = np.asarray(img).astype(np.float32) + np.asarray(g, np.float32)[:, :, None] / 255 * np.array(CB if STAGE else LIME) * 0.5
+                arr = np.asarray(img).astype(np.float32) + np.asarray(g, np.float32)[:, :, None] / 255 * np.array(WINC if STAGE else LIME) * 0.5
                 img = Image.fromarray(arr.clip(0, 255).astype(np.uint8))
             d = ImageDraw.Draw(img)
-            # labels
-            for x, lab, win in ((310, sp["title_a"], False), (770, sp["title_b"], True)):
-                if T_CATCH <= t < T_APP: break
-                if STAGE:
-                    ct(d, lab.capitalize() if lab.isupper() else lab, 455, 58, CB if win else CA, x=x, maxw=440, path=INTER)
-                    sl = sp.get("sub_b" if win else "sub_a")
-                    if sl: ct(d, sl, 522, 32, (190, 192, 200), x=x, maxw=440, path=INTER)
-                else:
-                    ct(d, lab, 540, 54, LIME if win else (225, 225, 230), x=x, maxw=440)
+            mw = 440 if N == 2 else 320
+            if not (T_CATCH <= t < T_APP):
+                for x, S_ in zip(XS, SIDES):
+                    lab = S_["title"]
+                    if STAGE:
+                        ct(d, lab.capitalize() if lab.isupper() else lab, 455, 58 if N == 2 else 46, tuple(S_["color"]), x=x, maxw=mw, path=INTER)
+                        if S_.get("sub"): ct(d, S_["sub"], 522, 32 if N == 2 else 26, (190, 192, 200), x=x, maxw=mw, path=INTER)
+                    else:
+                        ct(d, lab, 540, 54, LIME if S_.get("win") else (225, 225, 230), x=x, maxw=mw)
             if t < T_RACE1:
-                for x, key in ((310, "off_weeks_a"), (770, "off_weeks_b")):
-                    if (int(race * weeks) + 1) in sp.get(key, []): ct(d, "WEEKS OFF", FLOOR + 175, 40, (255, 170, 90), x=x, maxw=400, path=INTER)
-            # top text by phase
+                for x, S_ in zip(XS, SIDES):
+                    if (int(race * weeks) + 1) in S_.get("off_weeks", []): ct(d, "WEEKS OFF", FLOOR + 175, 40, (255, 170, 90), x=x, maxw=400, path=INTER)
             if t < T_RACE1:
                 a = ease(t / 0.3)
                 if STAGE:
-                    parts = [(sp["head_a"], CA), (" vs ", (245, 245, 245)), (sp["head_b"], CB), (".", (245, 245, 245))]
-                    f = fit(d, "".join(t_ for t_, _ in parts), 96, W - 100, INTER); tx = (W - d.textlength("".join(t_ for t_, _ in parts), font=f)) / 2
+                    parts = []
+                    for i, S_ in enumerate([] if sp.get("title_parts") else SIDES):
+                        if i: parts.append((" vs ", (245, 245, 245)))
+                        parts.append((S_["head"], tuple(S_["color"])))
+                    if sp.get("title_parts"): parts = [(t_, tuple(c_)) for t_, c_ in sp["title_parts"]]
+                    else: parts.append((".", (245, 245, 245)))
+                    full = "".join(t_ for t_, _ in parts)
+                    f = fit(d, full, 96, W - 100, INTER); tx = (W - d.textlength(full, font=f)) / 2
                     for t_, c_ in parts:
                         d.text((tx, 190), t_, font=f, fill=tuple(int(v * a) for v in c_)); tx += d.textlength(t_, font=f)
                 else:
-                    ct(d, sp["title_a"] + " vs " + sp["title_b"] + ".", 190, 96, (int(245 * a),) * 3)
+                    ct(d, " vs ".join(S_["title"] for S_ in SIDES) + ".", 190, 96, (int(245 * a),) * 3)
                 ct(d, sp["question"], 320, 50, (int(170 * a), int(175 * a), int(185 * a)), path=INTER)
                 if t >= T_RACE0: ct(d, sp["day_labels"][max(day, 0)] if sp.get("day_labels") else f"WEEK {min(weeks, 1 + int(wk_f))}", 390, 44, LIME, path=INTER if sp.get("day_labels") else ANTON)
             elif t < T_CATCH:
                 a = ease((t - T_RES) / 0.3)
-                ct(d, sp["result_head"], 190, 96, tuple(int(v * a) for v in (CB if STAGE else LIME)), path=INTER if STAGE else ANTON)
+                ct(d, sp["result_head"], 190, 96, tuple(int(v * a) for v in (WINC if STAGE else LIME)), path=INTER if STAGE else ANTON)
                 ct(d, sp["result_note"], 320, 44, (int(220 * a),) * 3, path=INTER)
-                for x, val, win in ((310, sp["result_a_label"], False), (770, sp["result_b_label"], True)):
-                    ct(d, val, FLOOR + 175, 40, LIME if win else (200, 200, 205), x=x, maxw=400, path=INTER)
+                for x, S_ in zip(XS, SIDES):
+                    ct(d, S_["label"], FLOOR + 175, 40 if N == 2 else 34, tuple(S_["color"]) if S_.get("win") else (200, 200, 205), x=x, maxw=mw - 40, path=INTER)
                 ct(d, sp["cite"], 1830, 30, (150, 150, 158), path=INTER)
             else:
                 a = ease((t - T_CATCH) / 0.3)
-                ct(d, "Here's the catch." if STAGE else "HERE'S THE CATCH", 170, 92, tuple(int(v * a) for v in (CB if STAGE else LIME)), path=INTER if STAGE else ANTON)
+                ct(d, "Here's the catch." if STAGE else "HERE'S THE CATCH", 170, 92, tuple(int(v * a) for v in (WINC if STAGE else LIME)), path=INTER if STAGE else ANTON)
+                step = max(0.6, (sp.get("catch_t", 4.0) - 1.0) / max(1, len(sp["catch_lines"])))
                 for i, ln in enumerate(sp["catch_lines"]):
-                    aa = ease((t - T_CATCH - 0.5 - i * 1.0) / 0.3)
+                    aa = ease((t - T_CATCH - 0.4 - i * step) / 0.3)
                     ct(d, ln, 290 + i * 66, 46, (int(235 * aa),) * 3, path=INTER)
                 ct(d, sp["catch_cite"], 1830, 30, (150, 150, 158), path=INTER)
         else:
@@ -175,7 +202,7 @@ def render(set_dir):
             for i, ln in enumerate(sp["endcard"]):
                 ct(d, ln, 360 + shot.height + 50 + i * 70, 50, LIME if i == 0 else (235, 235, 240), path=INTER)
         pr.stdin.write(img.convert("RGB").tobytes())
-        if fi in [int(s * FPS) for s in (0.8, (T_RACE0 + T_RACE1) / 2, T_RES + 1.4, T_CATCH + 3.2, T_APP + 2)]:
+        if fi in [int(s * FPS) for s in (0.8, (T_RACE0 + T_RACE1) / 2, T_RES + 1.0, T_CATCH + 2.0, T_APP + 1.5)]:
             img.resize((540, 960)).save(os.path.join(set_dir, "preview", f"f{fi:04d}.jpg"), quality=88)
     pr.stdin.close(); pr.wait(); print("DONE", out, round(DUR, 1), "s")
 
