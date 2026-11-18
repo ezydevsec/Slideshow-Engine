@@ -1,6 +1,6 @@
 {
   "set_id": "2026-11-18-earndapp-video-study-weeks-off",
-  "status": "draft, awaiting approval",
+  "status": "approved (founder); post on 2026-11-18",
   "format": "study race A vs B",
   "account": "@earndapp",
   "account_type": "brand",
@@ -15,9 +15,24 @@
   "sub_a": "trains all 24 weeks",
   "sub_b": "3 weeks off, twice",
   "question": "Same programme. Who ends with more muscle?",
-  "days_a": [0, 2, 4],
-  "days_b": [0, 2, 4],
-  "off_weeks_b": [7, 8, 9, 16, 17, 18],
+  "days_a": [
+    0,
+    2,
+    4
+  ],
+  "days_b": [
+    0,
+    2,
+    4
+  ],
+  "off_weeks_b": [
+    7,
+    8,
+    9,
+    16,
+    17,
+    18
+  ],
   "weeks": 24,
   "week_t": 0.45,
   "result_a": 1.0,
@@ -40,12 +55,32 @@
     "EARND keeps your numbers waiting."
   ],
   "shot": "01-app/assets/exercise-target.png",
-  "crop": [0, 0.14, 1, 0.6],
-  "endcard": ["EARND launches soon.", "follow for the launch."],
+  "crop": [
+    0,
+    0.14,
+    1,
+    0.6
+  ],
+  "endcard": [
+    "EARND launches soon.",
+    "follow for the launch."
+  ],
   "ai_images": false,
   "ai_note": "drawn by code, real app screen; nothing generated",
-  "sound": {"mode": "trending", "primary": "Can You Hear The Music — Ludwig Göransson", "backup": "Time — Hans Zimmer"},
+  "sound": {
+    "mode": "trending",
+    "primary": "Can You Hear The Music — Ludwig Göransson",
+    "backup": "Time — Hans Zimmer"
+  },
   "style": "stage",
-  "color_a": [110, 190, 255],
-  "color_b": [198, 255, 0]
+  "color_a": [
+    110,
+    190,
+    255
+  ],
+  "color_b": [
+    198,
+    255,
+    0
+  ]
 }
