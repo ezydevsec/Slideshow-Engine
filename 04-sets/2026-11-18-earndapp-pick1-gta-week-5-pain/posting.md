@@ -8,6 +8,6 @@
 - **Sound:** **🅒 Ancient Hour — Tully Rowe**. Backup: **🅒 The Kettle Screams — Doreen Lafferty**. (search the name in TikTok's Add sound; pick the version by the listed artist.)
 - **AI-generated content label:** **TURN ON**
 - **Before posting:** no download link (prelaunch).
-- **Post at:** 00:00 (midnight) (UK time; target UK/US).
+- **Post at:** 23:00 (UK time; target UK/US).
 - **Test:** slide-length test: **5 slides (pair: 2026-11-18-earndapp-pick1-leg-day-9, 9 slides)** (5 slides). Note the result at Sunday's review.
 - **GTA 6 window (18–30 Nov):** no game footage, logos, font, characters or soundtrack. Don't pick a GTA soundtrack sound even if TikTok suggests it.

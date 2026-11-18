@@ -8,4 +8,4 @@
 - **Sound:** **Diamonds on me — Capivara Dj**. Backup: **suara asli – HTS Plenger — 7 November 🎉🎊**. (search the name in TikTok's Add sound; pick the version by the listed artist.)
 - **AI-generated content label:** **TURN ON**
 - **Before posting:** no download link (prelaunch).
-- **Post at:** 21:40 (UK time; target UK/US).
+- **Post at:** 20:40 (UK time; target UK/US).

@@ -8,6 +8,6 @@
 - **Sound:** **Can You Hear The Music — Ludwig Göransson**. Backup: **Time — Hans Zimmer**. (search the name in TikTok's Add sound; pick the version by the listed artist.)
 - **AI-generated content label:** OFF (drawn by code, real app screen; nothing generated)
 - **Before posting:** no download link (prelaunch).
-- **Post at:** 18:00 (UK time; target UK/US).
+- **Post at:** 17:00 (UK time; target UK/US).
 - **Test:** **new-format test**: study race day 4 (stage style), GTA 6 launch angle: weeks off with dips and regain. Note the result at Sunday's review.
 - **GTA 6 window (18–30 Nov):** no game footage, logos, font, characters or soundtrack. Don't pick a GTA soundtrack sound even if TikTok suggests it.

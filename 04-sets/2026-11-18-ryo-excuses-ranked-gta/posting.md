@@ -8,6 +8,6 @@
 - **Sound:** **Amnesia X No Hands — DJSpotifyTransitions**. Backup: **Diamonds on me — Capivara Dj**. (search the name in TikTok's Add sound; pick the version by the listed artist.)
 - **AI-generated content label:** **TURN ON**
 - **Before posting:** no download link (prelaunch).
-- **Post at:** 18:40 (UK time; target UK/US).
+- **Post at:** 17:40 (UK time; target UK/US).
 - **Test:** **new-format test**: excuses ranked (verdict tags), GTA 6 launch angle. Note the result at Sunday's review.
 - **GTA 6 window (18–30 Nov):** no game footage, logos, font, characters or soundtrack. Don't pick a GTA soundtrack sound even if TikTok suggests it.
