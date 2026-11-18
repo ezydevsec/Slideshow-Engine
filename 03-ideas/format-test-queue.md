@@ -17,11 +17,14 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 ## @quiet.reps4
 | # | Format | Source | Status |
 |---|---|---|---|
+| 0 | **Overthinker vs doer** (two stacked spotlight panels, "which one are you? be honest"): the heavy set, the 6 am alarm, the first gym day, the deload, the new programme | founder links 11-18: @sticktoit16 4.6M + 3.5M, @neuronvisuals 16.1M (procrastinator vs planner) | example built 11-18 (`anim_doer.py`) |
 | 1 | **Faceless one-line clip** (one figure, one line, ~6 s, our gold art only) | self-improvement: elevate799 2.7M, believe.rise.succeed 2.0M, earned..not..given 1.4M, mind4wealthofficial 1.3M, trueemindset 679K, mmlux26 661K, growthofwisdom 205K, mindfuel1110 131K: **passed the gate 11-18** | first test 11-17 ("nobody is coming") |
 
 ## @earndapp
 | # | Format | Source | Status |
 |---|---|---|---|
+| 0 | Study race topics from founder links 11-18: **lift it vs squeeze it** (Schoenfeld 2018, verified), **full reps vs bottom half** (Kassiano 2023, verified), light vs heavy (Schoenfeld 2017, verified) | founder links 11-18: @appforthegym 4.5M / 3.4M / 2.4M | 2 examples built 11-18 |
+| 0b | Animated workout video (pick-1 day as a 14 s video) | founder link 11-18: @bluebro.fit 380K | Watch / test once |
 | 1 | Who lets go last? contest (code-drawn) | founder link: @focus.habits 3.6M | packed, posts 11-12 |
 | 2 | Paradox essay, narrated pictograms | founder link: @cryothum 1.5M | packed, posts 11-13 |
 | 3 | A vs B week-counter sim | founder link: @appforthegym 3.6M | packed, posts 11-14 |

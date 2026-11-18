@@ -1,0 +1,74 @@
+{
+  "status": "draft, awaiting approval (founder link 11-18: @appforthegym 3.4M)",
+  "format": "study race A vs B",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "days_a": [
+    0,
+    3
+  ],
+  "days_b": [
+    0,
+    3
+  ],
+  "weeks": 8,
+  "catch_closes": false,
+  "shot": "01-app/assets/demo-last-time-target.png",
+  "crop": [
+    0.228,
+    0.305,
+    0.772,
+    0.622
+  ],
+  "endcard": [
+    "EARND launches soon.",
+    "follow for the launch."
+  ],
+  "ai_images": false,
+  "ai_note": "drawn by code, real app screen; nothing generated",
+  "sound": {
+    "mode": "trending",
+    "primary": "Can You Hear The Music — Ludwig Göransson",
+    "backup": "Time — Hans Zimmer"
+  },
+  "style": "stage",
+  "color_a": [
+    110,
+    190,
+    255
+  ],
+  "color_b": [
+    198,
+    255,
+    0
+  ],
+  "set_id": "2026-11-19-earndapp-video-study-half-vs-full-reps",
+  "new_format_test": "study race from founder link (@appforthegym 'half reps vs full reps', 3.4M), our look, 2 sides",
+  "topic_source": "founder link 11-18 (@appforthegym 3.4M); study verified 11-18: Kassiano et al. 2023, J Strength Cond Res (PMID 37015016), figures from secondary summaries",
+  "out": "half-vs-full-reps.mp4",
+  "caption": "full calf raises vs only the bottom half. which grew more? here's the catch 👀 are you the left or the right? 👇 #gymtok #calves #legday #hypertrophy #gymtips",
+  "title_a": "FULL REPS",
+  "title_b": "BOTTOM HALF",
+  "head_a": "Full reps",
+  "head_b": "bottom half",
+  "sub_a": "all the way up and down",
+  "sub_b": "only the stretched half",
+  "question": "Same calf raises, 8 weeks. Which grew more?",
+  "result_a": 6.7,
+  "result_b": 15.2,
+  "result_head": "The bottom half grew more.",
+  "result_note": "inner calf thickness, 8 weeks",
+  "result_a_label": "full reps",
+  "result_b_label": "bottom half",
+  "cite": "Kassiano et al. 2023 (J Strength Cond Res), 42 young women",
+  "catch_lines": [
+    "only the inner calf was clearly bigger.",
+    "the outer calf: no clear difference.",
+    "so: full reps, but live in the stretch."
+  ],
+  "catch_cite": "Kassiano 2023: inner calf significant, outer calf not",
+  "tie_in": [
+    "Live in the stretch.",
+    "EARND shows you what to beat."
+  ]
+}

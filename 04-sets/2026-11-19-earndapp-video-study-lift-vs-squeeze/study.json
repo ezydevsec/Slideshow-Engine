@@ -1,0 +1,76 @@
+{
+  "status": "draft, awaiting approval (founder link 11-18: @appforthegym 2.4M)",
+  "format": "study race A vs B",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "days_a": [
+    0,
+    2,
+    4
+  ],
+  "days_b": [
+    0,
+    2,
+    4
+  ],
+  "weeks": 8,
+  "catch_closes": false,
+  "shot": "01-app/assets/demo-last-time-target.png",
+  "crop": [
+    0.228,
+    0.305,
+    0.772,
+    0.622
+  ],
+  "endcard": [
+    "EARND launches soon.",
+    "follow for the launch."
+  ],
+  "ai_images": false,
+  "ai_note": "drawn by code, real app screen; nothing generated",
+  "sound": {
+    "mode": "trending",
+    "primary": "Can You Hear The Music — Ludwig Göransson",
+    "backup": "Time — Hans Zimmer"
+  },
+  "style": "stage",
+  "color_a": [
+    110,
+    190,
+    255
+  ],
+  "color_b": [
+    198,
+    255,
+    0
+  ],
+  "set_id": "2026-11-19-earndapp-video-study-lift-vs-squeeze",
+  "new_format_test": "study race from founder link (@appforthegym 'lift the weight vs squeeze the muscle', 2.4M), our look",
+  "topic_source": "founder link 11-18 (@appforthegym 2.4M); study verified 11-18: Schoenfeld et al. 2018, Eur J Sport Sci (PMID 29533715)",
+  "out": "lift-vs-squeeze.mp4",
+  "caption": "same curls for 8 weeks. one group just lifted it, one squeezed the muscle. here's the catch 👀 are you the left or the right? 👇 #gymtok #biceps #armday #hypertrophy #gymtips",
+  "title_a": "LIFT IT",
+  "title_b": "SQUEEZE IT",
+  "head_a": "Lift it",
+  "head_b": "squeeze it",
+  "sub_a": "focus: move the weight",
+  "sub_b": "focus: squeeze the biceps",
+  "question": "Same curls, 8 weeks. Which arm grew more?",
+  "result_a": 6.9,
+  "result_b": 12.4,
+  "result_head": "Squeezing grew more.",
+  "result_note": "biceps thickness, 8 weeks",
+  "result_a_label": "+6.9%",
+  "result_b_label": "+12.4%",
+  "cite": "Schoenfeld et al. 2018 (Eur J Sport Sci), 30 men new to lifting",
+  "catch_lines": [
+    "strength came out about the same.",
+    "and they were beginners on curls.",
+    "so: same weight, think about the muscle."
+  ],
+  "catch_cite": "no significant strength difference between groups",
+  "tie_in": [
+    "EARND gives you the weight.",
+    "you bring the squeeze."
+  ]
+}
