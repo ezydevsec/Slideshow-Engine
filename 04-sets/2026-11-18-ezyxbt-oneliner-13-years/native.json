@@ -1,0 +1,33 @@
+{
+  "set_id": "2026-11-18-ezyxbt-oneliner-13-years",
+  "status": "draft, awaiting approval",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "format": "oneliner-photo",
+  "topic_source": "founder line, 2026-11-12 (GTA 6 release week)",
+  "caption": "",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — ~",
+    "backup": "original sound — Chris Olsen"
+  },
+  "slides": [
+    {
+      "type": "oneliner",
+      "photo": {
+        "file": "b9-03.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "text": "13 years waiting for a game. people still won't give their bench 13 weeks.",
+      "color": "white",
+      "dim": 0.3,
+      "y": 0.16
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "set_id": "2026-11-18-earndapp-pick1-gta-week-5-pain",
+  "status": "draft, awaiting approval",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "length_test": "5 slides (pair: 2026-11-18-earndapp-pick1-leg-day-9, 9 slides)",
+  "topic_source": "GTA 6 launch 19 Nov; detraining research (Ogasawara 2013; Bosquet 2013; strength held ~3 weeks in trained athletes)",
+  "pain_cover": true,
+  "caption": "GTA 6 is out. will you lose your gains? 1 week off: basically nothing. 3 weeks: a little, and it comes back fast. or do the 20-minute session 👇 #gta6 #gymtok #gymtips #hypertrophy #upperlower",
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ancient Hour — Tully Rowe",
+    "backup": "🅒 The Kettle Screams — Doreen Lafferty"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "GTA 6 is out.",
+          false
+        ],
+        [
+          "will you lose",
+          true
+        ],
+        [
+          "your gains?",
+          true
+        ]
+      ],
+      "sub": "(short answer: not this week)",
+      "pose": "thinking"
+    },
+    {
+      "type": "structure",
+      "title": "the truth",
+      "sub": "from the studies on time off.",
+      "items": [
+        "1 week off: basically nothing",
+        "3 weeks off: a little. back fast.",
+        "never coming back: that's the loss"
+      ],
+      "note": "or do the 20-minute session ↓"
+    },
+    {
+      "type": "structure",
+      "title": "the 20-minute session",
+      "sub": "2 hard sets of 4–8 each. then go play.",
+      "items": [
+        "legs: hack squat or leg extension",
+        "push: chest press",
+        "pull: pulldown"
+      ],
+      "note": "twice this week. done."
+    },
+    {
+      "type": "pick",
+      "n": 1,
+      "muscle": "legs",
+      "sets": "2 × 4–8",
+      "anatomy": "quads",
+      "options": [
+        [
+          "hack squat",
+          "hack-squat"
+        ],
+        [
+          "leg extension",
+          "leg-extension"
+        ]
+      ]
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND shows you",
+          false
+        ],
+        [
+          "what to beat",
+          true
+        ],
+        [
+          "when you're back",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ]
+}

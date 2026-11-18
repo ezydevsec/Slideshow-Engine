@@ -1,0 +1,26 @@
+{
+  "set_id": "2026-11-18-whatif-video-gta-wait",
+  "status": "draft, awaiting approval",
+  "format": "what-if escalation video (pixel art)",
+  "account": "@whatif.overload",
+  "account_type": "theme",
+  "new_format_test": "what-if tied to a news moment (GTA 6 launch, 19 Nov)",
+  "topic_source": "GTA 6 launch week; 13 years since the last one (2013); joke escalation, no study",
+  "out": "gta-wait.mp4",
+  "caption": "dale started training the day the last one came out. 13 years later... #gta6 #gymtok #gymhumor #whatif #progressiveoverload",
+  "title": ["WHAT IF DALE TRAINED", "THE WHOLE GTA 6 WAIT?"],
+  "start": 60,
+  "per_week": 2.5,
+  "stages": [
+    {"until_week": 90, "load": "plates", "caption": "since 2013. +2.5 kg a week"},
+    {"until_week": 200, "load": "vending", "caption": "about a vending machine"},
+    {"until_week": 400, "load": "cow", "caption": "about a dairy cow"},
+    {"until_week": 676, "load": "car", "caption": "about a small car"}
+  ],
+  "end_title": ["REAL LIFE:", "+2.5 KG A WEEK", "LASTS MONTHS, NOT YEARS"],
+  "end_body": ["but 13 years of turning up?", "that part works.", "dale's secret: he always knows", "his number to beat."],
+  "disclose": ["this page is made by EARND, our gym app.", "follow @earndapp for the launch."],
+  "ai_images": false,
+  "ai_note": "pixel art drawn by code, nothing generated",
+  "sound": {"mode": "trending", "primary": "🅒 Cyberpunk Drive — Dennis Ahearne", "backup": "🅒 Midnight Grid — Harold Fender"}
+}

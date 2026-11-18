@@ -1,0 +1,97 @@
+{
+  "set_id": "2026-11-18-ryo-myths-week-off",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "new_format_test": "myths ranked #2 (GTA week angle)",
+  "topic_source": "verified: Ogasawara 2013 (time off), Schoenfeld et al. 2016 (rest, PMID 26605807); rest is opinion",
+  "pain_cover": false,
+  "caption": "'one week off and your gains are gone', and other myths, ranked by how wrong they are 👇 #gta6 #gymtok #gymmyths #gymtips #hypertrophy",
+  "sound": {
+    "mode": "trending",
+    "primary": "suara asli – HTS Plenger — 7 November 🎉🎊",
+    "backup": "Amnesia X No Hands — DJSpotifyTransitions"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "one week off and",
+        "your gains are gone?"
+      ],
+      "sub": "myths, ranked by how wrong.",
+      "pose": "cover-arms-crossed"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "F = most wrong.",
+      "rows": [
+        [
+          "F",
+          [
+            "1 week off = gains gone"
+          ]
+        ],
+        [
+          "D",
+          [
+            "rest 1 min to grow more"
+          ]
+        ],
+        [
+          "C",
+          [
+            "train every day or lose it"
+          ]
+        ],
+        [
+          "B",
+          [
+            "you'll feel smaller after a week"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "F",
+      "name": "1 week off = gains gone",
+      "tag": "verdict: wrong",
+      "lines": [
+        "3 weeks off, twice: about the same",
+        "muscle at 24 weeks (1 study)."
+      ],
+      "pose": "couch-controller",
+      "footer": "Ogasawara et al. 2013"
+    },
+    {
+      "type": "tier",
+      "tier": "D",
+      "name": "rest 1 min to grow more",
+      "tag": "verdict: mostly wrong",
+      "lines": [
+        "3 min rest lifted more",
+        "than 1 min (trained men)."
+      ],
+      "pose": "warm-up-plate",
+      "footer": "Schoenfeld et al. 2016"
+    },
+    {
+      "type": "tier",
+      "tier": "B",
+      "name": "you'll feel smaller",
+      "tag": "verdict: true, briefly",
+      "lines": [
+        "mostly water and stored carbs.",
+        "back within days of training."
+      ],
+      "pose": "pull-up",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

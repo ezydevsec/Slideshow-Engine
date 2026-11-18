@@ -6,7 +6,7 @@ Graphite mannequins + lime (never Earnie's white/amber sticks), a real study's r
 
 study.json: title_a/title_b, question, days_a/days_b (lifting days per week, 0=Mon), weeks, result_a/result_b,
 result_note, cite, catch_lines [..], catch_cite, tie_in, shot, endcard [..]
-Optional: days_shown + day_labels (e.g. 4 days: "the session", "24 h later", ...) replace the WEEK counter; week_t (seconds per week, default 0.9), catch_closes (default true: the losing bar catches up during the catch).
+Optional: off_weeks_a / off_weeks_b (weeks with no training; the bar dips, then regains), tie (light both sides at the result), days_shown + day_labels (e.g. 4 days: "the session", "24 h later", ...) replace the WEEK counter; week_t (seconds per week, default 0.9), catch_closes (default true: the losing bar catches up during the catch).
 """
 import json, math, os, subprocess, sys
 import numpy as np
@@ -31,6 +31,21 @@ def fit(d, txt, size, maxw, path=ANTON):
 
 def ct(d, txt, y, size, fill, x=W / 2, maxw=W - 100, path=ANTON):
     f = fit(d, txt, size, maxw, path); d.text((x - d.textlength(txt, font=f) / 2, y), txt, font=f, fill=fill)
+
+
+def growth(off, weeks, w):
+    """Cumulative growth 0..1 at week w for a side with weeks off: +1 per training week, -0.35 per week off,
+    +1.6 for the first 2 weeks back (regain). Normalised so week `weeks` ends at 1.0."""
+    def cum(upto):
+        g, back = 0.0, 0
+        for k in range(1, weeks + 1):
+            f = min(1.0, max(0.0, upto - (k - 1)))
+            if f <= 0: break
+            if k in off: g -= 0.35 * f; back = 2
+            elif back: g += 1.6 * f; back -= 1 if f >= 1 else 0
+            else: g += 1.0 * f
+        return max(g, 0.0)
+    return cum(w) / cum(weeks)
 
 
 def render(set_dir):
@@ -70,10 +85,12 @@ def render(set_dir):
             wk_f = race * weeks; day = int((wk_f % 1) * sp.get("days_shown", 7)) if t < T_RACE1 else -1
             scene = Image.new("RGB", (W, H)); sd = ImageDraw.Draw(scene); glow = Image.new("L", (W, H)); gd = ImageDraw.Draw(glow)
             for x, days, win in ((310, sp["days_a"], False), (770, sp["days_b"], True)):
-                lifting = day in days
+                offw = sp.get("off_weeks_b" if win else "off_weeks_a", [])
+                is_off = t < T_RACE1 and (int(wk_f) + 1) in offw
+                lifting = day in days and not is_off
                 ph = (t * 2.2) % 1.0
                 p = ease(0.5 - 0.5 * math.cos(ph * 2 * math.pi)) if lifting else 1.0
-                lit = win and t >= T_RES
+                lit = (win or sp.get("tie")) and t >= T_RES
                 if STAGE:
                     hy = st.figure(sd, x, p, col=(238, 232, 220), shade=(150, 144, 134))
                     sc = CB if win else CA
@@ -95,6 +112,7 @@ def render(set_dir):
                 # growth bar
                 target = sp["result_b"] if win else sp["result_a"]
                 frac = min(race, 1.0) * target / max(sp["result_a"], sp["result_b"])
+                if offw: frac = growth(offw, weeks, min(race, 1.0) * weeks) * target / max(sp["result_a"], sp["result_b"])
                 if not win and sp.get("catch_closes", True) and t >= T_CATCH + 2.0:   # the catch: equal sets close the gap
                     frac += (1.0 - frac) * 0.85 * ease((t - T_CATCH - 2.0) / 0.8)
                 sd.rectangle([x - 150, FLOOR + 120, x + 150, FLOOR + 150], outline=(90, 94, 100), width=3)
@@ -120,6 +138,9 @@ def render(set_dir):
                     if sl: ct(d, sl, 522, 32, (190, 192, 200), x=x, maxw=440, path=INTER)
                 else:
                     ct(d, lab, 540, 54, LIME if win else (225, 225, 230), x=x, maxw=440)
+            if t < T_RACE1:
+                for x, key in ((310, "off_weeks_a"), (770, "off_weeks_b")):
+                    if (int(race * weeks) + 1) in sp.get(key, []): ct(d, "WEEKS OFF", FLOOR + 175, 40, (255, 170, 90), x=x, maxw=400, path=INTER)
             # top text by phase
             if t < T_RACE1:
                 a = ease(t / 0.3)

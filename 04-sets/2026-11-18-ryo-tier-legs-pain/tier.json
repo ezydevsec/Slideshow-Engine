@@ -1,0 +1,100 @@
+{
+  "set_id": "2026-11-18-ryo-tier-legs-pain",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "topic_source": "Paul Carter (@liftrunbang1) '9 levers' + 1 Nov (hip thrust, adductors); ranking is our opinion",
+  "pain_cover": true,
+  "caption": "leg day takes you 2 hours? you need 3 exercises. here's the ranking 👇 #legday #gymtok #legworkout #gymtips #hypertrophy",
+  "sound": {
+    "mode": "trending",
+    "primary": "Diamonds on me — Capivara Dj",
+    "backup": "suara asli – HTS Plenger — 7 November 🎉🎊"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "leg day takes 2 hours?",
+        "you need 3 exercises."
+      ],
+      "sub": "ranked. argue with me.",
+      "pose": "leg-press"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "pick 3. done in 40 minutes.",
+      "rows": [
+        [
+          "S",
+          [
+            "leg press"
+          ]
+        ],
+        [
+          "S",
+          [
+            "romanian deadlift"
+          ]
+        ],
+        [
+          "A",
+          [
+            "split squat"
+          ]
+        ],
+        [
+          "A",
+          [
+            "hip thrust"
+          ]
+        ],
+        [
+          "D",
+          [
+            "4 leg extension variations"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "leg press",
+      "works": "quads + glutes",
+      "lines": [
+        "deep at the bottom.",
+        "easy to add weight each week."
+      ],
+      "pose": "leg-press"
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "romanian deadlift",
+      "works": "hamstrings + glutes",
+      "lines": [
+        "hips back, long stretch.",
+        "2 × 4–8."
+      ],
+      "pose": "romanian-deadlift"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "split squat",
+      "works": "quads + glutes, one leg",
+      "lines": [
+        "fixes the weak side.",
+        "2 × 4–8 each leg."
+      ],
+      "pose": "split-squat",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

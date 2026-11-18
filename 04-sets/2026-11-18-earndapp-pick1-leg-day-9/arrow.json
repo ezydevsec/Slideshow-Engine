@@ -1,0 +1,163 @@
+{
+  "set_id": "2026-11-18-earndapp-pick1-leg-day-9",
+  "status": "draft, awaiting approval",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "length_test": "9 slides (pair: 2026-11-18-earndapp-pick1-gta-week-5-pain, 5 slides)",
+  "topic_source": "Paul Carter (@liftrunbang1) 1 Nov (adductors, hip thrust, calves) + '9 levers' (2 hard sets, 4–8 reps)",
+  "pain_cover": false,
+  "caption": "the perfect leg day 🧪 6 jobs, pick 1 for each, 2 hard sets of 4–8. 1. hack squat or leg extension 2. leg curl 3. RDL 4. hip thrust 5. adductor machine 6. calf press. which one are you picking for slide 1? #legday #legworkout #gymtips #hypertrophy #workoutplan",
+  "sound": {
+    "mode": "trending",
+    "primary": "🅒 Ancient Hour — Tully Rowe",
+    "backup": "🅒 Pawn Gambit — EN Voice KQJOjufz"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "the science of the",
+          false
+        ],
+        [
+          "perfect leg day",
+          true
+        ]
+      ],
+      "sub": "(pick 1 exercise per slide → your full workout)",
+      "pose": "hack-squat"
+    },
+    {
+      "type": "structure",
+      "title": "the structure",
+      "sub": "6 jobs. pick 1 for each.",
+      "items": [
+        "quads",
+        "hamstrings (curl)",
+        "hamstrings (hinge)",
+        "glutes",
+        "adductors",
+        "calves"
+      ],
+      "note": "2 hard sets each. 4–8 reps."
+    },
+    {
+      "type": "pick",
+      "n": 1,
+      "muscle": "quads",
+      "sets": "2 × 4–8",
+      "anatomy": "quads",
+      "options": [
+        [
+          "hack squat",
+          "hack-squat"
+        ],
+        [
+          "leg extension",
+          "leg-extension"
+        ]
+      ]
+    },
+    {
+      "type": "pick",
+      "n": 2,
+      "muscle": "hamstrings, curl",
+      "sets": "2 × 4–8",
+      "anatomy": "hamstrings",
+      "options": [
+        [
+          "leg curl",
+          "leg-curl"
+        ]
+      ],
+      "note": "knees bend: the curl job."
+    },
+    {
+      "type": "pick",
+      "n": 3,
+      "muscle": "hinge",
+      "sets": "2 × 4–8",
+      "anatomy": "hamstrings",
+      "options": [
+        [
+          "romanian deadlift",
+          "romanian-deadlift"
+        ]
+      ],
+      "note": "hamstrings, hips back: the stretch job."
+    },
+    {
+      "type": "pick",
+      "n": 4,
+      "muscle": "glutes",
+      "sets": "2 × 4–8",
+      "anatomy": "glutes",
+      "options": [
+        [
+          "hip thrust",
+          "hip-thrust"
+        ]
+      ],
+      "note": "pause at the top."
+    },
+    {
+      "type": "pick",
+      "n": 5,
+      "muscle": "adductors",
+      "sets": "2 × 4–8",
+      "anatomy": "adductors",
+      "options": [
+        [
+          "adductor machine",
+          "adductor"
+        ]
+      ],
+      "note": "the inner thigh. most skip it."
+    },
+    {
+      "type": "pick",
+      "n": 6,
+      "muscle": "calves",
+      "sets": "2 × 4–8",
+      "anatomy": "calves",
+      "options": [
+        [
+          "calf press",
+          "calf-press"
+        ]
+      ],
+      "note": "first in the session. stretch at the bottom."
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND shows you",
+          false
+        ],
+        [
+          "what to beat",
+          true
+        ],
+        [
+          "on every set",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "crop": [
+        0.228,
+        0.305,
+        0.772,
+        0.622
+      ],
+      "example": true,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ]
+}

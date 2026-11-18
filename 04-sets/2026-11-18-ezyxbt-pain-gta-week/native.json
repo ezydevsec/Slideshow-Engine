@@ -1,0 +1,89 @@
+{
+  "set_id": "2026-11-18-ezyxbt-pain-gta-week",
+  "status": "draft, awaiting approval",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "format": "native-text tip slideshow",
+  "topic_source": "GTA 6 launch 19 Nov; detraining research (Ogasawara 2013)",
+  "pain_cover": true,
+  "caption": "GTA 6 is out. here's how to keep your plan alive this week. #gta6 #gymtok #gymtips #upperlower #consistency",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — ~",
+    "backup": "original sound — ‍r7ptor"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b16-05.jpg",
+        "focus": [
+          0.5,
+          0.42
+        ]
+      },
+      "hook": "GTA 6 is out and your plan's about to die",
+      "sub": "(it doesn't have to)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b12-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "the GTA week plan",
+      "lines": [
+        "play all you want",
+        "book 2 sessions now",
+        "30 minutes each",
+        "beat 1 number per session"
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b11-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "the truth",
+      "lines": [],
+      "text": "a week off won't erase your gains. never coming back will."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-05.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip",
+      "text": "busy week? move the session. don't skip it.",
+      "shot": "01-app/assets/demo-move-session.png",
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b12-01.jpg",
+        "focus": [
+          0.5,
+          0.35
+        ]
+      },
+      "text": "save this for GTA week.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

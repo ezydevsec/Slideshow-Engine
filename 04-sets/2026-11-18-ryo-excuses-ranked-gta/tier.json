@@ -1,0 +1,101 @@
+{
+  "set_id": "2026-11-18-ryo-excuses-ranked-gta",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "new_format_test": "excuses ranked (verdict tags), GTA 6 launch angle",
+  "topic_source": "GTA 6 launch 19 Nov; opinion tiers; time-off line from Ogasawara 2013",
+  "pain_cover": false,
+  "caption": "every excuse to skip the gym this week, ranked. which one's yours? 👇 #gta6 #gymtok #gymhumor #gymtips #gymmotivation",
+  "sound": {
+    "mode": "trending",
+    "primary": "Amnesia X No Hands — DJSpotifyTransitions",
+    "backup": "Diamonds on me — Capivara Dj"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "every excuse to skip",
+        "the gym this week."
+      ],
+      "sub": "ranked. argue with me.",
+      "pose": "couch-controller"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "F = worst excuse.",
+      "rows": [
+        [
+          "F",
+          [
+            "GTA 6 came out"
+          ]
+        ],
+        [
+          "D",
+          [
+            "too tired"
+          ]
+        ],
+        [
+          "C",
+          [
+            "a bit sore"
+          ]
+        ],
+        [
+          "A",
+          [
+            "rest week after 12 hard weeks"
+          ]
+        ],
+        [
+          "S",
+          [
+            "actually ill"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "F",
+      "name": "GTA 6 came out",
+      "tag": "verdict: weak",
+      "lines": [
+        "2 sessions this week take 1 hour.",
+        "the game will still be there."
+      ],
+      "pose": "couch-controller"
+    },
+    {
+      "type": "tier",
+      "tier": "C",
+      "name": "a bit sore",
+      "tag": "verdict: not a reason",
+      "lines": [
+        "sore isn't injured.",
+        "train. go a bit lighter if you need."
+      ],
+      "pose": "warm-up-plate"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "planned rest week",
+      "tag": "verdict: valid",
+      "lines": [
+        "after months of hard training,",
+        "a week off is fine. then come back."
+      ],
+      "pose": "static-stretch",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

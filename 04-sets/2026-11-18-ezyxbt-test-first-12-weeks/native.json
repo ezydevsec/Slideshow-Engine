@@ -1,0 +1,91 @@
+{
+  "set_id": "2026-11-18-ezyxbt-test-first-12-weeks",
+  "status": "draft, awaiting approval",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "format": "native-text tip slideshow",
+  "new_format_test": "'your first X, step by step' (finance structure: morgan.on.money 2.6M)",
+  "topic_source": "finance bridge (scan 11-18); steps = EARND's rules (2 hard sets, 4–8 reps, beat 1 number, write it down)",
+  "pain_cover": false,
+  "caption": "how to spend your first 12 weeks in the gym, step by step. save it. #gymtips #beginnergym #gymtok #upperlower #progressiveoverload",
+  "sound": {
+    "mode": "trending",
+    "primary": "original sound — ~",
+    "backup": "original sound — Chris Olsen"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b16-03.jpg",
+        "focus": [
+          0.5,
+          0.42
+        ]
+      },
+      "hook": "how to spend your first 12 weeks in the gym",
+      "sub": "(step by step)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b10-03.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "step by step",
+      "lines": [
+        "week 1–2: learn 6 machines. go light.",
+        "week 3–4: 2 hard sets each, 4–8 reps",
+        "week 5–12: beat 1 number every session",
+        "every week: write it all down"
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b11-01.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "the step people skip",
+      "lines": [],
+      "text": "writing it down. it's how you know what to beat."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-08.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip",
+      "text": "i'm building an app that shows you what to beat every session.",
+      "shot": "01-app/assets/demo-log-working-set.png",
+      "example": true,
+      "footer": "it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b7-15.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for week 1.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}
