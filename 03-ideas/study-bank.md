@@ -2,7 +2,7 @@
 
 Rules: use his **topics and the papers**, never his wording, jokes or insults; never present him as endorsing EARND. A study goes in a video only once it's marked **verified** (checked on PubMed or the abstract, real numbers noted). Skip physique, PED/"natty", diet and medical topics.
 
-Last post logged: 2026-11-16 (Df0G4O6BNad).
+Last post logged: 2026-11-17 (Df2i6ccPY7F).
 
 | Post date | Post | Views | Claim | Studies cited | Study-race angle (@earndapp) | Status |
 |---|---|---|---|---|---|---|
@@ -20,3 +20,5 @@ Last post logged: 2026-11-16 (Df0G4O6BNad).
 | 11-01 | DfNfNeJNnLf | 137K | 3 moves people skip: adductor machine, hip thrust, calf raise (calves first, straight leg, 3–5 s stretch hold, 4–8 reps, 2–3 sets, 2–3×/week) | none | Ryo tier/ranking topic | n/a (opinion) |
 | 10-27 | DfALMOvlL7T | carousel | Moved from PPL to Upper/Lower; 2–5 days a week beats 6 | none | split ranking remake topic (matches EARND's 4-day U/L) | n/a (opinion) |
 | 11-16 | Df0G4O6BNad | 66K (1 day) | His 5 go-to triceps exercises: seated (Poliquin) pushdown, cable Tate press, cross-body pushdown, overhead extension, machine dip | none (he says the long-head stretch data is mixed) | Ryo tier topic (our ranking, our words) | n/a (opinion) |
+| 11-17 | Df2i6ccPY7F | 60K (1 day) | Muscle fibres have a growth ceiling; natural limit | none | skip (physique/natty) | skip |
+| 10-15 | Dehg36NOKro (9 levers) | 106K | Rest 2+ min between sets | Schoenfeld et al. 2016 (J Strength Cond Res, PMID 26605807) | **"1 min vs 3 min rest"** catch: short rest still works (Grgic 2017 review), 3 min lifted more | **verified 11-18**: trained men; 1RM squat and bench significantly greater with 3 min; muscle thickness favoured 3 min. Sample 21–23 (sources differ): no number on screen. |

@@ -209,3 +209,15 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @ezyxbt | PAIN COVER | "you finish every workout and can't say if it beat last week" | son original (lyrics_song) / original sound (~)
 - [ ] @quiet.reps4 | NEW FORMAT TEST | faceless one-line gold clip | original sound (Ry) / 🅒 Midnight Grid
 - [ ] @whatif.overload | Dale "+1 kg every session" (4 a week) | 🅒 Cyberpunk Drive / 🅒 Midnight Grid
+
+## Daily scan 2026-11-18 (trend file: 02-research/trends/2026-11-18.md)
+- [ ] @earndapp | STUDY RACE (verified: Schoenfeld 2016) | "1 min vs 3 min rest." catch: short rest still works (Grgic 2017), but 3 min lifted more | Can You Hear The Music / Time (Hans Zimmer)
+- [ ] @earndapp | PICK-1, 9 slides | "the perfect leg day" (quads, hamstrings, glutes, adductors, calves) | 🅒 Ancient Hour / 🅒 Pawn Gambit
+- [ ] @earndapp | PICK-1, 5 slides + PAIN | "you rest 60 seconds because you're in a hurry" → rest 2–3 min on hard sets | 🅒 Ancient Hour / 🅒 The Kettle Screams
+- [ ] Ryo | NEW FORMAT TEST | "Ryo's exact week" (full-split structure) | Amnesia X No Hands / Diamonds on me
+- [ ] Ryo | PAIN COVER | "you skip leg day because it takes 2 hours" → every leg exercise ranked | Diamonds on me / HTS Plenger
+- [ ] Ryo | tier list | every back exercise ranked | Amnesia X No Hands / HTS Plenger
+- [ ] @ezyxbt | NEW FORMAT TEST | "how to spend your first 12 weeks in the gym, step by step" (finance bridge) | original sound (~) / original sound (Chris Olsen)
+- [ ] @ezyxbt | PAIN COVER | "you rest 60 seconds and wonder why set 2 falls apart" | original sound (~) / original sound (‍r7ptor)
+- [ ] @quiet.reps4 | QUEUED FORMAT #1 | one-line clip #2 | son original (Trendformusic) / original sound (pяѳдчcяs)
+- [ ] @whatif.overload | Dale | 🅒 Cyberpunk Drive / 🅒 Midnight Grid

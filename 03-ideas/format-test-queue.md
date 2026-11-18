@@ -14,6 +14,11 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 1 | **Study race A vs B** ("N guys did X for 8 weeks… here's the catch"): @earndapp's daily video for a week | @appforthegym 4.1M/2.2M/1.1M (13K→33K followers in 6 days), @dialed.lift 536K, @stickmaxx 3M: **passed the gate 11-15** | proposed; `02-research/formats/a-vs-b-sim-video.md` |
 | 2 | **3D stickman comparison** ("same X, only one Y"), each account in its own look | @stickmaxx 3.05M/2.7M/1.9M, @neuronvisuals 65M/40M/36M, @focus.habits 3.6M: **passed the gate 11-15** | first round 16–22 Nov, every account; `02-research/formats/stick-comparison-3d.md` |
 
+## @quiet.reps4
+| # | Format | Source | Status |
+|---|---|---|---|
+| 1 | **Faceless one-line clip** (one figure, one line, ~6 s, our gold art only) | self-improvement: elevate799 2.7M, believe.rise.succeed 2.0M, earned..not..given 1.4M, mind4wealthofficial 1.3M, trueemindset 679K, mmlux26 661K, growthofwisdom 205K, mindfuel1110 131K: **passed the gate 11-18** | first test 11-17 ("nobody is coming") |
+
 ## @earndapp
 | # | Format | Source | Status |
 |---|---|---|---|
@@ -86,10 +91,13 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | "The loop" chain slideshow (each slide starts with the last one's end, loops back) | founder link 11-14: @friendlygymbro 31.1K / 1.3K saves, 7 Oct | 1 | fails 50K + 30-day checks; look for 2 more accounts. Notes: `02-research/swipe/2026-11-14-friendlygymbro-loop.md` |
 | Myth fact-check slideshow (skincare derm explainers → gym) | web scan 11-14, no metrics | ? | needs an Apify scan |
 | Worth it / skip it (save-or-splurge → gym habits) | web scan 11-14, no metrics | ? | needs an Apify scan |
-| Faceless one-line motivation clip (one line, one figure, 5–7 s) → @quiet.reps4 gold version, our art only | scan 11-16: earned..not..given 3.6M, elevate799 2.4M/1.4M, believe.rise.succeed 1.7M, mmlux26 609K (self-improvement, videos) | 4 (other niche) | video from another niche; test once on @quiet.reps4 after warm-up week |
+| ~~Faceless one-line motivation clip~~ promoted to @quiet.reps4's queue 11-18 | scan 11-16: earned..not..given 3.6M, elevate799 2.4M/1.4M, believe.rise.succeed 1.7M, mmlux26 609K (self-improvement, videos) | 4 (other niche) | video from another niche; test once on @quiet.reps4 after warm-up week |
 | "Progressive overload, this simple" explainer | scan 11-16: going.mogging 242K, trainbloom 195K | 2 | 1 more account |
 | "X or Y? you need a different fix" (skincare) → "stalled or under-recovered?" | scan 11-17: purederm 560K | 1 (other niche) | 2 more accounts |
 | "Advice I'd give myself N years ago" (dating) → @ezyxbt "gym advice i'd give myself 4 years ago" | scan 11-17: spencer.barbosa 921K | 1 (other niche) | tested on @ezyxbt 11-17 as its daily test |
+| "How to invest your first $1,000, step by step" (finance) → "your first 12 weeks in the gym, step by step" | scan 11-18: morgan.on.money 2.6M / 210K saves | 1 (other niche) | @ezyxbt test candidate |
+| "By the end of this you'll know exactly how to get to X" (finance) | scan 11-18: financial.literac83 341K | 1 (other niche) | 2 more accounts |
+| "Here's my full split" | scan 11-18: getfitwfola 1.2M | 1 | Ryo test candidate ("Ryo's exact week") |
 
 ## Winner remakes (rule 1)
 | Winner | Account | Views | Remakes done | Target |
