@@ -117,5 +117,6 @@
       "win": true
     }
   ],
-  "always_move": true
+  "always_move": true,
+  "render": "3d"
 }

@@ -6,7 +6,8 @@ Structure from founder links 11-18 (@sticktoit16 4.6M / 3.5M, @neuronvisuals 16M
 
 doer.json: {"out": "heavy-set.mp4", "title": "THE HEAVY SET", "top": "OVERTHINKER", "bottom": "DOER",
             "thoughts": ["what if i fail?", ...], "doer_label": "ALREADY HOME", "end_line": ["same weight.", "one just started."],
-            "endcard": ["this page is made by EARND,", "our gym app. follow @earndapp"], "accent": [255, 196, 120]}
+            "endcard": ["this page is made by EARND,", "our gym app. follow @earndapp"], "accent": [255, 196, 120],
+            "render": "3d"}   # optional: real 3D stick figures via mannequin3d.py
 """
 import json, math, os, subprocess, sys
 import numpy as np
@@ -38,12 +39,44 @@ def render(set_dir):
     END, DUR = 12.0, 14.8
     base = base_img()
     out = os.path.join(set_dir, sp["out"]); os.makedirs(os.path.join(set_dir, "preview"), exist_ok=True)
+    THREE_D = sp.get("render") == "3d"
+    if THREE_D:                                   # real 3D stick figures (mannequin3d.py), each pose rendered once
+        q = lambda v, n: round(v * n) / n
+        def top_state(t):
+            step = 0.5 - 0.5 * math.cos(t * 2 * math.pi / 2.6); return (0.0, 0.0, q(-0.12 + 0.12 * step, 8))
+        def bot_state(t):
+            if t < 4.2:
+                p = ease(0.5 - 0.5 * math.cos(max(0.0, t - 0.6) * 2 * math.pi / 1.2)) if t > 0.6 else 0.0
+                return ("lift", (q(p, 12), 2.0, 0.0))
+            dx = 3.2 * ease((t - 4.4) / 2.0)
+            return ("walk", (q((t * 1.6) % 1.0, 6), 2.0, q(dx, 16)))
+        tk, bk = {}, {"lift": {}, "walk": {}}
+        for fi in range(int(END * FPS)):
+            t = fi / FPS; tk.setdefault(top_state(t), len(tk))
+            ph, k = bot_state(t); bk[ph].setdefault(k, len(bk[ph]))
+        cache = os.path.join(set_dir, "3d"); acc_rgb = list(acc)
+        jobs = [("top", dict(motion="stand", poses=[list(k) for k in tk], floor_bar=True, kit=acc_rgb)),
+                ("lift", dict(motion="deadlift", poses=[list(k) for k in bk["lift"]], kit=acc_rgb, glow=acc_rgb)),
+                ("walk", dict(motion="walk", poses=[list(k) for k in bk["walk"]], floor_bar=True, kit=acc_rgb, glow=acc_rgb))]
+        for name, job in jobs:
+            d_ = os.path.join(cache, name); os.makedirs(d_, exist_ok=True)
+            jf = os.path.join(d_, "job.json"); json.dump(dict(job, single=True, style="stick"), open(jf, "w"))
+            subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "mannequin3d.py"), jf], check=True,
+                           stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        def panel(name, idx):
+            im = Image.open(os.path.join(cache, name, f"f{idx:05d}.png")).convert("RGB").resize((W, H), Image.LANCZOS)
+            return im.crop((0, 330, W, 330 + H // 2))
+        def base3d(t):
+            b = Image.new("RGB", (W, H)); b.paste(panel("top", tk[top_state(t)]), (0, 0))
+            ph, k = bot_state(t); b.paste(panel(ph, bk[ph][k]), (0, H // 2))
+            ImageDraw.Draw(b).rectangle([60, H // 2 - 2, W - 60, H // 2 + 2], fill=(70, 70, 70))
+            return b
     pr = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS),
                            "-i", "-", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-crf", "18", out], stdin=subprocess.PIPE)
     for fi in range(int(DUR * FPS)):
         t = fi / FPS
-        img = base.copy()
-        if t < END:
+        img = base3d(t) if (THREE_D and t < END) else base.copy()
+        if t < END and not THREE_D:
             scene = Image.new("RGB", (W, H)); sd = ImageDraw.Draw(scene); glow = Image.new("L", (W, H)); gd = ImageDraw.Draw(glow)
             # top: overthinker steps up to the bar and back, never lifts
             st.FLOOR = FL[0]

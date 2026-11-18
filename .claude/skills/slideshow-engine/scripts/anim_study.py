@@ -6,7 +6,7 @@ Graphite mannequins + lime (never Earnie's white/amber sticks), a real study's r
 
 study.json: title_a/title_b, question, days_a/days_b (lifting days per week, 0=Mon), weeks, result_a/result_b,
 result_note, cite, catch_lines [..], catch_cite, tie_in, shot, endcard [..]
-Optional: sides (2–3 sides: [{title, head, sub, days, result, label, color, range, off_weeks, win}]), always_move (rep continuously during the race, like the reference videos), title_parts ([[text, colour], ...] headline override), focus per side ("hand" | "biceps" on curls), res_t / catch_t / app_t (phase lengths, defaults 2.6 / 4.0 / 3.6), motion (deadlift | squat | curl | calf | press | bench; must match the study's exercise), range_a / range_b ([lo, hi] part of the rep each side moves through, e.g. bottom-half partials), off_weeks_a / off_weeks_b (weeks with no training; the bar dips, then regains), tie (light both sides at the result), days_shown + day_labels (e.g. 4 days: "the session", "24 h later", ...) replace the WEEK counter; week_t (seconds per week, default 0.9), catch_closes (default true: the losing bar catches up during the catch).
+Optional: render ("3d": real Blender mannequins via mannequin3d.py, each pose rendered once and reused), sides (2–3 sides: [{title, head, sub, days, result, label, color, range, off_weeks, win}]), always_move (rep continuously during the race, like the reference videos), title_parts ([[text, colour], ...] headline override), focus per side ("hand" | "biceps" on curls), res_t / catch_t / app_t (phase lengths, defaults 2.6 / 4.0 / 3.6), motion (deadlift | squat | curl | calf | press | bench; must match the study's exercise), range_a / range_b ([lo, hi] part of the rep each side moves through, e.g. bottom-half partials), off_weeks_a / off_weeks_b (weeks with no training; the bar dips, then regains), tie (light both sides at the result), days_shown + day_labels (e.g. 4 days: "the session", "24 h later", ...) replace the WEEK counter; week_t (seconds per week, default 0.9), catch_closes (default true: the losing bar catches up during the catch).
 """
 import json, math, os, subprocess, sys
 import numpy as np
@@ -97,9 +97,36 @@ def render(set_dir):
     pr = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS),
                            "-i", "-", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-crf", "18", out], stdin=subprocess.PIPE)
     GA, GB = (150, 156, 166), (88, 92, 100)
+    THREE_D = sp.get("render") == "3d" and STAGE
+    def side_state(t, S_):
+        race = max(0.0, min(1.0, (t - T_RACE0) / (T_RACE1 - T_RACE0)))
+        wk_f = race * weeks; day = int((wk_f % 1) * sp.get("days_shown", 7)) if t < T_RACE1 else -1
+        is_off = t < T_RACE1 and (int(wk_f) + 1) in S_.get("off_weeks", [])
+        lifting = ((sp.get("always_move") and t < T_RES) or day in S_["days"]) and not is_off
+        lo, hi = S_.get("range", [0.0, 1.0])
+        p = lo + (hi - lo) * ease(0.5 - 0.5 * math.cos(((t * 2.2) % 1.0) * 2 * math.pi)) if lifting else motions.IDLE[MOT]
+        lit = (S_.get("win") or sp.get("tie")) and t >= T_RES
+        return round(p * 16) / 16, (1 if lit else 0)
+    if THREE_D:
+        import subprocess as _sp, json as _js
+        keys = {}
+        for fi in range(int(T_APP * FPS)):
+            k = tuple(side_state(fi / FPS, S_) for S_ in SIDES); keys.setdefault(k, len(keys))
+        cache = os.path.join(set_dir, "3d", MOT); os.makedirs(cache, exist_ok=True)
+        job = os.path.join(cache, "job.json"); _js.dump({"sides": SIDES, "motion": MOT, "keys": [list(map(list, k)) for k in keys]}, open(job, "w"))
+        _sp.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "mannequin3d.py"), job], check=True,
+                stdout=_sp.DEVNULL, stderr=_sp.DEVNULL)
+        cone = np.zeros((H, W, 3), np.float32)
+        for cx in XS:
+            c_ = Image.new("L", (W, H), 0); ImageDraw.Draw(c_).polygon([(cx - 30, 330), (cx + 30, 330), (cx + 200 * HALF / 150, FLOOR), (cx - 200 * HALF / 150, FLOOR)], fill=38)
+            cone += np.asarray(c_.filter(ImageFilter.GaussianBlur(45)), np.float32)[:, :, None] * np.array([0.8, 0.82, 0.9])
+        def base3d(t):
+            k = tuple(side_state(t, S_) for S_ in SIDES)
+            im = Image.open(os.path.join(cache, f"f{keys[k]:05d}.png")).convert("RGB").resize((W, H), Image.LANCZOS)
+            return Image.fromarray((np.asarray(im, np.float32) + cone).clip(0, 255).astype(np.uint8))
     for fi in range(int(DUR * FPS)):
         t = fi / FPS
-        img = base.copy(); d = ImageDraw.Draw(img)
+        img = base3d(t) if (THREE_D and t < T_APP) else base.copy(); d = ImageDraw.Draw(img)
         if t < T_APP:
             race = max(0.0, min(1.0, (t - T_RACE0) / (T_RACE1 - T_RACE0)))
             wk_f = race * weeks; day = int((wk_f % 1) * sp.get("days_shown", 7)) if t < T_RACE1 else -1
@@ -113,7 +140,9 @@ def render(set_dir):
                 lo, hi = S_.get("range", [0.0, 1.0])
                 p = lo + (hi - lo) * ease(0.5 - 0.5 * math.cos(ph * 2 * math.pi)) if lifting else motions.IDLE[MOT]
                 lit = (win or sp.get("tie")) and t >= T_RES
-                if STAGE:
+                if THREE_D:
+                    pts = {}
+                elif STAGE:
                     pts = motions.draw(sd, MOT, x, FLOOR, p, (238, 232, 220), (150, 144, 134), sc) or {}
                     fo = S_.get("focus")
                     if fo and fo in pts and t < T_CATCH:          # "FOCUS" corner brackets on the hand or the muscle
@@ -124,7 +153,7 @@ def render(set_dir):
                         sd.text((fx - 34, fy + r + 8), "FOCUS", font=ImageFont.truetype(INTER, 24), fill=sc)
                 else:
                     hy = st.figure(sd, x, p, col=(226, 255, 120) if lit else GA, shade=GB); st.barbell(sd, x, hy, 2, LIME)
-                if lit:
+                if lit and not THREE_D:
                     if STAGE: motions.draw(gd, MOT, x, FLOOR, p, 255, 255, None)
                     else: st.figure(gd, x, p, col=255, shade=255)
                 bw = 52 if N == 2 else 40
