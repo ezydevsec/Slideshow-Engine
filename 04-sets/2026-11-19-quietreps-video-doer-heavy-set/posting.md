@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-19-quietreps-video-doer-heavy-set
 
-**Status: draft, awaiting approval.** Format: overthinker vs doer (stickman, two panels, gold glow). @quiet.reps4's two posts are 3 hours apart.
+**Status: approved. Post manually on 2026-11-18.** Format: overthinker vs doer (stickman, two panels, gold glow). @quiet.reps4's two posts are 3 hours apart.
 
 - **Account:** @quiet.reps4 (TikTok, + Instagram once the IG account exists)
 - **Upload:** `heavy-set.mp4` (1080×1920, 14.8 s)
