@@ -221,3 +221,11 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @ezyxbt | PAIN COVER | "you rest 60 seconds and wonder why set 2 falls apart" | original sound (~) / original sound (‍r7ptor)
 - [ ] @quiet.reps4 | QUEUED FORMAT #1 | one-line clip #2 | son original (Trendformusic) / original sound (pяѳдчcяs)
 - [ ] @whatif.overload | Dale | 🅒 Cyberpunk Drive / 🅒 Midnight Grid
+
+## GTA 6 launch window 18–30 Nov (trend file: 02-research/trends/2026-11-18-gta6.md; no game art, logos, footage, characters or soundtrack)
+- [ ] @earndapp | STUDY RACE (verified: Ogasawara 2013) | "Trains straight through vs takes 3 weeks off." same muscle at 24 weeks; catch: they came back | Can You Hear The Music / Time (Hans Zimmer)
+- [ ] @earndapp | PICK-1 5 slides + PAIN | "GTA 6 is out and you're scared to lose your gains" | 🅒 Ancient Hour / 🅒 Pawn Gambit
+- [ ] Ryo | tier list | every excuse to skip the gym this week, ranked | Amnesia X No Hands / Diamonds on me
+- [ ] @ezyxbt | one-liner | "13 years waiting for a game. people still won't give their bench 13 weeks." | original sound (~) / original sound (Chris Olsen)
+- [ ] @quiet.reps4 | one-line clip | "YOU WAITED 13 YEARS FOR A GAME." / "GIVE YOUR PLAN 12 WEEKS." | son original (Trendformusic) / original sound (pяѳдчcяs)
+- [ ] @whatif.overload | Dale | "What if Dale trained the whole time we waited for GTA 6?" (2013 → 2026) | 🅒 Cyberpunk Drive / 🅒 Midnight Grid
