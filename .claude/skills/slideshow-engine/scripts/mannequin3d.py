@@ -198,9 +198,9 @@ class Mannequin:
                 bpy.ops.mesh.primitive_cube_add(size=1, location=(lx, 0, 0.2)); l = bpy.context.object
                 l.scale = (0.05, 0.22, 0.4); l.data.materials.append(self.metal)
 
-    def pose(self, p, glow=0.0, dx=0.0):
+    def pose(self, p, glow=0.0, dx=0.0, J=None):
         self.root.location.x = self.x0 + dx
-        J = bench_joints(p) if self.motion == "bench" else joints(self.motion, p)
+        if J is None: J = bench_joints(p) if self.motion == "bench" else joints(self.motion, p)
         off = Vector((0, 0, 0))
         V = {k: Vector(v) + off for k, v in J.items()}
         for kind, a, b, r, o in self.parts:

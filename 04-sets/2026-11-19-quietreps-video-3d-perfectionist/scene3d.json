@@ -1,0 +1,97 @@
+{
+  "set_id": "2026-11-19-quietreps-video-3d-perfectionist",
+  "account": "@quiet.reps4",
+  "account_type": "theme",
+  "status": "draft, awaiting approval (founder uploads 11-18: @neuronvisuals 3D videos)",
+  "accent": [
+    255,
+    196,
+    120
+  ],
+  "endcard": [
+    "this page is made by EARND,",
+    "our gym app. follow @earndapp"
+  ],
+  "ai_images": false,
+  "ai_note": "rendered in 3D by code (Blender), no voice, nothing AI-generated",
+  "scene": "bricks",
+  "dur": 15.0,
+  "out": "perfectionist.mp4",
+  "format": "3D story: perfectionist vs action taker (@neuronvisuals structure)",
+  "new_format_test": "3D story remake #1 (founder upload 11-18: @neuronvisuals perfectionist vs action taker)",
+  "topic_source": "founder upload 11-18 (@neuronvisuals, 17.8 s); every brick = one logged session",
+  "caption": "one's still choosing the perfect programme. the other has 24 weeks of sessions. which one are you? #gymtok #discipline #consistency #gymmotivation #upperlower",
+  "sound": {
+    "mode": "trending",
+    "primary": "Blade Runner 2049 — Synthwave Goose (the @neuronvisuals sound)",
+    "backup": "son original — Trendformusic"
+  },
+  "text": [
+    {
+      "t0": 0.3,
+      "t1": 15,
+      "text": "PERFECTIONIST",
+      "x": 230,
+      "y": 700,
+      "size": 34,
+      "color": "grey"
+    },
+    {
+      "t0": 0.8,
+      "t1": 15,
+      "text": "still picking the perfect plan",
+      "x": 230,
+      "y": 748,
+      "size": 22,
+      "color": "grey"
+    },
+    {
+      "t0": 0.3,
+      "t1": 11,
+      "text": "ACTION TAKER",
+      "x": 640,
+      "y": 560,
+      "size": 34,
+      "color": "acc"
+    },
+    {
+      "t0": 0.8,
+      "t1": 11,
+      "text": "1 brick = 1 session logged",
+      "x": 640,
+      "y": 608,
+      "size": 22,
+      "color": "acc"
+    },
+    {
+      "t0": 1.2,
+      "t1": 11,
+      "text": "WEEK {n}",
+      "x": 540,
+      "y": 300,
+      "size": 40,
+      "color": "white",
+      "rate": 2.4489795918367343,
+      "max": 24
+    },
+    {
+      "t0": 11.2,
+      "t1": 15,
+      "text": "THE PERFECT PLAN",
+      "x": 540,
+      "y": 1450,
+      "size": 48,
+      "color": "white",
+      "box": true
+    },
+    {
+      "t0": 12.0,
+      "t1": 15,
+      "text": "NEVER LIFTED ANYTHING.",
+      "x": 540,
+      "y": 1550,
+      "size": 48,
+      "color": "acc"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "set_id": "2026-11-19-quietreps-video-3d-follow-blindly",
+  "account": "@quiet.reps4",
+  "account_type": "theme",
+  "status": "draft, awaiting approval (founder uploads 11-18: @neuronvisuals 3D videos)",
+  "accent": [
+    255,
+    196,
+    120
+  ],
+  "endcard": [
+    "this page is made by EARND,",
+    "our gym app. follow @earndapp"
+  ],
+  "ai_images": false,
+  "ai_note": "rendered in 3D by code (Blender), no voice, nothing AI-generated",
+  "scene": "crowd",
+  "dur": 12.0,
+  "out": "follow-blindly.mp4",
+  "format": "3D story: don't follow blindly (@neuronvisuals structure)",
+  "new_format_test": "3D story remake #2 (founder upload 11-18: @neuronvisuals don't follow blindly)",
+  "topic_source": "founder upload 11-18 (@neuronvisuals, 15.1 s); the crowd = a new split every week",
+  "caption": "everyone's on a new split this week. pick one plan and run it. #gymtok #gymtips #discipline #upperlower #consistency",
+  "sound": {
+    "mode": "trending",
+    "primary": "Blade Runner 2049 — Synthwave Goose (the @neuronvisuals sound)",
+    "backup": "Can You Hear The Music — Ludwig Göransson"
+  },
+  "text": [
+    {
+      "t0": 0.6,
+      "t1": 12,
+      "text": "DON'T FOLLOW BLINDLY.",
+      "x": 540,
+      "y": 300,
+      "size": 46,
+      "color": "white"
+    },
+    {
+      "t0": 1.2,
+      "t1": 8,
+      "text": "a new split every week",
+      "x": 540,
+      "y": 372,
+      "size": 28,
+      "color": "grey"
+    },
+    {
+      "t0": 4.6,
+      "t1": 12,
+      "text": "HIM: ONE PLAN. 12 WEEKS.",
+      "x": 540,
+      "y": 1500,
+      "size": 38,
+      "color": "acc"
+    },
+    {
+      "t0": 8.2,
+      "t1": 12,
+      "text": "or you'll keep starting over.",
+      "x": 540,
+      "y": 372,
+      "size": 30,
+      "color": "acc"
+    }
+  ]
+}

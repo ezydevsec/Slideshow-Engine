@@ -1,0 +1,131 @@
+{
+  "set_id": "2026-11-19-quietreps-video-3d-45-minutes",
+  "account": "@quiet.reps4",
+  "account_type": "theme",
+  "status": "draft, awaiting approval (founder uploads 11-18: @neuronvisuals 3D videos)",
+  "accent": [
+    255,
+    196,
+    120
+  ],
+  "endcard": [
+    "this page is made by EARND,",
+    "our gym app. follow @earndapp"
+  ],
+  "ai_images": false,
+  "ai_note": "rendered in 3D by code (Blender), no voice, nothing AI-generated",
+  "scene": "rooms",
+  "dur": 12.5,
+  "out": "45-minutes.mp4",
+  "format": "3D story: 45 minutes vs no time (@neuronvisuals structure)",
+  "new_format_test": "3D story remake #3 (founder upload 11-18: @neuronvisuals 5 minutes vs no time)",
+  "topic_source": "founder upload 11-18 (@neuronvisuals, 15.4 s); gym version: 45 minutes train / log / stretch vs scroll / skip",
+  "caption": "same 45 minutes. different year. #gymtok #discipline #morningroutine #gymmotivation #consistency",
+  "sound": {
+    "mode": "trending",
+    "primary": "Blade Runner 2049 — Synthwave Goose (the 16M @neuronvisuals sound)",
+    "backup": "original sound — pяѳдчcяs"
+  },
+  "text": [
+    {
+      "t0": 0.2,
+      "t1": 7.5,
+      "text": "45 MINUTES",
+      "x": 250,
+      "y": 440,
+      "size": 34,
+      "color": "acc"
+    },
+    {
+      "t0": 0.2,
+      "t1": 2.5,
+      "text": "TRAIN",
+      "x": 250,
+      "y": 486,
+      "size": 24,
+      "color": "white"
+    },
+    {
+      "t0": 2.5,
+      "t1": 5.0,
+      "text": "LOG IT",
+      "x": 250,
+      "y": 486,
+      "size": 24,
+      "color": "white"
+    },
+    {
+      "t0": 5.0,
+      "t1": 7.5,
+      "text": "STRETCH",
+      "x": 250,
+      "y": 486,
+      "size": 24,
+      "color": "white"
+    },
+    {
+      "t0": 0.2,
+      "t1": 7.5,
+      "text": "{timer}",
+      "x": 540,
+      "y": 955,
+      "size": 40,
+      "color": "white",
+      "rate": 360
+    },
+    {
+      "t0": 0.2,
+      "t1": 7.5,
+      "text": "NO TIME",
+      "x": 250,
+      "y": 1040,
+      "size": 34,
+      "color": "grey"
+    },
+    {
+      "t0": 0.2,
+      "t1": 2.5,
+      "text": "SCROLL",
+      "x": 250,
+      "y": 1086,
+      "size": 24,
+      "color": "grey"
+    },
+    {
+      "t0": 2.5,
+      "t1": 5.0,
+      "text": "SCROLL x3",
+      "x": 250,
+      "y": 1086,
+      "size": 24,
+      "color": "grey"
+    },
+    {
+      "t0": 5.0,
+      "t1": 7.5,
+      "text": "SKIP IT",
+      "x": 250,
+      "y": 1086,
+      "size": 24,
+      "color": "grey"
+    },
+    {
+      "t0": 7.6,
+      "t1": 12.5,
+      "text": "SAME 45 MINUTES.",
+      "x": 540,
+      "y": 360,
+      "size": 46,
+      "color": "white"
+    },
+    {
+      "t0": 8.4,
+      "t1": 12.5,
+      "text": "DIFFERENT YEAR.",
+      "x": 540,
+      "y": 430,
+      "size": 46,
+      "color": "acc"
+    }
+  ]
+}
