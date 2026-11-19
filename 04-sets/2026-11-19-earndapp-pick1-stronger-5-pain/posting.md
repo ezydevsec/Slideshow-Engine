@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-19-earndapp-pick1-stronger-5-pain
 
-**Status: draft, waiting for approval.** Format: pick-1-per-slide slideshow.
+**Status: approved (founder 11-19). Post manually on Thu 19 Nov, 23:00 UK.** Format: pick-1-per-slide slideshow.
 
 - **Account:** @earndapp (TikTok, + Instagram once the IG account exists)
 - **Upload:** `slide-01.jpg` … `slide-05.jpg` (1080×1350)

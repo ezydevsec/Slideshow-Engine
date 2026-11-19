@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-19-ryo-test-exact-week
 
-**Status: draft, waiting for approval.** Format: bluebro-style tier list.
+**Status: approved (founder 11-19). Post manually on Thu 19 Nov, 17:40 UK.** Format: bluebro-style tier list.
 
 - **Account:** @earnie.lifts (TikTok, + Instagram once the IG account exists)
 - **Upload:** `slide-01.jpg` … `slide-06.jpg` (1080×1350)

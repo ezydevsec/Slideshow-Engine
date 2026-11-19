@@ -241,3 +241,8 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @ezyxbt | IDENTITY (rule 5, #1 this week) | "the guy who doesn't change his programme every monday" | original sound (~) / original sound (Chris Olsen)
 - [ ] @quiet.reps4 | 3D stickman remakes (Higgsfield or Blender) | perfectionist / follow-blindly / 45 minutes | original sound (Ry) / Blade Runner 2049 (Synthwave Goose)
 - [ ] @whatif.overload | Dale | GTA window | 🅒 Cyberpunk Drive / 🅒 Midnight Grid
+
+## Founder 2026-11-19: Paul Carter's biggest unused posts
+- [x] Ryo | tier list | every hinge ranked (Paul 31 Oct, 204K) | built: 04-sets/2026-11-20-ryo-tier-every-hinge (Fri 17:40)
+- [ ] @earndapp | STUDY RACE (verified 11-19: Buonsenso 2025, PMID 40981044) | "upright vs leaning back: which works the lats harder?" catch: the same; the lean shifted a bit onto the rear delts. Say "muscle activity", not growth (EMG only) | next study-race day (Sat 22 Nov)
+- [ ] @earndapp | STUDY RACE (frequency, partly verified) | "2× vs 3× a week, same sets" (Paul 20 Oct, 157K) | after the pulldown race

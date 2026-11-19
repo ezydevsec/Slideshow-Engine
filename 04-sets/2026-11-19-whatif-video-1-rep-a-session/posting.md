@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-19-whatif-video-1-rep-a-session
 
-**Status: draft, waiting for approval.** Format: what-if escalation video.
+**Status: approved (founder 11-19). Post manually on Thu 19 Nov, 19:30 UK.** Format: what-if escalation video.
 
 - **Account:** @whatif.overload (TikTok, + Instagram once the IG account exists)
 - **Upload:** `one-rep-a-session.mp4` (1080×1920)

@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-19-ezyxbt-test-know-by-slide-4
 
-**Status: draft, waiting for approval.** Format: native-text tip slideshow.
+**Status: approved (founder 11-19). Post manually on Thu 19 Nov, 17:20 UK.** Format: native-text tip slideshow.
 
 - **Account:** @ezyxbt (TikTok)
 - **Upload:** `slide-01.jpg` … `slide-05.jpg` (1080×1920)

@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-19-ezyxbt-oneliner-same-plan
 
-**Status: draft, waiting for approval.** Format: oneliner-photo.
+**Status: approved (founder 11-19). Post manually on Thu 19 Nov, 23:20 UK.** Format: oneliner-photo.
 
 - **Account:** @ezyxbt (TikTok)
 - **Upload:** `slide-01.jpg` (1080×1920)

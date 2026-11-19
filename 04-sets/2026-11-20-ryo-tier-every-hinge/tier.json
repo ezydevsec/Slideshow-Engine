@@ -1,0 +1,95 @@
+{
+  "set_id": "2026-11-20-ryo-tier-every-hinge",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "topic_source": "Paul Carter (@liftrunbang1) 31 Oct 'ranking hinges' (204K): his topic, our ranking and words",
+  "pain_cover": false,
+  "caption": "every hinge, ranked. the S-tier one isn't the deadlift 👀 argue with me 👇 #hamstrings #gymtok #legday #gymtips #hypertrophy",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "every hinge,",
+        "ranked."
+      ],
+      "sub": "the S-tier one isn't the deadlift.",
+      "pose": "back-extension-45"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "pick 1. 2 hard sets.",
+      "rows": [
+        [
+          "S",
+          [
+            "45° back extension"
+          ]
+        ],
+        [
+          "A",
+          [
+            "romanian deadlift",
+            "stiff-leg deadlift"
+          ]
+        ],
+        [
+          "B",
+          [
+            "deadlift"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "45° back extension",
+      "works": "hamstrings + glutes",
+      "lines": [
+        "easy to learn. easy on your back.",
+        "hold a plate. add weight each week."
+      ],
+      "pose": "back-extension-45"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "romanian deadlift",
+      "works": "glutes + hamstrings",
+      "lines": [
+        "hips back, long stretch.",
+        "heavy, but recovers fine at 4–8."
+      ],
+      "pose": "romanian-deadlift"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "stiff-leg deadlift",
+      "works": "hamstrings",
+      "lines": [
+        "legs straighter, more hamstring.",
+        "start light. the stretch is brutal."
+      ],
+      "pose": "stiff-leg-deadlift"
+    },
+    {
+      "type": "tier",
+      "tier": "B",
+      "name": "deadlift",
+      "works": "glutes + quads + back",
+      "lines": [
+        "great strength lift.",
+        "heavy on recovery for a hamstring pick."
+      ],
+      "pose": "deadlift",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

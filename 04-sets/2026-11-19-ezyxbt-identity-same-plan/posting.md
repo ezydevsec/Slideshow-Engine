@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-19-ezyxbt-identity-same-plan
 
-**Status: draft, waiting for approval.** Format: identity.
+**Status: approved (founder 11-19). Post manually on Thu 19 Nov, 20:20 UK.** Format: identity.
 
 - **Account:** @ezyxbt (TikTok)
 - **Upload:** `slide-01.jpg` … `slide-05.jpg` (1080×1920)
