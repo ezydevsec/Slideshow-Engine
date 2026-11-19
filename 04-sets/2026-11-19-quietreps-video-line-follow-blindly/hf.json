@@ -1,0 +1,65 @@
+{
+ "set_id": "2026-11-19-quietreps-video-line-follow-blindly",
+ "account": "@quiet.reps4",
+ "account_type": "theme",
+ "status": "draft, awaiting approval (founder 11-19: @quiet.reps4 = Minimal Line, gold on black; redo the remakes)",
+ "accent": [
+  255,
+  196,
+  120
+ ],
+ "endcard": [
+  "this page is made by EARND,",
+  "our gym app. follow @earndapp"
+ ],
+ "ai_images": true,
+ "ai_note": "Minimal Line style: start frames Higgsfield Nano Banana, motion Kling 3.0 pro: AI label ON",
+ "out": "follow-blindly.mp4",
+ "segments": [
+  {
+   "dur": 12,
+   "clips": [
+    "hf/clip.mp4"
+   ]
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.6,
+   "t1": 12,
+   "text": "DON'T FOLLOW BLINDLY.",
+   "x": 540,
+   "y": 260,
+   "size": 60,
+   "color": "white"
+  },
+  {
+   "t0": 1.2,
+   "t1": 8,
+   "text": "a new split every week",
+   "x": 540,
+   "y": 350,
+   "size": 34,
+   "color": "grey"
+  },
+  {
+   "t0": 4.6,
+   "t1": 12,
+   "text": "HIM: ONE PLAN. 12 WEEKS.",
+   "x": 540,
+   "y": 1560,
+   "size": 44,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 8.2,
+   "t1": 12,
+   "text": "or you'll keep starting over.",
+   "x": 540,
+   "y": 350,
+   "size": 34,
+   "color": "acc"
+  }
+ ]
+}

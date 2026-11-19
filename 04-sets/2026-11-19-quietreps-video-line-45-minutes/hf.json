@@ -1,0 +1,149 @@
+{
+ "set_id": "2026-11-19-quietreps-video-line-45-minutes",
+ "account": "@quiet.reps4",
+ "account_type": "theme",
+ "status": "draft, awaiting approval (founder 11-19: @quiet.reps4 = Minimal Line, gold on black; redo the remakes)",
+ "accent": [
+  255,
+  196,
+  120
+ ],
+ "endcard": [
+  "this page is made by EARND,",
+  "our gym app. follow @earndapp"
+ ],
+ "ai_images": true,
+ "ai_note": "Minimal Line style: start frames Higgsfield Nano Banana, motion Kling 3.0 pro: AI label ON",
+ "out": "45-minutes.mp4",
+ "segments": [
+  {
+   "dur": 7.5,
+   "split": true,
+   "clips": [
+    "hf/top.mp4",
+    "hf/bottom.mp4"
+   ],
+   "crop_y": [
+    480,
+    520
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/city.mp4"
+   ]
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.2,
+   "t1": 7.5,
+   "text": "45 MINUTES",
+   "x": 200,
+   "y": 150,
+   "size": 40,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 0.2,
+   "t1": 2.5,
+   "text": "TRAIN",
+   "x": 200,
+   "y": 230,
+   "size": 30,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 2.5,
+   "t1": 5.0,
+   "text": "LOG IT",
+   "x": 200,
+   "y": 230,
+   "size": 30,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 5.0,
+   "t1": 7.5,
+   "text": "STRETCH",
+   "x": 200,
+   "y": 230,
+   "size": 30,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 0.2,
+   "t1": 7.5,
+   "text": "{timer}",
+   "x": 540,
+   "y": 935,
+   "size": 40,
+   "color": "white",
+   "box": true,
+   "rate": 360
+  },
+  {
+   "t0": 0.2,
+   "t1": 7.5,
+   "text": "NO TIME",
+   "x": 200,
+   "y": 1035,
+   "size": 40,
+   "color": "grey",
+   "box": true
+  },
+  {
+   "t0": 0.2,
+   "t1": 2.5,
+   "text": "SCROLL",
+   "x": 200,
+   "y": 1115,
+   "size": 30,
+   "color": "grey",
+   "box": true
+  },
+  {
+   "t0": 2.5,
+   "t1": 5.0,
+   "text": "SCROLL x3",
+   "x": 200,
+   "y": 1115,
+   "size": 30,
+   "color": "grey",
+   "box": true
+  },
+  {
+   "t0": 5.0,
+   "t1": 7.5,
+   "text": "SKIP IT",
+   "x": 200,
+   "y": 1115,
+   "size": 30,
+   "color": "grey",
+   "box": true
+  },
+  {
+   "t0": 7.6,
+   "t1": 12.5,
+   "text": "SAME 45 MINUTES.",
+   "x": 540,
+   "y": 300,
+   "size": 60,
+   "color": "white"
+  },
+  {
+   "t0": 8.4,
+   "t1": 12.5,
+   "text": "DIFFERENT YEAR.",
+   "x": 540,
+   "y": 385,
+   "size": 60,
+   "color": "acc"
+  }
+ ]
+}
