@@ -1,0 +1,101 @@
+{
+  "set_id": "2026-11-19-ryo-test-exact-week",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "new_format_test": "'here's my full split' (Watch: getfitwfola 1.3M, hussein.fht 87K) as a Ryo tier deck: his exact 4 days",
+  "topic_source": "EARND's real programme (01-app/programme.md)",
+  "pain_cover": false,
+  "caption": "ryo's exact week. 4 days, every exercise, 2 hard sets each. save it and steal it 👇 #workoutsplit #upperlower #gymtok #gymtips #workoutplan",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "ryo's exact week.",
+        "every exercise."
+      ],
+      "sub": "4 days. 2 hard sets each. steal it.",
+      "pose": "cover-arms-crossed"
+    },
+    {
+      "type": "list",
+      "title": "the week",
+      "sub": "move the days if you need to. keep all 4.",
+      "rows": [
+        [
+          "MON",
+          [
+            "upper A"
+          ]
+        ],
+        [
+          "TUE",
+          [
+            "lower A"
+          ]
+        ],
+        [
+          "THU",
+          [
+            "upper B"
+          ]
+        ],
+        [
+          "FRI",
+          [
+            "lower B"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "MON",
+      "name": "upper A",
+      "tag": "6 exercises · 2 × 4–8",
+      "lines": [
+        "chest press, pulldown, upper-back row,",
+        "lateral raise, preacher curl, pushdown."
+      ],
+      "pose": "chest-press"
+    },
+    {
+      "type": "tier",
+      "tier": "TUE",
+      "name": "lower A",
+      "tag": "5 exercises · 2 × 4–8",
+      "lines": [
+        "calf press, leg curl, leg extension,",
+        "adductor machine, hip thrust."
+      ],
+      "pose": "hip-thrust"
+    },
+    {
+      "type": "tier",
+      "tier": "THU",
+      "name": "upper B",
+      "tag": "6 exercises · 2 × 4–8",
+      "lines": [
+        "shoulder press, pullover, shrug,",
+        "pec deck, hammer curl, triceps extension."
+      ],
+      "pose": "pec-deck"
+    },
+    {
+      "type": "tier",
+      "tier": "FRI",
+      "name": "lower B",
+      "tag": "5 exercises · 2 × 4–8",
+      "lines": [
+        "calf press, single-leg curl and extension,",
+        "romanian deadlift, hack squat."
+      ],
+      "pose": "romanian-deadlift",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "set_id": "2026-11-19-ryo-tier-every-back",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "topic_source": "our ranking (opinion); EARND's back exercises",
+  "pain_cover": false,
+  "caption": "every back exercise, ranked. where's your favourite? 👇 #backworkout #gymtok #backday #gymtips #hypertrophy",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "every back exercise,",
+        "ranked."
+      ],
+      "sub": "argue with me.",
+      "pose": "pulldown"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "pick 2. 2 hard sets each.",
+      "rows": [
+        [
+          "S",
+          [
+            "lat pulldown",
+            "single-arm row"
+          ]
+        ],
+        [
+          "A",
+          [
+            "pull-up",
+            "straight-arm pulldown"
+          ]
+        ],
+        [
+          "B",
+          [
+            "deadlift"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "lat pulldown",
+      "works": "lats",
+      "lines": [
+        "easy to add weight every week.",
+        "long stretch at the top."
+      ],
+      "pose": "pulldown"
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "single-arm row",
+      "works": "lats + upper back",
+      "lines": [
+        "pull to your hip.",
+        "one side at a time. no cheating."
+      ],
+      "pose": "single-arm-row"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "pull-up",
+      "works": "lats",
+      "lines": [
+        "great lift. hard to progress",
+        "until you own 8 clean reps."
+      ],
+      "pose": "pull-up"
+    },
+    {
+      "type": "tier",
+      "tier": "B",
+      "name": "deadlift",
+      "works": "back + legs + everything",
+      "lines": [
+        "strong lift. heavy on recovery.",
+        "not the best pick just for back."
+      ],
+      "pose": "deadlift",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

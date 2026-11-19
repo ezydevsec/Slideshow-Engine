@@ -1,0 +1,87 @@
+{
+  "set_id": "2026-11-19-ezyxbt-test-know-by-slide-4",
+  "status": "draft, awaiting approval",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "format": "native-text tip slideshow",
+  "new_format_test": "'by the end you'll know exactly how to…' (finance: financial.literac83 341K, Watch list)",
+  "topic_source": "finance bridge (scan 11-18 Watch); EARND's Upper A and progression rule",
+  "pain_cover": false,
+  "caption": "by slide 4 you'll know exactly what to lift on monday. and how much. #gymtips #beginnergym #gymtok #upperlower #progressiveoverload",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b14-04.jpg",
+        "focus": [
+          0.5,
+          0.42
+        ]
+      },
+      "hook": "by slide 4 you'll know exactly what to lift on monday",
+      "sub": "(and how much)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b13-01.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "monday: upper A",
+      "lines": [
+        "chest press",
+        "pulldown",
+        "upper-back row",
+        "lateral raise",
+        "preacher curl",
+        "pushdown"
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b12-06.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "how much",
+      "lines": [],
+      "text": "the weight you did 7 reps with last time. aim for 8. 2 hard sets."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip: write it down",
+      "text": "if you don't know last week's number, you're guessing.",
+      "shot": "01-app/assets/exercise-target.png",
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b10-02.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for monday.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

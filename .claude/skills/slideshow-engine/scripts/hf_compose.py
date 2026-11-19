@@ -32,7 +32,7 @@ class Clip:
 
 def draw_text(d, it, t, acc):
     COL = {"white": (240, 240, 240), "grey": (175, 175, 182), "acc": acc}
-    a = ease((t - it["t0"]) / 0.25); c = tuple(int(v * a) for v in COL[it.get("color", "white")])
+    a = ease((t - it["t0"]) / 0.25); cc = it.get("color", "white"); c = tuple(int(v * a) for v in (COL[cc] if isinstance(cc, str) else cc))
     txt, rate = it["text"], it.get("rate", 1)
     if "{n}" in txt:
         k = int((t - it["t0"]) * rate)

@@ -1,0 +1,155 @@
+{
+  "set_id": "2026-11-19-earndapp-pick1-push-day-9",
+  "status": "draft, awaiting approval",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "length_test": "9 slides (pair: 2026-11-19-earndapp-pick1-stronger-5-pain, 5 slides)",
+  "topic_source": "Paul Carter (@liftrunbang1) '9 levers' (2 hard sets, 4–8 reps) + 16 Nov triceps post (pushdown + overhead extension); picks are EARND's exercises",
+  "pain_cover": false,
+  "caption": "the perfect push day 🧪 6 jobs, pick 1 for each, 2 hard sets of 4–8. 1. chest press 2. pec deck 3. shoulder press 4. lateral raise 5. pushdown 6. overhead extension. which one would you swap? #pushday #chestworkout #gymtips #hypertrophy #workoutplan",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "the science of the",
+          false
+        ],
+        [
+          "perfect push day",
+          true
+        ]
+      ],
+      "sub": "(pick 1 exercise per slide → your full workout)",
+      "pose": "chest-press"
+    },
+    {
+      "type": "structure",
+      "title": "the structure",
+      "sub": "6 jobs. pick 1 for each.",
+      "items": [
+        "chest (pressing)",
+        "chest (fly)",
+        "shoulders (pressing)",
+        "side delts",
+        "triceps (pushdown)",
+        "triceps (stretch)"
+      ],
+      "note": "2 hard sets each. 4–8 reps."
+    },
+    {
+      "type": "pick",
+      "n": 1,
+      "muscle": "chest, pressing",
+      "sets": "2 × 4–8",
+      "anatomy": "chest",
+      "options": [
+        [
+          "machine chest press",
+          "chest-press"
+        ]
+      ],
+      "note": "the heavy one. do it first."
+    },
+    {
+      "type": "pick",
+      "n": 2,
+      "muscle": "chest, fly",
+      "sets": "2 × 4–8",
+      "anatomy": "chest",
+      "options": [
+        [
+          "pec deck",
+          "pec-deck"
+        ]
+      ],
+      "note": "slow stretch at the back."
+    },
+    {
+      "type": "pick",
+      "n": 3,
+      "muscle": "shoulders",
+      "sets": "2 × 4–8",
+      "anatomy": "delts",
+      "options": [
+        [
+          "shoulder press",
+          "shoulder-press"
+        ]
+      ],
+      "note": "front and side delts."
+    },
+    {
+      "type": "pick",
+      "n": 4,
+      "muscle": "side delts",
+      "sets": "2 × 4–8",
+      "anatomy": "delts",
+      "options": [
+        [
+          "lateral raise",
+          "lateral-raise"
+        ]
+      ],
+      "note": "yes, 4–8 works here too."
+    },
+    {
+      "type": "pick",
+      "n": 5,
+      "muscle": "triceps",
+      "sets": "2 × 4–8",
+      "anatomy": "triceps",
+      "options": [
+        [
+          "triceps pushdown",
+          "triceps-pushdown"
+        ]
+      ],
+      "note": "elbows pinned to your sides."
+    },
+    {
+      "type": "pick",
+      "n": 6,
+      "muscle": "triceps, stretch",
+      "sets": "2 × 4–8",
+      "anatomy": "triceps",
+      "options": [
+        [
+          "overhead extension",
+          "overhead-triceps-extension"
+        ]
+      ],
+      "note": "arms overhead: the long head."
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND shows you",
+          false
+        ],
+        [
+          "what to beat",
+          true
+        ],
+        [
+          "on every set",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0.0,
+        0.07,
+        1.0,
+        0.47
+      ],
+      "example": true,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ]
+}

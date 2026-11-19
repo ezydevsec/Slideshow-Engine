@@ -1,0 +1,97 @@
+{
+  "set_id": "2026-11-19-earndapp-pick1-stronger-5-pain",
+  "status": "draft, awaiting approval",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "length_test": "5 slides (pair: 2026-11-19-earndapp-pick1-push-day-9, 9 slides)",
+  "topic_source": "CLAUDE.md rule 4 pain cover; Paul Carter 18 Nov (double progression on 4–8); EARND's progression rule",
+  "pain_cover": true,
+  "caption": "3 months in and you still can't tell if you're stronger? it's not your genetics. it's that nothing's written down. the fix is one number 👇 #gymtok #progressiveoverload #gymtips #beginnergym #upperlower",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "3 months in.",
+          false
+        ],
+        [
+          "still can't tell",
+          true
+        ],
+        [
+          "if you're stronger?",
+          true
+        ]
+      ],
+      "sub": "(it's not your genetics)",
+      "pose": "thinking"
+    },
+    {
+      "type": "structure",
+      "title": "the fix",
+      "sub": "one number per exercise.",
+      "items": [
+        "write down weight × reps",
+        "next time: beat it by 1 rep",
+        "hit 8 reps → add weight, back to 4"
+      ],
+      "note": "that's double progression."
+    },
+    {
+      "type": "structure",
+      "title": "why it works",
+      "sub": "you stop guessing.",
+      "items": [
+        "you know what to beat",
+        "you see every small win",
+        "bad days still count: you showed up"
+      ],
+      "note": "most people only remember last week."
+    },
+    {
+      "type": "pick",
+      "n": 1,
+      "muscle": "try it monday",
+      "sets": "2 × 4–8",
+      "anatomy": "chest",
+      "options": [
+        [
+          "machine chest press",
+          "chest-press"
+        ]
+      ],
+      "note": "last: 100 kg × 7 → beat it: × 8 (example)"
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND remembers",
+          false
+        ],
+        [
+          "the number",
+          true
+        ],
+        [
+          "so you don't have to",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0.0,
+        0.07,
+        1.0,
+        0.47
+      ],
+      "example": true,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ]
+}

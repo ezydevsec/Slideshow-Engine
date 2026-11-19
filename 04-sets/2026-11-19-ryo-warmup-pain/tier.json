@@ -1,0 +1,89 @@
+{
+  "set_id": "2026-11-19-ryo-warmup-pain",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "topic_source": "Paul Carter (@liftrunbang1) 9 Nov warm-up ramp (method only, our words); ranking is our opinion",
+  "pain_cover": true,
+  "caption": "20-minute warm-up and you still feel weak on set 1? your warm-up is the problem. ranked 👇 #gymtok #warmup #gymtips #strengthtraining #hypertrophy",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "20-minute warm-up.",
+        "still weak on set 1?"
+      ],
+      "sub": "your warm-up is the problem. ranked.",
+      "pose": "warm-up-plate"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "5 minutes is enough.",
+      "rows": [
+        [
+          "S",
+          [
+            "ramp-up sets"
+          ]
+        ],
+        [
+          "A",
+          [
+            "5 min easy cardio"
+          ]
+        ],
+        [
+          "C",
+          [
+            "pump sets to failure"
+          ]
+        ],
+        [
+          "F",
+          [
+            "long static stretching"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "ramp-up sets",
+      "works": "set 1 strength",
+      "lines": [
+        "50% × 10, then 80% × 6.",
+        "30–60 s rest. then go."
+      ],
+      "pose": "warm-up-plate"
+    },
+    {
+      "type": "tier",
+      "tier": "C",
+      "name": "pump sets to failure",
+      "tag": "verdict: tires you early",
+      "lines": [
+        "you're cooked before the real sets.",
+        "keep warm-ups easy."
+      ],
+      "pose": "pushdown"
+    },
+    {
+      "type": "tier",
+      "tier": "F",
+      "name": "long static stretching",
+      "tag": "verdict: do it after",
+      "lines": [
+        "long holds can sap a bit of strength.",
+        "stretch after you lift, not before."
+      ],
+      "pose": "static-stretch",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

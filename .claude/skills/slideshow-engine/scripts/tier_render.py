@@ -8,6 +8,7 @@ tier.json slides:
   {"type": "list", "title": "the whole list", "sub": "...", "rows": [["S", ["lat pulldown", "pull-up"]], ...]}
   {"type": "tier", "tier": "S", "name": "lat pulldown", "works": "lats", "lines": ["...", "..."], "pose": "pulldown", "footer": "optional"}
   optional "tag": full tag text instead of "works: ..." (e.g. "verdict: wrong" for myths ranked)
+Tier labels may also be short words ("MON") for the full-week format; they render amber.
 Poses: 01-app/brand/earnie-v3/<pose>.png
 """
 import json, os, sys
@@ -57,7 +58,7 @@ def render(set_dir):
             if s.get("sub"): d.text((70, 170), s["sub"], font=F(BO, 34), fill=(110, 110, 115))
             rows = s["rows"]; rh = min(200, (H - 300) // len(rows) - 25); y = 250
             for tr, items in rows:
-                d.rounded_rectangle([70, y, 210, y + rh], 18, fill=TC[tr]); fl = F(BL, int(rh * 0.55)); d.text((140 - d.textlength(tr, font=fl) / 2, y + rh * 0.15), tr, font=fl, fill=INK)
+                d.rounded_rectangle([70, y, 210, y + rh], 18, fill=TC.get(tr, AMB)); fl = F(BL, int(rh * (0.55 if len(tr) == 1 else 0.26))); d.text((140 - d.textlength(tr, font=fl) / 2, y + rh * (0.15 if len(tr) == 1 else 0.33)), tr, font=fl, fill=INK)
                 d.rounded_rectangle([230, y, W - 70, y + rh], 18, fill="white", outline=(225, 222, 215), width=3)
                 fi = F(BO, 44); gap = 58; y0 = y + (rh - gap * len(items)) / 2 + 4
                 for k, it in enumerate(items): d.text((262, y0 + k * gap), it, font=fi, fill=INK)
@@ -65,7 +66,7 @@ def render(set_dir):
             if s.get("footer"): foot(img, d, s["footer"])
         elif t == "tier":
             im = pose(s["pose"]); img = Image.new("RGB", (W, H), bgcol(im)); d = ImageDraw.Draw(img); y = 80
-            d.rounded_rectangle([70, y, 190, y + 120], 18, fill=TC[s["tier"]]); f = F(BL, 90); d.text((130 - d.textlength(s["tier"], font=f) / 2, y + 5), s["tier"], font=f, fill=INK)
+            d.rounded_rectangle([70, y, 190, y + 120], 18, fill=TC.get(s["tier"], AMB)); f = F(BL, 90 if len(s["tier"]) == 1 else 40); d.text((130 - d.textlength(s["tier"], font=f) / 2, y + (5 if len(s["tier"]) == 1 else 36)), s["tier"], font=f, fill=INK)
             fn = F(BL, 62)
             while d.textlength(s["name"], font=fn) > W - 300: fn = F(BL, fn.size - 4)
             d.text((220, y + 24), s["name"], font=fn, fill=INK); y += 145

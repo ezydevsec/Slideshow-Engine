@@ -1,0 +1,183 @@
+{
+ "set_id": "2026-11-19-whatif-video-1-rep-a-session",
+ "account": "@whatif.overload",
+ "account_type": "theme",
+ "format": "what-if escalation video (Explainer 3D, Higgsfield)",
+ "new_format_test": "Explainer 3D look (founder 11-19); rep escalation instead of weight",
+ "topic_source": "joke escalation; real-life rule = double progression 4–8 (EARND's rule; Paul Carter 18 Nov)",
+ "status": "draft, awaiting approval",
+ "accent": [
+  255,
+  90,
+  80
+ ],
+ "out": "one-rep-a-session.mp4",
+ "endcard": [
+  "this page is made by EARND,",
+  "our gym app. follow @earndapp"
+ ],
+ "ai_images": true,
+ "ai_note": "start frames Higgsfield Nano Banana, motion Kling 3.0 pro: AI label ON",
+ "caption": "dale added 1 rep every session. by session 1,000 his set had no end 💀 #gymhumor #gymtok #whatif #progressiveoverload #gymmemes",
+ "segments": [
+  {
+   "dur": 4,
+   "clips": [
+    "hf/c1.mp4"
+   ]
+  },
+  {
+   "dur": 4,
+   "clips": [
+    "hf/c2.mp4"
+   ]
+  },
+  {
+   "dur": 4,
+   "clips": [
+    "hf/c3.mp4"
+   ]
+  },
+  {
+   "dur": 4,
+   "clips": [
+    "hf/c4.mp4"
+   ]
+  },
+  {
+   "dur": 3,
+   "image": "hf/card.png",
+   "height": 1920,
+   "y": 0
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.2,
+   "t1": 4,
+   "text": "WHAT IF DALE ADDED",
+   "x": 540,
+   "y": 90,
+   "size": 58,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 0.2,
+   "t1": 4,
+   "text": "1 REP EVERY SESSION?",
+   "x": 540,
+   "y": 190,
+   "size": 58,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 0.6,
+   "t1": 4,
+   "text": "SESSION 1 · 8 REPS",
+   "x": 540,
+   "y": 320,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 1.0,
+   "t1": 4,
+   "text": "a normal set.",
+   "x": 540,
+   "y": 420,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 4,
+   "t1": 8,
+   "text": "SESSION 60 · 67 REPS",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 4.4,
+   "t1": 8,
+   "text": "one set = a whole album.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 8,
+   "t1": 12,
+   "text": "SESSION 200 · 207 REPS",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 8.4,
+   "t1": 12,
+   "text": "his set outlasts the film.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 12,
+   "t1": 16,
+   "text": "SESSION 1,000 · 1,007 REPS",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 12.4,
+   "t1": 16,
+   "text": "still on set 1.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 16.1,
+   "t1": 19,
+   "text": "REAL LIFE:",
+   "x": 540,
+   "y": 720,
+   "size": 64,
+   "color": "acc"
+  },
+  {
+   "t0": 16.5,
+   "t1": 19,
+   "text": "reps stop going up at 8.",
+   "x": 540,
+   "y": 830,
+   "size": 50,
+   "color": "white"
+  },
+  {
+   "t0": 17.0,
+   "t1": 19,
+   "text": "then add weight. back to 4.",
+   "x": 540,
+   "y": 910,
+   "size": 50,
+   "color": "white"
+  }
+ ]
+}

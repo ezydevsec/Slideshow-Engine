@@ -1,0 +1,80 @@
+{
+  "set_id": "2026-11-19-ezyxbt-identity-same-plan",
+  "status": "draft, awaiting approval",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "format": "identity (rule 5)",
+  "topic_source": "identity format (CLAUDE.md rule 5), #1 of the week",
+  "pain_cover": false,
+  "caption": "be him. #gymmotivation #consistency #gymtok #upperlower #discipline",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b13-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "be the guy who…",
+      "sub": "(none of this needs talent)",
+      "hook_y": 0.18
+    },
+    {
+      "type": "list",
+      "title": "runs the same plan for 12 weeks",
+      "photo": {
+        "file": "b12-02.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "lines": [],
+      "text": "no new programme every monday."
+    },
+    {
+      "type": "list",
+      "title": "adds 1 rep, not 20 kg",
+      "photo": {
+        "file": "b12-05.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "lines": [],
+      "text": "small wins, every session."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-08.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "knows what he did last week",
+      "text": "so he knows exactly what to beat today.",
+      "shot": "01-app/assets/demo-last-time-target.png",
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b14-05.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this. be him.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}
