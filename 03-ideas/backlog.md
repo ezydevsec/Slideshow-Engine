@@ -229,3 +229,15 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @ezyxbt | one-liner | "13 years waiting for a game. people still won't give their bench 13 weeks." | original sound (~) / original sound (Chris Olsen)
 - [ ] @quiet.reps4 | one-line clip | "YOU WAITED 13 YEARS FOR A GAME." / "GIVE YOUR PLAN 12 WEEKS." | son original (Trendformusic) / original sound (pяѳдчcяs)
 - [ ] @whatif.overload | Dale | "What if Dale trained the whole time we waited for GTA 6?" (2013 → 2026) | 🅒 Cyberpunk Drive / 🅒 Midnight Grid
+
+## Daily scan 2026-11-19 (trend file: 02-research/trends/2026-11-19.md)
+- [ ] @earndapp | STUDY RACE (verified: Schoenfeld 2017) | "light vs heavy: same growth?" (3D draft ready) | Can You Hear The Music / Time (Hans Zimmer)
+- [ ] @earndapp | STUDY RACE, next (verified: Bartolomei 2017 + Farrow 2020) | "heavy vs light: who's recovered tomorrow?" catch: the light group is still tired | Time (Hans Zimmer) / Experience (Einaudi)
+- [ ] @earndapp | PICK-1, 9 slides | "the perfect push day" | 🅒 Pawn Gambit / 🅒 Tweed Pulse
+- [ ] @earndapp | PICK-1, 5 slides + PAIN | "you do 15 reps on cables because someone said isolation needs high reps" → any range 5–30, pick one you can add to | 🅒 Tweed Pulse / 🅒 Stone Drum Mirage
+- [ ] Ryo | NEW FORMAT TEST | "rep schemes ranked" (myths tier with verdict tag) | Amnesia X No Hands / HTS Plenger
+- [ ] Ryo | PAIN COVER | "you've done 3×12 since day one" → what to do instead | Amnesia X No Hands / Diamonds on me
+- [ ] @ezyxbt | NEW FORMAT TEST | "your first 12 weeks in the gym, step by step" (if not posted) | original sound (~) / original sound (‍r7ptor)
+- [ ] @ezyxbt | IDENTITY (rule 5, #1 this week) | "the guy who doesn't change his programme every monday" | original sound (~) / original sound (Chris Olsen)
+- [ ] @quiet.reps4 | 3D stickman remakes (Higgsfield or Blender) | perfectionist / follow-blindly / 45 minutes | original sound (Ry) / Blade Runner 2049 (Synthwave Goose)
+- [ ] @whatif.overload | Dale | GTA window | 🅒 Cyberpunk Drive / 🅒 Midnight Grid
