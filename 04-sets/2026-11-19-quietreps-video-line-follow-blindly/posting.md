@@ -6,6 +6,7 @@
 - **Upload:** `follow-blindly.mp4` (1080×1920, 15 s)
 - **Caption:** everyone's on a new split this week. pick one plan and run it. #gymtok #gymtips #discipline #upperlower #consistency
 - **AI-generated content label:** **ON** (AI-generated frames and motion)
+- **Voice:** AI narrator (Knox, via Higgsfield) baked into the video. Add any music under it at low volume in TikTok if you like.
 - **Before posting:** no download link (prelaunch). Text is baked in, so add nothing in TikTok's editor. The end card says the page is made by EARND.
 - **Post at:** Fri 20 Nov, 18:30 (UK time; target UK/US).
 - **Topic source:** founder uploads 11-18 (@neuronvisuals)
