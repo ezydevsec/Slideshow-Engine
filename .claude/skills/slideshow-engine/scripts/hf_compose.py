@@ -9,6 +9,8 @@ hf.json: {"out": "x.mp4", "accent": [255,196,120], "endcard": [...],
                        {"dur": 7.5, "split": true, "clips": ["hf/top.mp4", "hf/bot.mp4"], "crop_y": [550, 550]}],
           "text": [{"t0", "t1", "text", "x", "y", "size", "color", "box", "rate", "max"}]}   # times on the final timeline
 Clips are scaled to 1080x1920 at 30 fps; a clip shorter than its segment holds its last frame.
+Image segment: {"dur": 3, "image": "01-app/assets/x.png", "height": 1300, "y": 480} shows a REAL app screenshot (path relative to the set dir).
+Counter: "{n}" with "n0" (start), "step", "rate" (steps per second), "max" (steps) -> n0 + step * min(max, floor(t * rate)).
 """
 import json, os, subprocess, sys
 from PIL import Image, ImageDraw
@@ -32,7 +34,10 @@ def draw_text(d, it, t, acc):
     COL = {"white": (240, 240, 240), "grey": (175, 175, 182), "acc": acc}
     a = ease((t - it["t0"]) / 0.25); c = tuple(int(v * a) for v in COL[it.get("color", "white")])
     txt, rate = it["text"], it.get("rate", 1)
-    if "{n}" in txt: txt = txt.replace("{n}", str(min(it.get("max", 999), int((t - it["t0"]) * rate) + 1)))
+    if "{n}" in txt:
+        k = int((t - it["t0"]) * rate)
+        v = it["n0"] + it.get("step", 1) * min(it.get("max", 999), k) if "n0" in it else min(it.get("max", 999), k + 1)
+        txt = txt.replace("{n}", f"{v:g}")
     if "{timer}" in txt: s = int((t - it["t0"]) * rate); txt = txt.replace("{timer}", f"{s // 60}:{s % 60:02d}")
     size = it.get("size", 34); f = F(size)
     if it.get("box"):
@@ -50,14 +55,23 @@ def compose(set_dir):
                            "-i", "-", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-crf", "18", out], stdin=subprocess.PIPE)
     T = 0.0; fi = 0
     for seg in sp["segments"]:
-        clips = [Clip(os.path.join(set_dir, c)) for c in seg["clips"]]
+        if seg.get("image"):                       # real app screenshot on a dark card (never generated)
+            sc = Image.open(os.path.join(set_dir, seg["image"])).convert("RGB"); h = seg.get("height", 1300); sc = sc.resize((int(sc.width * h / sc.height), h), Image.LANCZOS)
+            base = Image.new("RGB", (W, H), (6, 6, 8)); base.paste(sc, ((W - sc.width) // 2, seg.get("y", 480)))
+            clips = []
+        else:
+            clips = [Clip(os.path.join(set_dir, c)) for c in seg["clips"]]
         for _ in range(int(round(seg["dur"] * FPS))):
             t = fi / FPS
-            if seg.get("split"):
+            if seg.get("image"):
+                img = base.copy()
+            elif seg.get("split"):
                 img = Image.new("RGB", (W, H))
                 for k, c in enumerate(clips):
-                    y0 = seg.get("crop_y", [480, 480])[k]
-                    img.paste(c.next().crop((0, y0, W, y0 + H // 2)), (0, k * H // 2))
+                    y0 = seg.get("crop_y", [480, 480])[k]; ch = seg.get("crop_h", H // 2)   # crop_h > 960 zooms out
+                    p = c.next().crop((0, y0, W, y0 + ch))
+                    if ch != H // 2: p = p.resize((int(W * (H // 2) / ch), H // 2), Image.LANCZOS)
+                    img.paste(p, ((W - p.width) // 2, k * H // 2))
                 ImageDraw.Draw(img).rectangle([0, H // 2 - 3, W, H // 2 + 3], fill=(6, 6, 8))
             else:
                 img = clips[0].next()

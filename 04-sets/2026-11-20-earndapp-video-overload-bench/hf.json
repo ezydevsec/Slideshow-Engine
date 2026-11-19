@@ -1,0 +1,284 @@
+{
+ "set_id": "2026-11-20-earndapp-video-overload-bench",
+ "account": "@earndapp",
+ "account_type": "brand",
+ "format": "stickmaxx progressive-overload comparison (founder links 11-19), Higgsfield 3D",
+ "status": "draft, awaiting approval",
+ "accent": [
+  200,
+  255,
+  90
+ ],
+ "out": "overload-bench.mp4",
+ "endcard": [
+  "EARND launches soon.",
+  "follow for the launch."
+ ],
+ "ai_images": true,
+ "ai_note": "start frames Higgsfield Nano Banana, motion Kling 3.0 pro: AI label ON",
+ "caption": "same bench. same effort. only one added weight. are you the top or the bottom? 👇 #gymtok #progressiveoverload #benchpress #gymtips #upperlower",
+ "segments": [
+  {
+   "dur": 9,
+   "split": true,
+   "clips": [
+    "hf/top.mp4",
+    "hf/bottom.mp4"
+   ],
+   "crop_y": [
+    330,
+    330
+   ],
+   "crop_h": 1150
+  },
+  {
+   "dur": 4,
+   "clips": [
+    "hf/end.mp4"
+   ]
+  },
+  {
+   "dur": 3,
+   "image": "../../01-app/assets/exercise-target.png",
+   "height": 1460,
+   "y": 380
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.2,
+   "t1": 9,
+   "text": "MONTH {n} >>",
+   "x": 540,
+   "y": 26,
+   "size": 66,
+   "color": "white",
+   "n0": 1,
+   "step": 1,
+   "rate": 0.72,
+   "max": 6
+  },
+  {
+   "t0": 0.4,
+   "t1": 9,
+   "text": "same bench. same effort.",
+   "x": 540,
+   "y": 106,
+   "size": 30,
+   "color": "grey"
+  },
+  {
+   "t0": 0.6,
+   "t1": 9,
+   "text": "+5 KG A MONTH",
+   "x": 270,
+   "y": 160,
+   "size": 40,
+   "color": "acc"
+  },
+  {
+   "t0": 0.2,
+   "t1": 9,
+   "text": "BENCH: {n} KG",
+   "x": 270,
+   "y": 212,
+   "size": 36,
+   "color": "white",
+   "n0": 40,
+   "step": 5,
+   "rate": 0.72,
+   "max": 6
+  },
+  {
+   "t0": 0.6,
+   "t1": 9,
+   "text": "SAME WEIGHT",
+   "x": 270,
+   "y": 985,
+   "size": 40,
+   "color": "grey"
+  },
+  {
+   "t0": 0.6,
+   "t1": 9,
+   "text": "BENCH: 40 KG",
+   "x": 270,
+   "y": 1037,
+   "size": 36,
+   "color": "grey"
+  },
+  {
+   "t0": 0.6,
+   "t1": 13,
+   "text": "weights: example",
+   "x": 880,
+   "y": 1866,
+   "size": 26,
+   "color": "grey"
+  },
+  {
+   "t0": 1.59,
+   "t1": 2.49,
+   "text": "+5 KG",
+   "x": 880,
+   "y": 170,
+   "size": 56,
+   "color": "acc"
+  },
+  {
+   "t0": 1.59,
+   "t1": 2.49,
+   "text": "+0 KG",
+   "x": 880,
+   "y": 1010,
+   "size": 56,
+   "color": "grey"
+  },
+  {
+   "t0": 2.98,
+   "t1": 3.88,
+   "text": "+5 KG",
+   "x": 880,
+   "y": 170,
+   "size": 56,
+   "color": "acc"
+  },
+  {
+   "t0": 2.98,
+   "t1": 3.88,
+   "text": "+0 KG",
+   "x": 880,
+   "y": 1010,
+   "size": 56,
+   "color": "grey"
+  },
+  {
+   "t0": 4.37,
+   "t1": 5.2700000000000005,
+   "text": "+5 KG",
+   "x": 880,
+   "y": 170,
+   "size": 56,
+   "color": "acc"
+  },
+  {
+   "t0": 4.37,
+   "t1": 5.2700000000000005,
+   "text": "+0 KG",
+   "x": 880,
+   "y": 1010,
+   "size": 56,
+   "color": "grey"
+  },
+  {
+   "t0": 5.76,
+   "t1": 6.66,
+   "text": "+5 KG",
+   "x": 880,
+   "y": 170,
+   "size": 56,
+   "color": "acc"
+  },
+  {
+   "t0": 5.76,
+   "t1": 6.66,
+   "text": "+0 KG",
+   "x": 880,
+   "y": 1010,
+   "size": 56,
+   "color": "grey"
+  },
+  {
+   "t0": 7.14,
+   "t1": 8.04,
+   "text": "+5 KG",
+   "x": 880,
+   "y": 170,
+   "size": 56,
+   "color": "acc"
+  },
+  {
+   "t0": 7.14,
+   "t1": 8.04,
+   "text": "+0 KG",
+   "x": 880,
+   "y": 1010,
+   "size": 56,
+   "color": "grey"
+  },
+  {
+   "t0": 8.53,
+   "t1": 9.43,
+   "text": "+5 KG",
+   "x": 880,
+   "y": 170,
+   "size": 56,
+   "color": "acc"
+  },
+  {
+   "t0": 8.53,
+   "t1": 9.43,
+   "text": "+0 KG",
+   "x": 880,
+   "y": 1010,
+   "size": 56,
+   "color": "grey"
+  },
+  {
+   "t0": 9.3,
+   "t1": 13,
+   "text": "SAME BENCH. SAME EFFORT.",
+   "x": 540,
+   "y": 260,
+   "size": 52,
+   "color": "white"
+  },
+  {
+   "t0": 10.1,
+   "t1": 13,
+   "text": "ONLY ONE ADDED WEIGHT.",
+   "x": 540,
+   "y": 340,
+   "size": 52,
+   "color": "acc"
+  },
+  {
+   "t0": 10.1,
+   "t1": 13,
+   "text": "40 KG",
+   "x": 290,
+   "y": 640,
+   "size": 44,
+   "color": "grey",
+   "box": true
+  },
+  {
+   "t0": 10.1,
+   "t1": 13,
+   "text": "70 KG",
+   "x": 800,
+   "y": 600,
+   "size": 44,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 13.1,
+   "t1": 16,
+   "text": "EARND gives you the number to beat.",
+   "x": 540,
+   "y": 200,
+   "size": 40,
+   "color": "white"
+  },
+  {
+   "t0": 13.5,
+   "t1": 16,
+   "text": "every set.",
+   "x": 540,
+   "y": 270,
+   "size": 40,
+   "color": "acc"
+  }
+ ]
+}
