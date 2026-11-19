@@ -6,7 +6,7 @@
 - **Upload:** `one-rep-a-session.mp4` (1080×1920)
 - **Caption:** dale added 1 rep every session. by session 1,000 his set had no end 💀 #gymhumor #gymtok #whatif #progressiveoverload #gymmemes
 - **AI-generated content label:** **ON**
-- **Voice:** AI narrator (Knox, via Higgsfield) baked into the video. Add any music under it at low volume in TikTok if you like.
+- **Voice:** AI narrator (Knox, ElevenLabs v4 via Higgsfield), deadpan, one line per scene, baked into the video. Add any music under it at low volume in TikTok if you like.
 - **Before posting:** no download link (prelaunch). Text is baked in: add nothing in TikTok's editor.
 - **Post at:** Thu 19 Nov, 19:30 (UK time; target UK/US).
 - **Topic source:** joke escalation; real-life rule = double progression 4–8 (EARND's rule; Paul Carter 18 Nov)
