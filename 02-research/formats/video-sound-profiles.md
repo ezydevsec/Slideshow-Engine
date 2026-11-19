@@ -1,0 +1,11 @@
+# Video sound profiles (from every reference the founder has shared, analysed 2026-11-19)
+
+Founder 2026-11-19: "analyse everything I've shared and add the appropriate sounds" (for tomorrow's sets on). Method: TikTok sound metadata (Apify) for 26 linked posts; audio of 12 reference sounds, the 3 @stickmaxx reels and the 3 uploaded @neuronvisuals videos measured for beat, bass, build (loudness first → last third) and hits. Our versions use music generated for us (ElevenLabs Music via Higgsfield) and our own SFX (`sound_mix.py`), never the reference tracks.
+
+| Our format (account) | References | What their sound does | Our recipe |
+|---|---|---|---|
+| Progressive-overload comparison (@earndapp) | @stickmaxx bench/squat/deadlift (2.7M/1.9M/3.1M) | Hit-driven: a loud impact on every step over a quiet bed; ~125–130 bpm on squat/deadlift; **+60% louder at the reveal** | Dark punchy gym beat, bed kept low (−12 dB), `hit` on every step, riser into the ending, big boom on the payoff line |
+| Study race A vs B (@earndapp) | @appforthegym: "Interstellar on Piano" (Andy Morris) 4.6M, "Can You Hear The Music" (Göransson) 3.6M, original 2.5M; @dialed.lift 1.3M | Slow cinematic piano / score, ~70 bpm, **no SFX**, gentle build (+40–50%) toward the catch | Cinematic piano + strings, curve −5 dB → 0 dB by the catch, a short dip before "here's the catch", one soft low boom at most |
+| Metaphor / overthinker-vs-doer (@quiet.reps4) | @neuronvisuals "Blade Runner 2049" (Synthwave Goose) 16.1M + 65.8M/40.5M/36.5M uploads; @sticktoit16 "KING SONG SLOWED" 4.7M, "Itachi" 3.5M | Dark synthwave or slowed hype track that **builds hard** (×2–2.6 by the end); very few SFX | Slow dark retro synth, curve −9 dB → 0 dB at the payoff line, soft whooshes only on big moves |
+| Narrated explainer / what-if (@whatif.overload) | @speedy_devv 13.6M/10.2M, @lockd..in 1.6M, @cryothum 2.3M, @neuronvisuals saw 6.9M (all original sound = voice) | **Voice leads**, quiet flat bed under it, no build | Narrator (ElevenLabs v4, Knox) + quirky pizzicato/marimba bed ducked under the voice, light dings/whooshes on scene changes |
+| (slideshows, for reference) | @bluebro.fit "Midnight Grid" (library), @credora07 "Les (Instrumental Slowed)" | steady beat, no build | founder picks the TikTok sound himself |

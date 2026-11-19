@@ -7,7 +7,9 @@ Founder 2026-11-19: "there should be some sort of sound for the videos" (referen
 
 sound.json: {"video": "x.mp4", "music": "audio/music.mp3", "music_db": -9, "music_fade": [17.5, 19.0],
              "voice": "voice/narration.wav", "voice_db": 0, "duck_db": -9,     # music drops by duck_db while the voice speaks
+             "music_curve": [[0, -6], [11, 0], [12.5, 0]],      # optional volume automation (dB) for the build
              "sfx": [{"t": 1.6, "type": "hit", "db": -4}, ...]}
+Sound profiles per format (from the founder's reference links): 02-research/formats/video-sound-profiles.md
 SFX types: boom (deep 808-style drop), clank (plate), hit (boom + clank), whoosh, riser (dur), ding, tick, thud.
 """
 import json, os, subprocess, sys
@@ -88,6 +90,9 @@ def main(set_dir):
         lv = np.abs(music).mean(1); act = lv > 0.002
         r = np.sqrt((music[act] ** 2).mean()) if act.any() else 1.0
         music *= 0.12 / max(r, 1e-6) * db(sp.get("music_db", -9) + 9)
+    if sp.get("music_curve"):                            # volume automation [[t, dB], ...] (the build every reference has)
+        pts = sorted(sp["music_curve"]); ts = np.arange(n) / SR
+        g = db(np.interp(ts, [p_[0] for p_ in pts], [p_[1] for p_ in pts])); music *= g[:, None]
     if sp.get("music_fade"):
         a, b = (int(x * SR) for x in sp["music_fade"]); g = np.ones(n); g[a:b] = np.linspace(1, 0, b - a); g[b:] = 0; music *= g[:, None]
     voice = None
