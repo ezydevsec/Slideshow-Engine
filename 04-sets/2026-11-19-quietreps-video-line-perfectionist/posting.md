@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-19-quietreps-video-line-perfectionist
 
-**Status: draft, waiting for approval.** Format: stickman metaphor in @quiet.reps4's new **Minimal Line** look (gold line on black, founder 11-19), made with Higgsfield (Nano Banana start frames, Kling 3.0 pro motion), our text and end card baked on top. Replaces the Blender and 3D Higgsfield versions of this story. Warm-up week: 1 @quiet.reps4 video a day.
+**Status: approved (founder 11-19). Post manually on 2026-11-19 (Thu 19 Nov), 18:30 UK.** Format: stickman metaphor in @quiet.reps4's new **Minimal Line** look (gold line on black, founder 11-19), made with Higgsfield (Nano Banana start frames, Kling 3.0 pro motion), our text and end card baked on top. Replaces the Blender and 3D Higgsfield versions of this story. Warm-up week: 1 @quiet.reps4 video a day.
 
 - **Account:** @quiet.reps4 (TikTok, + Instagram once the IG account exists)
 - **Upload:** `perfectionist.mp4` (1080×1920, 18 s)
