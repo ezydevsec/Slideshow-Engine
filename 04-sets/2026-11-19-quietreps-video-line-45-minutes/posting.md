@@ -6,6 +6,7 @@
 - **Upload:** `45-minutes.mp4` (1080×1920, 15.5 s)
 - **Caption:** same 45 minutes. different year. #gymtok #discipline #morningroutine #gymmotivation #consistency
 - **AI-generated content label:** **ON** (AI-generated frames and motion)
+- **Sound:** baked in (our own generated music bed + hits on every step). Post it as is; if you add a TikTok sound, keep the original audio up.
 - **Before posting:** no download link (prelaunch). Text is baked in, so add nothing in TikTok's editor. The end card says the page is made by EARND.
 - **Post at:** Sat 21 Nov, 18:30 (UK time; target UK/US).
 - **Topic source:** founder uploads 11-18 (@neuronvisuals)

@@ -6,6 +6,7 @@
 - **Upload:** `perfectionist.mp4` (1080×1920, 18 s)
 - **Caption:** one's still choosing the perfect programme. the other has 24 weeks of sessions. which one are you? #gymtok #discipline #consistency #gymmotivation #upperlower
 - **AI-generated content label:** **ON** (AI-generated frames and motion)
+- **Sound:** baked in (our own generated music bed + hits on every step). Post it as is; if you add a TikTok sound, keep the original audio up.
 - **Before posting:** no download link (prelaunch). Text is baked in, so add nothing in TikTok's editor. The end card says the page is made by EARND.
 - **Post at:** Thu 19 Nov, 18:30 (UK time; target UK/US).
 - **Topic source:** founder uploads 11-18 (@neuronvisuals)

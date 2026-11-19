@@ -1,0 +1,87 @@
+{
+ "video": "perfectionist.mp4",
+ "music": "audio/music.mp3",
+ "music_db": -6,
+ "music_fade": [
+  16.8,
+  18.0
+ ],
+ "sfx": [
+  {
+   "t": 0.3,
+   "type": "boom",
+   "db": -8
+  },
+  {
+   "t": 1.2,
+   "type": "thud",
+   "db": -16
+  },
+  {
+   "t": 2.2,
+   "type": "thud",
+   "db": -16
+  },
+  {
+   "t": 3.2,
+   "type": "thud",
+   "db": -16
+  },
+  {
+   "t": 4.2,
+   "type": "thud",
+   "db": -16
+  },
+  {
+   "t": 5.2,
+   "type": "thud",
+   "db": -16
+  },
+  {
+   "t": 6.2,
+   "type": "thud",
+   "db": -16
+  },
+  {
+   "t": 7.2,
+   "type": "thud",
+   "db": -16
+  },
+  {
+   "t": 8.2,
+   "type": "thud",
+   "db": -16
+  },
+  {
+   "t": 9.2,
+   "type": "thud",
+   "db": -16
+  },
+  {
+   "t": 10.2,
+   "type": "thud",
+   "db": -16
+  },
+  {
+   "t": 9.8,
+   "type": "riser",
+   "dur": 1.4,
+   "db": -14
+  },
+  {
+   "t": 11.2,
+   "type": "boom",
+   "db": -4
+  },
+  {
+   "t": 12.0,
+   "type": "hit",
+   "db": -6
+  },
+  {
+   "t": 15.0,
+   "type": "whoosh",
+   "db": -12
+  }
+ ]
+}

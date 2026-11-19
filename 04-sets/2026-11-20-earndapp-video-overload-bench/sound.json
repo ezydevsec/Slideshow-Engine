@@ -1,0 +1,77 @@
+{
+ "video": "overload-bench.mp4",
+ "music": "audio/music.mp3",
+ "music_db": -8,
+ "music_fade": [
+  17.6,
+  19.0
+ ],
+ "sfx": [
+  {
+   "t": 0.15,
+   "type": "boom",
+   "db": -4
+  },
+  {
+   "t": 1.59,
+   "type": "hit",
+   "db": -5
+  },
+  {
+   "t": 2.98,
+   "type": "hit",
+   "db": -5
+  },
+  {
+   "t": 4.37,
+   "type": "hit",
+   "db": -5
+  },
+  {
+   "t": 5.76,
+   "type": "hit",
+   "db": -5
+  },
+  {
+   "t": 7.14,
+   "type": "hit",
+   "db": -5
+  },
+  {
+   "t": 8.53,
+   "type": "hit",
+   "db": -5
+  },
+  {
+   "t": 7.4,
+   "type": "riser",
+   "dur": 1.5,
+   "db": -12
+  },
+  {
+   "t": 8.85,
+   "type": "whoosh",
+   "db": -8
+  },
+  {
+   "t": 9.3,
+   "type": "boom",
+   "db": -2
+  },
+  {
+   "t": 10.1,
+   "type": "hit",
+   "db": -3
+  },
+  {
+   "t": 12.85,
+   "type": "whoosh",
+   "db": -9
+  },
+  {
+   "t": 16.0,
+   "type": "boom",
+   "db": -8
+  }
+ ]
+}

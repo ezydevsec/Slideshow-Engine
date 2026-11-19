@@ -1,0 +1,116 @@
+{
+ "video": "45-minutes.mp4",
+ "music": "audio/music.mp3",
+ "music_db": -6,
+ "music_fade": [
+  14.3,
+  15.5
+ ],
+ "sfx": [
+  {
+   "t": 0.2,
+   "type": "boom",
+   "db": -7
+  },
+  {
+   "t": 2.5,
+   "type": "clank",
+   "db": -12
+  },
+  {
+   "t": 5.0,
+   "type": "clank",
+   "db": -12
+  },
+  {
+   "t": 7.5,
+   "type": "whoosh",
+   "db": -8
+  },
+  {
+   "t": 7.6,
+   "type": "boom",
+   "db": -4
+  },
+  {
+   "t": 8.4,
+   "type": "hit",
+   "db": -6
+  },
+  {
+   "t": 12.5,
+   "type": "whoosh",
+   "db": -12
+  },
+  {
+   "t": 0.5,
+   "type": "tick",
+   "db": -22
+  },
+  {
+   "t": 1.0,
+   "type": "tick",
+   "db": -22
+  },
+  {
+   "t": 1.5,
+   "type": "tick",
+   "db": -22
+  },
+  {
+   "t": 2.0,
+   "type": "tick",
+   "db": -22
+  },
+  {
+   "t": 2.5,
+   "type": "tick",
+   "db": -22
+  },
+  {
+   "t": 3.0,
+   "type": "tick",
+   "db": -22
+  },
+  {
+   "t": 3.5,
+   "type": "tick",
+   "db": -22
+  },
+  {
+   "t": 4.0,
+   "type": "tick",
+   "db": -22
+  },
+  {
+   "t": 4.5,
+   "type": "tick",
+   "db": -22
+  },
+  {
+   "t": 5.0,
+   "type": "tick",
+   "db": -22
+  },
+  {
+   "t": 5.5,
+   "type": "tick",
+   "db": -22
+  },
+  {
+   "t": 6.0,
+   "type": "tick",
+   "db": -22
+  },
+  {
+   "t": 6.5,
+   "type": "tick",
+   "db": -22
+  },
+  {
+   "t": 7.0,
+   "type": "tick",
+   "db": -22
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "video": "one-rep-a-session.mp4",
+ "music": "audio/music.mp3",
+ "music_db": -9,
+ "duck_db": -10,
+ "music_fade": [
+  20.6,
+  22.0
+ ],
+ "voice": "voice/narration.wav",
+ "voice_db": 0,
+ "sfx": [
+  {
+   "t": 0.6,
+   "type": "ding",
+   "db": -12
+  },
+  {
+   "t": 3.9,
+   "type": "whoosh",
+   "db": -12
+  },
+  {
+   "t": 4.6,
+   "type": "ding",
+   "db": -12
+  },
+  {
+   "t": 7.9,
+   "type": "whoosh",
+   "db": -12
+  },
+  {
+   "t": 8.6,
+   "type": "ding",
+   "db": -12
+  },
+  {
+   "t": 11.9,
+   "type": "whoosh",
+   "db": -12
+  },
+  {
+   "t": 12.6,
+   "type": "ding",
+   "db": -12
+  },
+  {
+   "t": 15.95,
+   "type": "boom",
+   "db": -8
+  },
+  {
+   "t": 19.0,
+   "type": "whoosh",
+   "db": -12
+  }
+ ]
+}
