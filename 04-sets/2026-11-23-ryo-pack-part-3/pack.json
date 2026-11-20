@@ -1,0 +1,47 @@
+{
+  "set_id": "2026-11-23-ryo-pack-part-3",
+  "status": "draft, awaiting approval",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "format": "slideshow photos you may be looking for (pack, part 3)",
+  "new_format_test": "'photos you may be looking for' pack (passes the gate 11-20: tsbettergoviral 10M/518K saves, urmom12338383 1.8M, unknowngoatea 2.0M, hanni.547, gymslideshowideas777)",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "canvas": "1080x1920",
+  "topic_source": "founder process 11-20 (find a working format → rebuild → variations); 02-research/formats/photos-you-may-be-looking-for.md",
+  "caption": "#gymslideshowideas #gymtok #slideshowideas #wintergym #discipline",
+  "cover": "gym slideshow photos you may be looking for\n( part 3 )",
+  "mark": "@earnie.lifts",
+  "slides": [
+    {
+      "image": "art/01.png",
+      "quote": "cold outside. warm-up sets inside."
+    },
+    {
+      "image": "art/02.png"
+    },
+    {
+      "image": "art/03.png"
+    },
+    {
+      "image": "art/04.png"
+    },
+    {
+      "image": "art/05.png"
+    },
+    {
+      "image": "art/06.png",
+      "quote": "motivation left in october.\nthe plan didn't."
+    },
+    {
+      "image": "art/07.png"
+    },
+    {
+      "image": "art/08.png"
+    }
+  ],
+  "end": [
+    "part 4 tomorrow.",
+    "ryo trains on EARND, our app. follow @earndapp"
+  ]
+}

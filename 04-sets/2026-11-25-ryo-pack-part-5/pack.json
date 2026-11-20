@@ -1,0 +1,46 @@
+{
+  "set_id": "2026-11-25-ryo-pack-part-5",
+  "status": "draft, awaiting approval",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "format": "slideshow photos you may be looking for (pack, part 5)",
+  "new_format_test": "'photos you may be looking for' pack (passes the gate 11-20: tsbettergoviral 10M/518K saves, urmom12338383 1.8M, unknowngoatea 2.0M, hanni.547, gymslideshowideas777)",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "canvas": "1080x1920",
+  "topic_source": "founder process 11-20 (find a working format → rebuild → variations); 02-research/formats/photos-you-may-be-looking-for.md",
+  "caption": "#gymslideshowideas #gymtok #slideshowideas #gymmotivation #transformation",
+  "cover": "gym slideshow photos you may be looking for\n( part 5 )",
+  "mark": "@earnie.lifts",
+  "slides": [
+    {
+      "image": "art/01.png"
+    },
+    {
+      "image": "art/02.png"
+    },
+    {
+      "placeholder": "Picture 1",
+      "sub": "your week 1"
+    },
+    {
+      "image": "art/03.png",
+      "quote": "this is where the numbers start."
+    },
+    {
+      "image": "art/04.png"
+    },
+    {
+      "placeholder": "Picture 2",
+      "sub": "your week 12"
+    },
+    {
+      "image": "art/05.png"
+    }
+  ],
+  "end": [
+    "part 6 tomorrow.",
+    "ryo trains on EARND, our app. follow @earndapp"
+  ],
+  "variation": "template pack: Picture 1 / Picture 2 slots for the viewer's own week 1 and week 12 (the 'Picture 1 / Picture 2' structure from @gymslideshowideas777)"
+}

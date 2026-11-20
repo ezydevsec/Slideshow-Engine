@@ -1,0 +1,46 @@
+{
+  "set_id": "2026-11-26-ryo-pack-part-6",
+  "status": "draft, awaiting approval",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "format": "slideshow photos you may be looking for (pack, part 6)",
+  "new_format_test": "'photos you may be looking for' pack (passes the gate 11-20: tsbettergoviral 10M/518K saves, urmom12338383 1.8M, unknowngoatea 2.0M, hanni.547, gymslideshowideas777)",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "canvas": "1080x1920",
+  "topic_source": "founder process 11-20 (find a working format → rebuild → variations); 02-research/formats/photos-you-may-be-looking-for.md",
+  "caption": "#gymslideshowideas #gymtok #slideshowideas #gymmotivation #quotes",
+  "cover": "gym slideshow photos you may be looking for\n( part 6 )",
+  "mark": "@earnie.lifts",
+  "slides": [
+    {
+      "image": "art/01.png",
+      "quote": "nobody sees the 6am sessions."
+    },
+    {
+      "image": "art/02.png",
+      "quote": "heavy is a number.\nnext week it's lighter."
+    },
+    {
+      "image": "art/03.png",
+      "quote": "rain is not a rest day."
+    },
+    {
+      "image": "art/04.png",
+      "quote": "grip it like you mean it."
+    },
+    {
+      "image": "art/06.png",
+      "quote": "the bar doesn't care how you feel."
+    },
+    {
+      "image": "art/07.png",
+      "quote": "four days a week. every week."
+    }
+  ],
+  "end": [
+    "more parts soon.",
+    "ryo trains on EARND, our app. follow @earndapp"
+  ],
+  "variation": "quote on every panel (panel 05 dropped: generated lettering on the panel)"
+}
