@@ -1,0 +1,97 @@
+{
+  "set_id": "2026-11-20-earndapp-pick1-after-a-set-5-pain",
+  "status": "draft, awaiting approval",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "length_test": "5 slides (pair: 2026-11-20-earndapp-split-ranking-remake-9, 9 slides)",
+  "topic_source": "scan 11-20 (trstnn.lifts 'stop guessing what to do after every set'); EARND's progression rule (double progression 4–8)",
+  "pain_cover": true,
+  "caption": "you finish a set and have no idea what to do next time? there's a rule for that. save it 👇 #progressiveoverload #gymtips #gymtok #beginnergym #upperlower",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "you finish a set.",
+          false
+        ],
+        [
+          "no idea what",
+          true
+        ],
+        [
+          "to do next time?",
+          true
+        ]
+      ],
+      "sub": "(there's a rule for that)",
+      "pose": "thinking"
+    },
+    {
+      "type": "structure",
+      "title": "the rule",
+      "sub": "after every set, check your reps.",
+      "items": [
+        "8 reps? add weight next time",
+        "4–7 reps? same weight, +1 rep",
+        "under 4? too heavy. drop it"
+      ],
+      "note": "that's double progression."
+    },
+    {
+      "type": "structure",
+      "title": "why it works",
+      "sub": "no more guessing.",
+      "items": [
+        "every set has a target",
+        "small jumps you can actually hit",
+        "you can see when you've improved"
+      ],
+      "note": "write the number down."
+    },
+    {
+      "type": "pick",
+      "n": 1,
+      "muscle": "try it today",
+      "sets": "2 × 4–8",
+      "anatomy": "lats",
+      "options": [
+        [
+          "lat pulldown",
+          "pulldown"
+        ]
+      ],
+      "note": "last: 60 kg × 8 → today: 62.5 kg (example)"
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND tells you",
+          false
+        ],
+        [
+          "what to do next",
+          true
+        ],
+        [
+          "after every set",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/workout-complete-progressed.png",
+      "crop": [
+        0,
+        0.12,
+        1,
+        0.7
+      ],
+      "example": true,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ]
+}

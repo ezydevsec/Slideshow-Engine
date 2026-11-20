@@ -1,0 +1,89 @@
+{
+  "set_id": "2026-11-20-ryo-pulldown-stuck-pain",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "topic_source": "EARND's progression rule (double progression 4–8); rest 2–3 min (Schoenfeld 2016, verified); ranking is our opinion",
+  "pain_cover": true,
+  "caption": "pulldown stuck at the same weight for a month? the fixes, ranked 👇 #latpulldown #backday #gymtok #gymtips #progressiveoverload",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "pulldown stuck",
+        "for a month?"
+      ],
+      "sub": "the fixes, ranked.",
+      "pose": "pulldown"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "start at the top.",
+      "rows": [
+        [
+          "S",
+          [
+            "add reps before weight"
+          ]
+        ],
+        [
+          "A",
+          [
+            "rest a full 2–3 min"
+          ]
+        ],
+        [
+          "A",
+          [
+            "full stretch every rep"
+          ]
+        ],
+        [
+          "F",
+          [
+            "a new exercise every week"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "add reps before weight",
+      "works": "breaks the plateau",
+      "lines": [
+        "same weight until you own 8 reps.",
+        "then go up. back to 4–5."
+      ],
+      "pose": "pulldown"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "rest a full 2–3 min",
+      "works": "set 2 strength",
+      "lines": [
+        "rushing the rest kills set 2.",
+        "time it."
+      ],
+      "pose": "single-arm-row"
+    },
+    {
+      "type": "tier",
+      "tier": "F",
+      "name": "a new exercise every week",
+      "tag": "verdict: wrong",
+      "lines": [
+        "you never stay long enough",
+        "to beat a number."
+      ],
+      "pose": "pull-up",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

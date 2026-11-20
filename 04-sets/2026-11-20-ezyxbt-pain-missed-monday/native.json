@@ -1,0 +1,83 @@
+{
+  "set_id": "2026-11-20-ezyxbt-pain-missed-monday",
+  "status": "draft, awaiting approval",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "format": "native-text tip slideshow",
+  "topic_source": "rule 4 pain cover; EARND scheduling rule (move sessions, never skip the week)",
+  "pain_cover": true,
+  "caption": "missed monday so the whole week's gone? no. here's what to do instead. #gymtips #gymtok #consistency #upperlower #gymmotivation",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b17-01.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "missed monday. so you skip the whole week?",
+      "sub": "(that's how 3 weeks off starts)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b11-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "do this instead",
+      "lines": [
+        "missed monday → train tuesday",
+        "missed two days → push the week on",
+        "never wait for 'next monday'"
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b15-01.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "why",
+      "lines": [],
+      "text": "one missed day costs nothing. a skipped week costs a week."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b12-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip: move the session",
+      "text": "drag it to the next free day. all 4 still get done.",
+      "shot": "01-app/assets/demo-move-session.png",
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b9-08.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for next monday.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

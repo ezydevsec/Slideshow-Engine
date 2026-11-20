@@ -1,0 +1,59 @@
+{
+ "video": "rest-longer.mp4",
+ "music": "audio/music.mp3",
+ "music_db": -9,
+ "duck_db": -10,
+ "music_fade": [
+  20.6,
+  22.0
+ ],
+ "voice": "voice/narration.wav",
+ "voice_db": 0,
+ "sfx": [
+  {
+   "t": 0.7,
+   "type": "ding",
+   "db": -13
+  },
+  {
+   "t": 3.9,
+   "type": "whoosh",
+   "db": -13
+  },
+  {
+   "t": 4.1,
+   "type": "ding",
+   "db": -13
+  },
+  {
+   "t": 7.9,
+   "type": "whoosh",
+   "db": -13
+  },
+  {
+   "t": 8.1,
+   "type": "ding",
+   "db": -13
+  },
+  {
+   "t": 11.9,
+   "type": "whoosh",
+   "db": -13
+  },
+  {
+   "t": 12.1,
+   "type": "ding",
+   "db": -13
+  },
+  {
+   "t": 15.95,
+   "type": "boom",
+   "db": -9
+  },
+  {
+   "t": 19.0,
+   "type": "whoosh",
+   "db": -13
+  }
+ ]
+}

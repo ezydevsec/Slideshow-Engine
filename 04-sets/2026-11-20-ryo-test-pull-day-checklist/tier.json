@@ -1,0 +1,113 @@
+{
+  "set_id": "2026-11-20-ryo-test-pull-day-checklist",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "new_format_test": "checklist ✓ / ✗ (Watch: harleyalexander.fit 'Leg day checklist' 310K)",
+  "topic_source": "EARND's pull exercises and rules (2 hard sets, 4–8 reps); our opinion",
+  "pain_cover": false,
+  "caption": "ryo's pull day checklist. how many boxes do you tick? 👇 #backday #pullday #gymtok #gymtips #hypertrophy",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "pull day checklist.",
+        "tick every box."
+      ],
+      "sub": "how many do you actually do?",
+      "pose": "pulldown"
+    },
+    {
+      "type": "list",
+      "title": "the checklist",
+      "sub": "✓ do it. ✗ stop it.",
+      "rows": [
+        [
+          "✓",
+          [
+            "pulldown first, while you're fresh"
+          ]
+        ],
+        [
+          "✓",
+          [
+            "a row with your chest supported"
+          ]
+        ],
+        [
+          "✓",
+          [
+            "2 hard sets each, 4–8 reps"
+          ]
+        ],
+        [
+          "✓",
+          [
+            "write the weight down"
+          ]
+        ],
+        [
+          "✗",
+          [
+            "swinging the whole stack"
+          ]
+        ],
+        [
+          "✗",
+          [
+            "8 sets of curls"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "✓",
+      "name": "pulldown first",
+      "works": "lats",
+      "lines": [
+        "your heaviest pull while you're fresh.",
+        "full stretch at the top."
+      ],
+      "pose": "pulldown"
+    },
+    {
+      "type": "tier",
+      "tier": "✓",
+      "name": "supported row",
+      "works": "upper back + lats",
+      "lines": [
+        "chest on the pad, or one arm on a bench.",
+        "no lower back fighting you."
+      ],
+      "pose": "single-arm-row"
+    },
+    {
+      "type": "tier",
+      "tier": "✗",
+      "name": "swinging the stack",
+      "tag": "verdict: stop it",
+      "lines": [
+        "if your body moves more than the bar,",
+        "the weight is too heavy."
+      ],
+      "pose": "straight-arm-pulldown"
+    },
+    {
+      "type": "tier",
+      "tier": "✓",
+      "name": "write it down",
+      "works": "next session",
+      "lines": [
+        "same weight, one more rep next time.",
+        "at 8, add weight."
+      ],
+      "pose": "pull-up",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

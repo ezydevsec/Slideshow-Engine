@@ -1,0 +1,144 @@
+{
+  "set_id": "2026-11-20-earndapp-split-ranking-remake-9",
+  "status": "draft, awaiting approval",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "length_test": "9 slides (pair: 2026-11-20-earndapp-pick1-after-a-set-5-pain, 5 slides)",
+  "winner_remake": "split ranking (1,864 views) remake #2, new angle: how often each muscle gets trained",
+  "topic_source": "winner remake (rule 1); EARND's 4-day upper/lower; Paul Carter 20 Oct frequency post (2–3×/week)",
+  "pain_cover": false,
+  "caption": "every gym split ranked by how often each muscle actually gets trained. where's yours? 👇 #gymsplit #upperlower #pushpulllegs #gymtips #workoutplan",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "every split, ranked",
+          false
+        ],
+        [
+          "by how often",
+          true
+        ],
+        [
+          "you hit each muscle",
+          false
+        ]
+      ],
+      "sub": "(worst → best)",
+      "pose": "thinking"
+    },
+    {
+      "type": "structure",
+      "title": "the ranking",
+      "sub": "worst → best.",
+      "items": [
+        "6. bro split: 1× a week",
+        "5. arnold: 2×, but 6 days",
+        "4. PPL ×2: 2×, but 6 days",
+        "3. full body: 3×, long sessions",
+        "2. PPL + upper/lower: 2×, 5 days",
+        "1. upper/lower: 2×, only 4 days"
+      ],
+      "note": "2× a week is the sweet spot."
+    },
+    {
+      "type": "structure",
+      "title": "6 · bro split",
+      "sub": "each muscle: 1× a week.",
+      "items": [
+        "mon: chest",
+        "tue: back",
+        "wed: shoulders",
+        "thu: arms",
+        "fri: legs"
+      ],
+      "note": "a whole week between hits."
+    },
+    {
+      "type": "structure",
+      "title": "5 · arnold",
+      "sub": "each muscle: 2× a week.",
+      "items": [
+        "chest + back",
+        "shoulders + arms",
+        "legs",
+        "…then all again"
+      ],
+      "note": "6 days. hard to keep up."
+    },
+    {
+      "type": "structure",
+      "title": "4 · PPL ×2",
+      "sub": "each muscle: 2× a week.",
+      "items": [
+        "push · pull · legs",
+        "push · pull · legs"
+      ],
+      "note": "6 sessions. one bad week and it falls apart."
+    },
+    {
+      "type": "structure",
+      "title": "3 · full body",
+      "sub": "each muscle: 3× a week.",
+      "items": [
+        "mon: everything",
+        "wed: everything",
+        "fri: everything"
+      ],
+      "note": "great frequency. long, tiring sessions."
+    },
+    {
+      "type": "structure",
+      "title": "2 · PPL + upper/lower",
+      "sub": "each muscle: 2× a week.",
+      "items": [
+        "push · pull · legs",
+        "upper · lower"
+      ],
+      "note": "5 days. great if you can."
+    },
+    {
+      "type": "structure",
+      "title": "1 · upper/lower",
+      "sub": "each muscle: 2× a week.",
+      "items": [
+        "mon: upper",
+        "tue: lower",
+        "thu: upper",
+        "fri: lower"
+      ],
+      "note": "4 sessions. miss one? move it."
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND is a",
+          false
+        ],
+        [
+          "4-day upper/lower",
+          true
+        ],
+        [
+          "laid out for you",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/train-week-overview.png",
+      "crop": [
+        0,
+        0.05,
+        1,
+        0.76
+      ],
+      "example": false,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ]
+}

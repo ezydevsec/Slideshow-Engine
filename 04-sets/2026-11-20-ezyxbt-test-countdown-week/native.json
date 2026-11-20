@@ -1,0 +1,87 @@
+{
+  "set_id": "2026-11-20-ezyxbt-test-countdown-week",
+  "status": "draft, awaiting approval",
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "format": "native-text tip slideshow",
+  "new_format_test": "countdown series, part 1 (Watch: yurileeeee 'turning 40 in 3 months, part 2' 624K, skincare)",
+  "topic_source": "scan 11-20 (countdown series); EARND's real programme; launch end of November",
+  "pain_cover": false,
+  "caption": "launch countdown, part 1: my exact week. part 2 tomorrow: my exact upper day. #gymtok #upperlower #gymroutine #buildinpublic #gymtips",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b16-03.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "EARND launch countdown. part 1: my exact week",
+      "sub": "(launches end of this month)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b13-01.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "my week",
+      "lines": [
+        "mon: upper A",
+        "tue: lower A",
+        "wed: rest",
+        "thu: upper B",
+        "fri: lower B",
+        "weekend: rest"
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b15-02.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "every session",
+      "lines": [],
+      "text": "5–6 exercises. 2 hard sets each. 4–8 reps. about 45 minutes."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b9-07.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip: move it, don't skip it",
+      "text": "busy day? the session moves. the week still gets done.",
+      "shot": "01-app/assets/train-week-overview.png",
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b12-04.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "part 2 tomorrow: my exact upper day.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

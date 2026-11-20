@@ -17,7 +17,7 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "..", ".."))
 W, H = 1080, 1350; AMB = (255, 150, 30); INK = (20, 20, 22)
 BL = "/usr/share/fonts/opentype/inter/Inter-Black.otf"; BO = "/usr/share/fonts/opentype/inter/Inter-Bold.otf"
-TC = {'S': (255, 150, 30), 'A': (255, 196, 120), 'B': (235, 225, 210), 'C': (225, 225, 228), 'D': (215, 215, 218), 'F': (205, 205, 208)}
+TC = {'S': (255, 150, 30), 'A': (255, 196, 120), 'B': (235, 225, 210), 'C': (225, 225, 228), 'D': (215, 215, 218), 'F': (205, 205, 208), '✗': (205, 205, 208)}
 F = ImageFont.truetype
 
 
