@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-21-ezyxbt-test-countdown-upper-day
 
-**Status: draft, awaiting approval. Post Sat 21 Nov, 15:20 UK.** Format: native-text tip slideshow.
+**Status: approved (founder 11-20), scheduled in Postiz (06-queue/postiz-2026-11-21.md). Post Sat 21 Nov, 15:20 UK.** Format: native-text tip slideshow.
 
 - **Account:** @ezyxbt
 - **Upload:** slide-01.jpg … slide-05.jpg (1080×1920)

@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-21-ezyxbt-oneliner-the-number
 
-**Status: draft, awaiting approval. Post Sat 21 Nov, 23:20 UK.** Format: oneliner-photo.
+**Status: approved (founder 11-20), scheduled in Postiz (06-queue/postiz-2026-11-21.md). Post Sat 21 Nov, 23:20 UK.** Format: oneliner-photo.
 
 - **Account:** @ezyxbt
 - **Upload:** slide-01.jpg (1080×1920)

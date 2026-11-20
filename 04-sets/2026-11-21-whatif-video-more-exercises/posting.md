@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-21-whatif-video-more-exercises
 
-**Status: draft, awaiting approval. Post Sat 21 Nov, 19:30 UK.** Format: what-if escalation video (Explainer 3D, Higgsfield, narrated).
+**Status: approved (founder 11-20), scheduled in Postiz (06-queue/postiz-2026-11-21.md). Post Sat 21 Nov, 19:30 UK.** Format: what-if escalation video (Explainer 3D, Higgsfield, narrated).
 
 - **Account:** @whatif.overload
 - **Upload:** more-exercises.mp4 (1080×1920, 27.5 s, sound + narrator baked in)

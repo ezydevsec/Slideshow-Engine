@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-21-ryo-sore-legs-pain
 
-**Status: draft, awaiting approval. Post Sat 21 Nov, 23:40 UK.** Format: bluebro-style tier list (white, gritty anime Ryo).
+**Status: approved (founder 11-20), scheduled in Postiz (06-queue/postiz-2026-11-21.md). Post Sat 21 Nov, 23:40 UK.** Format: bluebro-style tier list (white, gritty anime Ryo).
 
 - **Account:** @earnie.lifts (Ryo)
 - **Upload:** slide-01.jpg … slide-06.jpg (1080×1350)

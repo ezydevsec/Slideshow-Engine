@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-21-earndapp-pick1-6-numbers-9
 
-**Status: draft, awaiting approval. Post Sat 21 Nov, 19:00 UK.** Format: pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026).
+**Status: approved (founder 11-20), scheduled in Postiz (06-queue/postiz-2026-11-21.md). Post Sat 21 Nov, 19:00 UK.** Format: pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026).
 
 - **Account:** @earndapp
 - **Upload:** slide-01.jpg … slide-09.jpg (1080×1350)
