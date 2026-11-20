@@ -84,6 +84,8 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 11-11 | @earnie.lifts | first-week story slideshow + ironic 'overload is a scam' story | |
 
 
+| Labelled-concept stickman story (figures labelled TALENT / LUCK / EGO / MOTIVATION) | founder link 11-20: @x.user184 3.2M / 48.6K saves; @focus.habits 4.2M; @neuronvisuals | **passed the gate 11-20** (3 accounts) | @quiet.reps4, Minimal Line |
+
 ## Watch (single-account outliers, not yet validated)
 | Format | Source | Accounts seen | Next check |
 |---|---|---|---|
