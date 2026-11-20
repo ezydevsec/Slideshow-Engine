@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-20-earndapp-video-study-light-vs-heavy-hf
 
-**Status: draft, waiting for approval.** Format: study race A vs B.
+**Status: approved (founder 11-20). Post manually on Fri 20 Nov, 17:00 UK.** Format: study race A vs B.
 
 - **Account:** @earndapp (TikTok, + Instagram once the IG account exists)
 - **Upload:** `light-vs-heavy.mp4` (1080×1920)

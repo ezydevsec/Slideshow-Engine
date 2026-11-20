@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-20-ezyxbt-oneliner-next-monday
 
-**Status: draft, waiting for approval.** Format: oneliner-photo.
+**Status: approved (founder 11-20). Post manually on Fri 20 Nov, 23:20 UK.** Format: oneliner-photo.
 
 - **Account:** @ezyxbt (TikTok)
 - **Upload:** `slide-01.jpg` (1080×1920)

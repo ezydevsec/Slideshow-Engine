@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-20-earndapp-split-ranking-remake-9
 
-**Status: draft, waiting for approval.** Format: pick-1-per-slide slideshow.
+**Status: approved (founder 11-20). Post manually on Fri 20 Nov, 20:00 UK.** Format: pick-1-per-slide slideshow.
 
 - **Account:** @earndapp (TikTok, + Instagram once the IG account exists)
 - **Upload:** `slide-01.jpg` … `slide-09.jpg` (1080×1350)

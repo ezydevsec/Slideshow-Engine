@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-20-ryo-pulldown-stuck-pain
 
-**Status: draft, waiting for approval.** Format: bluebro-style tier list.
+**Status: approved (founder 11-20). Post manually on Fri 20 Nov, 23:40 UK.** Format: bluebro-style tier list.
 
 - **Account:** @earnie.lifts (TikTok, + Instagram once the IG account exists)
 - **Upload:** `slide-01.jpg` … `slide-05.jpg` (1080×1350)

@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-20-whatif-video-rest-longer
 
-**Status: draft, waiting for approval.** Format: what-if escalation video.
+**Status: approved (founder 11-20). Post manually on Fri 20 Nov, 19:30 UK.** Format: what-if escalation video.
 
 - **Account:** @whatif.overload (TikTok, + Instagram once the IG account exists)
 - **Upload:** `rest-longer.mp4` (1080×1920)

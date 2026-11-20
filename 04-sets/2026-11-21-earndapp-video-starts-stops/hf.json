@@ -1,0 +1,259 @@
+{
+ "set_id": "2026-11-21-earndapp-video-starts-stops",
+ "account": "@earndapp",
+ "account_type": "brand",
+ "format": "A vs B mannequin comparison (founder link 11-20: @smarterchoicevs 1.2M), Higgsfield 3D",
+ "status": "draft, awaiting approval",
+ "topic_source": "founder link 11-20 (@smarterchoicevs 'same $200 a month'); EARND's 4 sessions a week; illustration, numbers labelled example",
+ "accent": [
+  198,
+  255,
+  0
+ ],
+ "out": "starts-stops.mp4",
+ "endcard": [
+  "EARND launches soon.",
+  "follow for the launch."
+ ],
+ "ai_images": true,
+ "ai_note": "start frames Higgsfield Nano Banana, motion Kling 3.0 pro: AI label ON",
+ "caption": "same plan. one starts now and quits at month 3. the other starts late and never stops. are you the left or the right? 👇 #gymtok #consistency #gymtips #upperlower #gymmotivation",
+ "segments": [
+  {
+   "dur": 6,
+   "clips": [
+    "hf/a.mp4"
+   ]
+  },
+  {
+   "dur": 7,
+   "clips": [
+    "hf/b.mp4"
+   ]
+  },
+  {
+   "dur": 3,
+   "image": "../../01-app/assets/train-week-overview.png",
+   "height": 1400,
+   "y": 380
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.2,
+   "t1": 11.2,
+   "text": "4 SESSIONS A WEEK",
+   "x": 540,
+   "y": 110,
+   "size": 56,
+   "color": "white"
+  },
+  {
+   "t0": 0.3,
+   "t1": 6,
+   "text": "MONTH {n}",
+   "x": 540,
+   "y": 190,
+   "size": 40,
+   "color": "grey",
+   "n0": 1,
+   "step": 1,
+   "rate": 0.4,
+   "max": 2
+  },
+  {
+   "t0": 6,
+   "t1": 11.2,
+   "text": "MONTH {n}",
+   "x": 540,
+   "y": 190,
+   "size": 40,
+   "color": "grey",
+   "n0": 4,
+   "step": 1,
+   "rate": 1.65,
+   "max": 8
+  },
+  {
+   "t0": 0.3,
+   "t1": 6,
+   "text": "STARTS NOW",
+   "x": 315,
+   "y": 1700,
+   "size": 34,
+   "color": [
+    110,
+    190,
+    255
+   ]
+  },
+  {
+   "t0": 0.3,
+   "t1": 6,
+   "text": "STOPS AT MONTH 3",
+   "x": 315,
+   "y": 1750,
+   "size": 26,
+   "color": "white"
+  },
+  {
+   "t0": 0.3,
+   "t1": 6,
+   "text": "STARTS AT MONTH 3",
+   "x": 785,
+   "y": 1700,
+   "size": 34,
+   "color": [
+    198,
+    255,
+    0
+   ]
+  },
+  {
+   "t0": 0.3,
+   "t1": 6,
+   "text": "NEVER STOPS",
+   "x": 785,
+   "y": 1750,
+   "size": 26,
+   "color": "white"
+  },
+  {
+   "t0": 0.3,
+   "t1": 6,
+   "text": "{n} SESSIONS",
+   "x": 315,
+   "y": 600,
+   "size": 44,
+   "color": [
+    110,
+    190,
+    255
+   ],
+   "n0": 0,
+   "step": 1,
+   "rate": 8.8,
+   "max": 48
+  },
+  {
+   "t0": 0.3,
+   "t1": 6,
+   "text": "0 SESSIONS",
+   "x": 785,
+   "y": 600,
+   "size": 44,
+   "color": "grey"
+  },
+  {
+   "t0": 6,
+   "t1": 13,
+   "text": "STOPPED AT MONTH 3",
+   "x": 250,
+   "y": 1410,
+   "size": 34,
+   "color": [
+    110,
+    190,
+    255
+   ],
+   "box": true
+  },
+  {
+   "t0": 6,
+   "t1": 13,
+   "text": "NEVER STOPS",
+   "x": 795,
+   "y": 1410,
+   "size": 34,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "box": true
+  },
+  {
+   "t0": 6,
+   "t1": 13,
+   "text": "48 SESSIONS",
+   "x": 250,
+   "y": 880,
+   "size": 44,
+   "color": [
+    110,
+    190,
+    255
+   ]
+  },
+  {
+   "t0": 6.2,
+   "t1": 13,
+   "text": "{n} SESSIONS",
+   "x": 795,
+   "y": 540,
+   "size": 44,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "n0": 0,
+   "step": 1,
+   "rate": 24,
+   "max": 144
+  },
+  {
+   "t0": 0.3,
+   "t1": 13,
+   "text": "sessions: example",
+   "x": 900,
+   "y": 1870,
+   "size": 22,
+   "color": "grey"
+  },
+  {
+   "t0": 11.2,
+   "t1": 13,
+   "text": "SAME PLAN.",
+   "x": 540,
+   "y": 110,
+   "size": 60,
+   "color": "white"
+  },
+  {
+   "t0": 11.7,
+   "t1": 13,
+   "text": "ONLY ONE NEVER STOPPED.",
+   "x": 540,
+   "y": 195,
+   "size": 52,
+   "color": [
+    198,
+    255,
+    0
+   ]
+  },
+  {
+   "t0": 13.1,
+   "t1": 16,
+   "text": "EARND counts every session.",
+   "x": 540,
+   "y": 170,
+   "size": 44,
+   "color": "white"
+  },
+  {
+   "t0": 13.5,
+   "t1": 16,
+   "text": "so you can see it add up.",
+   "x": 540,
+   "y": 240,
+   "size": 40,
+   "color": [
+    198,
+    255,
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "set_id": "2026-11-21-quietreps-video-line-showed-up",
+ "account": "@quiet.reps4",
+ "account_type": "theme",
+ "format": "labelled-concept stickman story in Minimal Line (founder link 11-20: @x.user184 3.2M), Higgsfield",
+ "status": "draft, awaiting approval",
+ "topic_source": "founder link 11-20 (@x.user184 classroom: TALENT / LUCK labels); passes the gate with @focus.habits + @neuronvisuals",
+ "accent": [
+  255,
+  196,
+  120
+ ],
+ "out": "showed-up.mp4",
+ "endcard": [
+  "this page is made by EARND,",
+  "our gym app. follow @earndapp"
+ ],
+ "ai_images": true,
+ "ai_note": "Minimal Line: start frame Higgsfield Nano Banana, motion Kling 3.0 pro: AI label ON",
+ "caption": "4 lifters, same plan. by week 12 only one was still there. which one are you? 👇 #gymtok #discipline #consistency #gymmotivation #winterarc",
+ "segments": [
+  {
+   "dur": 12,
+   "clips": [
+    "hf/clip.mp4"
+   ]
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.3,
+   "t1": 10.2,
+   "text": "WEEK {n}",
+   "x": 540,
+   "y": 120,
+   "size": 60,
+   "color": "white",
+   "n0": 1,
+   "step": 1,
+   "rate": 1.12,
+   "max": 11
+  },
+  {
+   "t0": 0.6,
+   "t1": 5.4,
+   "text": "4 lifters. same plan.",
+   "x": 540,
+   "y": 215,
+   "size": 38,
+   "color": "grey"
+  },
+  {
+   "t0": 0.5,
+   "t1": 5.5,
+   "text": "MOTIVATION",
+   "x": 450,
+   "y": 585,
+   "size": 32,
+   "color": "grey",
+   "box": true
+  },
+  {
+   "t0": 0.5,
+   "t1": 7.5,
+   "text": "TALENT",
+   "x": 150,
+   "y": 585,
+   "size": 32,
+   "color": "grey",
+   "box": true
+  },
+  {
+   "t0": 0.5,
+   "t1": 9.0,
+   "text": "GENETICS",
+   "x": 890,
+   "y": 585,
+   "size": 32,
+   "color": "grey",
+   "box": true
+  },
+  {
+   "t0": 0.6,
+   "t1": 12,
+   "text": "SHOWED UP",
+   "x": 540,
+   "y": 1720,
+   "size": 40,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 5.5,
+   "t1": 7.5,
+   "text": "motivation left first.",
+   "x": 540,
+   "y": 215,
+   "size": 38,
+   "color": "grey"
+  },
+  {
+   "t0": 7.5,
+   "t1": 9.0,
+   "text": "then talent.",
+   "x": 540,
+   "y": 215,
+   "size": 38,
+   "color": "grey"
+  },
+  {
+   "t0": 9.0,
+   "t1": 10.2,
+   "text": "then genetics.",
+   "x": 540,
+   "y": 215,
+   "size": 38,
+   "color": "grey"
+  },
+  {
+   "t0": 10.2,
+   "t1": 12,
+   "text": "WEEK 12.",
+   "x": 540,
+   "y": 120,
+   "size": 60,
+   "color": "white"
+  },
+  {
+   "t0": 10.4,
+   "t1": 12,
+   "text": "showing up is the one that stays.",
+   "x": 540,
+   "y": 215,
+   "size": 40,
+   "color": "acc"
+  }
+ ]
+}

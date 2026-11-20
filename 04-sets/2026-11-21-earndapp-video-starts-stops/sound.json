@@ -1,0 +1,44 @@
+{
+ "video": "starts-stops.mp4",
+ "music": "audio/music.mp3",
+ "music_db": -3,
+ "music_curve": [
+  [
+   0,
+   -1
+  ],
+  [
+   13,
+   0
+  ],
+  [
+   16,
+   -3
+  ],
+  [
+   19,
+   -6
+  ]
+ ],
+ "music_fade": [
+  17.8,
+  19.0
+ ],
+ "sfx": [
+  {
+   "t": 6.0,
+   "type": "hit",
+   "db": -8
+  },
+  {
+   "t": 11.2,
+   "type": "boom",
+   "db": -6
+  },
+  {
+   "t": 12.9,
+   "type": "whoosh",
+   "db": -12
+  }
+ ]
+}

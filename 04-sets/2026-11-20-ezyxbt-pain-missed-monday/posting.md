@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-20-ezyxbt-pain-missed-monday
 
-**Status: draft, waiting for approval.** Format: native-text tip slideshow.
+**Status: approved (founder 11-20). Post manually on Fri 20 Nov, 20:20 UK.** Format: native-text tip slideshow.
 
 - **Account:** @ezyxbt (TikTok)
 - **Upload:** `slide-01.jpg` … `slide-05.jpg` (1080×1920)
