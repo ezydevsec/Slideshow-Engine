@@ -19,7 +19,7 @@ daily_batch_size: 15  # founder 2026-11-14: @earndapp 3 (1 video + 2 slideshows)
 winner_variation_share: 0.6
 trend_communities: [r/naturalbodybuilding, r/StrongerByScience, r/GYM]
 trend_scan: daily, 03:40 London (founder, 2026-11-17, so it is done before drafts at ~04:40; was 04:30, 00:00, 07:47), trend file refreshed every day (founder, 2026-11-06; replaces the weekly scan). No sound bank since 2026-11-19 (founder).
-stats_pull: weekly, Sunday morning (founder, 2026-11-01).
+stats_pull: weekly, Sunday 08:36 London (founder, 2026-11-01; scheduled task set up 2026-11-20: Postiz post + channel analytics, Apify for hand-made posts, writes 07-results/performance.csv and 07-results/stats-DATE.md).
 banned_words: []
 default_app_slide: 4
 
