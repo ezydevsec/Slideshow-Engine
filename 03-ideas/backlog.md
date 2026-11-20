@@ -246,3 +246,16 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [x] Ryo | tier list | every hinge ranked (Paul 31 Oct, 204K) | built: 04-sets/2026-11-20-ryo-tier-every-hinge (Fri 17:40)
 - [ ] @earndapp | STUDY RACE (verified 11-19: Buonsenso 2025, PMID 40981044) | "upright vs leaning back: which works the lats harder?" catch: the same; the lean shifted a bit onto the rear delts. Say "muscle activity", not growth (EMG only) | next study-race day (Sat 22 Nov)
 - [ ] @earndapp | STUDY RACE (frequency, partly verified) | "2× vs 3× a week, same sets" (Paul 20 Oct, 157K) | after the pulldown race
+
+## Daily scan 2026-11-20 (trend file: 02-research/trends/2026-11-20.md)
+- [x] @earndapp | STUDY RACE (verified: Schoenfeld 2017) | light vs heavy (built, 17:00)
+- [ ] @earndapp | PICK-1, 9 slides, WINNER REMAKE (rule 1) | every split ranked, worst to best
+- [ ] @earndapp | PICK-1, 5 slides + PAIN | "you finish a set and have no idea what to do next" → beat it by 1 rep; at 8, add weight
+- [x] Ryo | tier | every hinge ranked (built, 17:40)
+- [ ] Ryo | NEW FORMAT TEST | pull day checklist (✓ / ✗)
+- [ ] Ryo | PAIN COVER | "your pulldown has been stuck for a month" → fixes ranked
+- [ ] @ezyxbt | NEW FORMAT TEST | "EARND launches in 10 days. part 1: my exact week" (countdown series)
+- [ ] @ezyxbt | PAIN COVER | "you finish a set and guess what to do next"
+- [ ] @ezyxbt | one-liner
+- [x] @quiet.reps4 | follow-blindly (built, 18:30)
+- [ ] @whatif.overload | Dale, Explainer 3D, narrated | "What if Dale rested longer between every set?" (real life: 2–3 min, Schoenfeld 2016)

@@ -100,6 +100,9 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | "Advice I'd give myself N years ago" (dating) → @ezyxbt "gym advice i'd give myself 4 years ago" | scan 11-17: spencer.barbosa 921K | 1 (other niche) | tested on @ezyxbt 11-17 as its daily test |
 | "How to invest your first $1,000, step by step" (finance) → "your first 12 weeks in the gym, step by step" | scan 11-18: morgan.on.money 2.6M / 210K saves | 1 (other niche) | @ezyxbt test candidate |
 | "By the end of this you'll know exactly how to get to X" (finance) | scan 11-18: financial.literac83 341K | 1 (other niche) | 2 more accounts |
+| Countdown series ("turning 40 in 3 months, part 2: my exact routine") → @ezyxbt "EARND launches in 10 days, part 1: my exact week" | scan 11-20: yurileeeee 624K (skincare) | 1 (other niche) | @ezyxbt test 11-20 |
+| Checklist (✓ / ✗ per item) | scan 11-20: harleyalexander.fit "Leg day checklist" 310K | 1 | Ryo test candidate |
+| "STOP guessing what to do after every set" series | scan 11-20: trstnn.lifts 141K / 88K / 393K | 1 | @earndapp pain cover |
 | "Here's my full split" | scan 11-18: getfitwfola 1.2M → 1.3M; scan 11-19: hussein.fht 87K (10-27) | 2 | 1 more account; Ryo test candidate ("Ryo's exact week") |
 
 ## Winner remakes (rule 1)
