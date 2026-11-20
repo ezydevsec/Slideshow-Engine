@@ -1,0 +1,97 @@
+{
+  "set_id": "2026-11-21-earndapp-pick1-too-many-sets-5-pain",
+  "status": "draft, awaiting approval",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure, Nov 2026)",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "length_test": "5 slides (pair: 2026-11-21-earndapp-pick1-6-numbers-9, 9 slides)",
+  "topic_source": "Paul Carter 'more sets' carousel (DfFjCUSlHl3); Krieger 2010 meta-analysis (PMID 20300012), verified 11-17",
+  "pain_cover": true,
+  "caption": "5 sets of everything and leaving wrecked? you might not need them. save it 👇 #gymtips #hypertrophy #progressiveoverload #gymtok #upperlower",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "5 sets of everything.",
+          false
+        ],
+        [
+          "2 hours in the gym.",
+          false
+        ],
+        [
+          "wrecked for days?",
+          true
+        ]
+      ],
+      "sub": "(you might not need them)",
+      "pose": "thinking"
+    },
+    {
+      "type": "structure",
+      "title": "the answer",
+      "sub": "a 2010 meta-analysis of 8 studies (Krieger):",
+      "items": [
+        "1 set: the smallest gains",
+        "2–3 sets: clearly better",
+        "4–6 sets: not clearly better than 2–3"
+      ],
+      "note": "2–3 hard sets per exercise is plenty."
+    },
+    {
+      "type": "structure",
+      "title": "so do this",
+      "sub": "fewer sets. harder sets.",
+      "items": [
+        "2 hard sets per exercise",
+        "4–8 reps, 1–2 left in the tank",
+        "2+ min rest between them"
+      ],
+      "note": "shorter sessions you can keep up."
+    },
+    {
+      "type": "pick",
+      "n": 1,
+      "muscle": "try it today",
+      "sets": "2 × 4–8",
+      "anatomy": "quads",
+      "options": [
+        [
+          "hack squat",
+          "hack-squat"
+        ]
+      ],
+      "note": "last: 100 kg × 8 → today: 105 kg (example)"
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND gives you",
+          false
+        ],
+        [
+          "2 sets per exercise",
+          true
+        ],
+        [
+          "and a target for each",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0,
+        0.1,
+        1,
+        0.72
+      ],
+      "example": true,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ]
+}

@@ -8,6 +8,6 @@
 - **AI-generated content label:** **ON**
 - **Sound:** baked in (our own generated slowed-phonk bed, loud the whole way like the original, one hit when he stops, a boom on the payoff). Post it as is.
 - **Before posting:** no download link (prelaunch). Text is baked in: add nothing in TikTok's editor. App screen is real (`train-week-overview.png`).
-- **Post at:** Sat 21 Nov, 17:00 (UK time; target UK/US).
+- **Post at:** Sat 21 Nov, 15:00 (UK time; target UK/US; posts 4 h apart from 21 Nov).
 - **What's ours / changed:** our mannequins, wording and gym story (sessions instead of money); session counts labelled "example"; no physique promise; real EARND screen at the end.
 - **Test:** **new-format test**: A vs B "starts early, stops vs starts late, never stops" (founder link 11-20). Note the result at Sunday's review.

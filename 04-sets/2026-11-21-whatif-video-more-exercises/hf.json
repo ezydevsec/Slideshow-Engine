@@ -1,0 +1,185 @@
+{
+ "set_id": "2026-11-21-whatif-video-more-exercises",
+ "account": "@whatif.overload",
+ "account_type": "theme",
+ "format": "what-if escalation video (Explainer 3D, Higgsfield, narrated)",
+ "topic_source": "joke escalation; real-life rule = 2 hard sets per exercise, a short list (EARND's rule; Krieger 2010 meta-analysis, verified 11-17: 4–6 sets not clearly better than 2–3)",
+ "status": "draft, awaiting approval",
+ "accent": [
+  255,
+  90,
+  80
+ ],
+ "out": "more-exercises.mp4",
+ "endcard": [
+  "this page is made by EARND,",
+  "our gym app. follow @earndapp"
+ ],
+ "ai_images": true,
+ "ai_note": "start frames Higgsfield Nano Banana, motion Kling 3.0 pro, narrator ElevenLabs v4: AI label ON",
+ "caption": "dale added one exercise every session. now he's spending christmas at the gym 🎄 #gymhumor #gymtok #whatif #gymmemes #workoutplan",
+ "segments": [
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c1.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c2.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c3.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c4.mp4"
+   ]
+  },
+  {
+   "dur": 4.5,
+   "image": "hf/card.png",
+   "height": 1920,
+   "y": 0
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.2,
+   "t1": 5,
+   "text": "WHAT IF DALE ADDED",
+   "x": 540,
+   "y": 90,
+   "size": 56,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 0.2,
+   "t1": 5,
+   "text": "1 EXERCISE A SESSION?",
+   "x": 540,
+   "y": 190,
+   "size": 56,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 0.6,
+   "t1": 5,
+   "text": "EXERCISES: 6",
+   "x": 540,
+   "y": 320,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 1.0,
+   "t1": 5,
+   "text": "45 minutes. nice.",
+   "x": 540,
+   "y": 420,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 5,
+   "t1": 10,
+   "text": "EXERCISES: 20",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 5.4,
+   "t1": 10,
+   "text": "3 hours in.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 10,
+   "t1": 15,
+   "text": "EXERCISES: 60",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 10.4,
+   "t1": 15,
+   "text": "the gym closed.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 15,
+   "t1": 20,
+   "text": "EXERCISES: 200",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 15.4,
+   "t1": 20,
+   "text": "he missed christmas.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 20.1,
+   "t1": 24.5,
+   "text": "REAL LIFE:",
+   "x": 540,
+   "y": 720,
+   "size": 64,
+   "color": "acc",
+   "box": false
+  },
+  {
+   "t0": 20.5,
+   "t1": 24.5,
+   "text": "6 exercises.",
+   "x": 540,
+   "y": 830,
+   "size": 50,
+   "color": "white",
+   "box": false
+  },
+  {
+   "t0": 21.0,
+   "t1": 24.5,
+   "text": "2 hard sets each. go home.",
+   "x": 540,
+   "y": 910,
+   "size": 50,
+   "color": "white",
+   "box": false
+  }
+ ]
+}

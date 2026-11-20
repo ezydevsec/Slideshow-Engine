@@ -1,7 +1,7 @@
 # 2026-11-21-ryo-pack-part-1 — posting pack
 
 - **Account:** @earnie.lifts (Ryo), TikTok photo mode
-- **Date / time:** 2026-11-21, 17:40 UK (Ryo's first slot; this is the day's new-format test)
+- **Date / time:** 2026-11-21, 15:40 UK (Ryo's first slot; moved from 17:40 when posts went 4 h apart, founder 11-20; this is the day's new-format test)
 - **Format:** slideshow photos you may be looking for (pack, part 1) — new-format test, log it as "photos-you-may-be-looking-for pack"
 - **Slides:** 10 in `final/preview/` (slide-01 … slide-10), in order
 - **Caption:** #gymslideshowideas #gymtok #slideshowideas #gymmotivation #discipline
@@ -13,6 +13,6 @@
 ## Scheduled
 
 - Postiz (channel "Ryo"), DIRECT_POST, public, comments on, autoAddMusic yes
-- Postiz post ID: `cmwp9582i065gp107xoy7l94e`
-- Preview: https://platform.postiz.com/p/cmwp9582i065gp107xoy7l94e?share=true
+- Postiz post ID: `cmwp9p7mj06ebp1074ab5iqfs`
+- Preview: https://platform.postiz.com/p/cmwp9p7mj06ebp1074ab5iqfs?share=true
 - Numbers: read with Postiz post analytics 7 days after posting

@@ -1,0 +1,100 @@
+{
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "set_id": "2026-11-21-ryo-sore-legs-pain",
+  "pain_cover": true,
+  "topic_source": "day-1 rule 4 (pain on slide 1); repeated-bout effect (soreness drops as the same session repeats); EARND's 2×/week lower days; ranking is our opinion",
+  "caption": "can't walk for 3 days after leg day? the fixes, ranked 👇 #legday #doms #gymtok #gymtips #beginnergym",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "can't walk for 3 days",
+        "after leg day?"
+      ],
+      "sub": "the fixes, ranked.",
+      "pose": "leg-press"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "start at the top.",
+      "rows": [
+        [
+          "S",
+          [
+            "train legs 2× a week"
+          ]
+        ],
+        [
+          "A",
+          [
+            "add sets slowly"
+          ]
+        ],
+        [
+          "B",
+          [
+            "walk it off"
+          ]
+        ],
+        [
+          "F",
+          [
+            "wait until it's gone"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "train legs 2× a week",
+      "works": "less soreness",
+      "lines": [
+        "the more often you repeat a session,",
+        "the less it wrecks you."
+      ],
+      "pose": "leg-press"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "add sets slowly",
+      "works": "no surprise volume",
+      "lines": [
+        "2 hard sets per exercise.",
+        "don't jump from 0 to 20."
+      ],
+      "pose": "split-squat"
+    },
+    {
+      "type": "tier",
+      "tier": "B",
+      "name": "walk it off",
+      "works": "feels better",
+      "lines": [
+        "an easy walk the next day.",
+        "it won't fix it. it helps."
+      ],
+      "pose": "walking-sore"
+    },
+    {
+      "type": "tier",
+      "tier": "F",
+      "name": "wait until it's gone",
+      "tag": "verdict: wrong",
+      "lines": [
+        "skip a week and the next",
+        "leg day wrecks you again."
+      ],
+      "pose": "couch-controller",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

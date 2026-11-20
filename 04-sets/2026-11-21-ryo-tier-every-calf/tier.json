@@ -1,0 +1,95 @@
+{
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "set_id": "2026-11-21-ryo-tier-every-calf",
+  "pain_cover": false,
+  "topic_source": "Paul Carter 'moves people skip' (DfNfNeJNnLf, 137K: straight-leg calf raises, long stretch pause); ranking is our opinion, our wording",
+  "caption": "every calf exercise, ranked. the bottom of the rep is where it happens 👇 #calves #legday #gymtok #gymtips #hypertrophy",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "every calf exercise,",
+        "ranked."
+      ],
+      "sub": "argue with me.",
+      "pose": "calf-raise"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "straight legs win.",
+      "rows": [
+        [
+          "S",
+          [
+            "standing calf raise",
+            "leg press calf press"
+          ]
+        ],
+        [
+          "B",
+          [
+            "seated calf raise"
+          ]
+        ],
+        [
+          "F",
+          [
+            "bouncing half reps"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "standing calf raise",
+      "works": "calves (straight leg)",
+      "lines": [
+        "all the way down. pause 2–3 s.",
+        "then all the way up."
+      ],
+      "pose": "calf-raise"
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "leg press calf press",
+      "works": "calves (straight leg)",
+      "lines": [
+        "easy to load heavy.",
+        "same deep stretch, same pause."
+      ],
+      "pose": "calf-press"
+    },
+    {
+      "type": "tier",
+      "tier": "B",
+      "name": "seated calf raise",
+      "works": "mostly the lower calf",
+      "lines": [
+        "bent knees take the big calf",
+        "muscle partly out of it."
+      ],
+      "pose": "seated-calf-raise"
+    },
+    {
+      "type": "tier",
+      "tier": "F",
+      "name": "bouncing half reps",
+      "tag": "verdict: skip",
+      "lines": [
+        "the tendon does the work.",
+        "the muscle barely does."
+      ],
+      "pose": "calf-press",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

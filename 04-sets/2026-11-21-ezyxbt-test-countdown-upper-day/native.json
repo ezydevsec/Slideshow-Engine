@@ -1,0 +1,87 @@
+{
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "status": "draft, awaiting approval",
+  "set_id": "2026-11-21-ezyxbt-test-countdown-upper-day",
+  "format": "native-text tip slideshow",
+  "new_format_test": "countdown series, part 2 (part 1 posted 11-20; Watch: yurileeeee countdown, skincare)",
+  "topic_source": "EARND programme Upper A (01-app/programme.md); launch end of November",
+  "pain_cover": false,
+  "caption": "launch countdown, part 2: my exact upper day. part 3 tomorrow: my exact lower day. #gymtok #upperbody #gymroutine #buildinpublic #upperlower",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b14-07.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "EARND launch countdown. part 2: my exact upper day",
+      "sub": "(6 exercises. about 45 minutes)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b10-01.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "upper A",
+      "lines": [
+        "machine chest press",
+        "pulldown",
+        "chest-supported row",
+        "lateral raise",
+        "preacher curl",
+        "pushdown"
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b12-05.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "every exercise",
+      "lines": [],
+      "text": "2 hard sets. 4–8 reps. 2–3 min rest. warm-ups don't count."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b14-06.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip: beat last time",
+      "text": "every set has a number to beat. hit 8 reps? add weight.",
+      "shot": "01-app/assets/exercise-target.png",
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b12-04.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "part 3 tomorrow: my exact lower day.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

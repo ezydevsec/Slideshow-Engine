@@ -1,0 +1,83 @@
+{
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "status": "draft, awaiting approval",
+  "set_id": "2026-11-21-ezyxbt-pain-last-week",
+  "format": "native-text tip slideshow",
+  "topic_source": "rule 4 pain cover; EARND's progression rule (beat last time, double progression 4–8)",
+  "pain_cover": true,
+  "caption": "can't remember what you lifted last week? then you're guessing every set. #gymtips #gymtok #progressiveoverload #upperlower #beginnergym",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b14-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "what did you bench last week? if you don't know, you're guessing.",
+      "sub": "(here's the fix)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b10-03.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "the fix",
+      "lines": [
+        "write down weight × reps",
+        "every working set",
+        "next time: beat one number"
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b10-02.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "why",
+      "lines": [],
+      "text": "you can't beat last week if you don't know what it was."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b12-06.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip: let the app remember",
+      "text": "last time's numbers show up on every set.",
+      "shot": "01-app/assets/exercise-target.png",
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b16-02.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "save this for your next session.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}
