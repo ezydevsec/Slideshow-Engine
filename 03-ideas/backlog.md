@@ -259,3 +259,13 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - [ ] @ezyxbt | one-liner
 - [x] @quiet.reps4 | follow-blindly (built, 18:30)
 - [ ] @whatif.overload | Dale, Explainer 3D, narrated | "What if Dale rested longer between every set?" (real life: 2–3 min, Schoenfeld 2016)
+
+## Daily scan 2026-11-21 (trend file: 02-research/trends/2026-11-21.md) — ideas for Sun 22 Nov
+- **@earndapp video (study-race day):** "heavy vs light: who's recovered tomorrow?" (Bartolomei 2017 + Farrow 2020 + Haun 2017, all verified). Higgsfield 3D, charcoal stage, catch: the light, high-rep side is still not recovered at 48–72 h.
+- **@earndapp slideshows (last day of the 9 vs 5 length test):** 9 slides "you're doing lat pulldowns wrong? 6 fixes" (gate-passed form-fix structure, pick-1; Paul 10-23 lean study PMID 40981044 verified); 5 slides pain cover "20 sets for chest and still stuck?" (Krieger 2010 verified; Marques 2025 verified for "strength follows size"; no Pelland number on screen).
+- **@ezyxbt:** countdown part 3 "my exact lower day" (promised in part 2's caption; Lower A from programme.md), **identity post** (rule 5, 2nd this week: "the guy who knows what he lifted last week"), one-liner.
+- **Ryo:** pack part 2 is already scheduled (15:40). Test: "ryo's exact week" (split reveal, newly gate-passed). Pain cover: "pulldown feels like arms, not back? the fixes, ranked" — check against 11-20's pulldown-stuck set first (dup_check), else "sore shoulders after push day? fixes, ranked".
+- **@quiet.reps4:** "go quiet for 12 weeks" (faceless one-line motivation, self-improvement structure; gold line figure training alone while the world scrolls).
+- **@whatif.overload:** "what if Dale tested his 1-rep max every session?" (real life: work sets of 4–8 and beat last time).
+- **Weekly stickman comparison** (rule): still due this week on @earndapp (its Sat video was the mannequin comparison, counts), Ryo and @ezyxbt (as a slideshow in their own look).
+- Winner remakes (rule 1): split ranking remake #3 can ride the "full split" structure on @earndapp next week.

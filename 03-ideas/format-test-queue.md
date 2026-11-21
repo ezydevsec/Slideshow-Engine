@@ -86,6 +86,9 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 
 | Labelled-concept stickman story (figures labelled TALENT / LUCK / EGO / MOTIVATION) | founder link 11-20: @x.user184 3.2M / 48.6K saves; @focus.habits 4.2M; @neuronvisuals | **passed the gate 11-20** (3 accounts) | @quiet.reps4, Minimal Line |
 
+| **Form fix, ❌ vs ✅ per exercise** (lat pulldown first) | scan 11-21: albertdorner 909K / 19K saves, wiilliamli 722K / 14.9K saves, trstnn.lifts 397K | **passed the gate 11-21** (3 accounts) | Ryo ("pulldown fixes, ranked" style) or @earndapp pick-1 slideshow; NOT the 11-08 wrong-vs-right mascot video (failure log) |
+| **"Here's my full split"** (split reveal, one day per slide) | scan 11-21: getfitwfola 1.3M, rubygrifiths 124K, misspanacea 97K | **passed the gate 11-21** (3 accounts) | Ryo "ryo's exact week" / @ezyxbt countdown (already running) |
+
 ## Watch (single-account outliers, not yet validated)
 | Format | Source | Accounts seen | Next check |
 |---|---|---|---|
@@ -97,7 +100,7 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | Myth fact-check slideshow (skincare derm explainers → gym) | web scan 11-14, no metrics | ? | needs an Apify scan |
 | Worth it / skip it (save-or-splurge → gym habits) | web scan 11-14, no metrics | ? | needs an Apify scan |
 | ~~Faceless one-line motivation clip~~ promoted to @quiet.reps4's queue 11-18 | scan 11-16: earned..not..given 3.6M, elevate799 2.4M/1.4M, believe.rise.succeed 1.7M, mmlux26 609K (self-improvement, videos) | 4 (other niche) | video from another niche; test once on @quiet.reps4 after warm-up week |
-| "Progressive overload, this simple" explainer | scan 11-16: going.mogging 242K, trainbloom 195K (209K on 11-19) | 2 | 1 more account |
+| "Progressive overload, this simple" explainer | scan 11-16: going.mogging 242K (10-22, ages out 11-22), trainbloom 195K → 219K (11-12) | 2 | 1 more account |
 | "X or Y? you need a different fix" (skincare) → "stalled or under-recovered?" | scan 11-17: purederm 560K | 1 (other niche) | 2 more accounts |
 | "Advice I'd give myself N years ago" (dating) → @ezyxbt "gym advice i'd give myself 4 years ago" | scan 11-17: spencer.barbosa 921K | 1 (other niche) | tested on @ezyxbt 11-17 as its daily test |
 | "How to invest your first $1,000, step by step" (finance) → "your first 12 weeks in the gym, step by step" | scan 11-18: morgan.on.money 2.6M / 210K saves | 1 (other niche) | @ezyxbt test candidate |
@@ -105,7 +108,7 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | Countdown series ("turning 40 in 3 months, part 2: my exact routine") → @ezyxbt "EARND launches in 10 days, part 1: my exact week" | scan 11-20: yurileeeee 624K (skincare) | 1 (other niche) | @ezyxbt test 11-20 |
 | Checklist (✓ / ✗ per item) | scan 11-20: harleyalexander.fit "Leg day checklist" 310K | 1 | Ryo test candidate |
 | "STOP guessing what to do after every set" series | scan 11-20: trstnn.lifts 141K / 88K / 393K | 1 | @earndapp pain cover |
-| "Here's my full split" | scan 11-18: getfitwfola 1.2M → 1.3M; scan 11-19: hussein.fht 87K (10-27) | 2 | 1 more account; Ryo test candidate ("Ryo's exact week") |
+| ~~"Here's my full split"~~ **promoted 11-21** (getfitwfola 1.3M 11-14, rubygrifiths 124K 11-20, misspanacea 97K 11-10) | | 3 | see queue |
 
 ## Winner remakes (rule 1)
 | Winner | Account | Views | Remakes done | Target |
