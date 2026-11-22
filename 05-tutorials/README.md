@@ -39,3 +39,24 @@ Style ref for frames: the machine-free RDL frame (a chest press ref made the mod
 | Leg extension | `v2/out/leg-extension.mp4` | free rep 5 s | for review |
 | Preacher curl | `v2/out/preacher-curl.mp4` | free rep 5 s | for review (3rd frame: first two put lime on the triceps) |
 | Poliquin (seated) pushdown | `v2/out/poliquin-pushdown.mp4` | free rep 5 s, 2nd try | for review (1st clip pushed the bar forward and moved the lime to the biceps) |
+
+### v2 batch 2 (2026-11-22)
+
+Free 5 s one-rep Kling clips from each start frame, vidstab, full loop, unless noted.
+
+| Exercise | File | Status |
+|---|---|---|
+| Hip adductor | `v2/out/hip-adductor.mp4` | for review (2nd frame: 1st coloured the quads) |
+| Bayesian cable curl | `v2/out/bayesian-curl.mp4` | for review (2nd frame: 1st started mid-curl; lime reaches the forearm) |
+| Hack squat | `v2/out/hack-squat.mp4` | for review |
+| Hammer curl | `v2/out/hammer-curl.mp4` | for review |
+| Hip thrust | `v2/out/hip-thrust.mp4` | for review |
+| Seated overhead triceps extension | `v2/out/overhead-triceps-extension.mp4` | for review |
+| Pec deck | `v2/out/pec-deck.mp4` | for review |
+| Cable pullover | `v2/out/cable-pullover.mp4` | for review |
+| Machine shoulder press | `v2/out/machine-shoulder-press.mp4` | for review |
+| Dumbbell shrug | `v2/out/dumbbell-shrug.mp4` | start→end, ping-pong (two free clips turned it into a lateral raise) |
+| Y-raise | `v2/out/y-raise.mp4` | for review |
+| Single-leg extension | `v2/out/single-leg-extension.mp4` | for review (only the near leg moves) |
+| Single-leg curl | `v2/out/single-leg-curl.mp4` | for review: hard to see that only one leg works; may need a redo |
+| Calf press | — | **open**: the model keeps putting the heels on the plate (the clip bent the knees instead of the ankles). A seated calf raise frame works (`frames/calf-a4.png`); founder to choose |
