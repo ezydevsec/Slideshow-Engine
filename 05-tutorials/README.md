@@ -55,7 +55,7 @@ Free 5 s one-rep Kling clips from each start frame, vidstab, full loop, unless n
 | Pec deck | `v2/out/pec-deck.mp4` | for review |
 | Cable pullover | `v2/out/cable-pullover.mp4` | for review |
 | Machine shoulder press | `v2/out/machine-shoulder-press.mp4` | for review |
-| Dumbbell shrug | `v2/out/dumbbell-shrug.mp4` | start→end, ping-pong (two free clips turned it into a lateral raise) |
+| Dumbbell shrug | `v2/out/dumbbell-shrug.mp4` | for review: start→end, ping-pong (two free clips turned it into a lateral raise); the shrug is small |
 | Y-raise | `v2/out/y-raise.mp4` | for review |
 | Single-leg extension | `v2/out/single-leg-extension.mp4` | for review (only the near leg moves) |
 | Single-leg curl | `v2/out/single-leg-curl.mp4` | for review: hard to see that only one leg works; may need a redo |
