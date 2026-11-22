@@ -20,7 +20,8 @@ Deliver for the publication day:
 1. Two original posts, both directly about mobile apps.
    - One proof-led build-in-public post, based on a real artefact, action, decision, mistake, constraint, lesson or result.
    - One broader mobile-app lesson, opinion or teardown that's useful to strangers.
-   - Format by day. Mon, Tue, Thu, Fri and Sun: two short posts. Wed: one short post plus a 150–300-word post or a 4–6-post thread. Sat: one short post plus a genuine weekly review.
+   - Format by day. Mon, Tue, Thu and Fri: two short posts. Wed and Sun: one short post plus a 150–300-word post or a 4–6-post thread. Sat: one short post plus a genuine weekly review.
+   - Visuals: at least one original a day carries a safe visual, such as a text card, a simple diagram, a checklist screenshot, an analytics screenshot, or a desk or setup photo. Never use unreleased app screens or anything that names the app.
    - Short posts and each thread post stay under 280 characters. Count them before delivering.
    - Give each one a publishing time, character count, format and safe media.
 2. Ten reply targets, ranked by freshness, plus an angle bank for the live sweep.
@@ -33,7 +34,7 @@ Drafts only. Never publish or send anything.
 - A personal account of a mobile-app builder, indie founder or app analyst. Never companies, products, platforms, publications or analytics accounts.
 - The post is directly about mobile-app building, product, onboarding, paywalls, subscriptions, retention, ASO, App Store operations, launch, distribution, monetisation or a concrete consumer-app case study.
 - Published within 7 days. Prefer under 24 hours. Over 48 hours old at execution means backup only.
-- Prefer accounts in `builders-list.txt`. Ten different accounts per brief.
+- Prefer accounts in `builders-list.txt`. Ten different accounts per brief. Include at least three larger accounts (20k+ followers) for reach, alongside peers who are more likely to reply.
 - Give the exact status URL and the verified publication date. Never invent a post, URL, date, quote or figure.
 - Label external revenue as creator-reported, company-reported, estimated or unverified.
 - Check `exclusions.txt` first. If fewer than ten targets are valid, list only those and state the shortfall.
