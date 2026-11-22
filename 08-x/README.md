@@ -29,6 +29,13 @@ Deliver for the publication day:
 
 Drafts only. Never publish or send anything.
 
+## Hooks (most of the work)
+
+- The first line has to work on its own in the feed preview. Write 3 hook options for every original, pick the strongest, and show the runner-up.
+- A strong hook uses a real, specific number, a tension or contradiction (for example, more reach but fewer followers), or a concrete decision. Keep it under about 80 characters.
+- No "Here's how", "Thread", "Let me tell you", empty questions or fake suspense. Never invent a number to make a hook land.
+- Reply hooks matter too: the first clause of a reply should be the sharpest point, not "Great post" or a paraphrase.
+
 ## Reply-target rules
 
 - A personal account of a mobile-app builder, indie founder or app analyst. Never companies, products, platforms, publications or analytics accounts.
