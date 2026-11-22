@@ -5,14 +5,11 @@
 - **Format:** slideshow photos you may be looking for (pack, part 6) — new-format test, log it as "photos-you-may-be-looking-for pack"
 - **Slides:** 8 in `final/preview/` (slide-01 … slide-08), in order
 - **Caption:** #gymslideshowideas #gymtok #slideshowideas #gymmotivation #quotes
-- **AI-generated label: not set.** Postiz/TikTok cannot label photo posts; the founder chose to post directly without it (option A, 2026-11-20)
+- **AI-generated label: ON** (post by hand; Postiz cut off 2026-11-22)
 - **Sound:** none picked (founder 2026-11-19)
 - No text in TikTok's editor: all text is baked into the images.
 - The end slide says EARND is ours ("ryo trains on EARND, our app").
 
-## Scheduled
+## Posting
 
-- Postiz (channel "Ryo"), DIRECT_POST, public, comments on, autoAddMusic yes
-- Postiz post ID: `cmwp9p7px06egp107hpkhlmqk`
-- Preview: https://platform.postiz.com/p/cmwp9p7px06egp107hpkhlmqk?share=true
-- Numbers: read with Postiz post analytics 7 days after posting
+- Postiz cut off by the founder (2026-11-22); the queued post was deleted. Post by hand from `06-queue/zips-2026-11-22-ryo-pack/earnie.lifts-ryo.zip`.

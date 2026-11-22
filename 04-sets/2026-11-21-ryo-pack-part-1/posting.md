@@ -10,9 +10,6 @@
 - No text in TikTok's editor: all text is baked into the images.
 - The end slide says EARND is ours ("ryo trains on EARND, our app").
 
-## Scheduled
+## Posted
 
-- Postiz (channel "Ryo"), DIRECT_POST, public, comments on, autoAddMusic yes
-- Postiz post ID: `cmwp9p7mj06ebp1074ab5iqfs`
-- Preview: https://platform.postiz.com/p/cmwp9p7mj06ebp1074ab5iqfs?share=true
-- Numbers: read with Postiz post analytics 7 days after posting
+- Went out Sat 21 Nov 15:40 via Postiz (TikTok id 7710649984349113633). Postiz cut off by the founder 22 Nov.
