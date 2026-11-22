@@ -45,7 +45,7 @@ Drafts only. Never publish or send anything.
 - Give the exact status URL and the verified publication date. Never invent a post, URL, date, quote or figure.
 - Label external revenue as creator-reported, company-reported, estimated or unverified.
 - Check `exclusions.txt` first. If fewer than twenty targets are valid, list only those and state the shortfall.
-- Each target lists: account, link, date, context, why it fits, timing (NOW, WITHIN 1 HOUR or TODAY), and a 1–3-sentence reply. A reply adds an observation, question, supported disagreement or relevant experience. It never paraphrases the post. Write the reply text plainly, with no quotation marks around it, so it can be copied straight into X.
+- Each target lists: account, link, date, context, why it fits, timing (NOW, WITHIN 1 HOUR or TODAY), and a 1–3-sentence reply. A reply adds an observation, question, supported disagreement or relevant experience. It never paraphrases the post. Write the reply text plainly, with no quotation marks around it, so it can be copied straight into X. Write replies all in lowercase, including the first word and "i". Keep handles, product names and numbers as they are (for example @MaxHirsch13, App Store, MRR).
 
 ## Daily execution plan (about 55 minutes, London time, about 30 replies)
 
