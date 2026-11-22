@@ -14,3 +14,12 @@
 ## 2026-11-10 · @earnie.lifts one-line meme clips stopped (founder)
 - **What:** 5–8 s one-line clips ("me on leg day:", "the gym in january:"). Founder: "not good, we need to be telling stories."
 - **Action:** format stopped. Earnie moves to story slideshows and narrated story videos (learned rule 2026-11-10).
+
+## 2026-11-22 · weekly review (approved by founder)
+- **All accounts stuck at TikTok's first batch (15–21 Nov):** 575–750 views on every account and format, max 1,082. Hooks and the first two slides don't earn the second push.
+- **Postiz (20–22 Nov):** photo posts sent through it dropped to 36–131 views (@earndapp 100/60/36, Ryo 131, @ezyxbt 112). Founder: "it was postiz hurting the content". Cut off completely 22 Nov.
+- **Ryo "…the fixes, ranked" pain covers:** 4 posts, ~575–647 views, ~1 save → moved into the "every X, ranked" format.
+- **@ezyxbt one-liners:** 7 posts, ~600 views, 0 saves → 3 a week.
+- **@quiet.reps4 doer/stickman comparisons:** 6 posts, median 609, ~0 saves → one swapped for study one-liners.
+- **@earndapp study race / comparison videos:** 9 posts, median 668, ~1 save each → one more week with a new opener, then cut if unchanged.
+- **Tutorial pilot (in-app):** toy-like grey mannequin in Higgsfield 3D — founder: "bad", wants fully realistic 3D exactly like the posts' mascot.

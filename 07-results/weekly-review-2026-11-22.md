@@ -1,4 +1,4 @@
-# Weekly review — 15–21 Nov 2026 (draft for founder approval, gate 4)
+# Weekly review — 15–21 Nov 2026 (approved by founder 2026-11-22; Postiz was the cause of the low posts)
 
 Source: Apify TikTok scrape of all 5 accounts, Sun 22 Nov 14:42 UTC (97 posts, latest 30 per account). Posts from 21 Nov were only 15–24 h old. Views only; profile visits and purchases aren't in the scrape (blank, never 0). Prelaunch, so no revenue.
 

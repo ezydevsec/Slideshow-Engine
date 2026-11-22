@@ -7,3 +7,8 @@
 - **"please. you're not going to remember it."** — @earndapp POV + screen video, 680 views.
 - **"every. single. leg day. 😭"** — @earnie.lifts narrated-story cartoon video (squat-rack story), 672 views in <1 day (account best).
 - Also note: @earnie.lifts anatomy edu "4 exercises. biceps and triceps. save it for arm day" — 552 views, 8 saves (most-saved Earnie post).
+
+## Week of 15–21 Nov 2026 (approved by founder 2026-11-22; source 07-results/weekly-review-2026-11-22.md)
+- **"every lat exercise, ranked. argue with me"** — Ryo (@earnie.lifts) tier list, 1,082 views, 9 saves (1.67× median). Remake ×5 as "every X exercise, ranked".
+- **"same 8 sets. the lighter one was still weaker 3 days later" (Bartolomei 2017)** — @quiet.reps4 gold-line study one-liner, 988 views (1.58× median). Remake ×5 with other verified studies.
+- Top savers: @earndapp "the perfect arms & shoulders" (11 saves), "the perfect upper day" (9), "the perfect full-body day" (844 views, 6 saves).

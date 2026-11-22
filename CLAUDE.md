@@ -71,6 +71,16 @@ default_app_slide: 4
 
 (Added after each weekly review. Newest at the top.)
 
+- 2026-11-22 (weekly review, founder-approved):
+  1. **@earndapp pick-1 slideshows default to 9 slides** (ends slide-length test 2: views tied at ~670, 9 slides got ~3× the saves). 5 slides only for pain covers if a mix is wanted.
+  2. **Remake the winners ×5 (rule 1):** Ryo "every lat exercise, ranked" (1,082 views, 9 saves) → "every X exercise, ranked" in the same look; @quiet.reps4 study one-liner "same 8 sets…" (988) → gold-line study one-liners (verified studies only).
+  3. **Ryo's pain covers move into the "every X, ranked" format** (the "…the fixes, ranked" covers sat at ~600 with ~1 save). Rule 4 still applies: the pain goes on the cover of a ranking.
+  4. **@ezyxbt one-liners: 3 a week, not daily** (0 saves all week); the freed slot goes to new-format tests.
+  5. **@quiet.reps4:** one of the stickman/doer comparisons gives way to study one-liners; the weekly stickman comparison rule still stands.
+  6. **@earndapp study race / comparison videos: one more week with a new opener** — the number or result on screen in the first second instead of "here's the catch" (9 posts at the floor, ~1 save each). Cut at the 29 Nov review if they stay there.
+  7. Every account sits at the ~600-view first batch; nothing broke past 1.1K. Hooks and the first two slides are the work.
+  8. **Postiz hurt reach** (founder, 22 Nov): the photo posts sent through it fell to 36–131 views. Never use it again.
+
 - 2026-11-10 (founder): **@earnie.lifts tells stories.** The one-line meme clips aren't good enough; stop making them. Every Earnie post, slideshow or video, is a story with a start, a problem, a turn and a payoff (his best post is the narrated squat-rack story, 672 views). Story slideshows narrate across the slides; story videos are narrated. Anatomy edu can continue alongside.
 
 - 2026-11-08 (TikTok Studio, founder-approved): every post gets its views on day 1 from For You, then flatlines; "most viewers left after 2 photos" on every slideshow; a 10 s video averaged 3.0 s watched (4.85% full). Retention, not suppression, is the bottleneck. So:
