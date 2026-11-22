@@ -26,3 +26,16 @@ One silent looping video per programme exercise, starring the EARND mascot (grap
 | Machine chest press | `v2/out/machine-chest-press.mp4` | for review (lime also covers the front delts) |
 | Lat pulldown (three-quarter rear view) | `v2/out/lat-pulldown.mp4` | for review |
 | Romanian deadlift | `v2/out/romanian-deadlift.mp4` | for review |
+
+### v2 batch 1 (2026-11-22)
+
+Style ref for frames: the machine-free RDL frame (a chest press ref made the model paste the machine into other exercises). Pose-change edits often fail in Nano Banana, so most of these use a free 5 s one-rep Kling clip from the start frame (full loop), stabilised.
+
+| Exercise | File | Method | Status |
+|---|---|---|---|
+| Lateral raise | `v2/out/lateral-raise.mp4` | start→end, ping-pong | for review |
+| Seated leg curl | `v2/out/seated-leg-curl.mp4` | free rep 5 s | for review |
+| Chest-supported row | `v2/out/chest-supported-row.mp4` | free rep 5 s | for review |
+| Leg extension | `v2/out/leg-extension.mp4` | free rep 5 s | for review |
+| Preacher curl | `v2/out/preacher-curl.mp4` | free rep 5 s | for review (3rd frame: first two put lime on the triceps) |
+| Poliquin (seated) pushdown | `v2/out/poliquin-pushdown.mp4` | free rep 5 s, 2nd try | for review (1st clip pushed the bar forward and moved the lime to the biceps) |
