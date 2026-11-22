@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-22-ezyxbt-test-countdown-lower-day
 
-**Status: draft, awaiting approval. Post by hand Sun 22 Nov, 19:20 UK** (Postiz is cut off). Format: native-text tip slideshow.
+**Status: approved (founder 11-22). Post by hand Sun 22 Nov, 19:20 UK** (Postiz is cut off). Format: native-text tip slideshow.
 
 - **Account:** @ezyxbt
 - **Upload:** slide-01.jpg … slide-05.jpg (1080×1920)

@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-22-earndapp-video-study-rest
 
-**Status: draft, awaiting approval. Post by hand Sun 22 Nov, 19:00 UK** (Postiz is cut off). Format: study race A vs B (@appforthegym format), Higgsfield 3D — new opener: result on screen in the first second (review 11-22).
+**Status: approved (founder 11-22). Post by hand Sun 22 Nov, 19:00 UK** (Postiz is cut off). Format: study race A vs B (@appforthegym format), Higgsfield 3D — new opener: result on screen in the first second (review 11-22).
 
 - **Account:** @earndapp
 - **Upload:** rest.mp4 (1080×1920, 21.5 s, sound baked in)

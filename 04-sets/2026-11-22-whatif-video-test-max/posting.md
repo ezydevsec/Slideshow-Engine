@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-22-whatif-video-test-max
 
-**Status: draft, awaiting approval. Post by hand Sun 22 Nov, 19:30 UK** (Postiz is cut off). Format: what-if escalation video (Explainer 3D, Higgsfield, narrated).
+**Status: approved (founder 11-22). Post by hand Sun 22 Nov, 19:30 UK** (Postiz is cut off). Format: what-if escalation video (Explainer 3D, Higgsfield, narrated).
 
 - **Account:** @whatif.overload
 - **Upload:** test-max.mp4 (1080×1920, 27.5 s, narrator + sound baked in)

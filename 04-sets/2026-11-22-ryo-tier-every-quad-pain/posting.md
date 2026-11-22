@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-22-ryo-tier-every-quad-pain
 
-**Status: draft, awaiting approval. Post by hand Sun 22 Nov, 23:40 UK** (Postiz is cut off). Format: bluebro-style tier list (white, gritty anime Ryo).
+**Status: approved (founder 11-22). Post by hand Sun 22 Nov, 23:40 UK** (Postiz is cut off). Format: bluebro-style tier list (white, gritty anime Ryo).
 
 - **Account:** @earnie.lifts (Ryo)
 - **Upload:** slide-01.jpg … slide-06.jpg (1080×1350)

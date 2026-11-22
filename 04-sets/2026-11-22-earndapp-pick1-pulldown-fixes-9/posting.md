@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-22-earndapp-pick1-pulldown-fixes-9
 
-**Status: draft, awaiting approval. Post by hand Sun 22 Nov, 23:00 UK** (Postiz is cut off). Format: pick-1-per-slide slideshow (Arrow / bluebro structure), form-fix ❌/✅ test.
+**Status: approved (founder 11-22). Post by hand Sun 22 Nov, 23:00 UK** (Postiz is cut off). Format: pick-1-per-slide slideshow (Arrow / bluebro structure), form-fix ❌/✅ test.
 
 - **Account:** @earndapp
 - **Upload:** slide-01.jpg … slide-09.jpg (1080×1350)
