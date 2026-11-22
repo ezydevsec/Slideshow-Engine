@@ -29,6 +29,10 @@ Deliver for the publication day:
 
 Drafts only. Never publish or send anything.
 
+## Style
+
+Follow `08-x/style-guide.md`: short lines, mostly lowercase, a public experiment series, one free saveable resource a week, and cold replies of 1–2 short lines.
+
 ## Hooks (most of the work)
 
 - The first line has to work on its own in the feed preview. Write 3 hook options for every original, pick the strongest, and show the runner-up.
