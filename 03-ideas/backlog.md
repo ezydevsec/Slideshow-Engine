@@ -269,3 +269,12 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - **@whatif.overload:** "what if Dale tested his 1-rep max every session?" (real life: work sets of 4–8 and beat last time).
 - **Weekly stickman comparison** (rule): still due this week on @earndapp (its Sat video was the mannequin comparison, counts), Ryo and @ezyxbt (as a slideshow in their own look).
 - Winner remakes (rule 1): split ranking remake #3 can ride the "full split" structure on @earndapp next week.
+
+## Daily scan 2026-11-22 (trend file: 02-research/trends/2026-11-22.md) — ideas for Mon 23 Nov
+- **@earndapp video (comparison day):** @stickmaxx-style A vs B, "2 hard sets vs 5 easy sets" (one side stops 1–2 reps short and adds weight, the other does lots of easy sets; number climbs on the left, real app screen at the end). Higgsfield 3D.
+- **@earndapp slideshows:** length per today's review (9 vs 5 test ends today). Topics: "maximize your chest with these 2" (pick-1, Upper A/B chest picks; Watch structure), pain cover "20 sets for chest and still stuck?" if not used Sunday.
+- **@ezyxbt:** test "5 things I stopped doing in the gym" (Watch structure from skincare); countdown part 4 if part 3 went out Sunday; one-liner.
+- **Ryo:** pack part 3 already scheduled (15:40). Test: "every chest exercise for the upper chest, ranked"? → check dup vs 11-17 every-chest first; otherwise "pulldown form fixes ranked ❌/✅" (form-fix structure). Pain cover: "chest press feels all shoulders? the fixes, ranked".
+- **@quiet.reps4:** "go quiet for 12 weeks" if not used Sunday; else "the set nobody saw" (gold line figure, empty gym, one rep, the counter clicks up).
+- **@whatif.overload:** "what if Dale only trained the muscles he can see in the mirror?" (real life: 2× a week, the whole body).
+- Weekly stickman comparison: Ryo and @ezyxbt still due this week (new week starts Mon).

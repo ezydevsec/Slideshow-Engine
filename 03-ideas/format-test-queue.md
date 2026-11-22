@@ -110,6 +110,9 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | "STOP guessing what to do after every set" series | scan 11-20: trstnn.lifts 141K / 88K / 393K | 1 | @earndapp pain cover |
 | ~~"Here's my full split"~~ **promoted 11-21** (getfitwfola 1.3M 11-14, rubygrifiths 124K 11-20, misspanacea 97K 11-10) | | 3 | see queue |
 
+| "Maximize your X gains with these" (20 s fast exercise list) | scan 11-22: rajandroh 851K / 36K saves (11-19) | 1 | 2 more accounts; @earndapp / Ryo candidate |
+| "N things I stopped doing" list (skincare → "5 things I stopped doing in the gym") | scan 11-22: clearskinerika 343K (11-08) | 1 (other niche) | @ezyxbt test candidate |
+
 ## Winner remakes (rule 1)
 | Winner | Account | Views | Remakes done | Target |
 |---|---|---|---|---|
