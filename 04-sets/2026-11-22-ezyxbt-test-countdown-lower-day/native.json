@@ -1,0 +1,86 @@
+{
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "status": "draft, awaiting approval",
+  "set_id": "2026-11-22-ezyxbt-test-countdown-lower-day",
+  "format": "native-text tip slideshow",
+  "new_format_test": "countdown series, part 3 (parts 1–2 posted 20–21 Nov)",
+  "topic_source": "EARND programme Lower A (01-app/programme.md); launch end of November",
+  "pain_cover": false,
+  "caption": "launch countdown, part 3: my exact lower day. part 4 tomorrow: my exact upper B day. #gymtok #legday #gymroutine #buildinpublic #upperlower",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b9-01.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "EARND launch countdown. part 3: my exact lower day",
+      "sub": "(5 exercises. about 40 minutes)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b11-03.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "lower A",
+      "lines": [
+        "calf press",
+        "seated leg curl",
+        "leg extension",
+        "adductor machine",
+        "hip thrust"
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b16-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "every exercise",
+      "lines": [],
+      "text": "2 hard sets. 4–8 reps. calves: pause 2 s at the bottom."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b13-01.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip: same exercises for weeks",
+      "text": "keep them long enough to beat the numbers.",
+      "shot": "01-app/assets/progress-chest-press.png",
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b12-04.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "part 4 tomorrow: my exact upper B day.",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

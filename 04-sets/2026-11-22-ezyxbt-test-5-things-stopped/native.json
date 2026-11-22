@@ -1,0 +1,86 @@
+{
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "status": "draft, awaiting approval",
+  "set_id": "2026-11-22-ezyxbt-test-5-things-stopped",
+  "format": "native-text tip slideshow",
+  "new_format_test": "'N things I stopped doing' list (Watch, scan 11-22: clearskinerika 343K, skincare)",
+  "topic_source": "scan 11-22 (skincare 'things I stopped doing'); EARND's rules (one plan, 2 hard sets, write it down, move missed sessions)",
+  "pain_cover": false,
+  "caption": "5 things i stopped doing in the gym. number 3 changed everything. #gymtips #gymtok #upperlower #progressiveoverload #consistency",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b14-08.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "5 things i stopped doing in the gym",
+      "sub": "(and what i do instead)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b9-06.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "i stopped",
+      "lines": [
+        "1. changing programme every month",
+        "2. doing 5 sets of everything",
+        "3. guessing my weights",
+        "4. writing off the week after monday",
+        "5. going to failure every set"
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b6-08.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "instead",
+      "lines": [],
+      "text": "one plan. 2 hard sets. 1–2 reps left. every set written down."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b5-16.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip: stop guessing",
+      "text": "last time's numbers show up on every set.",
+      "shot": "01-app/assets/exercise-target.png",
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b9-08.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "which one do you still do?",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

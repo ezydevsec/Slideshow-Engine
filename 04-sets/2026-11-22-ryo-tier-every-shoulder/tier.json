@@ -1,0 +1,96 @@
+{
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "set_id": "2026-11-22-ryo-tier-every-shoulder",
+  "pain_cover": false,
+  "winner_remake": "remake #1 of 'every lat exercise, ranked' (1,082 views, 9 saves)",
+  "topic_source": "winner remake (rule 1); Paul Carter 11-13 (overhead pressing builds side delts too; study not yet published, so opinion only); ranking is our opinion",
+  "caption": "every shoulder exercise, ranked. argue with me 👇 #gymtok #shoulders #delts #tierlist #gymtips",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "every shoulder",
+        "exercise, ranked."
+      ],
+      "sub": "argue with me.",
+      "pose": "cover-arms-crossed"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "press heavy. raise for the sides.",
+      "rows": [
+        [
+          "S",
+          [
+            "machine shoulder press",
+            "lateral raise"
+          ]
+        ],
+        [
+          "A",
+          [
+            "rear delt fly"
+          ]
+        ],
+        [
+          "C",
+          [
+            "front raise"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "machine shoulder press",
+      "works": "front + side delts",
+      "lines": [
+        "your heaviest shoulder lift.",
+        "2 × 4–8, add weight when you own 8."
+      ],
+      "pose": "shoulder-press"
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "lateral raise",
+      "works": "side delts",
+      "lines": [
+        "the width-maker.",
+        "lead with the elbows, no swinging."
+      ],
+      "pose": "lateral-raise"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "rear delt fly",
+      "works": "rear delts",
+      "lines": [
+        "the part rows only half hit.",
+        "light, slow, full stretch."
+      ],
+      "pose": "reverse-fly"
+    },
+    {
+      "type": "tier",
+      "tier": "C",
+      "name": "front raise",
+      "works": "front delts",
+      "lines": [
+        "every press already trains them.",
+        "skip it, spend the time elsewhere."
+      ],
+      "pose": "front-raise",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}

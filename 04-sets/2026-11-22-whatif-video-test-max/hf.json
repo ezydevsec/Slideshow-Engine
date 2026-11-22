@@ -1,0 +1,182 @@
+{
+ "set_id": "2026-11-22-whatif-video-test-max",
+ "account": "@whatif.overload",
+ "account_type": "theme",
+ "format": "what-if escalation video (Explainer 3D, Higgsfield, narrated)",
+ "status": "draft, awaiting approval",
+ "topic_source": "joke escalation; real life = sets of 4–8, beat last time (EARND's progression rule)",
+ "accent": [
+  255,
+  90,
+  80
+ ],
+ "out": "test-max.mp4",
+ "endcard": [
+  "this page is made by EARND,",
+  "our gym app. follow @earndapp"
+ ],
+ "ai_images": true,
+ "ai_note": "start frames Higgsfield Nano Banana, motion Kling 3.0 pro, narrator ElevenLabs v4: AI label ON",
+ "caption": "dale tested his max every session. by week 6 it was just the bar 🧊 #gymhumor #gymtok #whatif #gymmemes #benchpress",
+ "segments": [
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c1.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c2.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c3.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c4.mp4"
+   ]
+  },
+  {
+   "dur": 4.5,
+   "image": "hf/card.png",
+   "height": 1920,
+   "y": 0
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.2,
+   "t1": 5,
+   "text": "WHAT IF DALE TESTED",
+   "x": 540,
+   "y": 90,
+   "size": 56,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 0.2,
+   "t1": 5,
+   "text": "HIS MAX EVERY SESSION?",
+   "x": 540,
+   "y": 190,
+   "size": 56,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 0.6,
+   "t1": 5,
+   "text": "NEW MAX!",
+   "x": 540,
+   "y": 320,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 1.0,
+   "t1": 5,
+   "text": "nice.",
+   "x": 540,
+   "y": 420,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 5,
+   "t1": 10,
+   "text": "SESSION 2",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 5.4,
+   "t1": 10,
+   "text": "testing again.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 10,
+   "t1": 15,
+   "text": "WEEK 3",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 10.4,
+   "t1": 15,
+   "text": "ice packs.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 15,
+   "t1": 20,
+   "text": "WEEK 6",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 15.4,
+   "t1": 20,
+   "text": "just the bar.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 20.1,
+   "t1": 24.5,
+   "text": "REAL LIFE:",
+   "x": 540,
+   "y": 720,
+   "size": 64,
+   "color": "acc"
+  },
+  {
+   "t0": 20.5,
+   "t1": 24.5,
+   "text": "sets of 4–8.",
+   "x": 540,
+   "y": 830,
+   "size": 50,
+   "color": "white"
+  },
+  {
+   "t0": 21.0,
+   "t1": 24.5,
+   "text": "beat last time.",
+   "x": 540,
+   "y": 910,
+   "size": 50,
+   "color": "white"
+  }
+ ]
+}

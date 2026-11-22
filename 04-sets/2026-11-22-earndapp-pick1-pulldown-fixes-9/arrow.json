@@ -1,0 +1,141 @@
+{
+  "set_id": "2026-11-22-earndapp-pick1-pulldown-fixes-9",
+  "status": "draft, awaiting approval",
+  "format": "pick-1-per-slide slideshow (Arrow / bluebro structure), form-fix ❌/✅ test",
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+  "new_format_test": "form-fix ❌ vs ✅ (passed the gate 11-21: albertdorner 909K, wiilliamli 722K, trstnn.lifts 397K) as a 9-slide slideshow, not the 11-08 mascot video",
+  "topic_source": "scan 11-21 (lat pulldown form trend); Paul Carter 10-23 lean study (PMID 40981044, verified: a lean doesn't reduce lat work); EARND double progression 4–8",
+  "pain_cover": false,
+  "caption": "your lat pulldown, fixed. 6 changes, save it for back day 👇 #latpulldown #backday #gymtips #hypertrophy #upperlower",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "your lat pulldown,",
+          false
+        ],
+        [
+          "fixed",
+          true
+        ],
+        [
+          "in 6 changes",
+          false
+        ]
+      ],
+      "sub": "(save it for back day)",
+      "pose": "pulldown"
+    },
+    {
+      "type": "structure",
+      "title": "the 6 fixes",
+      "sub": "wrong → right. do all 6 next session.",
+      "items": [
+        "behind the neck → upper chest",
+        "elbows back → elbows down",
+        "half reps → arms straight up top",
+        "thighs floating → under the pad",
+        "swinging → a small lean is fine",
+        "more weight → more reps first"
+      ],
+      "note": "that's the whole fix."
+    },
+    {
+      "type": "structure",
+      "title": "1 · bar path",
+      "sub": "pull to the upper chest.",
+      "items": [
+        "never behind the neck",
+        "chest up to meet the bar",
+        "bar stays in front of your face"
+      ],
+      "note": "safer shoulders, same lats."
+    },
+    {
+      "type": "structure",
+      "title": "2 · elbows",
+      "sub": "drive them down, not back.",
+      "items": [
+        "think elbows into your back pockets",
+        "hands are just hooks",
+        "feel it under the armpits"
+      ],
+      "note": "that's where the lats are."
+    },
+    {
+      "type": "structure",
+      "title": "3 · the top",
+      "sub": "arms straight every rep.",
+      "items": [
+        "let the bar pull you up",
+        "feel the stretch in the lats",
+        "then pull again"
+      ],
+      "note": "full reps, full stretch."
+    },
+    {
+      "type": "structure",
+      "title": "4 · the seat",
+      "sub": "thighs locked under the pad.",
+      "items": [
+        "set the pad before the first set",
+        "no lifting off the seat",
+        "now the weight can't pull you up"
+      ],
+      "note": "stable seat, stronger pull."
+    },
+    {
+      "type": "structure",
+      "title": "5 · the lean",
+      "sub": "a small lean back is fine.",
+      "items": [
+        "the lats do the same work",
+        "a bit more upper back joins in",
+        "just don't rock to move the weight"
+      ],
+      "note": "EMG study (2025): same lat work."
+    },
+    {
+      "type": "structure",
+      "title": "6 · progress",
+      "sub": "reps before weight.",
+      "items": [
+        "hit 8 reps? add weight",
+        "4–7 reps? same weight, +1 rep",
+        "under 4? drop the weight"
+      ],
+      "note": "60 kg × 8 → 62.5 kg (example)"
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND shows",
+          false
+        ],
+        [
+          "the number to beat",
+          true
+        ],
+        [
+          "on every set",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/exercise-target.png",
+      "crop": [
+        0,
+        0.1,
+        1,
+        0.72
+      ],
+      "example": true,
+      "footer": "EARND launches soon. follow for the launch."
+    }
+  ]
+}

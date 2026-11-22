@@ -1,0 +1,95 @@
+{
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "set_id": "2026-11-22-ryo-tier-every-quad-pain",
+  "pain_cover": true,
+  "topic_source": "review 11-22: Ryo's pain goes on the cover of an 'every X, ranked' list; EARND Lower A/B quad picks (hack squat, leg extension); ranking is our opinion",
+  "caption": "squats beat up your knees and back? every quad exercise, ranked 👇 #legday #quads #gymtok #tierlist #gymtips",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "squats wreck",
+        "your knees?"
+      ],
+      "sub": "every quad exercise, ranked.",
+      "pose": "hack-squat"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "load the quads, not your lower back.",
+      "rows": [
+        [
+          "S",
+          [
+            "hack squat",
+            "leg extension"
+          ]
+        ],
+        [
+          "A",
+          [
+            "leg press"
+          ]
+        ],
+        [
+          "B",
+          [
+            "split squat"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "hack squat",
+      "works": "quads",
+      "lines": [
+        "back supported, knees travel forward.",
+        "deep, controlled, 2 × 4–8."
+      ],
+      "pose": "hack-squat"
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "leg extension",
+      "works": "quads (all 4 heads)",
+      "lines": [
+        "the only one that trains the",
+        "rectus femoris fully. pause at the top."
+      ],
+      "pose": "leg-extension"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "leg press",
+      "works": "quads + glutes",
+      "lines": [
+        "easy to load, easy to progress.",
+        "feet low on the plate for quads."
+      ],
+      "pose": "leg-press"
+    },
+    {
+      "type": "tier",
+      "tier": "B",
+      "name": "split squat",
+      "works": "quads + glutes",
+      "lines": [
+        "great, but balance limits the load.",
+        "use it when machines are busy."
+      ],
+      "pose": "split-squat",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}
