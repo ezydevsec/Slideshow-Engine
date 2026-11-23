@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-23-earndapp-pick1-maximize-back-9
 
-**Status: draft, waiting for founder approval. Post by hand Mon 23 Nov, 23:00 UK.** Format: one muscle, N exercises ('maximize your X with these', promoted 11-23) in the pick-1 look, 9 slides.
+**Status: approved (founder 11-23). Post by hand Mon 23 Nov, 23:00 UK.** Format: one muscle, N exercises ('maximize your X with these', promoted 11-23) in the pick-1 look, 9 slides.
 
 - **Account:** @earndapp
 - **Upload:** slide-01.jpg … slide-09.jpg (1080×1350)

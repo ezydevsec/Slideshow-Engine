@@ -1,24 +1,125 @@
 {
-  "status": "draft, awaiting approval",
-  "format": "bluebro-style tier list (white, gritty anime Ryo)",
-  "account": "@earnie.lifts",
-  "account_type": "theme",
-  "canvas": "1080x1350",
-  "ai_images": true,
-  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
-  "set_id": "2026-11-23-ryo-tier-every-hamstring-pain",
-  "pain_cover": true,
-  "winner_remake": "'every lat exercise, ranked' (1,082) remake, rule 1; pain on the cover (review 11-22)",
-  "topic_source": "EARND Lower A/B hamstring picks (seated leg curl, RDL); ranking is our opinion",
-  "caption": "RDLs wreck your lower back? every hamstring exercise, ranked 👇 #legday #hamstrings #gymtok #tierlist #gymtips",
-  "slides": [
-    {"type": "cover", "title": ["RDLs wreck your", "lower back?"], "sub": "every hamstring exercise, ranked.", "pose": "romanian-deadlift"},
-    {"type": "list", "title": "the whole list", "sub": "load the hamstrings, not your spine.", "rows": [["S", ["seated leg curl", "RDL"]], ["A", ["lying leg curl", "stiff-leg deadlift"]], ["B", ["45° back extension"]], ["C", ["good morning"]]]},
-    {"type": "tier", "tier": "S", "name": "seated leg curl", "works": "hamstrings", "lines": ["hips bent, hamstrings fully stretched.", "no back involved. 2 × 4–8."], "pose": "seated-leg-curl"},
-    {"type": "tier", "tier": "S", "name": "RDL", "works": "hamstrings + glutes", "lines": ["soft knees, bar close, hips back.", "stop before your back rounds."], "pose": "romanian-deadlift"},
-    {"type": "tier", "tier": "A", "name": "lying leg curl", "works": "hamstrings", "lines": ["great curl, less stretch than seated.", "don't let your hips lift."], "pose": "lying-leg-curl"},
-    {"type": "tier", "tier": "A", "name": "stiff-leg deadlift", "works": "hamstrings + lower back", "lines": ["like an RDL from the floor.", "more lower back, less control."], "pose": "stiff-leg-deadlift"},
-    {"type": "tier", "tier": "B", "name": "45° back extension", "works": "hamstrings + glutes", "lines": ["easy to learn, easy to load.", "hold a plate when bodyweight gets easy."], "pose": "back-extension-45"},
-    {"type": "tier", "tier": "C", "name": "good morning", "works": "lower back (mostly)", "lines": ["bar on your back, load on your spine.", "the S tier does it better."], "pose": "good-morning", "footer": "ryo trains on EARND, our app. follow @earndapp"}
-  ]
+ "status": "approved (founder 11-23); post Mon 23 Nov 19:40",
+ "format": "bluebro-style tier list (white, gritty anime Ryo)",
+ "account": "@earnie.lifts",
+ "account_type": "theme",
+ "canvas": "1080x1350",
+ "ai_images": true,
+ "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+ "set_id": "2026-11-23-ryo-tier-every-hamstring-pain",
+ "pain_cover": true,
+ "winner_remake": "'every lat exercise, ranked' (1,082) remake, rule 1; pain on the cover (review 11-22)",
+ "topic_source": "EARND Lower A/B hamstring picks (seated leg curl, RDL); ranking is our opinion",
+ "caption": "RDLs wreck your lower back? every hamstring exercise, ranked 👇 #legday #hamstrings #gymtok #tierlist #gymtips",
+ "slides": [
+  {
+   "type": "cover",
+   "title": [
+    "RDLs wreck your",
+    "lower back?"
+   ],
+   "sub": "every hamstring exercise, ranked.",
+   "pose": "romanian-deadlift"
+  },
+  {
+   "type": "list",
+   "title": "the whole list",
+   "sub": "load the hamstrings, not your spine.",
+   "rows": [
+    [
+     "S",
+     [
+      "seated leg curl",
+      "RDL"
+     ]
+    ],
+    [
+     "A",
+     [
+      "lying leg curl",
+      "stiff-leg deadlift"
+     ]
+    ],
+    [
+     "B",
+     [
+      "45° back extension"
+     ]
+    ],
+    [
+     "C",
+     [
+      "good morning"
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "tier",
+   "tier": "S",
+   "name": "seated leg curl",
+   "works": "hamstrings",
+   "lines": [
+    "hips bent, hamstrings fully stretched.",
+    "no back involved. 2 × 4–8."
+   ],
+   "pose": "seated-leg-curl"
+  },
+  {
+   "type": "tier",
+   "tier": "S",
+   "name": "RDL",
+   "works": "hamstrings + glutes",
+   "lines": [
+    "soft knees, bar close, hips back.",
+    "stop before your back rounds."
+   ],
+   "pose": "romanian-deadlift"
+  },
+  {
+   "type": "tier",
+   "tier": "A",
+   "name": "lying leg curl",
+   "works": "hamstrings",
+   "lines": [
+    "great curl, less stretch than seated.",
+    "don't let your hips lift."
+   ],
+   "pose": "lying-leg-curl"
+  },
+  {
+   "type": "tier",
+   "tier": "A",
+   "name": "stiff-leg deadlift",
+   "works": "hamstrings + lower back",
+   "lines": [
+    "like an RDL from the floor.",
+    "more lower back, less control."
+   ],
+   "pose": "stiff-leg-deadlift"
+  },
+  {
+   "type": "tier",
+   "tier": "B",
+   "name": "45° back extension",
+   "works": "hamstrings + glutes",
+   "lines": [
+    "easy to learn, easy to load.",
+    "hold a plate when bodyweight gets easy."
+   ],
+   "pose": "back-extension-45"
+  },
+  {
+   "type": "tier",
+   "tier": "C",
+   "name": "good morning",
+   "works": "lower back (mostly)",
+   "lines": [
+    "bar on your back, load on your spine.",
+    "the S tier does it better."
+   ],
+   "pose": "good-morning",
+   "footer": "ryo trains on EARND, our app. follow @earndapp"
+  }
+ ]
 }

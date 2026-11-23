@@ -1,87 +1,87 @@
 {
-  "account": "@ezyxbt",
-  "account_type": "founder",
-  "canvas": "1080x1920",
-  "ai_images": false,
-  "ai_note": "real founder photos and real app screens, nothing generated",
-  "status": "draft, awaiting approval",
-  "set_id": "2026-11-23-ezyxbt-test-6-gym-rules",
-  "format": "native-text tip slideshow",
-  "new_format_test": "'N rules' list (Watch, scan 11-23: moneyideas30 1.3M, investips_ 323K, finance)",
-  "topic_source": "scan 11-23 (finance 'money rules' structure); EARND's rules",
-  "pain_cover": false,
-  "caption": "my 6 gym rules. number 5 is the one nobody follows. #gymtips #gymtok #upperlower #progressiveoverload #consistency",
-  "slides": [
-    {
-      "type": "cover",
-      "photo": {
-        "file": "b7-15.jpg",
-        "focus": [
-          0.5,
-          0.45
-        ]
-      },
-      "hook": "my 6 gym rules",
-      "sub": "(i don't break these)",
-      "hook_y": 0.14
-    },
-    {
-      "type": "list",
-      "photo": {
-        "file": "b10-03.jpg",
-        "focus": [
-          0.5,
-          0.45
-        ]
-      },
-      "title": "the rules",
-      "lines": [
-        "1. one plan for 12 weeks",
-        "2. 2 hard sets, 1–2 reps left",
-        "3. write every set down",
-        "4. beat last time, then add weight",
-        "5. missed a day? move it",
-        "6. rest 2–3 min on big lifts"
-      ]
-    },
-    {
-      "type": "list",
-      "photo": {
-        "file": "b11-05.jpg",
-        "focus": [
-          0.5,
-          0.45
-        ]
-      },
-      "title": "number 5",
-      "lines": [],
-      "text": "a missed monday isn't a lost week. do it tuesday."
-    },
-    {
-      "type": "tip",
-      "photo": {
-        "file": "b9-03.jpg",
-        "focus": [
-          0.5,
-          0.4
-        ]
-      },
-      "label": "the real tip: rule 3 does itself",
-      "text": "every set saved. last time's numbers on screen.",
-      "shot": "01-app/assets/exercise-target.png",
-      "footer": "i'm building it. it's called EARND."
-    },
-    {
-      "type": "cta",
-      "photo": {
-        "file": "b9-08.jpg",
-        "focus": [
-          0.5,
-          0.3
-        ]
-      },
-      "text": "which rule do you break?",
-      "sub": "i'm building EARND. follow @earndapp for the launch."
-    }
-  ]
+ "account": "@ezyxbt",
+ "account_type": "founder",
+ "canvas": "1080x1920",
+ "ai_images": false,
+ "ai_note": "real founder photos and real app screens, nothing generated",
+ "status": "approved (founder 11-23); post Mon 23 Nov 23:20",
+ "set_id": "2026-11-23-ezyxbt-test-6-gym-rules",
+ "format": "native-text tip slideshow",
+ "new_format_test": "'N rules' list (Watch, scan 11-23: moneyideas30 1.3M, investips_ 323K, finance)",
+ "topic_source": "scan 11-23 (finance 'money rules' structure); EARND's rules",
+ "pain_cover": false,
+ "caption": "my 6 gym rules. number 5 is the one nobody follows. #gymtips #gymtok #upperlower #progressiveoverload #consistency",
+ "slides": [
+  {
+   "type": "cover",
+   "photo": {
+    "file": "b7-15.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "hook": "my 6 gym rules",
+   "sub": "(i don't break these)",
+   "hook_y": 0.14
+  },
+  {
+   "type": "list",
+   "photo": {
+    "file": "b10-03.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "title": "the rules",
+   "lines": [
+    "1. one plan for 12 weeks",
+    "2. 2 hard sets, 1–2 reps left",
+    "3. write every set down",
+    "4. beat last time, then add weight",
+    "5. missed a day? move it",
+    "6. rest 2–3 min on big lifts"
+   ]
+  },
+  {
+   "type": "list",
+   "photo": {
+    "file": "b11-05.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "title": "number 5",
+   "lines": [],
+   "text": "a missed monday isn't a lost week. do it tuesday."
+  },
+  {
+   "type": "tip",
+   "photo": {
+    "file": "b9-03.jpg",
+    "focus": [
+     0.5,
+     0.4
+    ]
+   },
+   "label": "the real tip: rule 3 does itself",
+   "text": "every set saved. last time's numbers on screen.",
+   "shot": "01-app/assets/exercise-target.png",
+   "footer": "i'm building it. it's called EARND."
+  },
+  {
+   "type": "cta",
+   "photo": {
+    "file": "b9-08.jpg",
+    "focus": [
+     0.5,
+     0.3
+    ]
+   },
+   "text": "which rule do you break?",
+   "sub": "i'm building EARND. follow @earndapp for the launch."
+  }
+ ]
 }

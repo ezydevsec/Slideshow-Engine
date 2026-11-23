@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-23-earndapp-video-compare-weight
 
-**Status: draft, waiting for founder approval. Post by hand Mon 23 Nov, 19:00 UK.** Format: @stickmaxx progressive-overload comparison, Higgsfield 3D (comparison day) — new opener: result on screen in the first second (review 11-22).
+**Status: approved (founder 11-23). Post by hand Mon 23 Nov, 19:00 UK.** Format: @stickmaxx progressive-overload comparison, Higgsfield 3D (comparison day) — new opener: result on screen in the first second (review 11-22).
 
 - **Account:** @earndapp
 - **Upload:** compare.mp4 (1080×1920, 16.5 s, sound baked in)

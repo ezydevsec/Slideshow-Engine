@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-23-ezyxbt-test-6-gym-rules
 
-**Status: draft, waiting for founder approval. Post by hand Mon 23 Nov, 23:20 UK.** Format: native-text tip slideshow.
+**Status: approved (founder 11-23). Post by hand Mon 23 Nov, 23:20 UK.** Format: native-text tip slideshow.
 
 - **Account:** @ezyxbt
 - **Upload:** slide-01.jpg … slide-05.jpg (1080×1920)

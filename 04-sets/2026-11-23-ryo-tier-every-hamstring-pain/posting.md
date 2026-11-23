@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-23-ryo-tier-every-hamstring-pain
 
-**Status: draft, waiting for founder approval. Post by hand Mon 23 Nov, 19:40 UK.** Format: bluebro-style tier list (white, gritty anime Ryo).
+**Status: approved (founder 11-23). Post by hand Mon 23 Nov, 19:40 UK.** Format: bluebro-style tier list (white, gritty anime Ryo).
 
 - **Account:** @earnie.lifts
 - **Upload:** slide-01.jpg … slide-08.jpg (1080×1350)

@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-23-whatif-video-mirror-muscles
 
-**Status: draft, waiting for founder approval. Post by hand Mon 23 Nov, 19:30 UK.** Format: what-if escalation video (Explainer 3D, Higgsfield, narrated).
+**Status: approved (founder 11-23). Post by hand Mon 23 Nov, 19:30 UK.** Format: what-if escalation video (Explainer 3D, Higgsfield, narrated).
 
 - **Account:** @whatif.overload
 - **Upload:** mirror.mp4 (1080×1920, 27.5 s, narration + sound baked in)

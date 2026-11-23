@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-24-earndapp-reply-rate-my-split
 
-**Status: draft, waiting for founder approval.** Format: reply-to-comment slideshow (new-format test), pick-1 look.
+**Status: scrapped (founder 11-23). Do not post.** Format: reply-to-comment slideshow (new-format test), pick-1 look.
 
 - **Account:** @earndapp (TikTok)
 - **Post at:** Tue 24 Nov, 15:00 UK (10:00 US East)

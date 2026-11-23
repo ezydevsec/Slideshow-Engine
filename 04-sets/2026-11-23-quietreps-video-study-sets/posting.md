@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-23-quietreps-video-study-sets
 
-**Status: draft, waiting for founder approval. Post by hand Mon 23 Nov, 18:30 UK.** Format: gold-line study one-liner (winner remake #2 of 'same 8 sets…', 988 views), Higgsfield Minimal Line.
+**Status: approved (founder 11-23). Post by hand Mon 23 Nov, 18:30 UK.** Format: gold-line study one-liner (winner remake #2 of 'same 8 sets…', 988 views), Higgsfield Minimal Line.
 
 - **Account:** @quiet.reps4
 - **Upload:** sets.mp4 (1080×1920, 15 s, sound baked in)

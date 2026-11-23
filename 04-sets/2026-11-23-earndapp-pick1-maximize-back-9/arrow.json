@@ -1,29 +1,150 @@
 {
-  "set_id": "2026-11-23-earndapp-pick1-maximize-back-9",
-  "status": "draft, awaiting approval",
-  "format": "one muscle, N exercises ('maximize your X with these', promoted 11-23) in the pick-1 look, 9 slides",
-  "account": "@earndapp",
-  "account_type": "brand",
-  "canvas": "1080x1350",
-  "ai_images": true,
-  "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
-  "new_format_test": "'maximize your X with these' hook (gate passed 11-23: rajandroh 992K, josiahhduran 190K, shemoves99 65K)",
-  "topic_source": "EARND Upper A/B back picks (pulldown, chest-supported row, pullover, shrug)",
-  "pain_cover": false,
-  "caption": "maximize your back with these 4. 2 hard sets each, twice a week. save it for upper day 💾 #backworkout #upperbody #gymtips #latpulldown #workoutplan",
-  "slides": [
-    {"type": "cover", "title": [["maximize", false], ["your back", true], ["with these 4", false]], "sub": "(width, thickness, traps: covered)", "pose": "pulldown"},
-    {"type": "structure", "title": "the whole back", "sub": "4 exercises. 2 hard sets each.",
-     "items": ["lats: lat pulldown", "mid back: chest-supported row", "lat stretch: pullover", "traps: shrug"], "note": "4–8 reps. twice a week."},
-    {"type": "pick", "n": 1, "muscle": "lats", "sets": "2 × 4–8", "anatomy": "lats", "options": [["lat pulldown", "pulldown"]], "note": "pull to your upper chest. full stretch at the top."},
-    {"type": "pick", "n": 2, "muscle": "mid back", "sets": "2 × 4–8", "anatomy": "upper-back", "options": [["chest-supported row", "chest-supported-row"]], "note": "chest on the pad. no swinging."},
-    {"type": "pick", "n": 3, "muscle": "lats, stretch", "sets": "2 × 4–8", "anatomy": "lats", "options": [["pullover", "pullover"]], "note": "arms straight. feel the stretch."},
-    {"type": "pick", "n": 4, "muscle": "traps", "sets": "2 × 4–8", "anatomy": "traps", "options": [["shrug", "shrug"]], "note": "straight up. pause at the top."},
-    {"type": "structure", "title": "where they go", "sub": "split across your two upper days.",
-     "items": ["upper A: pulldown + row", "upper B: pullover + shrug"], "note": "every back muscle, every week."},
-    {"type": "structure", "title": "how hard", "sub": "the part people skip.",
-     "items": ["stop 1–2 reps short", "beat last time's reps", "then add weight"], "note": "hard sets. not more sets."},
-    {"type": "app", "title": [["EARND shows you", false], ["what to beat", true], ["on every set", false]],
-     "shot": "01-app/assets/exercise-target.png", "crop": [0.0, 0.07, 1.0, 0.47], "example": true, "footer": "EARND launches soon. follow for the launch."}
-  ]
+ "set_id": "2026-11-23-earndapp-pick1-maximize-back-9",
+ "status": "approved (founder 11-23); post Mon 23 Nov 23:00",
+ "format": "one muscle, N exercises ('maximize your X with these', promoted 11-23) in the pick-1 look, 9 slides",
+ "account": "@earndapp",
+ "account_type": "brand",
+ "canvas": "1080x1350",
+ "ai_images": true,
+ "ai_note": "mascot and anatomy art are generated: TikTok AI label ON",
+ "new_format_test": "'maximize your X with these' hook (gate passed 11-23: rajandroh 992K, josiahhduran 190K, shemoves99 65K)",
+ "topic_source": "EARND Upper A/B back picks (pulldown, chest-supported row, pullover, shrug)",
+ "pain_cover": false,
+ "caption": "maximize your back with these 4. 2 hard sets each, twice a week. save it for upper day 💾 #backworkout #upperbody #gymtips #latpulldown #workoutplan",
+ "slides": [
+  {
+   "type": "cover",
+   "title": [
+    [
+     "maximize",
+     false
+    ],
+    [
+     "your back",
+     true
+    ],
+    [
+     "with these 4",
+     false
+    ]
+   ],
+   "sub": "(width, thickness, traps: covered)",
+   "pose": "pulldown"
+  },
+  {
+   "type": "structure",
+   "title": "the whole back",
+   "sub": "4 exercises. 2 hard sets each.",
+   "items": [
+    "lats: lat pulldown",
+    "mid back: chest-supported row",
+    "lat stretch: pullover",
+    "traps: shrug"
+   ],
+   "note": "4–8 reps. twice a week."
+  },
+  {
+   "type": "pick",
+   "n": 1,
+   "muscle": "lats",
+   "sets": "2 × 4–8",
+   "anatomy": "lats",
+   "options": [
+    [
+     "lat pulldown",
+     "pulldown"
+    ]
+   ],
+   "note": "pull to your upper chest. full stretch at the top."
+  },
+  {
+   "type": "pick",
+   "n": 2,
+   "muscle": "mid back",
+   "sets": "2 × 4–8",
+   "anatomy": "upper-back",
+   "options": [
+    [
+     "chest-supported row",
+     "chest-supported-row"
+    ]
+   ],
+   "note": "chest on the pad. no swinging."
+  },
+  {
+   "type": "pick",
+   "n": 3,
+   "muscle": "lats, stretch",
+   "sets": "2 × 4–8",
+   "anatomy": "lats",
+   "options": [
+    [
+     "pullover",
+     "pullover"
+    ]
+   ],
+   "note": "arms straight. feel the stretch."
+  },
+  {
+   "type": "pick",
+   "n": 4,
+   "muscle": "traps",
+   "sets": "2 × 4–8",
+   "anatomy": "traps",
+   "options": [
+    [
+     "shrug",
+     "shrug"
+    ]
+   ],
+   "note": "straight up. pause at the top."
+  },
+  {
+   "type": "structure",
+   "title": "where they go",
+   "sub": "split across your two upper days.",
+   "items": [
+    "upper A: pulldown + row",
+    "upper B: pullover + shrug"
+   ],
+   "note": "every back muscle, every week."
+  },
+  {
+   "type": "structure",
+   "title": "how hard",
+   "sub": "the part people skip.",
+   "items": [
+    "stop 1–2 reps short",
+    "beat last time's reps",
+    "then add weight"
+   ],
+   "note": "hard sets. not more sets."
+  },
+  {
+   "type": "app",
+   "title": [
+    [
+     "EARND shows you",
+     false
+    ],
+    [
+     "what to beat",
+     true
+    ],
+    [
+     "on every set",
+     false
+    ]
+   ],
+   "shot": "01-app/assets/exercise-target.png",
+   "crop": [
+    0.0,
+    0.07,
+    1.0,
+    0.47
+   ],
+   "example": true,
+   "footer": "EARND launches soon. follow for the launch."
+  }
+ ]
 }
