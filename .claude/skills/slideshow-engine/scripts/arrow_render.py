@@ -63,6 +63,13 @@ def render(set_dir):
         img = Image.new("RGB", (W, H), BG); d = ImageDraw.Draw(img); t = s["type"]
         if t == "cover":
             y = 150
+            if s.get("comment"):  # reply-to-comment cover: the viewer's comment in a white bubble above the title
+                fl, fc = F(BOLD, 28), F(BLACK, 46); lab = s.get("comment_label", "replying to your comment")
+                bw = max(d.textlength(lab, font=fl), d.textlength(s["comment"], font=fc)) + 72
+                bx = (W - bw) / 2; d.rounded_rectangle([bx, 110, bx + bw, 250], 34, fill=(255, 255, 255))
+                d.polygon([(bx + 60, 248), (bx + 96, 248), (bx + 66, 282)], fill=(255, 255, 255))
+                d.text((bx + 36, 128), lab, font=fl, fill=(120, 120, 125)); d.text((bx + 36, 170), s["comment"], font=fc, fill=DARK)
+                y = 320
             for text, hl in s["title"]: y = hl_line(d, 0, y, text, 92, hl, center=True)
             if s.get("sub"):
                 f = F(ITAL, 34); tw = d.textlength(s["sub"], font=f); d.text(((W - tw) / 2, y + 20), s["sub"], font=f, fill=SOFT); y += 80
