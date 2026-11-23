@@ -2,7 +2,7 @@
 
 Rules: use his **topics and the papers**, never his wording, jokes or insults; never present him as endorsing EARND. A study goes in a video only once it's marked **verified** (checked on PubMed or the abstract, real numbers noted). Skip physique, PED/"natty", diet and medical topics.
 
-Last post logged: 2026-11-21 (DgA5Hz9Bz59, no claim); last topic post 2026-11-20 (Df-Li0OA3N0).
+Last post logged: 2026-11-21 (DgA5Hz9Bz59, no claim); last topic post 2026-11-20 (Df-Li0OA3N0). Checked 2026-11-23: nothing newer.
 
 | Post date | Post | Views | Claim | Studies cited | Study-race angle (@earndapp) | Status |
 |---|---|---|---|---|---|---|

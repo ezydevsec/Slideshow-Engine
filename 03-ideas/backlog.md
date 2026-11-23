@@ -278,3 +278,11 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - **@quiet.reps4:** "go quiet for 12 weeks" if not used Sunday; else "the set nobody saw" (gold line figure, empty gym, one rep, the counter clicks up).
 - **@whatif.overload:** "what if Dale only trained the muscles he can see in the mirror?" (real life: 2× a week, the whole body).
 - Weekly stickman comparison: Ryo and @ezyxbt still due this week (new week starts Mon).
+
+## Daily scan 2026-11-23 (trend file: 02-research/trends/2026-11-23.md, limited: Apify out of credit) — ideas for Tue 24 Nov
+- **@earndapp video (study-race day):** "upright vs leaning back on pulldowns" (Buonsenso 2025, verified): lats worked the same; the lean moved a bit onto the rear delts. **New opener per the 22 Nov review:** the result on screen in the first second ("same lat work."), then the race. Higgsfield 3D, real app screen at the end. Frame as muscle activity (EMG), not growth.
+- **@earndapp slideshows (9 slides default):** (1) **new-format test: reply to a comment, "rating your split: PPL x UL x delts & arms"** (drafted, 7 slides, 15:00). (2) Pick-1 "maximize your back with these" (Watch structure, Upper A/B back picks). Pain cover option: "6 days a week and still behind?".
+- **@ezyxbt:** test "5 things I stopped doing in the gym" (Watch, skincare structure) if not run Monday; else "your first 12 weeks, step by step" (finance structure). One-liner only if under 3 this week. Weekly stickman comparison still due.
+- **Ryo:** pack part 4 already scheduled (15:40). Winner remake ×5: "every shoulder exercise, ranked" ran 11-22 → next "every hamstring exercise, ranked" with a pain line on the cover ("RDLs feel all lower back? every hamstring exercise, ranked"). Weekly stickman comparison still due.
+- **@quiet.reps4:** gold-line study one-liner (winner remake): "same lat work, leaning or not." (Buonsenso 2025) — or Krieger "2–3 sets ≈ 4–6 sets". Use a different study than @earndapp's video if both post the same day.
+- **@whatif.overload:** "what if Dale only trained the muscles he can see in the mirror?" if not used Monday; else "what if Dale did a 6-day split with 1 rest day… for a year" (ties to the reply post's topic, different format and look).
