@@ -1,0 +1,190 @@
+{
+ "set_id": "2026-11-23-earndapp-video-compare-weight",
+ "account": "@earndapp",
+ "account_type": "brand",
+ "format": "@stickmaxx progressive-overload comparison, Higgsfield 3D (comparison day) — new opener: result on screen in the first second (review 11-22)",
+ "status": "draft, awaiting approval",
+ "topic_source": "EARND's progression rule (beat last time, then add weight); weights are an example, labelled",
+ "accent": [
+  198,
+  255,
+  0
+ ],
+ "out": "compare.mp4",
+ "endcard": [
+  "EARND launches soon.",
+  "follow for the launch."
+ ],
+ "ai_images": true,
+ "ai_note": "start frame Higgsfield Nano Banana, motion Kling 3.0 pro: AI label ON",
+ "caption": "same curls for 12 weeks. one kept the same dumbbells, one added a little every week. are you the left or the right? 👇 #gymtok #progressiveoverload #bicepcurl #upperlower #gymtips",
+ "segments": [
+  {
+   "dur": 10,
+   "clips": [
+    "hf/race.mp4"
+   ]
+  },
+  {
+   "dur": 3.5,
+   "image": "../../01-app/assets/progress-chest-press.png",
+   "height": 1500,
+   "y": 330
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.1,
+   "t1": 10,
+   "text": "WEEK 12:",
+   "x": 540,
+   "y": 90,
+   "size": 64,
+   "color": "white"
+  },
+  {
+   "t0": 0.1,
+   "t1": 10,
+   "text": "10 kg",
+   "x": 300,
+   "y": 200,
+   "size": 76,
+   "color": [
+    110,
+    190,
+    255
+   ]
+  },
+  {
+   "t0": 0.1,
+   "t1": 10,
+   "text": "vs",
+   "x": 540,
+   "y": 200,
+   "size": 60,
+   "color": [
+    245,
+    245,
+    245
+   ]
+  },
+  {
+   "t0": 0.1,
+   "t1": 10,
+   "text": "15 kg.",
+   "x": 790,
+   "y": 200,
+   "size": 76,
+   "color": [
+    198,
+    255,
+    0
+   ]
+  },
+  {
+   "t0": 0.4,
+   "t1": 10,
+   "text": "same curls. one never added weight.",
+   "x": 540,
+   "y": 320,
+   "size": 36,
+   "color": "white"
+  },
+  {
+   "t0": 0.4,
+   "t1": 10,
+   "text": "example",
+   "x": 540,
+   "y": 400,
+   "size": 26,
+   "color": "grey"
+  },
+  {
+   "t0": 1.2,
+   "t1": 8.6,
+   "text": "WEEK {n}",
+   "x": 540,
+   "y": 1690,
+   "size": 44,
+   "color": "white",
+   "n0": 1,
+   "step": 1,
+   "rate": 1.5,
+   "max": 11
+  },
+  {
+   "t0": 1.2,
+   "t1": 10,
+   "text": "10 kg",
+   "x": 300,
+   "y": 1790,
+   "size": 40,
+   "color": [
+    110,
+    190,
+    255
+   ]
+  },
+  {
+   "t0": 1.2,
+   "t1": 8.6,
+   "text": "{n} kg",
+   "x": 790,
+   "y": 1790,
+   "size": 40,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "n0": 10,
+   "step": 0.5,
+   "rate": 1.35,
+   "max": 10
+  },
+  {
+   "t0": 8.6,
+   "t1": 10,
+   "text": "15 kg",
+   "x": 790,
+   "y": 1790,
+   "size": 40,
+   "color": [
+    198,
+    255,
+    0
+   ]
+  },
+  {
+   "t0": 8.6,
+   "t1": 10,
+   "text": "WEEK 12",
+   "x": 540,
+   "y": 1690,
+   "size": 44,
+   "color": "white"
+  },
+  {
+   "t0": 10.1,
+   "t1": 13.5,
+   "text": "EARND logs every set",
+   "x": 540,
+   "y": 150,
+   "size": 44,
+   "color": "white"
+  },
+  {
+   "t0": 10.4,
+   "t1": 13.5,
+   "text": "so you can see when you've improved.",
+   "x": 540,
+   "y": 225,
+   "size": 38,
+   "color": [
+    198,
+    255,
+    0
+   ]
+  }
+ ]
+}

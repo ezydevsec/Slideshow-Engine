@@ -1,0 +1,152 @@
+{
+ "set_id": "2026-11-23-whatif-video-mirror-muscles",
+ "account": "@whatif.overload",
+ "account_type": "theme",
+ "format": "what-if escalation video (Explainer 3D, Higgsfield, narrated)",
+ "status": "draft, awaiting approval",
+ "topic_source": "joke escalation; real life = upper/lower, every muscle twice a week (EARND's split)",
+ "accent": [
+  255,
+  90,
+  80
+ ],
+ "out": "mirror.mp4",
+ "endcard": [
+  "this page is made by EARND,",
+  "our gym app. follow @earndapp"
+ ],
+ "ai_images": true,
+ "ai_note": "start frames Higgsfield Nano Banana, motion Kling 3.0 pro, narrator ElevenLabs v4: AI label ON",
+ "caption": "dale only trained what he could see in the mirror. month 6: lightbulb 💡 #gymhumor #gymtok #whatif #gymmemes #legday",
+ "segments": [
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c1.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c2.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c3.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c4.mp4"
+   ]
+  },
+  {
+   "dur": 4.5,
+   "image": "hf/card.png",
+   "height": 1920,
+   "y": 0
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.2,
+   "t1": 5,
+   "text": "WHAT IF DALE ONLY TRAINED",
+   "x": 540,
+   "y": 90,
+   "size": 52,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 0.2,
+   "t1": 5,
+   "text": "WHAT HE SEES IN THE MIRROR?",
+   "x": 540,
+   "y": 190,
+   "size": 52,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 5,
+   "t1": 10,
+   "text": "MONTH 2",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 5.4,
+   "t1": 10,
+   "text": "chest. biceps. chest.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 10,
+   "t1": 15,
+   "text": "MONTH 6",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 10.4,
+   "t1": 15,
+   "text": "lightbulb mode.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 15,
+   "t1": 20,
+   "text": "THEN HE WALKED.",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 20.1,
+   "t1": 24.5,
+   "text": "REAL LIFE:",
+   "x": 540,
+   "y": 720,
+   "size": 64,
+   "color": "acc"
+  },
+  {
+   "t0": 20.5,
+   "t1": 24.5,
+   "text": "upper, lower.",
+   "x": 540,
+   "y": 830,
+   "size": 50,
+   "color": "white"
+  },
+  {
+   "t0": 21.0,
+   "t1": 24.5,
+   "text": "twice a week. the whole body.",
+   "x": 540,
+   "y": 910,
+   "size": 46,
+   "color": "white"
+  }
+ ]
+}

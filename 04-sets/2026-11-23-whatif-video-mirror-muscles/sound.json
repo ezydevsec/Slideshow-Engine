@@ -1,0 +1,49 @@
+{
+ "video": "mirror.mp4",
+ "music": "audio/music.mp3",
+ "music_db": -9,
+ "duck_db": -10,
+ "music_fade": [
+  26.0,
+  27.5
+ ],
+ "voice": "voice/narration.wav",
+ "voice_db": 0,
+ "sfx": [
+  {
+   "t": 0.7,
+   "type": "ding",
+   "db": -13
+  },
+  {
+   "t": 4.9,
+   "type": "whoosh",
+   "db": -13
+  },
+  {
+   "t": 9.9,
+   "type": "whoosh",
+   "db": -13
+  },
+  {
+   "t": 14.9,
+   "type": "whoosh",
+   "db": -13
+  },
+  {
+   "t": 17.3,
+   "type": "thud",
+   "db": -8
+  },
+  {
+   "t": 19.95,
+   "type": "boom",
+   "db": -9
+  },
+  {
+   "t": 24.5,
+   "type": "whoosh",
+   "db": -13
+  }
+ ]
+}
