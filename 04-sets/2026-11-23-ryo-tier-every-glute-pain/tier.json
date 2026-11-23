@@ -1,0 +1,24 @@
+{
+  "status": "approved (founder 11-23); post Mon 23 Nov 23:40",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "set_id": "2026-11-23-ryo-tier-every-glute-pain",
+  "pain_cover": true,
+  "winner_remake": "'every lat exercise, ranked' (1,082) remake, rule 1; pain on the cover (review 11-22)",
+  "topic_source": "EARND Lower A glute pick (hip thrust); ranking is our opinion",
+  "caption": "squats never hit your glutes? every glute exercise, ranked 👇 #gluteworkout #legday #gymtok #tierlist #gymtips",
+  "slides": [
+    {"type": "cover", "title": ["squats never hit", "your glutes?"], "sub": "every glute exercise, ranked.", "pose": "hip-thrust"},
+    {"type": "list", "title": "the whole list", "sub": "load the glutes, not just your quads.", "rows": [["S", ["hip thrust"]], ["A", ["RDL", "split squat"]], ["B", ["45° back extension", "leg press (feet high)"]], ["C", ["cable kickback"]]]},
+    {"type": "tier", "tier": "S", "name": "hip thrust", "works": "glutes", "lines": ["easy to load heavy, glutes do the work.", "squeeze at the top. 2 × 4–8."], "pose": "hip-thrust"},
+    {"type": "tier", "tier": "A", "name": "RDL", "works": "glutes + hamstrings", "lines": ["hips back, big stretch at the bottom.", "stop before your back rounds."], "pose": "romanian-deadlift"},
+    {"type": "tier", "tier": "A", "name": "split squat", "works": "glutes + quads", "lines": ["lean forward a little for more glute.", "one leg at a time."], "pose": "split-squat"},
+    {"type": "tier", "tier": "B", "name": "45° back extension", "works": "glutes + hamstrings", "lines": ["round the upper back slightly,", "push the hips into the pad."], "pose": "back-extension-45"},
+    {"type": "tier", "tier": "B", "name": "leg press (feet high)", "works": "glutes + quads", "lines": ["feet high on the plate, go deep.", "still mostly quads."], "pose": "leg-press"},
+    {"type": "tier", "tier": "C", "name": "cable kickback", "works": "glutes", "lines": ["fine as a finisher.", "too light to build on."], "pose": "cable-kickback", "footer": "ryo trains on EARND, our app. follow @earndapp"}
+  ]
+}
