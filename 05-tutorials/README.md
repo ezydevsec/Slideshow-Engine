@@ -60,3 +60,7 @@ Free 5 s one-rep Kling clips from each start frame, vidstab, full loop, unless n
 | Single-leg extension | `v2/out/single-leg-extension.mp4` | for review (only the near leg moves) |
 | Single-leg curl | `v2/out/single-leg-curl.mp4` | for review: hard to see that only one leg works; may need a redo |
 | Calf press | — | **open**: the model keeps putting the heels on the plate (the clip bent the knees instead of the ankles). A seated calf raise frame works (`frames/calf-a4.png`); founder to choose |
+
+## Status 2026-11-24: mascot retired (founder)
+
+Founder 2026-11-24: **no mascot in the tutorials either** (content brief: no mascot in EARND's look). The v2 loops above (graphite mascot) are not to be shipped. Note: the content brief also lists "video exercise demos" as *not in the app*; the next tutorial style waits for the founder.
