@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-24-earndapp-video-story-delorme
 
-**Status: draft, waiting for founder approval.** Format: narrated history story ad (founder link 11-24, Deepstash ad structure), painted look, one-word captions.
+**Status: approved (founder 11-24). Post by hand Tue 24 Nov, 21:00 UK.** Format: narrated history story ad (founder link 11-24, Deepstash ad structure), painted look, one-word captions.
 
 - **Account:** @earndapp
 - **Upload:** delorme.mp4 (1080×1920, 61 s, narration + music baked in)
