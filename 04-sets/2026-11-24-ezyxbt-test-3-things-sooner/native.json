@@ -1,0 +1,84 @@
+{
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "status": "draft, awaiting approval",
+  "set_id": "2026-11-24-ezyxbt-test-3-things-sooner",
+  "format": "native-text tip slideshow",
+  "new_format_test": "'X I wish I started sooner' (Watch, scan 11-24: harleyalexander.fit 166K)",
+  "topic_source": "scan 11-24 ('chest exercises I wish I started sooner'); EARND's rules",
+  "pain_cover": false,
+  "caption": "3 things i wish i started sooner in the gym. number 1 would've saved me a year. #gymtips #gymtok #upperlower #progressiveoverload #gymbeginner",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b9-07.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "3 things i wish i started sooner in the gym",
+      "sub": "(number 1 would've saved me a year)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b11-01.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "i wish i started",
+      "lines": [
+        "1. writing every set down",
+        "2. stopping 1–2 reps short",
+        "3. one plan for 12 weeks"
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b10-04.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "number 1",
+      "lines": [],
+      "text": "if you don't know last week's numbers, you're guessing."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b9-02.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip: let it remember for you",
+      "text": "last time's numbers show up on every set.",
+      "shot": "01-app/assets/exercise-target.png",
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b10-02.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "what do you wish you started sooner?",
+      "sub": "i'm building EARND. follow @earndapp for the launch."
+    }
+  ]
+}

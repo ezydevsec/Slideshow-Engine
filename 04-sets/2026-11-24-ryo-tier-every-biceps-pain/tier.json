@@ -1,0 +1,23 @@
+{
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "set_id": "2026-11-24-ryo-tier-every-biceps-pain",
+  "pain_cover": true,
+  "winner_remake": "'every lat exercise, ranked' (1,082) remake, rule 1; pain on the cover (review 11-22)",
+  "topic_source": "EARND Upper A/B biceps picks (preacher curl, Bayesian/hammer curl); ranking is our opinion",
+  "caption": "curls never grow your arms? every biceps exercise, ranked 👇 #bicepsworkout #armday #gymtok #tierlist #gymtips",
+  "slides": [
+    {"type": "cover", "title": ["curls never grow", "your arms?"], "sub": "every biceps exercise, ranked.", "pose": "preacher-curl"},
+    {"type": "list", "title": "the whole list", "sub": "arms pinned, no swinging.", "rows": [["S", ["preacher curl", "bayesian curl"]], ["A", ["dumbbell curl"]], ["B", ["chin-up"]], ["C", ["cheat curl"]]]},
+    {"type": "tier", "tier": "S", "name": "preacher curl", "works": "biceps", "lines": ["the pad stops the swing.", "full stretch at the bottom. 2 × 4–8."], "pose": "preacher-curl"},
+    {"type": "tier", "tier": "S", "name": "bayesian curl", "works": "biceps", "lines": ["arm behind you = big stretch.", "the cable keeps it hard all the way."], "pose": "bayesian-curl"},
+    {"type": "tier", "tier": "A", "name": "dumbbell curl", "works": "biceps", "lines": ["simple and easy to load.", "elbows still, no hip drive."], "pose": "hammer-curl"},
+    {"type": "tier", "tier": "B", "name": "chin-up", "works": "lats + biceps", "lines": ["great for your back,", "the biceps are along for the ride."], "pose": "pull-up"},
+    {"type": "tier", "tier": "C", "name": "cheat curl", "works": "lower back (mostly)", "lines": ["more weight, less biceps.", "your hips are doing the lifting."], "pose": "cheat-curl", "footer": "ryo trains on EARND, our app. follow @earndapp"}
+  ]
+}
