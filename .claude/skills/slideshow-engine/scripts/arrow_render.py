@@ -16,8 +16,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "..", ".."))
 W, H, M = 1080, 1350, 80
-BG, INK, SOFT, LIME, DARK = (11, 11, 11), (245, 245, 245), (160, 160, 165), (198, 255, 0), (11, 11, 11)
-BLACK = "/usr/share/fonts/opentype/inter/Inter-Black.otf"; BOLD = "/usr/share/fonts/opentype/inter/Inter-Bold.otf"
+BG, INK, SOFT, LIME, DARK = (11, 12, 13), (245, 244, 240), (138, 142, 146), (198, 255, 61), (11, 12, 13)   # content brief 2026-11-24
+BLACK = "/usr/share/fonts/opentype/inter/Inter-Bold.otf"; BOLD = "/usr/share/fonts/opentype/inter/Inter-SemiBold.otf"   # brief: Inter Bold 700 headlines, SemiBold 600 subheads
 ITAL = "/usr/share/fonts/opentype/inter/Inter-MediumItalic.otf"
 if not os.path.exists(ITAL): ITAL = "/usr/share/fonts/opentype/inter/Inter-Medium.otf"
 F = lambda p, s: ImageFont.truetype(p, s)
@@ -73,7 +73,7 @@ def render(set_dir):
             for text, hl in s["title"]: y = hl_line(d, 0, y, text, 92, hl, center=True)
             if s.get("sub"):
                 f = F(ITAL, 34); tw = d.textlength(s["sub"], font=f); d.text(((W - tw) / 2, y + 20), s["sub"], font=f, fill=SOFT); y += 80
-            fit_in(img, pose(s.get("pose", "cover-arms-open")), (M, y + 20, W - M, H - 40))
+            if s.get("pose"): fit_in(img, pose(s["pose"]), (M, y + 20, W - M, H - 40))   # no mascot on @earndapp since the brief (2026-11-24)
         elif t == "structure":
             y = 150; y = hl_line(d, M, y, s["title"], 80, False)
             if s.get("sub"):
@@ -111,6 +111,7 @@ def render(set_dir):
             sh.thumbnail((W - 2 * M, H - y - 240), Image.LANCZOS)
             m = Image.new("L", sh.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0) + sh.size, 36, fill=255)
             px = (W - sh.width) // 2; py = int(y + 60); img.paste(sh, (px, py), m)
+            d.rounded_rectangle([px - 10, py - 10, px + sh.width + 10, py + sh.height + 10], 44, outline=(42, 45, 48), width=8)   # stroked phone frame (brief)
             if s.get("example"):
                 f = F(BLACK, 28); tw = d.textlength("example", font=f)
                 d.rounded_rectangle([px + sh.width - tw - 40, py - 54, px + sh.width, py - 10], 10, fill=LIME); d.text((px + sh.width - tw - 20, py - 50), "example", font=f, fill=DARK)

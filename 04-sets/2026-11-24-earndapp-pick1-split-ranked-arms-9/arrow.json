@@ -5,8 +5,8 @@
   "account": "@earndapp",
   "account_type": "brand",
   "canvas": "1080x1350",
-  "ai_images": true,
-  "ai_note": "mascot art is generated: TikTok AI label ON",
+  "ai_images": false,
+  "ai_note": "no generated art (mascot retired, content brief 2026-11-24): real app screen only",
   "new_format_test": "'ranking the best arm workout splits' (scan 11-24: tombeckles 436K)",
   "winner_remake": "split ranking (1,864) remake #3, new angle: how often your arms get trained",
   "topic_source": "winner remake (rule 1); EARND's 4-day upper/lower (biceps and triceps on both upper days)",
@@ -23,10 +23,13 @@
         [
           "for your arms",
           true
+        ],
+        [
+          "worst to best",
+          false
         ]
       ],
-      "sub": "(by how often they get trained, worst → best)",
-      "pose": "thinking"
+      "sub": "(by how often your biceps and triceps get trained)"
     },
     {
       "type": "structure",
@@ -108,7 +111,7 @@
         "upper B: hammer curl + extension",
         "4 days. arms every upper day."
       ],
-      "note": "miss one? move it."
+      "note": "miss a day? the plan just rolls on."
     },
     {
       "type": "app",
@@ -134,7 +137,7 @@
         0.76
       ],
       "example": false,
-      "footer": "EARND launches soon. follow for the launch."
+      "footer": "Coming soon to iPhone. Join the waitlist."
     }
   ]
 }

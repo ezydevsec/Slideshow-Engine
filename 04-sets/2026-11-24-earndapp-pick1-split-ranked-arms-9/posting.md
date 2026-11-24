@@ -5,7 +5,7 @@
 - **Account:** @earndapp
 - **Upload:** slide-01.jpg … slide-09.jpg (1080×1350)
 - **Caption:** every split, ranked for your arms. how often do yours actually get trained? 👇 #armworkout #gymsplit #upperlower #biceps #triceps
-- **AI-generated content label:** **ON**
+- **AI-generated content label:** OFF (no generated art: real app screen only)
 - **Before posting:** no download link (prelaunch). Text is baked in: add nothing in TikTok's editor.
 - **Topic source:** winner remake (rule 1); EARND's 4-day upper/lower (biceps and triceps on both upper days)
 - **Test / remake:** 'ranking the best arm workout splits' (scan 11-24: tombeckles 436K)

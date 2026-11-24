@@ -6,10 +6,14 @@
     "note": "Stays null until launch. Download CTAs are only allowed once phase is 'launched' and this is set."
   },
   "palette": {
-    "black": "#0B0B0B",
-    "lime": "#C6FF00",
-    "white": "#FFFFFF",
-    "status": "working palette, confirmed 2026-10-24"
+    "black": "#0B0C0D",
+    "lime": "#C6FF3D",
+    "white": "#F5F4F0",
+    "secondary": "#8A8E92",
+    "tertiary": "#5C6165",
+    "card": "#1C1E20",
+    "stroke": "#2A2D30",
+    "status": "content brief, founder 2026-11-24 (was #0B0B0B / #C6FF00 / #FFFFFF)"
   },
   "global_rules": [
     "Never invent user experiences, testimonials, or independent endorsements, on any account.",
@@ -43,22 +47,22 @@
         "cta.prelaunch",
         "disclosure"
       ],
-      "voice": "Lowercase hooks in the audience's language; the app slide onward in direct EARND product language (\"EARND shows...\", \"EARND puts...\"). No first-person user claims.",
+      "voice": "Lowercase hooks in the audience's language; the app slide onward in direct EARND product language (\"EARND shows...\", \"EARND puts...\"). No first-person user claims. Content brief 2026-11-24: direct, confident, a bit blunt, short sentences, numbers over adjectives, no hype words.",
       "visual_template": {
         "name": "black-and-lime",
         "canvas": "1080x1920",
-        "bg": "#0B0B0B",
-        "hook_and_cta_text": "#C6FF00",
-        "middle_text": "#FFFFFF",
-        "app_slide": "black text on a #C6FF00 box over the real screenshot",
+        "bg": "#0B0C0D",
+        "hook_and_cta_text": "#C6FF3D",
+        "middle_text": "#F5F4F0",
+        "app_slide": "real current app screen in a stroked phone frame (#2A2D30), one lime #C6FF3D highlight",
         "text_mode": "plain (app slide: background)",
         "account_mark": "none: no handle/logo tag on slides (founder, 2026-10-30)",
-        "mascot_note": "@earnie.lifts paused 2026-10-31: the mascot can be used on @earndapp again (edu-template sets)."
+        "mascot_note": "No mascot on @earndapp (content brief, founder 2026-11-24)."
       },
       "cta": {
-        "prelaunch": "EARND launches soon. Follow for the launch.",
+        "prelaunch": "Coming soon to iPhone. Join the waitlist.",
         "launched": "TO CONFIRM at launch",
-        "destination_prelaunch": "follow @earndapp",
+        "destination_prelaunch": "waitlist link in @earndapp bio (founder to add the waitlist URL; until then the bio link)",
         "destination_launched": "launch.download_url"
       },
       "disclosure": "The account is EARND itself, so the tie is self-evident.",
