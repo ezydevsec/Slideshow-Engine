@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-24-earndapp-pick1-split-ranked-arms-9
 
-**Status: draft, waiting for founder approval. Post by hand Tue 24 Nov, 23:00 UK.** Format: split ranking in the pick-1 look, 9 slides.
+**Status: approved (founder 11-24). Post by hand Tue 24 Nov, 23:00 UK.** Format: split ranking in the pick-1 look, 9 slides.
 
 - **Account:** @earndapp
 - **Upload:** slide-01.jpg … slide-09.jpg (1080×1350)

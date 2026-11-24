@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-24-ezyxbt-test-3-things-sooner
 
-**Status: draft, waiting for founder approval. Post by hand Tue 24 Nov, 23:20 UK.** Format: native-text tip slideshow.
+**Status: approved (founder 11-24). Post by hand Tue 24 Nov, 23:20 UK.** Format: native-text tip slideshow.
 
 - **Account:** @ezyxbt
 - **Upload:** slide-01.jpg … slide-05.jpg (1080×1920)
