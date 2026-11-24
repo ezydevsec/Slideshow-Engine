@@ -64,3 +64,5 @@ Free 5 s one-rep Kling clips from each start frame, vidstab, full loop, unless n
 ## Status 2026-11-24: mascot retired (founder)
 
 Founder 2026-11-24: **no mascot in the tutorials either** (content brief: no mascot in EARND's look). The v2 loops above (graphite mascot) are not to be shipped. Note: the content brief also lists "video exercise demos" as *not in the app*; the next tutorial style waits for the founder.
+
+**Founder 2026-11-24: tutorials are off for now.** No further tutorial work until the founder restarts it.
