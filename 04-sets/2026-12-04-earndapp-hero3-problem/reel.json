@@ -1,0 +1,153 @@
+{
+ "out": "hero3.mp4",
+ "segments": [
+  {
+   "photo": "01-app/assets/demos/notes-log-fake.png",
+   "dur": 3.0
+  },
+  {
+   "photo": "01-app/assets/demos/notes-log-fake.png",
+   "dur": 1.2,
+   "dim": 0.6
+  },
+  {
+   "clip": "01-app/assets/demos/one-tap.mp4",
+   "ss": 0,
+   "dur": 7.6,
+   "frame": {
+    "scale": 0.74,
+    "y": 330
+   }
+  }
+ ],
+ "text": [
+  {
+   "t0": 0,
+   "t1": 1.5,
+   "y": 1240,
+   "size": 84,
+   "lines": [
+    [
+     [
+      "Same weights for",
+      0
+     ]
+    ],
+    [
+     [
+      "6 months?",
+      1
+     ]
+    ]
+   ]
+  },
+  {
+   "t0": 1.5,
+   "t1": 3.0,
+   "y": 1240,
+   "size": 84,
+   "lines": [
+    [
+     [
+      "Your log looks",
+      0
+     ]
+    ],
+    [
+     [
+      "like this.",
+      0
+     ]
+    ]
+   ]
+  },
+  {
+   "t0": 3.0,
+   "t1": 4.2,
+   "y": 1240,
+   "size": 84,
+   "lines": [
+    [
+     [
+      "No idea what",
+      0
+     ]
+    ],
+    [
+     [
+      "to beat today.",
+      1
+     ]
+    ]
+   ]
+  },
+  {
+   "t0": 4.2,
+   "t1": 6.5,
+   "y": 120,
+   "size": 72,
+   "lines": [
+    [
+     [
+      "EARND tells you.",
+      0
+     ]
+    ],
+    [
+     [
+      "Every set.",
+      1
+     ]
+    ]
+   ]
+  },
+  {
+   "t0": 6.6,
+   "t1": 11.8,
+   "y": 150,
+   "size": 72,
+   "lines": [
+    [
+     [
+      "One tap if you ",
+      0
+     ],
+     [
+      "hit it.",
+      1
+     ]
+    ]
+   ]
+  }
+ ],
+ "taps": [
+  {
+   "t": 6.5,
+   "x": 748,
+   "y": 965
+  }
+ ],
+ "endcard": {
+  "dur": 1.4,
+  "lines": [
+   [
+    [
+     "EARND",
+     1
+    ]
+   ],
+   [
+    [
+     "Coming to iPhone soon.",
+     0
+    ]
+   ],
+   [
+    [
+     "Follow for launch day.",
+     0
+    ]
+   ]
+  ]
+ }
+}

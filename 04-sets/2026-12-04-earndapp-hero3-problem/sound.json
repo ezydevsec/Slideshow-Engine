@@ -1,0 +1,21 @@
+{
+ "video": "hero3.mp4",
+ "music": "audio/music.mp3",
+ "music_db": -6,
+ "music_fade": [
+  12.2,
+  13.2
+ ],
+ "sfx": [
+  {
+   "t": 4.2,
+   "type": "whoosh",
+   "db": -14
+  },
+  {
+   "t": 6.5,
+   "type": "tick",
+   "db": -8
+  }
+ ]
+}

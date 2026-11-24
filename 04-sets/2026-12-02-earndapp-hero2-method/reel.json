@@ -1,0 +1,166 @@
+{
+ "out": "hero2-reel.mp4",
+ "segments": [
+  {
+   "blank": true,
+   "dur": 1.5
+  },
+  {
+   "blank": true,
+   "dur": 1.5
+  },
+  {
+   "blank": true,
+   "dur": 1.5
+  },
+  {
+   "blank": true,
+   "dur": 1.5
+  },
+  {
+   "clip": "01-app/assets/demos/one-tap.mp4",
+   "ss": 1.0,
+   "dur": 3.4,
+   "frame": {
+    "scale": 0.74,
+    "y": 330
+   }
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.0,
+   "t1": 1.5,
+   "y": 800,
+   "size": 96,
+   "lines": [
+    [
+     [
+      "Stop doing",
+      0
+     ]
+    ],
+    [
+     [
+      "5 sets of 12.",
+      1
+     ]
+    ]
+   ]
+  },
+  {
+   "t0": 1.5,
+   "t1": 3.0,
+   "y": 800,
+   "size": 96,
+   "lines": [
+    [
+     [
+      "Two hard sets.",
+      0
+     ]
+    ],
+    [
+     [
+      "4–8 reps.",
+      1
+     ]
+    ]
+   ]
+  },
+  {
+   "t0": 3.0,
+   "t1": 4.5,
+   "y": 800,
+   "size": 96,
+   "lines": [
+    [
+     [
+      "Hit 8 →",
+      0
+     ]
+    ],
+    [
+     [
+      "add weight.",
+      1
+     ]
+    ]
+   ]
+  },
+  {
+   "t0": 4.5,
+   "t1": 6.0,
+   "y": 800,
+   "size": 96,
+   "lines": [
+    [
+     [
+      "Each muscle,",
+      0
+     ]
+    ],
+    [
+     [
+      "twice a week.",
+      1
+     ]
+    ]
+   ]
+  },
+  {
+   "t0": 6.0,
+   "t1": 9.4,
+   "y": 120,
+   "size": 72,
+   "lines": [
+    [
+     [
+      "The ",
+      0
+     ],
+     [
+      "number to beat.",
+      1
+     ]
+    ],
+    [
+     [
+      "Every set.",
+      0
+     ]
+    ]
+   ]
+  }
+ ],
+ "taps": [
+  {
+   "t": 7.3,
+   "x": 748,
+   "y": 965
+  }
+ ],
+ "endcard": {
+  "dur": 1.4,
+  "lines": [
+   [
+    [
+     "EARND",
+     1
+    ]
+   ],
+   [
+    [
+     "Coming to iPhone soon.",
+     0
+    ]
+   ],
+   [
+    [
+     "Follow for launch day.",
+     0
+    ]
+   ]
+  ]
+ }
+}

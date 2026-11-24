@@ -1,0 +1,36 @@
+{
+ "video": "hero2-reel.mp4",
+ "music": "audio/music.mp3",
+ "music_db": -6,
+ "music_fade": [
+  9.8,
+  10.8
+ ],
+ "sfx": [
+  {
+   "t": 1.5,
+   "type": "hit",
+   "db": -12
+  },
+  {
+   "t": 3.0,
+   "type": "hit",
+   "db": -12
+  },
+  {
+   "t": 4.5,
+   "type": "hit",
+   "db": -12
+  },
+  {
+   "t": 6.0,
+   "type": "hit",
+   "db": -12
+  },
+  {
+   "t": 7.3,
+   "type": "tick",
+   "db": -8
+  }
+ ]
+}

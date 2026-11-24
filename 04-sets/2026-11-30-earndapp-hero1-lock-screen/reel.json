@@ -1,0 +1,114 @@
+{
+ "out": "hero1.mp4",
+ "segments": [
+  {
+   "clip": "01-app/assets/demos/lock-screen-tap.mp4",
+   "ss": 0,
+   "dur": 5.0,
+   "hold": 0.6,
+   "frame": {
+    "scale": 0.74,
+    "y": 330
+   }
+  },
+  {
+   "image": "01-app/assets/demos/dynamic-island.png",
+   "dur": 2.2,
+   "inset": {
+    "w": 1000,
+    "y": 760
+   },
+   "zoom": 0.06
+  }
+ ],
+ "text": [
+  {
+   "t0": 0,
+   "t1": 1.8,
+   "y": 120,
+   "size": 72,
+   "lines": [
+    [
+     [
+      "Log sets without",
+      0
+     ]
+    ],
+    [
+     [
+      "unlocking",
+      1
+     ],
+     [
+      " your phone.",
+      0
+     ]
+    ]
+   ]
+  },
+  {
+   "t0": 2.0,
+   "t1": 5.0,
+   "y": 150,
+   "size": 72,
+   "lines": [
+    [
+     [
+      "Rest starts itself.",
+      0
+     ]
+    ]
+   ]
+  },
+  {
+   "t0": 5.0,
+   "t1": 7.2,
+   "y": 560,
+   "size": 72,
+   "lines": [
+    [
+     [
+      "Timer follows you",
+      0
+     ]
+    ],
+    [
+     [
+      "everywhere.",
+      1
+     ]
+    ]
+   ]
+  }
+ ],
+ "taps": [
+  {
+   "t": 1.8,
+   "x": 776,
+   "y": 1402
+  }
+ ],
+ "endcard": {
+  "dur": 1.4,
+  "lines": [
+   [
+    [
+     "EARND",
+     1
+    ]
+   ],
+   [
+    [
+     "Coming to iPhone soon.",
+     0
+    ]
+   ],
+   [
+    [
+     "Follow for launch day.",
+     0
+    ]
+   ]
+  ]
+ }
+}

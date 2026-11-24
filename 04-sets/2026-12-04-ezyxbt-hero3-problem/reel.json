@@ -1,0 +1,138 @@
+{
+ "out": "hero3.mp4",
+ "segments": [
+  {
+   "photo": "01-app/founder-photos/b9-07.jpg",
+   "dur": 1.8,
+   "focus": [
+    0.5,
+    0.4
+   ],
+   "dim": 0.3
+  },
+  {
+   "photo": "01-app/assets/demos/notes-log-fake.png",
+   "dur": 1.6,
+   "dim": 0.35
+  },
+  {
+   "clip": "01-app/assets/demos/one-tap.mp4",
+   "ss": 0,
+   "dur": 7.0,
+   "frame": {
+    "scale": 0.74,
+    "y": 330
+   }
+  }
+ ],
+ "text": [
+  {
+   "t0": 0,
+   "t1": 1.8,
+   "y": 150,
+   "size": 72,
+   "lines": [
+    [
+     [
+      "what did you lift",
+      0
+     ]
+    ],
+    [
+     [
+      "last week?",
+      1
+     ]
+    ]
+   ]
+  },
+  {
+   "t0": 1.8,
+   "t1": 3.4,
+   "y": 1240,
+   "size": 84,
+   "lines": [
+    [
+     [
+      "if it's in here,",
+      0
+     ]
+    ],
+    [
+     [
+      "you're ",
+      0
+     ],
+     [
+      "guessing.",
+      1
+     ]
+    ]
+   ]
+  },
+  {
+   "t0": 3.4,
+   "t1": 5.7,
+   "y": 120,
+   "size": 72,
+   "lines": [
+    [
+     [
+      "so i built this.",
+      0
+     ]
+    ]
+   ]
+  },
+  {
+   "t0": 5.8,
+   "t1": 10.4,
+   "y": 120,
+   "size": 72,
+   "lines": [
+    [
+     [
+      "it shows the",
+      0
+     ]
+    ],
+    [
+     [
+      "number to beat.",
+      1
+     ]
+    ]
+   ]
+  }
+ ],
+ "taps": [
+  {
+   "t": 5.7,
+   "x": 748,
+   "y": 965
+  }
+ ],
+ "endcard": {
+  "dur": 1.4,
+  "lines": [
+   [
+    [
+     "i'm building EARND.",
+     0
+    ]
+   ],
+   [
+    [
+     "coming to iPhone soon.",
+     0
+    ]
+   ],
+   [
+    [
+     "follow @earndapp",
+     1
+    ]
+   ]
+  ]
+ }
+}
