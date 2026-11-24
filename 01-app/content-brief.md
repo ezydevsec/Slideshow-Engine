@@ -129,11 +129,23 @@ App Store" (after launch). Never "free".
 ## 11. Asset library
 
 **Current and accurate (use these):**
-- `screenshots/iphone/en/01–06*.png`: App Store screenshots, 1320×2868.
-  01 target on every set · 02 EARNED · 03 personalised plan · 04 progress ·
-  05 rest timer · 06 technique.
-- The Lock Screen photo with "Seated Leg Curl 60 kg × 8": record it again on a
-  **plain wallpaper** before using it publicly.
+- `screenshots/iphone/en/01–07*.png`: App Store screenshots, 1320×2868.
+  01 target on every set · 02 Lock Screen · 03 EARNED · 04 personalised plan ·
+  05 progress · 06 rest timer · 07 technique.
+- `promo/demos/lock-screen-tap.mp4`: **hero clip** (5 s, 1080×1920, real
+  iPhone). Lock Screen "Romanian Deadlift 40 kg × 8", tap ✓, next exercise
+  with a fresh 3:00 rest.
+- `promo/demos/home-screen-island.png`: clean home screen, only the EARND
+  icon, rest timer in the Dynamic Island. (Yellow TestFlight dot under the
+  icon: crop it for ads.)
+- `promo/demos/dynamic-island.png`: close-up of the island timer.
+- `promo/demos/one-tap.mp4`: lime target reps, tap ✓ twice, rest starts.
+- `promo/demos/earned.mp4`: "+2.5 kg EARNED", then the share sheet.
+- `promo/demos/earned-card.png`: the 1080×1920 story card.
+- `promo/demos/onboarding.mp4`: name → days → lifts → starting level →
+  plan reveal with the target chart.
+- `promo/demos/progress.mp4`: Progress tab, chart and history (one frame has
+  a simulator scroll indicator; trim if needed).
 
 **Outdated (do NOT use):**
 - `promo/EARND-04-Reschedule.mp4`, `promo/demo-4-reschedule.png`,
