@@ -40,6 +40,12 @@ def draw_text(d, it, t, acc):
         txt = txt.replace("{n}", f"{v:g}")
     if "{timer}" in txt: s = int((t - it["t0"]) * rate); txt = txt.replace("{timer}", f"{s // 60}:{s % 60:02d}")
     size = it.get("size", 34); f = F(size)
+    if it.get("font") == "inter":              # kinetic one-word captions (story-ad format): Inter Black, black outline
+        from PIL import ImageFont
+        f = ImageFont.truetype("/usr/share/fonts/opentype/inter/Inter-Black.otf", size); tw = d.textlength(txt, font=f)
+        c = tuple(COL[cc]) if isinstance(cc, str) else tuple(cc)   # no fade: words are too short for one
+        d.text((it["x"] - tw / 2, it["y"]), txt, font=f, fill=c, stroke_width=it.get("outline", 6), stroke_fill=(0, 0, 0))
+        return
     if it.get("box"):
         tw = d.textlength(txt, font=f); x = it["x"]
         d.rounded_rectangle([x - tw / 2 - 28, it["y"] - 18, x + tw / 2 + 28, it["y"] + size + 22], 22,

@@ -1,0 +1,1568 @@
+{
+ "set_id": "2026-11-24-earndapp-video-story-delorme",
+ "account": "@earndapp",
+ "account_type": "brand",
+ "format": "narrated history story ad (founder link 11-24: @polymaths.unite / Deepstash ad), painted dark-academia look, one-word captions",
+ "status": "draft, awaiting approval",
+ "new_format_test": "founder link: narrated story ad (hook fact → story in short beats → named concept → lesson → app pivot); narrator + painted style approved as exceptions for this format (founder 11-24)",
+ "topic_source": "DeLorme TL 1945, J Bone Joint Surg, 'Restoration of muscle power by heavy-resistance exercises' (introduced progressive resistance exercise); Todd, Shurley & Todd 2012 (J Strength Cond Res, PMID 22592167): quickly adopted as the standard in military and civilian physical therapy",
+ "accent": [
+  198,
+  255,
+  0
+ ],
+ "out": "delorme.mp4",
+ "endcard": [
+  "EARND launches soon.",
+  "follow for the launch."
+ ],
+ "ai_images": true,
+ "ai_note": "painted scenes Higgsfield Nano Banana, motion Kling 3.0 pro, narrator ElevenLabs v4 (Knox): AI label ON",
+ "caption": "in 1945 an army doctor changed how we get stronger. you know it as progressive overload. #progressiveoverload #gymtok #gymhistory #strengthtraining #upperlower",
+ "segments": [
+  {
+   "dur": 5.9,
+   "clips": [
+    "hf/s1.mp4"
+   ]
+  },
+  {
+   "dur": 4.7,
+   "clips": [
+    "hf/s2.mp4"
+   ]
+  },
+  {
+   "dur": 4.2,
+   "clips": [
+    "hf/s3.mp4"
+   ]
+  },
+  {
+   "dur": 4.1,
+   "clips": [
+    "hf/s4.mp4"
+   ]
+  },
+  {
+   "dur": 2.7,
+   "clips": [
+    "hf/s5.mp4"
+   ]
+  },
+  {
+   "dur": 2.7,
+   "clips": [
+    "hf/s6.mp4"
+   ]
+  },
+  {
+   "dur": 1.2,
+   "clips": [
+    "hf/s7.mp4"
+   ]
+  },
+  {
+   "dur": 1.2,
+   "clips": [
+    "hf/s5.mp4"
+   ]
+  },
+  {
+   "dur": 1.4,
+   "clips": [
+    "hf/s8.mp4"
+   ]
+  },
+  {
+   "dur": 4.6,
+   "clips": [
+    "hf/s9.mp4"
+   ]
+  },
+  {
+   "dur": 3.4,
+   "clips": [
+    "hf/s10.mp4"
+   ]
+  },
+  {
+   "dur": 3.6,
+   "clips": [
+    "hf/s11.mp4"
+   ]
+  },
+  {
+   "dur": 4.3,
+   "clips": [
+    "hf/s12.mp4"
+   ]
+  },
+  {
+   "dur": 3.4,
+   "clips": [
+    "hf/s13.mp4"
+   ]
+  },
+  {
+   "dur": 5.0,
+   "clips": [
+    "hf/s14.mp4"
+   ]
+  },
+  {
+   "dur": 6.0,
+   "image": "../../01-app/assets/exercise-target.png",
+   "height": 1500,
+   "y": 330
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.0,
+   "t1": 3.2,
+   "text": "your gym won't teach you this.",
+   "x": 540,
+   "y": 140,
+   "size": 58,
+   "color": "white",
+   "font": "inter",
+   "outline": 6
+  },
+  {
+   "t0": 0.0,
+   "t1": 3.2,
+   "text": "every physio already knows it:",
+   "x": 540,
+   "y": 215,
+   "size": 58,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 6
+  },
+  {
+   "t0": 0.0,
+   "t1": 0.42,
+   "text": "IN",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 0.42,
+   "t1": 1.88,
+   "text": "1945",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 2.06,
+   "t1": 2.14,
+   "text": "AN",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 2.14,
+   "t1": 2.48,
+   "text": "ARMY",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 2.48,
+   "t1": 2.84,
+   "text": "DOCTOR",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 2.84,
+   "t1": 3.1,
+   "text": "HAD",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 3.1,
+   "t1": 3.26,
+   "text": "A",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 3.26,
+   "t1": 3.68,
+   "text": "HOSPITAL",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 3.68,
+   "t1": 4.14,
+   "text": "FULL",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 4.14,
+   "t1": 4.44,
+   "text": "OF",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 4.44,
+   "t1": 4.76,
+   "text": "INJURED",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 4.76,
+   "t1": 6.0,
+   "text": "SOLDIERS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 6.16,
+   "t1": 6.3,
+   "text": "BACK",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 6.3,
+   "t1": 7.32,
+   "text": "THEN",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 7.32,
+   "t1": 7.6,
+   "text": "REHAB",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 7.6,
+   "t1": 7.92,
+   "text": "MEANT",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 7.92,
+   "t1": 8.38,
+   "text": "TINY",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 8.38,
+   "t1": 8.76,
+   "text": "WEIGHTS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 8.76,
+   "t1": 9.1,
+   "text": "AND",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 9.1,
+   "t1": 9.62,
+   "text": "ENDLESS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 9.62,
+   "t1": 10.7,
+   "text": "REPS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 10.94,
+   "t1": 11.08,
+   "text": "MONTHS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 11.08,
+   "t1": 11.42,
+   "text": "WENT",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 11.42,
+   "t1": 12.4,
+   "text": "BY",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 12.56,
+   "t1": 12.74,
+   "text": "MOST",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 12.74,
+   "t1": 12.94,
+   "text": "OF",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 12.94,
+   "t1": 13.12,
+   "text": "THEM",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 13.12,
+   "t1": 13.52,
+   "text": "BARELY",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 13.52,
+   "t1": 13.8,
+   "text": "GOT",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 13.8,
+   "t1": 14.94,
+   "text": "STRONGER",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 14.94,
+   "t1": 15.16,
+   "text": "THEN",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 15.16,
+   "t1": 15.32,
+   "text": "A",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 15.32,
+   "t1": 15.52,
+   "text": "YOUNG",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 15.52,
+   "t1": 15.98,
+   "text": "DOCTOR",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 15.98,
+   "t1": 16.24,
+   "text": "NAMED",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 16.24,
+   "t1": 16.68,
+   "text": "THOMAS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 16.68,
+   "t1": 17.34,
+   "text": "DELORME",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 17.34,
+   "t1": 17.58,
+   "text": "TRIED",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 17.58,
+   "t1": 17.98,
+   "text": "SOMETHING",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 17.98,
+   "t1": 19.12,
+   "text": "DIFFERENT",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 19.22,
+   "t1": 19.36,
+   "text": "HEAVY",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 19.36,
+   "t1": 20.44,
+   "text": "WEIGHTS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 20.66,
+   "t1": 20.7,
+   "text": "TEN",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 20.7,
+   "t1": 21.720000000000002,
+   "text": "REPS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 21.76,
+   "t1": 21.88,
+   "text": "THE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 21.88,
+   "t1": 22.12,
+   "text": "NEXT",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 22.12,
+   "t1": 22.46,
+   "text": "WEEK",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 22.46,
+   "t1": 23.08,
+   "text": "A",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 23.08,
+   "t1": 23.3,
+   "text": "LITTLE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 23.3,
+   "t1": 24.400000000000002,
+   "text": "HEAVIER",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 24.6,
+   "t1": 25.520000000000003,
+   "text": "MORE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 25.72,
+   "t1": 26.64,
+   "text": "MORE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 26.88,
+   "t1": 27.860000000000003,
+   "text": "MORE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 28.22,
+   "t1": 28.46,
+   "text": "WITHIN",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 28.46,
+   "t1": 28.68,
+   "text": "A",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 28.68,
+   "t1": 28.9,
+   "text": "FEW",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 28.9,
+   "t1": 29.92,
+   "text": "YEARS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 29.92,
+   "t1": 30.28,
+   "text": "HOSPITALS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 30.28,
+   "t1": 31.08,
+   "text": "EVERYWHERE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 31.08,
+   "t1": 31.34,
+   "text": "WERE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 31.34,
+   "t1": 31.66,
+   "text": "USING",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 31.66,
+   "t1": 31.9,
+   "text": "HIS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 31.9,
+   "t1": 32.88,
+   "text": "METHOD",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 32.88,
+   "t1": 33.02,
+   "text": "HE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 33.02,
+   "t1": 33.26,
+   "text": "CALLED",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 33.26,
+   "t1": 34.16,
+   "text": "IT",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 34.16,
+   "t1": 34.16,
+   "text": "PROGRESSIVE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 34.16,
+   "t1": 34.86,
+   "text": "RESISTANCE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 34.86,
+   "t1": 36.160000000000004,
+   "text": "EXERCISE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 36.54,
+   "t1": 37.28,
+   "text": "TODAY",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 37.28,
+   "t1": 37.54,
+   "text": "YOU",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 37.54,
+   "t1": 37.7,
+   "text": "KNOW",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 37.7,
+   "t1": 37.84,
+   "text": "IT",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 37.84,
+   "t1": 38.02,
+   "text": "AS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 38.02,
+   "t1": 38.52,
+   "text": "PROGRESSIVE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 38.52,
+   "t1": 39.72,
+   "text": "OVERLOAD",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 39.88,
+   "t1": 40.06,
+   "text": "YOUR",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 40.06,
+   "t1": 40.48,
+   "text": "MUSCLES",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 40.48,
+   "t1": 40.94,
+   "text": "KEEP",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 40.94,
+   "t1": 42.1,
+   "text": "SCORE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 42.52,
+   "t1": 42.84,
+   "text": "MOST",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 42.84,
+   "t1": 43.14,
+   "text": "PEOPLE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 43.14,
+   "t1": 44.16,
+   "text": "DON'T",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 44.16,
+   "t1": 44.32,
+   "text": "THEY",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 44.32,
+   "t1": 44.58,
+   "text": "WALK",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 44.58,
+   "t1": 45.32,
+   "text": "IN",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 45.32,
+   "t1": 45.6,
+   "text": "GUESS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 45.6,
+   "t1": 45.76,
+   "text": "A",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 45.76,
+   "t1": 46.44,
+   "text": "WEIGHT",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 46.44,
+   "t1": 46.62,
+   "text": "AND",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 46.62,
+   "t1": 47.52,
+   "text": "HOPE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 47.6,
+   "t1": 47.92,
+   "text": "NOT",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 47.92,
+   "t1": 48.28,
+   "text": "BECAUSE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 48.28,
+   "t1": 48.58,
+   "text": "THEY'RE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 48.58,
+   "t1": 49.58,
+   "text": "LAZY",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 49.72,
+   "t1": 49.92,
+   "text": "BECAUSE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 49.92,
+   "t1": 50.36,
+   "text": "NOBODY",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 50.36,
+   "t1": 50.74,
+   "text": "EVER",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 50.74,
+   "t1": 51.1,
+   "text": "HANDS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 51.1,
+   "t1": 51.36,
+   "text": "THEM",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 51.36,
+   "t1": 51.52,
+   "text": "THE",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 51.52,
+   "t1": 52.46,
+   "text": "NUMBERS",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 52.58,
+   "t1": 52.92,
+   "text": "THAT'S",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 52.92,
+   "t1": 53.1,
+   "text": "WHY",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 53.1,
+   "t1": 53.3,
+   "text": "WE",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 53.3,
+   "t1": 53.64,
+   "text": "BUILT",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 53.64,
+   "t1": 54.72,
+   "text": "EARND",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 54.72,
+   "t1": 54.96,
+   "text": "IT",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 54.96,
+   "t1": 55.18,
+   "text": "SHOWS",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 55.18,
+   "t1": 55.4,
+   "text": "YOU",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 55.4,
+   "t1": 55.54,
+   "text": "WHAT",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 55.54,
+   "t1": 55.7,
+   "text": "YOU",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 55.7,
+   "t1": 55.98,
+   "text": "LIFTED",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 55.98,
+   "t1": 56.28,
+   "text": "LAST",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 56.28,
+   "t1": 57.1,
+   "text": "TIME",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 57.1,
+   "t1": 57.2,
+   "text": "AND",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 57.2,
+   "t1": 57.4,
+   "text": "WHAT",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 57.4,
+   "t1": 57.58,
+   "text": "TO",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 57.58,
+   "t1": 58.440000000000005,
+   "text": "BEAT",
+   "x": 540,
+   "y": 180,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 58.62,
+   "t1": 58.82,
+   "text": "IT'S",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 58.82,
+   "t1": 59.14,
+   "text": "CALLED",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 59.14,
+   "t1": 60.54,
+   "text": "EARND",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": [
+    198,
+    255,
+    0
+   ],
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 60.62,
+   "t1": 60.9,
+   "text": "LAUNCHING",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  },
+  {
+   "t0": 60.9,
+   "t1": 61.82,
+   "text": "SOON",
+   "x": 540,
+   "y": 900,
+   "size": 88,
+   "color": "white",
+   "font": "inter",
+   "outline": 7
+  }
+ ]
+}

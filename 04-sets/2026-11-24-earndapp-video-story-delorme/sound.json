@@ -1,0 +1,34 @@
+{
+ "video": "delorme.mp4",
+ "music": "audio/music.mp3",
+ "music_db": -10,
+ "duck_db": -8,
+ "music_fade": [
+  60.0,
+  61.4
+ ],
+ "voice": "voice/narration.wav",
+ "voice_db": 0,
+ "sfx": [
+  {
+   "t": 24.45,
+   "type": "clank",
+   "db": -12
+  },
+  {
+   "t": 25.65,
+   "type": "clank",
+   "db": -12
+  },
+  {
+   "t": 26.85,
+   "type": "clank",
+   "db": -11
+  },
+  {
+   "t": 52.4,
+   "type": "whoosh",
+   "db": -14
+  }
+ ]
+}
