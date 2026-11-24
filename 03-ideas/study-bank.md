@@ -2,7 +2,7 @@
 
 Rules: use his **topics and the papers**, never his wording, jokes or insults; never present him as endorsing EARND. A study goes in a video only once it's marked **verified** (checked on PubMed or the abstract, real numbers noted). Skip physique, PED/"natty", diet and medical topics.
 
-Last post logged: 2026-11-21 (DgA5Hz9Bz59, no claim); last topic post 2026-11-20 (Df-Li0OA3N0). Checked 2026-11-23: nothing newer.
+Last post logged: 2026-11-23 (DgFz49Euyk5, checklist, no study); last study post 2026-11-20 (Df-Li0OA3N0).
 
 | Post date | Post | Views | Claim | Studies cited | Study-race angle (@earndapp) | Status |
 |---|---|---|---|---|---|---|
@@ -27,3 +27,4 @@ Last post logged: 2026-11-21 (DgA5Hz9Bz59, no claim); last topic post 2026-11-20
 | 11-08 | DffSDCwh-wG (2nd paper) | 126K | Lighter loads to failure take longer to recover | Farrow et al. 2020 (Res Q Exerc Sport 92(3):369–379) | **"heavy vs light: who's recovered tomorrow?"**, pair with Bartolomei | **verified 11-19**: 11 trained men, one-leg knee extensions to failure at 40% vs 80% of max (volume-load matched); more fatigue after the lighter load, in both legs. PMID 32401690 not confirmed: cite the journal. |
 | 11-08 | DffSDCwh-wG (3rd paper) | 126K | Light loads to failure impair recovery more than heavy | Haun et al. 2017 (Physiol Rep, PMID 28963127) | supports "heavy vs light: who's recovered tomorrow?" | **verified 11-20**: 15 trained men, 4 sets leg extension to failure at 30% vs 80% 1RM, crossover; post-exercise torque more reduced after light; hypertrophy signalling similar. |
 | 11-20 | Df-Li0OA3N0 | 110K | Weekly volume: past ~5–7 direct sets per muscle per week, extra sets add little; strength gains track muscle growth | Marques et al. 2025 (Med Sci Sports Exerc, doi 10.1249/MSS.0000000000003819) · Pelland et al. 2024 (SportRxiv preprint 460) · Krieger 2010 | **"6 sets a week vs 20 sets a week"** catch: the extra sets barely add anything (use Krieger, verified, for the on-screen numbers) | **Marques verified 11-21**: 39 untrained men, 15 weeks lower-body training 3×/week, MRI muscle volume + strength; within-person correlation muscle growth vs strength r = 0.89–0.92, activation only r ≈ 0.56–0.58. **Pelland partly verified**: preprint, not peer reviewed; confirms diminishing returns are sharper for strength than for hypertrophy, but the "flat at 5–7 sets" figure was NOT confirmed in the abstract, so don't put that number on screen. |
+| 11-23 | DgFz49Euyk5 | 108K (1 day) | Checklist: why you might not be growing as fast as you could (plus his programmes) | none | not a study race; topic for a "not growing? check these" ❌/✅ checklist (our words) | n/a (checklist) |

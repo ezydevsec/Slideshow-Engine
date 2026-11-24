@@ -35,7 +35,7 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | 8 | A vs B in 3D (two mannequins under spotlights, closer to @appforthegym) | founder link: @appforthegym | to build |
 | 9 | Theme test: white vs black edu slideshows, at least one of each per day | founder 2026-11-10 | running 11-11 → 11-15, decided at the 15 Nov review (founder leans black) |
 | 10 | Tier list of programme exercises | trend scan 11-09 (arrowfitnessapp, coachdjango 2.2M) | to build |
-| 12 | **One muscle, N exercises** ("maximize your [muscle] with these" / "struggling to grow your [muscle]? these [N]"): our edu template with the new hook wording | rajandroh 992K / 42K saves, josiahhduran 190K, shemoves99 65K: **passed the gate 11-23** | next @earndapp slideshow test |
+| 12 | **One muscle, N exercises** (4th account 11-24: dui.delgado biceps 942K) ("maximize your [muscle] with these" / "struggling to grow your [muscle]? these [N]"): our edu template with the new hook wording | rajandroh 992K / 42K saves, josiahhduran 190K, shemoves99 65K: **passed the gate 11-23** | next @earndapp slideshow test |
 | 11 | Calm-piano beginner explainer: "what to do on your first day of an upper/lower split" (narrated, Gymnopedie under) | trend scan 11-10 (@uub.irl 2.1M, nesreen 27.7K saves) | to build |
 
 | + | GTA 6 week: line-art paradox "You waited 13 years for a video game. You can wait 12 weeks to see your numbers move." | founder 11-12 (GTA 6 next week) | to build for release week |
@@ -115,6 +115,9 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | Reply to a comment ("Replying to @…", answer the question) | scan 11-23: imadrianag 291K (11-09); older giants 6.4M / 4.3M / 2.0M | 1 | @earndapp test 11-24 |
 | "N rules / laws" list (finance → "6 gym rules for your first year") | scan 11-23: moneyideas30 1.3M (11-13), investips_ 323K (11-03) | 2 (other niche) | 1 more account; @ezyxbt manifesto |
 | "Split it in 4" (finance → "split your week in 4") | scan 11-23: gagwithgeech 1.5M (11-16) | 1 (other niche) | 2 more accounts |
+| "X I wish I started sooner" ("3 things i wish i started sooner in the gym") | scan 11-24: harleyalexander.fit 166K (11-22); aleynabarrera 20K (under 50K) | 1 | @ezyxbt test candidate |
+| "This has made X MUCH more Y" (study → "this made my training MUCH more consistent") | scan 11-24: dallasstudydiaries 3.2M (11-01) | 1 (other niche) | @ezyxbt test candidate (app as the reveal, said as ours) |
+| "The most important rule" (dating → "the most important gym rule") | scan 11-24: jimmyonrelationships 98K (11-15) | 1 (other niche) | pairs with "N rules" |
 | "Go quiet for N months" (self-improvement) | scan 11-23: nodecash 413K / 25K saves (11-18) | 1 (other niche) | @quiet.reps4 "go quiet for 12 weeks" |
 | "N things I stopped doing" list (skincare → "5 things I stopped doing in the gym") | scan 11-22: clearskinerika 343K (11-08) | 1 (other niche) | @ezyxbt test candidate |
 
