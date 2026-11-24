@@ -63,6 +63,8 @@ Follow `08-x/style-guide.md`: short lines, mostly lowercase, a public experiment
 | 18:00 | Publish Original 2 | 2 |
 | 18:00–18:20 | Conversation window: answer every reply, and follow up with any author who replied today | 8 |
 
+Pacing in every brief: put each reply target into a named time block (morning, 13:00, 15:30, 17:30, evening) with at most 7 replies per block, and list the blocks in time order so Ezy can work down the brief.
+
 Reply safety: about 30 to 40 replies a day, written by hand, and never more than about 15 in one sitting. No copy-paste or template replies, no links in replies, and no more than one reply per author per day unless they reply back. Ramp up over 2 weeks: about 20 a day in week 2, then 30 to 40. Stop and slow down if impressions on replies suddenly collapse.
 
 Suggest a quote post only when the added point genuinely needs more space.

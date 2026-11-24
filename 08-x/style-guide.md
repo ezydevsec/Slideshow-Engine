@@ -35,3 +35,28 @@ Don't copy:
 
 - Cold replies to other builders' posts: 1–2 short lines, lowercase, with the sharpest point first. Ask a question only when it's genuinely useful.
 - Replies to comments on Ezy's own posts: as short as the answer allows, sent fast, and to every commenter.
+
+# Dan Koe (@thedankoe, 1.09M followers): analysed 24 Nov 2026
+
+## What he does
+- About 1 original a day, often at the same time (13:15 GMT). He sends very few cold replies: 16 of 252 recent items were replies, and most of those were his own follow-ups expanding the idea under his own post.
+- Sentence case, no hype, almost no emojis. Short paragraphs, one idea per line, simple lists.
+- Ideas, not updates. His aphorism posts get 250k–480k views each ("You don't need experience to start, you gain experience by starting.").
+- His biggest wins are long-form X Articles: one on 3 Nov got 2.9M views and 30k bookmarks. Articles are his engine.
+- He reposts his best ideas months later, lightly reworded ("If you're bored, create something" ran in Aug, Dec and Feb; "You only need 1 hour" twice).
+- His growth advice, in his own words:
+  - "Write about the problems you already solved. Write for the person you were 2 years ago."
+  - "Take a weird topic you're passionate about and make it palatable to a larger audience."
+  - "Create something so undeniably good that people with good taste share it. Forget about the algorithm for a bit."
+  - "80% of your success lies in giving the reader a reason to care."
+  - "Get the embarrassing version out."
+  - Idea building blocks: pain point, example, personal story, statistic, metaphor, quote, what/how/why.
+  - "When I stop trying to 'write content' and start trying to clarify my thoughts, the right people find their way to my content."
+
+## How Ezy applies it (this overrides the Jake/Ernesto section where they conflict)
+1. Originals are in sentence case and lead with an idea, not an update. Each one is a lesson Ezy has actually lived (a decision, a cut feature, the no-trial choice, building around two jobs), written for someone a year behind.
+2. Each day has one idea post and one proof post (a real decision or number). Never invent the experience behind an idea.
+3. One long-form X Article a week (Wednesday), built from that week's real lessons. Pull 3–5 short posts out of each article over the following week.
+4. Self-reply under any post that gets traction, with one extra example or the next step of the idea.
+5. Repost the best-performing idea 6–8 weeks later, reworded.
+6. Replies to others stay lowercase (Ezy's rule) but follow Dan's standard: high signal, one clear thought, warm and short to people who comment.
