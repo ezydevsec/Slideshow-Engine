@@ -1,3 +1,5 @@
+> **Status (25 Nov):** week 1 built and approved by the founder (sets 04-sets/2026-11-30-*, 2026-12-02-*, 2026-12-04-*; zips sent the evening before each post day). The app is **in Apple review**: week 2 is built with both CTA versions and goes out with the App Store CTA only if it's live.
+
 # EARND: 2-week content plan
 
 6 posts, 3 a week (Mon / Wed / Fri), rotating the four pillars from

@@ -1,6 +1,6 @@
 # Posting pack: 2026-12-04-ezyxbt-hero3-problem
 
-**Status: draft, waiting for founder approval. Post by hand Fri 4 Dec, 19:20 UK.** Format: 2-week hero plan (`03-ideas/content-plan-2w-2026-11-30.md`), real demo footage (sample data).
+**Status: approved (founder 11-25). Post by hand Fri 4 Dec, 19:20 UK.** Format: 2-week hero plan (`03-ideas/content-plan-2w-2026-11-30.md`), real demo footage (sample data).
 
 - **Account:** @ezyxbt
 - **Upload:** hero3.mp4 (1080×1920, 11.8 s, sound baked in)

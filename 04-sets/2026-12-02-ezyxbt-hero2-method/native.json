@@ -1,84 +1,84 @@
 {
-  "account": "@ezyxbt",
-  "account_type": "founder",
-  "canvas": "1080x1920",
-  "ai_images": false,
-  "ai_note": "real founder photos and a real app screen (demo pack), nothing generated",
-  "status": "draft, awaiting approval",
-  "set_id": "2026-12-02-ezyxbt-hero2-method",
-  "format": "native-text tip slideshow (hero post 2, THE METHOD, first person)",
-  "new_format_test": "2-week hero plan post 2 (founder 2026-11-24)",
-  "topic_source": "content plan 2W post 2; EARND's method (content brief §4)",
-  "pain_cover": false,
-  "caption": "i stopped doing 5 sets of 12. two hard sets, 4–8 reps, beat last week. that's the whole programme i'm building into EARND. save this. #hypertrophy #doubleprogression #upperlower #naturalbodybuilding #gymtips",
-  "slides": [
-    {
-      "type": "cover",
-      "photo": {
-        "file": "b10-02.jpg",
-        "focus": [
-          0.5,
-          0.45
-        ]
-      },
-      "hook": "i stopped doing 5 sets of 12",
-      "sub": "(here's what i do instead)",
-      "hook_y": 0.14
-    },
-    {
-      "type": "list",
-      "photo": {
-        "file": "b9-02.jpg",
-        "focus": [
-          0.5,
-          0.45
-        ]
-      },
-      "title": "now",
-      "lines": [
-        "2 hard sets",
-        "4–8 reps",
-        "1 rep left in the tank"
-      ]
-    },
-    {
-      "type": "list",
-      "photo": {
-        "file": "b5-16.jpg",
-        "focus": [
-          0.5,
-          0.45
-        ]
-      },
-      "title": "the rule",
-      "lines": [],
-      "text": "hit 8 on every set → add weight. back to 4–5. repeat."
-    },
-    {
-      "type": "tip",
-      "photo": {
-        "file": "b6-13.jpg",
-        "focus": [
-          0.5,
-          0.4
-        ]
-      },
-      "label": "the real tip: know the number to beat",
-      "text": "each muscle twice a week. upper / lower. that's it.",
-      "shot": "01-app/assets/demos/one-tap-frame0.png",
-      "footer": "i'm building it. it's called EARND."
-    },
-    {
-      "type": "cta",
-      "photo": {
-        "file": "b7-16.jpg",
-        "focus": [
-          0.5,
-          0.3
-        ]
-      },
-      "text": "coming to iPhone soon.",
-      "sub": "i'm building EARND. follow @earndapp for launch day."
-    }
-  ]
+ "account": "@ezyxbt",
+ "account_type": "founder",
+ "canvas": "1080x1920",
+ "ai_images": false,
+ "ai_note": "real founder photos and a real app screen (demo pack), nothing generated",
+ "status": "approved (founder 11-25); post Wed 2 Dec 19:20",
+ "set_id": "2026-12-02-ezyxbt-hero2-method",
+ "format": "native-text tip slideshow (hero post 2, THE METHOD, first person)",
+ "new_format_test": "2-week hero plan post 2 (founder 2026-11-24)",
+ "topic_source": "content plan 2W post 2; EARND's method (content brief §4)",
+ "pain_cover": false,
+ "caption": "i stopped doing 5 sets of 12. two hard sets, 4–8 reps, beat last week. that's the whole programme i'm building into EARND. save this. #hypertrophy #doubleprogression #upperlower #naturalbodybuilding #gymtips",
+ "slides": [
+  {
+   "type": "cover",
+   "photo": {
+    "file": "b10-02.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "hook": "i stopped doing 5 sets of 12",
+   "sub": "(here's what i do instead)",
+   "hook_y": 0.14
+  },
+  {
+   "type": "list",
+   "photo": {
+    "file": "b9-02.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "title": "now",
+   "lines": [
+    "2 hard sets",
+    "4–8 reps",
+    "1 rep left in the tank"
+   ]
+  },
+  {
+   "type": "list",
+   "photo": {
+    "file": "b5-16.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "title": "the rule",
+   "lines": [],
+   "text": "hit 8 on every set → add weight. back to 4–5. repeat."
+  },
+  {
+   "type": "tip",
+   "photo": {
+    "file": "b6-13.jpg",
+    "focus": [
+     0.5,
+     0.4
+    ]
+   },
+   "label": "the real tip: know the number to beat",
+   "text": "each muscle twice a week. upper / lower. that's it.",
+   "shot": "01-app/assets/demos/one-tap-frame0.png",
+   "footer": "i'm building it. it's called EARND."
+  },
+  {
+   "type": "cta",
+   "photo": {
+    "file": "b7-16.jpg",
+    "focus": [
+     0.5,
+     0.3
+    ]
+   },
+   "text": "coming to iPhone soon.",
+   "sub": "i'm building EARND. follow @earndapp for launch day."
+  }
+ ]
 }

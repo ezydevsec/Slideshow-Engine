@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-30-earndapp-hero1-lock-screen
 
-**Status: draft, waiting for founder approval. Post by hand Mon 30 Nov, 19:00 UK.** Format: 2-week hero plan (`03-ideas/content-plan-2w-2026-11-30.md`), real demo footage (sample data).
+**Status: approved (founder 11-25). Post by hand Mon 30 Nov, 19:00 UK.** Format: 2-week hero plan (`03-ideas/content-plan-2w-2026-11-30.md`), real demo footage (sample data).
 
 - **Account:** @earndapp
 - **Upload:** hero1.mp4 (1080×1920, 8.6 s, sound baked in)
