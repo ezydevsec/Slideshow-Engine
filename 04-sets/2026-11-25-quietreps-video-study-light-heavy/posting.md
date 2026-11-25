@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-25-quietreps-video-study-light-heavy
 
-**Status: draft, waiting for founder approval. Post by hand Wed 25 Nov, 18:30 UK.** Format: gold-line study one-liner (winner remake #3 of 'same 8 sets…', 988 views).
+**Status: approved (founder 11-25). Post by hand Wed 25 Nov, 18:30 UK.** Format: gold-line study one-liner (winner remake #3 of 'same 8 sets…', 988 views).
 
 - **Account:** @quiet.reps4
 - **Upload:** light-heavy.mp4 (1080×1920, 15 s, sound baked in)

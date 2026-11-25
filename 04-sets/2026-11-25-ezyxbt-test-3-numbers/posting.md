@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-25-ezyxbt-test-3-numbers
 
-**Status: draft, waiting for founder approval. Post by hand Wed 25 Nov, 23:20 UK.** Format: native-text tip slideshow.
+**Status: approved (founder 11-25). Post by hand Wed 25 Nov, 23:20 UK.** Format: native-text tip slideshow.
 
 - **Account:** @ezyxbt
 - **Upload:** slide-01.jpg … slide-05.jpg (1080×1920)

@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-25-earndapp-pain-notes-app-5
 
-**Status: draft, waiting for founder approval. Post by hand Wed 25 Nov, 15:00 UK.** Format: pain-cover slideshow (5 slides, brief look).
+**Status: approved (founder 11-25). Post by hand Wed 25 Nov, 15:00 UK.** Format: pain-cover slideshow (5 slides, brief look).
 
 - **Account:** @earndapp
 - **Upload:** slide-01.jpg … slide-05.jpg (1080×1350)

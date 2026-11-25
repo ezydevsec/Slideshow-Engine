@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-25-ryo-tier-every-triceps-pain
 
-**Status: draft, waiting for founder approval. Post by hand Wed 25 Nov, 23:40 UK.** Format: bluebro-style tier list (white, gritty anime Ryo).
+**Status: approved (founder 11-25). Post by hand Wed 25 Nov, 23:40 UK.** Format: bluebro-style tier list (white, gritty anime Ryo).
 
 - **Account:** @earnie.lifts
 - **Upload:** slide-01.jpg … slide-07.jpg (1080×1350)

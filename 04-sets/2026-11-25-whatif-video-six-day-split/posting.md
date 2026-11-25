@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-25-whatif-video-six-day-split
 
-**Status: draft, waiting for founder approval. Post by hand Wed 25 Nov, 19:30 UK.** Format: what-if escalation video (Explainer 3D, Higgsfield, narrated).
+**Status: approved (founder 11-25). Post by hand Wed 25 Nov, 19:30 UK.** Format: what-if escalation video (Explainer 3D, Higgsfield, narrated).
 
 - **Account:** @whatif.overload
 - **Upload:** six-day.mp4 (1080×1920, 27.5 s, narration + sound baked in)

@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-25-earndapp-video-compare-earned
 
-**Status: draft, waiting for founder approval. Post by hand Wed 25 Nov, 19:00 UK.** Format: @stickmaxx progressive-overload comparison, Higgsfield 3D (comparison day), ends on the real EARNED share card — result on screen in the first second (review 11-22).
+**Status: approved (founder 11-25). Post by hand Wed 25 Nov, 19:00 UK.** Format: @stickmaxx progressive-overload comparison, Higgsfield 3D (comparison day), ends on the real EARNED share card — result on screen in the first second (review 11-22).
 
 - **Account:** @earndapp
 - **Upload:** compare.mp4 (1080×1920, 16.5 s, sound baked in)

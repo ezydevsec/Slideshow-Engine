@@ -1,6 +1,6 @@
 # Posting pack: 2026-11-25-earndapp-maximize-chest-9
 
-**Status: draft, waiting for founder approval. Post by hand Wed 25 Nov, 23:00 UK.** Format: one muscle, N exercises ('maximize your X with these', promoted 11-23), 9 slides, brief look.
+**Status: approved (founder 11-25). Post by hand Wed 25 Nov, 23:00 UK.** Format: one muscle, N exercises ('maximize your X with these', promoted 11-23), 9 slides, brief look.
 
 - **Account:** @earndapp
 - **Upload:** slide-01.jpg … slide-09.jpg (1080×1350)
