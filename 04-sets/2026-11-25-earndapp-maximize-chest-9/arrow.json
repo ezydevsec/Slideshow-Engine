@@ -1,141 +1,141 @@
 {
- "account": "@earndapp",
- "account_type": "brand",
- "canvas": "1080x1350",
- "ai_images": false,
- "ai_note": "no generated art: real app screen (demo pack) only",
- "status": "approved (founder 11-25); post Wed 25 Nov 23:00",
- "set_id": "2026-11-25-earndapp-maximize-chest-9",
- "format": "one muscle, N exercises ('maximize your X with these', promoted 11-23), 9 slides, brief look",
- "pain_cover": false,
- "new_format_test": "'maximize your X with these' (gate passed 11-23; 4th account 11-24)",
- "topic_source": "EARND Upper A/B chest picks (machine chest press, pec deck); rest times from the content brief",
- "caption": "maximize your chest with these 2. two hard sets each, twice a week. save it for upper day 💾 #chestworkout #upperbody #gymtips #hypertrophy #upperlower",
- "slides": [
-  {
-   "type": "cover",
-   "title": [
-    [
-     "maximize",
-     false
-    ],
-    [
-     "your chest",
-     true
-    ],
-    [
-     "with these 2",
-     false
-    ]
-   ],
-   "sub": "(no bench needed)",
-   "shot": "01-app/assets/demos/one-tap-frame0.png",
-   "crop": [
-    0,
-    0.03,
-    1,
-    0.5
-   ]
-  },
-  {
-   "type": "structure",
-   "title": "the whole chest",
-   "sub": "2 exercises. 2 hard sets each.",
-   "items": [
-    "press: machine chest press",
-    "stretch: pec deck"
-   ],
-   "note": "4–8 reps. twice a week."
-  },
-  {
-   "type": "structure",
-   "title": "1 · machine chest press",
-   "sub": "the heavy one. do it first.",
-   "items": [
-    "seat so handles sit mid-chest",
-    "press, don't lock out hard",
-    "slow on the way back"
-   ],
-   "note": "rest 3 min after it."
-  },
-  {
-   "type": "structure",
-   "title": "2 · pec deck",
-   "sub": "the stretch.",
-   "items": [
-    "slight bend in the elbows",
-    "open wide, feel the stretch",
-    "squeeze, then slow back"
-   ],
-   "note": "rest 2:30 after it."
-  },
-  {
-   "type": "structure",
-   "title": "where they go",
-   "sub": "split across your two upper days.",
-   "items": [
-    "upper A: chest press",
-    "upper B: pec deck"
-   ],
-   "note": "chest twice a week."
-  },
-  {
-   "type": "structure",
-   "title": "how hard",
-   "sub": "the part people skip.",
-   "items": [
-    "stop 1 rep short of failure",
-    "4–8 reps",
-    "2 working sets"
-   ],
-   "note": "no junk volume."
-  },
-  {
-   "type": "structure",
-   "title": "the rule",
-   "sub": "double progression.",
-   "items": [
-    "hit 8 on every set",
-    "→ add weight",
-    "back to 4–5, build up again"
-   ],
-   "note": "weight only goes up when you've earned it."
-  },
-  {
-   "type": "structure",
-   "title": "why only 2",
-   "sub": "5–6 hard sets a week per muscle.",
-   "items": [
-    "more sets = more fatigue",
-    "not more chest"
-   ],
-   "note": "hard sets. not more sets."
-  },
-  {
-   "type": "app",
-   "title": [
-    [
-     "EARND shows",
-     false
-    ],
-    [
-     "what to beat",
-     true
-    ],
-    [
-     "on every set",
-     false
-    ]
-   ],
-   "shot": "01-app/assets/demos/one-tap-frame0.png",
-   "crop": [
-    0,
-    0.03,
-    1,
-    0.62
-   ],
-   "example": false,
-   "footer": "Coming soon to iPhone. Follow for the launch."
-  }
- ]
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": false,
+  "ai_note": "no generated art: real app screen (demo pack) only",
+  "status": "approved (founder 11-25); post Wed 25 Nov 23:00",
+  "set_id": "2026-11-25-earndapp-maximize-chest-9",
+  "format": "one muscle, N exercises ('maximize your X with these', promoted 11-23), 9 slides, brief look",
+  "pain_cover": false,
+  "new_format_test": "'maximize your X with these' (gate passed 11-23; 4th account 11-24)",
+  "topic_source": "EARND Upper A/B chest picks (machine chest press, pec deck); rest times from the content brief",
+  "caption": "maximize your chest with these 2. two hard sets each, twice a week. save it for upper day 💾 #chestworkout #upperbody #gymtips #hypertrophy #upperlower",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "maximize",
+          false
+        ],
+        [
+          "your chest",
+          true
+        ],
+        [
+          "with these 2",
+          false
+        ]
+      ],
+      "sub": "(no bench needed)",
+      "shot": "01-app/assets/demos/one-tap-frame0.png",
+      "crop": [
+        0,
+        0.03,
+        1,
+        0.5
+      ]
+    },
+    {
+      "type": "structure",
+      "title": "the whole chest",
+      "sub": "2 exercises. 2 hard sets each.",
+      "items": [
+        "press: machine chest press",
+        "stretch: pec deck"
+      ],
+      "note": "4–8 reps. twice a week."
+    },
+    {
+      "type": "structure",
+      "title": "1 · machine chest press",
+      "sub": "the heavy one. do it first.",
+      "items": [
+        "seat so handles sit mid-chest",
+        "press, don't lock out hard",
+        "slow on the way back"
+      ],
+      "note": "rest 3 min after it."
+    },
+    {
+      "type": "structure",
+      "title": "2 · pec deck",
+      "sub": "the stretch.",
+      "items": [
+        "slight bend in the elbows",
+        "open wide, feel the stretch",
+        "squeeze, then slow back"
+      ],
+      "note": "rest 3 min after it."
+    },
+    {
+      "type": "structure",
+      "title": "where they go",
+      "sub": "split across your two upper days.",
+      "items": [
+        "upper A: chest press",
+        "upper B: pec deck"
+      ],
+      "note": "chest twice a week."
+    },
+    {
+      "type": "structure",
+      "title": "how hard",
+      "sub": "the part people skip.",
+      "items": [
+        "stop 1 rep short of failure",
+        "4–8 reps",
+        "2 working sets"
+      ],
+      "note": "no junk volume."
+    },
+    {
+      "type": "structure",
+      "title": "the rule",
+      "sub": "double progression.",
+      "items": [
+        "hit 8 on every set",
+        "→ add weight",
+        "back to 4–5, build up again"
+      ],
+      "note": "weight only goes up when you've earned it."
+    },
+    {
+      "type": "structure",
+      "title": "why only 2",
+      "sub": "5–6 hard sets a week per muscle.",
+      "items": [
+        "more sets = more fatigue",
+        "not more chest"
+      ],
+      "note": "hard sets. not more sets."
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND shows",
+          false
+        ],
+        [
+          "what to beat",
+          true
+        ],
+        [
+          "on every set",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/demos/one-tap-frame0.png",
+      "crop": [
+        0,
+        0.03,
+        1,
+        0.62
+      ],
+      "example": false,
+      "footer": "Coming soon to iPhone. Follow for the launch."
+    }
+  ]
 }
