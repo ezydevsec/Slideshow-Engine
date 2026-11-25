@@ -294,3 +294,11 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - **Ryo:** pack part 4 at 15:40 (scheduled). Remake: **"every biceps exercise, ranked"** with a pain cover ("curls never grow your arms?"); 4th account for the one-muscle list supports it. Needs 2 new Ryo poses (preacher curl, bayesian curl). Stickman comparison still due.
 - **@quiet.reps4:** gold-line study one-liner: Schoenfeld 2017 (verified) "light or heavy: same growth. the heavy group got stronger." — or "go quiet for 12 weeks".
 - **@whatif.overload:** "what if Dale did a 6-day split… with 1 rest day, for a year?" (real life: 4 days, upper/lower).
+
+## Daily scan 2026-11-25 (trend file: 02-research/trends/2026-11-25.md, INCOMPLETE: Apify blocked by an unpaid invoice) — ideas for Wed 25 Nov
+- **@earndapp video (comparison day):** @stickmaxx comparison, "same weight for 12 weeks vs +1 rep each week" (left stalls, right climbs; real app screen at the end: the target screen from the demo pack, `01-app/assets/demos/one-tap-frame0.png`). Number on screen in the first second.
+- **@earndapp slideshows (9 slides, brief look, no mascot):** (1) pain cover from the brief's hooks: **"logging in the Notes app is why you're not growing"** (problem pillar; ends on the real target screen). (2) "maximize your chest with these 2" (one-muscle list, promoted 11-23; chest press + pec deck from Upper A/B).
+- **@ezyxbt:** identity post (rule 5): "the guy who knows what he lifted last week". Test: "the most important gym rule" (one photo, one rule: beat last time). Optional Watch test "same machine, 2023 vs now: the numbers" only with a real old photo + real numbers.
+- **Ryo:** "every upper-back exercise, ranked" (rows; poses: single-arm row, reverse fly, straight-arm pulldown) with a pain cover "rows never thicken your back?". Stickman comparison still due this week.
+- **@quiet.reps4:** gold-line one-liner, Schoenfeld 2017 (verified): "light or heavy: same growth. the heavy group got stronger."
+- **@whatif.overload:** "what if Dale did a 6-day split with 1 rest day, for a year?" (real life: 4 days, upper/lower, the sequence rolls on).
