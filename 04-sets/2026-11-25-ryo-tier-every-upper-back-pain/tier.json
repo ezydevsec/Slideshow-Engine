@@ -1,0 +1,22 @@
+{
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "set_id": "2026-11-25-ryo-tier-every-upper-back-pain",
+  "pain_cover": true,
+  "winner_remake": "'every lat exercise, ranked' (1,082) remake, rule 1; pain on the cover (review 11-22)",
+  "topic_source": "EARND Upper A upper-back pick (chest-supported row); ranking is our opinion",
+  "caption": "rows never thicken your back? every upper-back exercise, ranked 👇 #backworkout #backday #gymtok #tierlist #gymtips",
+  "slides": [
+    {"type": "cover", "title": ["rows never thicken", "your back?"], "sub": "every upper-back exercise, ranked.", "pose": "single-arm-row"},
+    {"type": "list", "title": "the whole list", "sub": "pull with your back, not your hips.", "rows": [["S", ["chest-supported row", "one-arm row"]], ["A", ["reverse fly"]], ["B", ["deadlift"]], ["C", ["straight-arm pulldown"]]]},
+    {"type": "tier", "tier": "S", "name": "one-arm row", "works": "upper back + lats", "lines": ["brace on the bench, no swinging.", "chest-supported row is just as good. 2 × 4–8."], "pose": "single-arm-row"},
+    {"type": "tier", "tier": "A", "name": "reverse fly", "works": "rear delts + upper back", "lines": ["light, slow, squeeze at the back.", "the part rows miss."], "pose": "reverse-fly"},
+    {"type": "tier", "tier": "B", "name": "deadlift", "works": "everything (a bit)", "lines": ["your upper back holds the bar.", "it doesn't grow much from it."], "pose": "deadlift"},
+    {"type": "tier", "tier": "C", "name": "straight-arm pulldown", "works": "lats", "lines": ["good exercise.", "wrong muscle for this list."], "pose": "straight-arm-pulldown", "footer": "ryo trains on EARND, our app. follow @earndapp"}
+  ]
+}

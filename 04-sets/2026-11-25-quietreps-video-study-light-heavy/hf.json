@@ -1,0 +1,112 @@
+{
+ "set_id": "2026-11-25-quietreps-video-study-light-heavy",
+ "account": "@quiet.reps4",
+ "account_type": "theme",
+ "format": "gold-line study one-liner (winner remake #3 of 'same 8 sets…', 988 views)",
+ "status": "draft, awaiting approval",
+ "topic_source": "Schoenfeld et al. 2017 (J Strength Cond Res, PMID 28834797), verified: low- vs high-load training, similar muscle growth; strength gains greater with heavy loads",
+ "accent": [
+  255,
+  196,
+  120
+ ],
+ "out": "light-heavy.mp4",
+ "endcard": [
+  "this page is made by EARND,",
+  "our gym app. follow @earndapp"
+ ],
+ "ai_images": true,
+ "ai_note": "Minimal Line start frame Higgsfield Nano Banana; a slow camera push instead of Kling motion (Higgsfield out of credits 25 Nov): AI label ON",
+ "caption": "light or heavy: same growth. only one got stronger. (Schoenfeld et al. 2017, meta-analysis) #gymtok #hypertrophy #strengthtraining #gymtips #liftheavy",
+ "segments": [
+  {
+   "dur": 12,
+   "clips": [
+    "hf/clip.mp4"
+   ]
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.3,
+   "t1": 12,
+   "text": "light or heavy.",
+   "x": 540,
+   "y": 120,
+   "size": 60,
+   "color": "white"
+  },
+  {
+   "t0": 0.7,
+   "t1": 12,
+   "text": "same growth.",
+   "x": 540,
+   "y": 215,
+   "size": 38,
+   "color": "grey"
+  },
+  {
+   "t0": 0.9,
+   "t1": 12,
+   "text": "LIGHT",
+   "x": 290,
+   "y": 700,
+   "size": 34,
+   "color": "grey"
+  },
+  {
+   "t0": 0.9,
+   "t1": 12,
+   "text": "HEAVY",
+   "x": 790,
+   "y": 700,
+   "size": 34,
+   "color": "acc"
+  },
+  {
+   "t0": 5.0,
+   "t1": 12,
+   "text": "strength:",
+   "x": 540,
+   "y": 310,
+   "size": 40,
+   "color": "white"
+  },
+  {
+   "t0": 6.0,
+   "t1": 12,
+   "text": "less.",
+   "x": 290,
+   "y": 770,
+   "size": 32,
+   "color": "grey"
+  },
+  {
+   "t0": 7.0,
+   "t1": 12,
+   "text": "more.",
+   "x": 790,
+   "y": 770,
+   "size": 32,
+   "color": "acc"
+  },
+  {
+   "t0": 9.0,
+   "t1": 12,
+   "text": "lift heavy. 4–8 reps.",
+   "x": 540,
+   "y": 420,
+   "size": 40,
+   "color": "acc"
+  },
+  {
+   "t0": 1.0,
+   "t1": 12,
+   "text": "Schoenfeld et al. 2017 (J Strength Cond Res), meta-analysis",
+   "x": 540,
+   "y": 500,
+   "size": 22,
+   "color": "grey"
+  }
+ ]
+}

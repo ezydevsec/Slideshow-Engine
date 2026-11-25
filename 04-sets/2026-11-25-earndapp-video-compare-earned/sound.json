@@ -1,0 +1,54 @@
+{
+ "video": "compare.mp4",
+ "music": "audio/music.mp3",
+ "music_db": -3,
+ "music_curve": [
+  [
+   0,
+   -4
+  ],
+  [
+   8,
+   -2
+  ],
+  [
+   9.8,
+   0
+  ],
+  [
+   16.5,
+   0
+  ]
+ ],
+ "music_fade": [
+  15.3,
+  16.5
+ ],
+ "sfx": [
+  {
+   "t": 0.1,
+   "type": "hit",
+   "db": -6
+  },
+  {
+   "t": 2.87,
+   "type": "tick",
+   "db": -9
+  },
+  {
+   "t": 4.53,
+   "type": "tick",
+   "db": -9
+  },
+  {
+   "t": 6.0,
+   "type": "boom",
+   "db": -7
+  },
+  {
+   "t": 10.0,
+   "type": "whoosh",
+   "db": -12
+  }
+ ]
+}

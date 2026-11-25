@@ -74,6 +74,13 @@ def render(set_dir):
             if s.get("sub"):
                 f = F(ITAL, 34); tw = d.textlength(s["sub"], font=f); d.text(((W - tw) / 2, y + 20), s["sub"], font=f, fill=SOFT); y += 80
             if s.get("pose"): fit_in(img, pose(s["pose"]), (M, y + 20, W - M, H - 40))   # no mascot on @earndapp since the brief (2026-11-24)
+            if s.get("shot"):                          # real screen under the cover title, in a stroked phone frame (brief look)
+                sh = Image.open(os.path.join(ROOT, s["shot"])).convert("RGB"); c = s.get("crop", [0, 0, 1, 1])
+                sh = sh.crop((int(c[0] * sh.width), int(c[1] * sh.height), int(c[2] * sh.width), int(c[3] * sh.height)))
+                sh.thumbnail((W - 2 * M - 120, H - y - 120), Image.LANCZOS)
+                m = Image.new("L", sh.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0) + sh.size, 36, fill=255)
+                px = (W - sh.width) // 2; py = int(y + 50); img.paste(sh, (px, py), m)
+                d.rounded_rectangle([px - 10, py - 10, px + sh.width + 10, py + sh.height + 10], 44, outline=(42, 45, 48), width=8)
         elif t == "structure":
             y = 150; y = hl_line(d, M, y, s["title"], 80, False)
             if s.get("sub"):

@@ -1,0 +1,84 @@
+{
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and a real app screen (demo pack), nothing generated",
+  "status": "draft, awaiting approval",
+  "format": "native-text tip slideshow",
+  "pain_cover": false,
+  "set_id": "2026-11-25-ezyxbt-test-3-numbers",
+  "new_format_test": "'N things' list (scan 11-22/11-24 Watch structures)",
+  "topic_source": "EARND's logging (weight, reps, reps in reserve)",
+  "caption": "write down 3 numbers after every set. most people write zero. #gymtips #gymtok #workoutlog #progressiveoverload #gymbeginner",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b9-06.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "write down 3 numbers after every set",
+      "sub": "(most people write zero)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b1-11.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "the 3 numbers",
+      "lines": [
+        "1. weight",
+        "2. reps",
+        "3. reps left in the tank"
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b9-05.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "next week",
+      "lines": [],
+      "text": "beat one of them. that's progress."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b5-16.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip: make it one tap",
+      "text": "log a set in one tap, even from your lock screen.",
+      "shot": "01-app/assets/demos/one-tap-frame0.png",
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b7-16.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "how many do you write down?",
+      "sub": "i'm building EARND. coming soon to iPhone. follow @earndapp."
+    }
+  ]
+}

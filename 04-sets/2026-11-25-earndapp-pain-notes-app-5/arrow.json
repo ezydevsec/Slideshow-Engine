@@ -1,0 +1,102 @@
+{
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": false,
+  "ai_note": "no generated art: real app screen (demo pack) only",
+  "status": "draft, awaiting approval",
+  "set_id": "2026-11-25-earndapp-pain-notes-app-5",
+  "format": "pain-cover slideshow (5 slides, brief look)",
+  "pain_cover": true,
+  "new_format_test": "brief hook: 'Logging sets in the Notes app is why you're not growing' (problem pillar)",
+  "topic_source": "content brief §9–10 (problem pillar); EARND's double progression",
+  "caption": "your Notes app stores guesses. it can't tell you what to beat today. save this before your next session. #gymtok #progressiveoverload #notesapp #workoutlog #gymtips",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "your Notes app log",
+          false
+        ],
+        [
+          "is why you're",
+          false
+        ],
+        [
+          "not growing",
+          true
+        ]
+      ],
+      "sub": "(here's what it can't tell you)",
+      "shot": "01-app/assets/demos/notes-log-fake.png",
+      "crop": [
+        0,
+        0.04,
+        1,
+        0.62
+      ]
+    },
+    {
+      "type": "structure",
+      "title": "what you need",
+      "sub": "on every set, before you lift.",
+      "items": [
+        "last time's weight and reps",
+        "today's target",
+        "a rule for adding weight",
+        "2 hard sets, 4–8 reps"
+      ],
+      "note": "Notes gives you none of it."
+    },
+    {
+      "type": "structure",
+      "title": "the rule",
+      "sub": "double progression.",
+      "items": [
+        "hit 8 on every set",
+        "→ add weight",
+        "back to 4–5 reps",
+        "build back up to 8"
+      ],
+      "note": "that's the whole method."
+    },
+    {
+      "type": "structure",
+      "title": "what Notes can't do",
+      "sub": "it just stores guesses.",
+      "items": [
+        "tell you what to beat",
+        "start your rest timer",
+        "show when you've improved"
+      ],
+      "note": "so you repeat last month."
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "EARND shows",
+          false
+        ],
+        [
+          "the number to beat",
+          true
+        ],
+        [
+          "on every set",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/demos/one-tap-frame0.png",
+      "crop": [
+        0,
+        0.03,
+        1,
+        0.62
+      ],
+      "example": false,
+      "footer": "Coming soon to iPhone. Follow for the launch."
+    }
+  ]
+}

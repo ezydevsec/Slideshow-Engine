@@ -1,0 +1,84 @@
+{
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and a real app screen (demo pack), nothing generated",
+  "status": "draft, awaiting approval",
+  "format": "native-text tip slideshow",
+  "pain_cover": false,
+  "set_id": "2026-11-25-ezyxbt-identity-last-week",
+  "new_format_test": false,
+  "topic_source": "identity format (rule 5)",
+  "caption": "be the guy who knows what he lifted last week. #gymtok #gymmotivation #discipline #progressiveoverload #upperlower",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b7-15.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "be the guy who knows what he lifted last week",
+      "sub": "",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b9-03.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "he doesn't",
+      "lines": [
+        "guess",
+        "ego-lift",
+        "skip the boring sets"
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b11-01.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "he just",
+      "lines": [],
+      "text": "beats last week. one rep at a time."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b9-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip: know your number",
+      "text": "last time's numbers and today's target, on every set.",
+      "shot": "01-app/assets/demos/one-tap-frame0.png",
+      "footer": "i'm building it. it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b10-02.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "be that guy.",
+      "sub": "i'm building EARND. coming soon to iPhone. follow @earndapp."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+ "set_id": "2026-11-25-whatif-video-six-day-split",
+ "account": "@whatif.overload",
+ "account_type": "theme",
+ "format": "what-if escalation video (Explainer 3D, Higgsfield, narrated)",
+ "status": "draft, awaiting approval",
+ "topic_source": "joke escalation; real life = 4 days, upper/lower, beat last week (content brief method)",
+ "accent": [
+  255,
+  90,
+  80
+ ],
+ "out": "six-day.mp4",
+ "endcard": [
+  "this page is made by EARND,",
+  "our gym app. follow @earndapp"
+ ],
+ "ai_images": true,
+ "ai_note": "start frames Higgsfield Nano Banana, motion Kling 3.0 pro (scene 3: the still with a slow push, out of credits), narrator ElevenLabs v4: AI label ON",
+ "caption": "dale trained 6 days a week for a year. it cost him 3 birthdays and a wedding 🎂 #gymhumor #gymtok #whatif #gymmemes #workoutsplit",
+ "segments": [
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c1.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c2.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c3.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c4.mp4"
+   ]
+  },
+  {
+   "dur": 4.5,
+   "image": "hf/card.png",
+   "height": 1920,
+   "y": 0
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.2,
+   "t1": 5,
+   "text": "WHAT IF DALE TRAINED",
+   "x": 540,
+   "y": 90,
+   "size": 54,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 0.2,
+   "t1": 5,
+   "text": "6 DAYS A WEEK?",
+   "x": 540,
+   "y": 190,
+   "size": 54,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 5,
+   "t1": 10,
+   "text": "MONTH 2",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 5.4,
+   "t1": 10,
+   "text": "nap sets.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 10,
+   "t1": 15,
+   "text": "MONTH 5",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 10.4,
+   "t1": 15,
+   "text": "3 birthdays. 1 wedding.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 15,
+   "t1": 20,
+   "text": "MONTH 12",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 15.4,
+   "t1": 20,
+   "text": "same weights.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 20.1,
+   "t1": 24.5,
+   "text": "REAL LIFE:",
+   "x": 540,
+   "y": 720,
+   "size": 64,
+   "color": "acc"
+  },
+  {
+   "t0": 20.5,
+   "t1": 24.5,
+   "text": "4 days. upper, lower.",
+   "x": 540,
+   "y": 830,
+   "size": 50,
+   "color": "white"
+  },
+  {
+   "t0": 21.0,
+   "t1": 24.5,
+   "text": "beat last week.",
+   "x": 540,
+   "y": 910,
+   "size": 50,
+   "color": "white"
+  }
+ ]
+}

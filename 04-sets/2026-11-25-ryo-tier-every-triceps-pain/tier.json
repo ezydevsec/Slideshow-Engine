@@ -1,0 +1,113 @@
+{
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "pain_cover": true,
+  "winner_remake": "'every lat exercise, ranked' (1,082) remake, rule 1; pain on the cover (review 11-22)",
+  "set_id": "2026-11-25-ryo-tier-every-triceps-pain",
+  "topic_source": "EARND Upper A/B triceps picks (Poliquin pushdown, triceps extension); ranking is our opinion",
+  "caption": "pushdowns not growing your arms? every triceps exercise, ranked 👇 #tricepsworkout #armday #gymtok #tierlist #gymtips",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        "pushdowns not",
+        "growing your arms?"
+      ],
+      "sub": "every triceps exercise, ranked.",
+      "pose": "pushdown"
+    },
+    {
+      "type": "list",
+      "title": "the whole list",
+      "sub": "elbows still, triceps working.",
+      "rows": [
+        [
+          "S",
+          [
+            "pushdown",
+            "overhead extension"
+          ]
+        ],
+        [
+          "A",
+          [
+            "machine dip"
+          ]
+        ],
+        [
+          "B",
+          [
+            "close-grip push-up"
+          ]
+        ],
+        [
+          "C",
+          [
+            "kickback"
+          ]
+        ]
+      ]
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "pushdown",
+      "works": "triceps",
+      "lines": [
+        "sit down for it: no body english.",
+        "elbows pinned. 2 × 4–8."
+      ],
+      "pose": "pushdown"
+    },
+    {
+      "type": "tier",
+      "tier": "S",
+      "name": "overhead extension",
+      "works": "triceps (long head)",
+      "lines": [
+        "arms overhead, big stretch.",
+        "slow on the way down."
+      ],
+      "pose": "overhead-extension"
+    },
+    {
+      "type": "tier",
+      "tier": "A",
+      "name": "machine dip",
+      "works": "triceps + chest",
+      "lines": [
+        "easy to load heavy.",
+        "stay upright for more triceps."
+      ],
+      "pose": "machine-dip"
+    },
+    {
+      "type": "tier",
+      "tier": "B",
+      "name": "close-grip push-up",
+      "works": "triceps + chest",
+      "lines": [
+        "fine anywhere.",
+        "hard to keep adding weight."
+      ],
+      "pose": "push-up"
+    },
+    {
+      "type": "tier",
+      "tier": "C",
+      "name": "kickback",
+      "works": "triceps",
+      "lines": [
+        "too light to build on.",
+        "a finisher at best."
+      ],
+      "pose": "cable-kickback",
+      "footer": "ryo trains on EARND, our app. follow @earndapp"
+    }
+  ]
+}
