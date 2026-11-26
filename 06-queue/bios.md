@@ -1,43 +1,43 @@
 # Account bios (founder format, 2026-11-26): outcome / what it does / CTA
 
-TikTok limit 80 characters. Link field: the App Store link once live. Until then line 3 = "Coming soon to iPhone".
+TikTok limit 80 characters. Line 3 tells people to search the App Store (founder 2026-11-26: the link might not work); the App Store link still goes in the link field once live. Until the app is live, line 3 = "Coming soon to iPhone".
 
 ## @earndapp
 ```
-Beat last week. Every week.
+Beat last week.
 Know what to lift, every set.
-Download EARND ⬇️
+Search EARND on the App Store
 ```
-Pre-launch line 3: `Coming soon to iPhone` (79 chars). Launch: 75 chars.
+Pre-launch line 3: `Coming soon to iPhone`.
 
 ## @ezyxbt
 ```
-Building EARND 🏋️
+Building EARND
 The app that tells you what to lift
-Download ⬇️
+Search EARND on the App Store
 ```
-Pre-launch line 3: `Coming soon to iPhone` (75 chars). Launch: 65 chars.
+Pre-launch line 3: `Coming soon to iPhone`.
 
 ## Ryo (@earnie.lifts → @ryo.lifts)
 ```
 Every exercise, ranked.
 Ryo's plan lives in EARND
-Get the EARND app ⬇️
+Search EARND on the App Store
 ```
-Pre-launch line 3: `Coming soon to iPhone` (71 chars). Launch: 70 chars.
+Pre-launch line 3: `Coming soon to iPhone`.
 
 ## @quiet.reps4
 ```
 Lift heavy. Stay quiet.
-Beat last week, every week.
-Get the EARND app ⬇️
+Beat last week.
+Search EARND on the App Store
 ```
-Pre-launch line 3: `Coming soon to iPhone` (73 chars). Launch: 72 chars.
+Pre-launch line 3: `Coming soon to iPhone`.
 
 ## @whatif.overload
 ```
 What if you trained like Dale?
-Don't. Follow a real plan.
-Get the EARND app ⬇️
+Don't. Get a plan.
+Search EARND on the App Store
 ```
-Pre-launch line 3: `Coming soon to iPhone` (79 chars). Launch: 78 chars.
+Pre-launch line 3: `Coming soon to iPhone`.
