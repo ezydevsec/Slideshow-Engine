@@ -1,0 +1,44 @@
+{
+ "video": "lean-pulldown-prelaunch.mp4",
+ "music": "audio/music.mp3",
+ "music_db": -3,
+ "music_curve": [
+  [
+   0,
+   -6
+  ],
+  [
+   4.5,
+   -5
+  ],
+  [
+   5.5,
+   -2
+  ],
+  [
+   6.2,
+   0
+  ],
+  [
+   14,
+   0
+  ]
+ ],
+ "music_fade": [
+  12.6,
+  14.0
+ ],
+ "sfx": [
+  {
+   "t": 4.6,
+   "type": "riser",
+   "db": -14,
+   "dur": 1.4
+  },
+  {
+   "t": 6.2,
+   "type": "boom",
+   "db": -10
+  }
+ ]
+}

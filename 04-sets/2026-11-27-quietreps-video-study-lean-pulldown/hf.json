@@ -1,0 +1,103 @@
+{
+ "set_id": "2026-11-27-quietreps-video-study-lean-pulldown",
+ "account": "@quiet.reps4",
+ "account_type": "theme",
+ "format": "gold-line study one-liner (winner remake #4 of 'same 8 sets…', 988 views)",
+ "status": "draft, waiting for founder approval; Fri 27 Nov, 18:30 UK",
+ "topic_source": "Buonsenso et al. 2025, J Funct Morphol Kinesiol 10(3):345 (PMID 40981044), verified 11-19: 40 trained men, 7 pulldown variants incl. 30° lean; lat activation no significant difference (p = 0.868); posterior deltoid higher with wide grip + 30° lean. EMG only: say 'muscle activity', not growth",
+ "accent": [
+  255,
+  196,
+  120
+ ],
+ "out": "lean-pulldown-prelaunch.mp4",
+ "ai_images": true,
+ "ai_note": "Minimal Line start frame Higgsfield Nano Banana, motion Kling 3.0 pro: AI label ON",
+ "caption": "sit up or lean back: your lats work the same. the lean just adds a bit of rear delt. (Buonsenso et al. 2025, muscle activity) #gymtok #latpulldown #backworkout #gymtips #hypertrophy",
+ "segments": [
+  {
+   "dur": 11,
+   "clips": [
+    "hf/clip.mp4"
+   ]
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.2,
+   "t1": 11,
+   "text": "lean back or sit up?",
+   "x": 540,
+   "y": 120,
+   "size": 58,
+   "color": "white"
+  },
+  {
+   "t0": 0.6,
+   "t1": 11,
+   "text": "lats: same.",
+   "x": 540,
+   "y": 215,
+   "size": 44,
+   "color": "acc"
+  },
+  {
+   "t0": 0.9,
+   "t1": 11,
+   "text": "UPRIGHT",
+   "x": 300,
+   "y": 620,
+   "size": 34,
+   "color": "grey"
+  },
+  {
+   "t0": 0.9,
+   "t1": 11,
+   "text": "LEANING",
+   "x": 790,
+   "y": 620,
+   "size": 34,
+   "color": "acc"
+  },
+  {
+   "t0": 5.0,
+   "t1": 11,
+   "text": "the lean adds:",
+   "x": 540,
+   "y": 320,
+   "size": 40,
+   "color": "white"
+  },
+  {
+   "t0": 6.2,
+   "t1": 11,
+   "text": "a bit more rear delt.",
+   "x": 540,
+   "y": 385,
+   "size": 40,
+   "color": "acc"
+  },
+  {
+   "t0": 8.5,
+   "t1": 11,
+   "text": "pick one. beat last week.",
+   "x": 540,
+   "y": 470,
+   "size": 36,
+   "color": "white"
+  },
+  {
+   "t0": 1.0,
+   "t1": 11,
+   "text": "Buonsenso et al. 2025, muscle activity (EMG)",
+   "x": 540,
+   "y": 545,
+   "size": 22,
+   "color": "grey"
+  }
+ ],
+ "endcard": [
+  "Get the EARND app.",
+  "Coming soon to iPhone"
+ ]
+}

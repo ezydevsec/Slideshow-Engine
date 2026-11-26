@@ -1,0 +1,162 @@
+{
+ "set_id": "2026-11-27-whatif-video-monday-only",
+ "account": "@whatif.overload",
+ "account_type": "theme",
+ "format": "what-if escalation video (Explainer 3D, Higgsfield, narrated)",
+ "status": "draft, waiting for founder approval; Fri 27 Nov, 19:30 UK",
+ "topic_source": "joke escalation; real life = each muscle twice a week, upper/lower (content brief method)",
+ "accent": [
+  255,
+  90,
+  80
+ ],
+ "out": "monday-only-prelaunch.mp4",
+ "ai_images": true,
+ "ai_note": "start frames Higgsfield Nano Banana, motion Kling 3.0 pro, narrator ElevenLabs v4 (Knox): AI label ON",
+ "caption": "dale only trains on mondays. the spiders train the rest of the week 🕷️ #gymhumor #gymtok #whatif #gymmemes #mondaymotivation",
+ "segments": [
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c1.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c2.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c3.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/c4.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "image": "hf/card.png",
+   "height": 1920,
+   "y": 0
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.2,
+   "t1": 5,
+   "text": "WHAT IF DALE ONLY",
+   "x": 540,
+   "y": 90,
+   "size": 54,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 0.2,
+   "t1": 5,
+   "text": "TRAINED ON MONDAYS?",
+   "x": 540,
+   "y": 190,
+   "size": 54,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 5,
+   "t1": 10,
+   "text": "TUESDAY–SUNDAY",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 5.4,
+   "t1": 10,
+   "text": "\"recovery.\"",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 10,
+   "t1": 15,
+   "text": "BANK HOLIDAY MONDAY",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 10.4,
+   "t1": 15,
+   "text": "the spiders moved in.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 15,
+   "t1": 20,
+   "text": "1 YEAR LATER",
+   "x": 540,
+   "y": 150,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 15.4,
+   "t1": 20,
+   "text": "same dumbbells.",
+   "x": 540,
+   "y": 255,
+   "size": 42,
+   "color": "acc",
+   "box": true
+  },
+  {
+   "t0": 20.1,
+   "t1": 25,
+   "text": "REAL LIFE:",
+   "x": 540,
+   "y": 720,
+   "size": 64,
+   "color": "acc"
+  },
+  {
+   "t0": 20.5,
+   "t1": 25,
+   "text": "each muscle, twice a week.",
+   "x": 540,
+   "y": 830,
+   "size": 50,
+   "color": "white"
+  },
+  {
+   "t0": 21.0,
+   "t1": 25,
+   "text": "upper, lower.",
+   "x": 540,
+   "y": 910,
+   "size": 50,
+   "color": "white"
+  }
+ ],
+ "endcard": [
+  "Get the EARND app.",
+  "Coming soon to iPhone"
+ ]
+}
