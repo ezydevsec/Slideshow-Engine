@@ -302,3 +302,10 @@ New formats: mascot explainer video (`02-research/formats/mascot-explainer-video
 - **Ryo:** "every upper-back exercise, ranked" (rows; poses: single-arm row, reverse fly, straight-arm pulldown) with a pain cover "rows never thicken your back?". Stickman comparison still due this week.
 - **@quiet.reps4:** gold-line one-liner, Schoenfeld 2017 (verified): "light or heavy: same growth. the heavy group got stronger."
 - **@whatif.overload:** "what if Dale did a 6-day split with 1 rest day, for a year?" (real life: 4 days, upper/lower, the sequence rolls on).
+
+## Daily scan 2026-11-26 (INCOMPLETE: Apify invoice) — ideas for Thu 26 Nov (launch day if the app is live)
+- **@earndapp:** launch-day video from the demo pack: "EARND is on the App Store." Lock Screen tap → EARNED card → "🔎 Search EARND Hypertrophy" (no AI, real footage). Slideshows: "everything EARND does in 5 slides" (target, one tap, Lock Screen, EARNED, plan) + the one-muscle list ("maximize your back with these 4", brief look).
+- **@ezyxbt:** "i built an app. it's live today." (first person, real photos, real screens), plus identity post #2 this week ("the guy who beats last week").
+- **Ryo:** "every calf exercise, ranked" with a pain cover (calves first on lower days, brief); "every quad exercise" was 22 Nov.
+- **@quiet.reps4 / @whatif.overload:** Higgsfield is out of credits (2.73): still-push format until topped up. @quiet.reps4: Krieger "2–3 sets ≈ 4–6 sets" one-liner; @whatif.overload: Dale only trains on Mondays.
+- All end cards: "Get the EARND app. Search EARND Hypertrophy on the App Store" once live; "Coming soon to iPhone" until then.
