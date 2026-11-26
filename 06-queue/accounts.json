@@ -61,11 +61,11 @@
       },
       "cta": {
         "prelaunch": "Coming soon to iPhone. Follow for the launch.",
-        "launched": "TO CONFIRM at launch",
-        "destination_prelaunch": "follow @earndapp (no waitlist: launch as soon as Apple approves, founder 2026-11-24)",
-        "destination_launched": "launch.download_url"
+        "launched": "EARND is on the App Store. Search EARND or tap the link in bio.",
+        "destination_prelaunch": "App Store search + link in bio (founder 2026-11-26)",
+        "destination_launched": "launch.download_url (link in bio) + 'Search EARND on the App Store'"
       },
-      "disclosure": "The account is EARND itself, so the tie is self-evident.",
+      "disclosure": "The account is EARND itself.",
       "bio": "The 4-day upper/lower app. See what to beat every set. Launching soon.",
       "personas": [
         "Persona 1: The inconsistent tracker",
@@ -109,12 +109,12 @@
         "note": "Approved by the founder 2026-11-01, replacing founder-photo-edu-3x4 (1080x1350)."
       },
       "cta": {
-        "prelaunch": "i'm building EARND. follow @earndapp for the launch.",
-        "launched": "TO CONFIRM at launch",
-        "destination_prelaunch": "follow @earndapp",
-        "destination_launched": "launch.download_url"
+        "prelaunch": "i'm building EARND. coming soon to iPhone.",
+        "launched": "i built EARND. search EARND on the App Store.",
+        "destination_prelaunch": "App Store search + link in bio (founder 2026-11-26)",
+        "destination_launched": "launch.download_url (link in bio) + 'Search EARND on the App Store'"
       },
-      "disclosure": "The tip slide says the founder is building EARND; the final CTA repeats it. Bio should say so too.",
+      "disclosure": "Founder account: first person, he says he's building EARND.",
       "bio": null,
       "bio_proposed": "Training + building EARND (@earndapp). The splits and rules I actually use.",
       "personas": "Not set. Founder content follows the founder's real training, not a persona.",
@@ -145,12 +145,12 @@
       "voice": "lowercase, deadpan, relatable gym moments from the pain bank (can't remember last week's weight, guessing, same reps for months, notes app chaos). One joke per slide, under 25 words. No physique promises; payoff is about tracking, never looks.",
       "visual_template": "bluebro-style tier lists and rankings on white with gritty anime Ryo (tier_render.py); 3 slideshows a day, no videos (founder, 2026-11-15).",
       "cta": {
-        "prelaunch": "ryo trains on EARND, our app. follow @earndapp for the launch.",
-        "launched": "TO CONFIRM at launch",
-        "destination_prelaunch": "follow @earndapp",
-        "destination_launched": "launch.download_url"
+        "prelaunch": "ryo trains on EARND. get the EARND app: coming soon to iPhone.",
+        "launched": "ryo trains on EARND. get the EARND app: search EARND on the App Store.",
+        "destination_prelaunch": "App Store search + link in bio (founder 2026-11-26)",
+        "destination_launched": "launch.download_url (link in bio) + 'Search EARND on the App Store'"
       },
-      "disclosure": "Bio says 'by @EARND' (run by the EARND team). The final slide names EARND as our own app.",
+      "disclosure": "Brand-voice CTA ('Get the EARND app'), like an app's own theme page (founder 2026-11-26). Never pose as an independent user ('the app I use/recommend').",
       "bio": "earnie lifts so you know what to lift. by @EARND",
       "bio_note": "Founder confirmed 2026-11-04 that the @EARND bio link is correct.",
       "personas": "Persona 1: The inconsistent tracker",
@@ -183,10 +183,10 @@
         "disclosure"
       ],
       "cta": {
-        "prelaunch": "this page is made by EARND, our gym app. follow @earndapp for the launch. (founder chose option B, 2026-11-14: disclosed on every post's last slide/endcard)",
-        "launched": "TO CONFIRM at launch",
-        "destination_prelaunch": "follow @earndapp",
-        "destination_launched": "launch.download_url"
+        "prelaunch": "Get the EARND app. Coming soon to iPhone.",
+        "launched": "Get the EARND app. Search EARND on the App Store.",
+        "destination_prelaunch": "App Store search + link in bio (founder 2026-11-26)",
+        "destination_launched": "launch.download_url (link in bio) + 'Search EARND on the App Store'"
       },
       "personas": [
         "Persona 1: The inconsistent tracker",
@@ -198,7 +198,7 @@
       "character": "TO CONFIRM: two original recurring 3D gym bros. Not the lockin skeletons, Bob or Zack D. Films style.",
       "voice": "Calm, intense second-person narration (AI narrator, founder 2026-11-11). Our own scripts; never other creators' audio. No swearing, no physique promises.",
       "visual_template": "Minimal Line (founder 2026-11-19, from the '10 animation styles' reel): thin warm-gold glowing single-line faceless figures on pure black (option B, founder 2026-11-19; reference 01-app/brand/quietreps/minimal-line-gold.png), minimal, lots of empty space, made with Higgsfield (Nano Banana start frames + Kling motion), our text and EARND end card baked on with hf_compose.py. AI label ON. Was: gold glow line art, code-drawn (anim_gold.py) and Blender stick figures.",
-      "disclosure": "Bio does not mention EARND (founder, 2026-11-14). Every post's last slide or endcard says EARND is ours: \"this page is made by EARND, our gym app.\"",
+      "disclosure": "Brand-voice CTA on every end card ('Get the EARND app'), replaces 'this page is made by EARND' (founder 2026-11-26). Never pose as an independent user.",
       "bio": "small reps. every day. it adds up.",
       "note": "Merged 2026-11-04 from session 'Replicate X post' (branch claude/zen-babbage-c72m2o). Founder confirmed keeping this account on 2026-11-04; handle and fields marked TO CONFIRM still need confirming once created. Instagram twin of the same brand (founder: 4 IG accounts). | 2026-11-11: founder chose a line-art account instead of 3D skits; launching weekend 14-15 Nov.",
       "avatar": "01-app/brand/avatars/quiet-reps.png",
@@ -222,10 +222,10 @@
         "disclosure"
       ],
       "cta": {
-        "prelaunch": "this page is made by EARND, our gym app. follow @earndapp for the launch. (founder chose option B, 2026-11-14: disclosed on every post's last slide/endcard)",
-        "launched": "TO CONFIRM at launch",
-        "destination_prelaunch": "follow @earndapp",
-        "destination_launched": "launch.download_url"
+        "prelaunch": "Get the EARND app. Coming soon to iPhone.",
+        "launched": "Get the EARND app. Search EARND on the App Store.",
+        "destination_prelaunch": "App Store search + link in bio (founder 2026-11-26)",
+        "destination_launched": "launch.download_url (link in bio) + 'Search EARND on the App Store'"
       },
       "personas": [
         "Persona 1: The inconsistent tracker",
@@ -237,7 +237,7 @@
       "character": "Dale (Explainer 3D, founder 2026-11-19): our own design, rounded 3D cartoon man, short dark brown hair, dot eyes, red headband, royal blue vest, grey joggers, white trainers (kept from the pixel Dale). Reference: 01-app/brand/whatif/dale-explainer3d.png once approved.",
       "voice": "Deadpan, played straight. One rule repeated each step (+2.5 kg/week) until real objects turn absurd. Payoff is a joke, never a physique promise. No \"example\" tags on the escalation numbers (founder, 2026-11-04).",
       "visual_template": "Explainer 3D (founder 2026-11-19, from the '10 animation styles' reel): smooth matte toy-like 3D characters, simple dot-eye faces, soft pastel rooms, soft daylight, made with Higgsfield (Nano Banana start frames + Kling motion), our text and EARND end card baked on with hf_compose.py. AI label ON. Was: pixel art (pixel_video.py).",
-      "disclosure": "Bio does not mention EARND (founder, 2026-11-14). Every post's last slide or endcard says EARND is ours: \"this page is made by EARND, our gym app.\"",
+      "disclosure": "Brand-voice CTA on every end card ('Get the EARND app'), replaces 'this page is made by EARND' (founder 2026-11-26). Never pose as an independent user.",
       "bio": "what if dale never missed a week? 📈 +2.5 kg at a time.",
       "note": "Merged 2026-11-04 from session 'Replicate X post' (branch claude/zen-babbage-c72m2o). Founder confirmed keeping this account on 2026-11-04; handle and fields marked TO CONFIRM still need confirming once created. Instagram twin of the same brand (founder: 4 IG accounts).",
       "avatar": "01-app/brand/avatars/whatif-overload.png",
