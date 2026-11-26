@@ -3,7 +3,8 @@
   "phase": "prelaunch",
   "launch": {
     "download_url": null,
-    "note": "Stays null until launch. Download CTAs are only allowed once phase is 'launched' and this is set."
+    "note": "Stays null until launch. Download CTAs are only allowed once phase is 'launched' and this is set.",
+    "app_store_name": "EARND: Hypertrophy Tracker"
   },
   "palette": {
     "black": "#0B0C0D",
@@ -61,7 +62,7 @@
       },
       "cta": {
         "prelaunch": "Coming soon to iPhone. Follow for the launch.",
-        "launched": "EARND is on the App Store. Search EARND or tap the link in bio.",
+        "launched": "EARND is on the App Store. Search EARND Hypertrophy or tap the link in bio.",
         "destination_prelaunch": "App Store search + link in bio (founder 2026-11-26)",
         "destination_launched": "launch.download_url (link in bio) + 'Search EARND on the App Store'"
       },
@@ -110,7 +111,7 @@
       },
       "cta": {
         "prelaunch": "i'm building EARND. coming soon to iPhone.",
-        "launched": "i built EARND. search EARND on the App Store.",
+        "launched": "i built EARND. search EARND Hypertrophy on the App Store.",
         "destination_prelaunch": "App Store search + link in bio (founder 2026-11-26)",
         "destination_launched": "launch.download_url (link in bio) + 'Search EARND on the App Store'"
       },
@@ -146,7 +147,7 @@
       "visual_template": "bluebro-style tier lists and rankings on white with gritty anime Ryo (tier_render.py); 3 slideshows a day, no videos (founder, 2026-11-15).",
       "cta": {
         "prelaunch": "ryo trains on EARND. get the EARND app: coming soon to iPhone.",
-        "launched": "ryo trains on EARND. get the EARND app: search EARND on the App Store.",
+        "launched": "ryo trains on EARND. get the EARND app: search EARND Hypertrophy on the App Store.",
         "destination_prelaunch": "App Store search + link in bio (founder 2026-11-26)",
         "destination_launched": "launch.download_url (link in bio) + 'Search EARND on the App Store'"
       },
@@ -184,7 +185,7 @@
       ],
       "cta": {
         "prelaunch": "Get the EARND app. Coming soon to iPhone.",
-        "launched": "Get the EARND app. Search EARND on the App Store.",
+        "launched": "Get the EARND app. Search EARND Hypertrophy on the App Store.",
         "destination_prelaunch": "App Store search + link in bio (founder 2026-11-26)",
         "destination_launched": "launch.download_url (link in bio) + 'Search EARND on the App Store'"
       },
@@ -223,7 +224,7 @@
       ],
       "cta": {
         "prelaunch": "Get the EARND app. Coming soon to iPhone.",
-        "launched": "Get the EARND app. Search EARND on the App Store.",
+        "launched": "Get the EARND app. Search EARND Hypertrophy on the App Store.",
         "destination_prelaunch": "App Store search + link in bio (founder 2026-11-26)",
         "destination_launched": "launch.download_url (link in bio) + 'Search EARND on the App Store'"
       },
