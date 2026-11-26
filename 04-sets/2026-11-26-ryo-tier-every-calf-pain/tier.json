@@ -1,0 +1,22 @@
+{
+  "status": "draft, awaiting approval",
+  "format": "bluebro-style tier list (white, gritty anime Ryo)",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "canvas": "1080x1350",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "set_id": "2026-11-26-ryo-tier-every-calf-pain",
+  "pain_cover": true,
+  "winner_remake": "'every lat exercise, ranked' (1,082) remake, rule 1; re-run of 21 Nov calves (that one went out via Postiz at 131 views)",
+  "topic_source": "EARND Lower A/B calf pick (calf press, calves first, 3–5 s stretch: content brief); ranking is our opinion",
+  "caption": "calves never grow? every calf exercise, ranked 👇 #calves #legday #gymtok #tierlist #gymtips",
+  "slides": [
+    {"type": "cover", "title": ["calves never", "grow?"], "sub": "every calf exercise, ranked.", "pose": "calf-press"},
+    {"type": "list", "title": "the whole list", "sub": "the stretch at the bottom is the point.", "rows": [["S", ["calf press"]], ["A", ["standing calf raise"]], ["B", ["seated calf raise"]], ["C", ["bouncy fast reps"]]]},
+    {"type": "tier", "tier": "S", "name": "calf press", "works": "calves", "lines": ["straight legs, big stretch.", "pause 3–5 s at the bottom. 2 × 4–8."], "pose": "calf-press"},
+    {"type": "tier", "tier": "A", "name": "standing calf raise", "works": "calves", "lines": ["same idea, harder to load.", "full stretch, slow up."], "pose": "calf-raise"},
+    {"type": "tier", "tier": "B", "name": "seated calf raise", "works": "calves (soleus)", "lines": ["knees bent = less of the big calf.", "fine as a second exercise."], "pose": "seated-calf-raise"},
+    {"type": "tier", "tier": "C", "name": "bouncy fast reps", "works": "your ego", "lines": ["no stretch, no pause.", "the reason most calves don't grow."], "pose": "calf-raise", "footer": "get EARND: search EARND Hypertrophy"}
+  ]
+}

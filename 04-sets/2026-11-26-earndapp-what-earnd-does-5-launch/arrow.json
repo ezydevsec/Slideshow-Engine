@@ -1,0 +1,121 @@
+{
+  "account": "@earndapp",
+  "account_type": "brand",
+  "canvas": "1080x1350",
+  "ai_images": false,
+  "ai_note": "real app screens only (demo pack)",
+  "status": "draft, awaiting approval",
+  "set_id": "2026-11-26-earndapp-what-earnd-does-5-launch",
+  "format": "product tour slideshow (5 slides, brief look)",
+  "pain_cover": false,
+  "new_format_test": "launch-week product tour (the magic + the moment pillars)",
+  "topic_source": "content brief §5 features 1–4, real demo pack screens",
+  "caption": "EARND tells you what to lift on every set, logs it in one tap (even from your Lock Screen) and only adds weight when you've earned it. search EARND Hypertrophy on the App Store. #gymtok #workouttracker #progressiveoverload #upperlower #iphone",
+  "slides": [
+    {
+      "type": "cover",
+      "title": [
+        [
+          "know exactly",
+          false
+        ],
+        [
+          "what to lift",
+          true
+        ],
+        [
+          "on every set",
+          false
+        ]
+      ],
+      "sub": "(what EARND does, in 5 slides)",
+      "shot": "01-app/assets/demos/one-tap-frame0.png",
+      "crop": [
+        0,
+        0.03,
+        1,
+        0.5
+      ]
+    },
+    {
+      "type": "structure",
+      "title": "what EARND does",
+      "sub": "the whole app.",
+      "items": [
+        "shows the number to beat",
+        "logs a set in one tap",
+        "works from your Lock Screen",
+        "adds weight when you've earned it"
+      ],
+      "note": "upper / lower. 2 hard sets. 4–8 reps."
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "log sets",
+          false
+        ],
+        [
+          "without unlocking",
+          true
+        ],
+        [
+          "your phone",
+          false
+        ]
+      ],
+      "shot": "01-app/assets/demos/lock-screen-frame0.png",
+      "crop": [
+        0,
+        0.55,
+        1,
+        0.9
+      ],
+      "example": false
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "weight only goes up",
+          false
+        ],
+        [
+          "when you've earned it",
+          true
+        ]
+      ],
+      "shot": "01-app/assets/demos/earned-card.png",
+      "crop": [
+        0,
+        0.15,
+        1,
+        0.8
+      ],
+      "example": true
+    },
+    {
+      "type": "app",
+      "title": [
+        [
+          "beat last week.",
+          false
+        ],
+        [
+          "every week.",
+          true
+        ]
+      ],
+      "shot": "01-app/assets/demos/one-tap-frame0.png",
+      "crop": [
+        0,
+        0.03,
+        1,
+        0.62
+      ],
+      "example": false,
+      "footer": "Search EARND Hypertrophy on the App Store."
+    }
+  ]
+}

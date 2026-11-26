@@ -1,0 +1,84 @@
+{
+  "account": "@ezyxbt",
+  "account_type": "founder",
+  "canvas": "1080x1920",
+  "ai_images": false,
+  "ai_note": "real founder photos and real app screens, nothing generated",
+  "status": "draft, awaiting approval",
+  "set_id": "2026-11-26-ezyxbt-i-built-an-app-launch",
+  "format": "native-text tip slideshow",
+  "new_format_test": "launch post, first person (build-in-public)",
+  "topic_source": "EARND launch (Apple approved 26 Nov)",
+  "pain_cover": false,
+  "caption": "i built a gym app. it's out now. it tells you what to lift on every set and only adds weight when you've earned it. search EARND Hypertrophy on the App Store. #buildinpublic #gymtok #workouttracker #progressiveoverload #upperlower",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": {
+        "file": "b7-15.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "hook": "i built a gym app. it's out now.",
+      "sub": "(here's what it does)",
+      "hook_y": 0.14
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b9-02.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "it tells you",
+      "lines": [
+        "what to lift, every set",
+        "when you've earned more weight",
+        "what to beat next time"
+      ]
+    },
+    {
+      "type": "list",
+      "photo": {
+        "file": "b10-03.jpg",
+        "focus": [
+          0.5,
+          0.45
+        ]
+      },
+      "title": "why",
+      "lines": [],
+      "text": "because guessing at the machine doesn't work."
+    },
+    {
+      "type": "tip",
+      "photo": {
+        "file": "b9-04.jpg",
+        "focus": [
+          0.5,
+          0.4
+        ]
+      },
+      "label": "the real tip: lock screen logging",
+      "text": "tap ✓ without unlocking your phone.",
+      "shot": "01-app/assets/demos/lock-screen-frame0.png",
+      "footer": "it's called EARND."
+    },
+    {
+      "type": "cta",
+      "photo": {
+        "file": "b10-02.jpg",
+        "focus": [
+          0.5,
+          0.3
+        ]
+      },
+      "text": "EARND: Hypertrophy Tracker",
+      "sub": "search EARND Hypertrophy on the App Store."
+    }
+  ]
+}
