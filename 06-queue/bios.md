@@ -1,43 +1,38 @@
-# Account bios (founder format, 2026-11-26): outcome / what it does / CTA
+# Account bios (launch, 2026-11-26): outcome / what it does / search CTA
 
-TikTok limit 80 characters. Line 3 tells people to search the App Store (founder 2026-11-26: the link might not work); the App Store link still goes in the link field once live. Until the app is live, line 3 = "Coming soon to iPhone".
+TikTok limit 80 characters. App Store link goes in the link field. Before posting, search "EARND gym" on the App Store and check EARND is the first result (two other apps are called "Earnd"); if not, use the exact listed name in line 3.
 
 ## @earndapp
 ```
 Beat last week.
 Know what to lift, every set.
-Search EARND on the App Store
+Search EARND gym on the App Store
 ```
-Pre-launch line 3: `Coming soon to iPhone`.
 
 ## @ezyxbt
 ```
 Building EARND
-The app that tells you what to lift
-Search EARND on the App Store
+The app that plans every set
+Search EARND gym on the App Store
 ```
-Pre-launch line 3: `Coming soon to iPhone`.
 
-## Ryo (@earnie.lifts → @ryo.lifts)
+## Ryo (@earnie.lifts)
 ```
 Every exercise, ranked.
-Ryo's plan lives in EARND
-Search EARND on the App Store
+Ryo trains on EARND
+Search EARND gym on the App Store
 ```
-Pre-launch line 3: `Coming soon to iPhone`.
 
 ## @quiet.reps4
 ```
 Lift heavy. Stay quiet.
 Beat last week.
-Search EARND on the App Store
+Search EARND gym on the App Store
 ```
-Pre-launch line 3: `Coming soon to iPhone`.
 
 ## @whatif.overload
 ```
-What if you trained like Dale?
-Don't. Get a plan.
-Search EARND on the App Store
+Train like Dale? Don't.
+Get a real plan.
+Search EARND gym on the App Store
 ```
-Pre-launch line 3: `Coming soon to iPhone`.
