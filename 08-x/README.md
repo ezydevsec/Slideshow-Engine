@@ -86,7 +86,7 @@ Direct, calm, ambitious, slightly ruthless British English. Avoid: generic motiv
 - Exercise alternatives moved into the exercise list. Workout history suggests the next target.
 - Product rule: every control must shorten the next action or clarify a decision.
 - Demo data is always labelled. Screenshots keep the key action visible after feed cropping.
-- Still outstanding: Firebase, RevenueCat, onboarding and paywall, App Store submission. Launch is delayed.
+- From the app code (commit d26d388, 24 Nov): RevenueCat is wired into a hard paywall after onboarding, and the personalised onboarding and paywall screens exist. Firebase is not integrated yet (data is local). App Store submission is not done. Launch is delayed. Don't call anything tested or live without Ezy confirming. See 08-x/content-ideas.md.
 - No free trial. Monthly or annual plans. Prices are private on X.
 - The app is built in Rork. A move to Claude Code is being considered, not decided.
 - Distribution: TikTok slideshows on two accounts (brand and founder). Account ownership and recovery are unresolved.
