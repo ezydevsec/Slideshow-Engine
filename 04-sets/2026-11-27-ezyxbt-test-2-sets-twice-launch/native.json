@@ -1,0 +1,84 @@
+{
+ "account": "@ezyxbt",
+ "account_type": "founder",
+ "canvas": "1080x1920",
+ "ai_images": false,
+ "ai_note": "real founder photos and a real app screen (demo pack), nothing generated",
+ "status": "draft, waiting for founder approval; post Fri 27 Nov 15:20 (launch version)",
+ "format": "native-text tip slideshow",
+ "pain_cover": false,
+ "set_id": "2026-11-27-ezyxbt-test-2-sets-twice-launch",
+ "new_format_test": "minimum-dose answer '2 sets. twice a week. that's it.' (Watch, scan 11-27: jackedbyjordyn 3.0M / 96K saves)",
+ "topic_source": "EARND method (content brief: two hard sets, each muscle twice a week, 4–8 reps)",
+ "caption": "2 hard sets. twice a week. that's how i train every muscle. #gymtips #upperlower #gymtok #hypertrophy #gymbeginner",
+ "slides": [
+  {
+   "type": "cover",
+   "photo": {
+    "file": "b12-03.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "hook": "2 sets. twice a week. that's it.",
+   "sub": "(how i train every muscle)",
+   "hook_y": 0.14
+  },
+  {
+   "type": "list",
+   "photo": {
+    "file": "b14-08.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "title": "every muscle, same rule",
+   "lines": [
+    "2 hard sets",
+    "4–8 reps",
+    "twice a week (upper/lower)"
+   ]
+  },
+  {
+   "type": "list",
+   "photo": {
+    "file": "b12-05.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "title": "the catch",
+   "lines": [],
+   "text": "they're hard. ~1 rep left in the tank. no junk sets."
+  },
+  {
+   "type": "tip",
+   "photo": {
+    "file": "b14-04.jpg",
+    "focus": [
+     0.5,
+     0.4
+    ]
+   },
+   "label": "the real tip: beat last time",
+   "text": "one more rep or a bit more weight, every set.",
+   "shot": "01-app/assets/demos/one-tap-frame0.png",
+   "footer": "i'm building the app for it. it's called EARND."
+  },
+  {
+   "type": "cta",
+   "photo": {
+    "file": "b13-04.jpg",
+    "focus": [
+     0.5,
+     0.3
+    ]
+   },
+   "text": "2 sets or 5?",
+   "sub": "i'm building EARND. search EARND Hypertrophy on the App Store."
+  }
+ ]
+}

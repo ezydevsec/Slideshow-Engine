@@ -1,0 +1,46 @@
+{
+  "set_id": "2026-11-27-ryo-pack-part-7-prelaunch",
+  "status": "draft, waiting for founder approval; post Fri 27 Nov 15:40",
+  "account": "@earnie.lifts",
+  "account_type": "theme",
+  "format": "slideshow photos you may be looking for (pack, part 7)",
+  "new_format_test": "'photos you may be looking for' pack (passes the gate 11-20: tsbettergoviral 10M/518K saves, urmom12338383 1.8M, unknowngoatea 2.0M, hanni.547, gymslideshowideas777)",
+  "ai_images": true,
+  "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+  "canvas": "1080x1920",
+  "topic_source": "founder process 11-20 (find a working format → rebuild → variations); 02-research/formats/photos-you-may-be-looking-for.md",
+  "caption": "#gymslideshowideas #gymtok #slideshowideas #gymmotivation #quotes",
+  "cover": "gym slideshow photos you may be looking for\n( part 7 )",
+  "mark": "@earnie.lifts",
+  "slides": [
+    {
+      "image": "art/01.png",
+      "quote": "no one is coming\nto make you do it."
+    },
+    {
+      "image": "art/02.png",
+      "quote": "rest 3 minutes.\nthen go again."
+    },
+    {
+      "image": "art/03.png",
+      "quote": "2.5 kg.\nearned, not given."
+    },
+    {
+      "image": "art/04.png",
+      "quote": "the walk home\nis the best part."
+    },
+    {
+      "image": "art/05.png",
+      "quote": "legs on friday.\nno excuses."
+    },
+    {
+      "image": "art/06.png",
+      "quote": "last one out.\nfirst one in."
+    }
+  ],
+  "end": [
+    "more parts soon.",
+    "get the EARND app. coming soon to iPhone"
+  ],
+  "variation": "quote on every panel; new CTA (no 'our app', founder 11-26)"
+}

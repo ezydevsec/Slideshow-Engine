@@ -1,0 +1,96 @@
+{
+ "account": "@earnie.lifts",
+ "account_type": "theme",
+ "canvas": "1080x1350",
+ "ai_images": true,
+ "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+ "status": "draft, waiting for founder approval; post Fri 27 Nov 19:40 (launch version)",
+ "format": "bluebro-style tier list (white, gritty anime Ryo)",
+ "pain_cover": true,
+ "winner_remake": "'every lat exercise, ranked' (1,082) remake, rule 1; pain on the cover (review 11-22). Chest last ranked 11-17 without a pain cover",
+ "set_id": "2026-11-27-ryo-tier-every-chest-pain",
+ "topic_source": "EARND Upper A/B chest picks (machine chest press, pec deck); ranking is our opinion",
+ "caption": "chest press feels all shoulders? every chest exercise, ranked 👇 #chestworkout #chestday #gymtok #tierlist #gymtips",
+ "slides": [
+  {
+   "type": "cover",
+   "title": [
+    "chest press feels",
+    "all shoulders?"
+   ],
+   "sub": "every chest exercise, ranked.",
+   "pose": "chest-press"
+  },
+  {
+   "type": "list",
+   "title": "the whole list",
+   "sub": "shoulders down, chest working.",
+   "rows": [
+    [
+     "S",
+     [
+      "machine chest press",
+      "pec deck"
+     ]
+    ],
+    [
+     "A",
+     [
+      "machine dip"
+     ]
+    ],
+    [
+     "B",
+     [
+      "push-up"
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "tier",
+   "tier": "S",
+   "name": "machine chest press",
+   "works": "chest + triceps",
+   "lines": [
+    "handles at mid-chest, not neck.",
+    "shoulder blades back. 2 × 4–8."
+   ],
+   "pose": "chest-press"
+  },
+  {
+   "type": "tier",
+   "tier": "S",
+   "name": "pec deck",
+   "works": "chest",
+   "lines": [
+    "soft elbows, big stretch.",
+    "squeeze, slow on the way back."
+   ],
+   "pose": "pec-deck"
+  },
+  {
+   "type": "tier",
+   "tier": "A",
+   "name": "machine dip",
+   "works": "lower chest + triceps",
+   "lines": [
+    "lean forward a little for chest.",
+    "easy to keep adding weight."
+   ],
+   "pose": "machine-dip"
+  },
+  {
+   "type": "tier",
+   "tier": "B",
+   "name": "push-up",
+   "works": "chest + triceps",
+   "lines": [
+    "fine anywhere.",
+    "hard to load once it gets easy."
+   ],
+   "pose": "push-up",
+   "footer": "get EARND: search EARND Hypertrophy"
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "account": "@earndapp",
+ "account_type": "brand",
+ "canvas": "1080x1350",
+ "ai_images": false,
+ "ai_note": "no generated art: real app screen (demo pack) only",
+ "status": "draft, waiting for founder approval; post Fri 27 Nov 19:00 (prelaunch version)",
+ "set_id": "2026-11-27-earndapp-whole-week-9-prelaunch",
+ "format": "'here's my full split' reveal (gate passed 11-21; 4 more accounts 11-27), pick-1 look, 9 slides, brief look",
+ "pain_cover": false,
+ "new_format_test": "full-split reveal, one day per slide",
+ "topic_source": "EARND programme (01-app/programme.md): Upper A, Lower A, rest, Upper B, Lower B, rest, rest; 2 × 4–8, rest 3 min (founder 11-25)",
+ "caption": "the whole week. 4 days, upper/lower, 2 hard sets per exercise. save it before monday 💾 #workoutsplit #upperlower #gymsplit #gymtips #hypertrophy",
+ "slides": [
+  {
+   "type": "cover",
+   "title": [
+    [
+     "here's the",
+     false
+    ],
+    [
+     "whole week",
+     true
+    ]
+   ],
+   "sub": "(4 days. upper/lower. save it.)",
+   "shot": "01-app/assets/demos/one-tap-frame0.png",
+   "crop": [
+    0,
+    0.03,
+    1,
+    0.5
+   ]
+  },
+  {
+   "type": "structure",
+   "title": "the whole week",
+   "sub": "7 days, then repeat.",
+   "items": [
+    "1 · upper A",
+    "2 · lower A",
+    "3 · rest",
+    "4 · upper B",
+    "5 · lower B",
+    "6–7 · rest"
+   ],
+   "note": "2 hard sets. 4–8 reps. rest 3 min."
+  },
+  {
+   "type": "structure",
+   "title": "1 · upper A",
+   "sub": "6 exercises. 2 sets each.",
+   "items": [
+    "machine chest press",
+    "wide/neutral grip pulldown",
+    "chest-supported row",
+    "Y-raise / lateral raise",
+    "preacher curl",
+    "Poliquin pushdown"
+   ]
+  },
+  {
+   "type": "structure",
+   "title": "2 · lower A",
+   "sub": "calves first.",
+   "items": [
+    "calf press",
+    "seated leg curl",
+    "leg extension",
+    "adductor machine",
+    "hip thrust"
+   ],
+   "note": "then a rest day."
+  },
+  {
+   "type": "structure",
+   "title": "4 · upper B",
+   "sub": "6 exercises. 2 sets each.",
+   "items": [
+    "machine shoulder press",
+    "machine/cable pullover",
+    "shrug",
+    "pec deck / cable fly",
+    "bayesian / hammer curl",
+    "triceps extension"
+   ]
+  },
+  {
+   "type": "structure",
+   "title": "5 · lower B",
+   "sub": "calves first again.",
+   "items": [
+    "calf press",
+    "single-leg curl",
+    "single-leg extension",
+    "RDL",
+    "pendulum / hack squat"
+   ],
+   "note": "then 2 rest days."
+  },
+  {
+   "type": "structure",
+   "title": "how hard",
+   "sub": "the part people skip.",
+   "items": [
+    "2 working sets",
+    "4–8 reps",
+    "stop ~1 rep short of failure",
+    "rest 3 min between sets"
+   ],
+   "note": "no junk volume."
+  },
+  {
+   "type": "structure",
+   "title": "the rule",
+   "sub": "double progression.",
+   "items": [
+    "hit 8 on every set",
+    "→ add weight",
+    "back to 4–5, build up again"
+   ],
+   "note": "train 3 days? the order just rolls on."
+  },
+  {
+   "type": "app",
+   "title": [
+    [
+     "EARND tells you",
+     false
+    ],
+    [
+     "what to lift",
+     true
+    ],
+    [
+     "on every set",
+     false
+    ]
+   ],
+   "shot": "01-app/assets/demos/one-tap-frame0.png",
+   "crop": [
+    0,
+    0.03,
+    1,
+    0.62
+   ],
+   "example": false,
+   "footer": "Coming soon to iPhone. Follow for the launch."
+  }
+ ]
+}

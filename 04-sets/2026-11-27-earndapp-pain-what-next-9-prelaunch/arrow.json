@@ -1,0 +1,144 @@
+{
+ "account": "@earndapp",
+ "account_type": "brand",
+ "canvas": "1080x1350",
+ "ai_images": false,
+ "ai_note": "no generated art: real app screen (demo pack) only",
+ "status": "draft, waiting for founder approval; post Fri 27 Nov 23:00 (prelaunch version)",
+ "set_id": "2026-11-27-earndapp-pain-what-next-9-prelaunch",
+ "format": "pain-cover slideshow (9 slides, brief look)",
+ "pain_cover": true,
+ "new_format_test": "pain cover from the Watch list: 'STOP guessing what to do after every set' (trstnn.lifts 154K / 92K)",
+ "topic_source": "EARND double progression (01-app/programme.md, content brief); weights labelled example",
+ "caption": "you don't need a new program. you need to know what to do after each set. save this 💾 #progressiveoverload #gymtips #doubleprogression #gymtok #upperlower",
+ "slides": [
+  {
+   "type": "cover",
+   "title": [
+    [
+     "you finish a set",
+     false
+    ],
+    [
+     "and have no idea",
+     false
+    ],
+    [
+     "what to do next",
+     true
+    ]
+   ],
+   "sub": "(here's the whole rule)",
+   "shot": "01-app/assets/demos/one-tap-frame0.png",
+   "crop": [
+    0,
+    0.03,
+    1,
+    0.5
+   ]
+  },
+  {
+   "type": "structure",
+   "title": "the whole rule",
+   "sub": "after every exercise, check one thing.",
+   "items": [
+    "8 clean reps on every set?",
+    "yes → add weight next time",
+    "no → same weight, beat the reps"
+   ],
+   "note": "that's double progression."
+  },
+  {
+   "type": "structure",
+   "title": "start here",
+   "sub": "a new exercise.",
+   "items": [
+    "a weight you can do 4+ clean reps",
+    "2 working sets",
+    "stop ~1 rep short"
+   ],
+   "note": "week 0 finds your starting weights."
+  },
+  {
+   "type": "structure",
+   "title": "beat the reps",
+   "sub": "example.",
+   "items": [
+    "week 1: 60 kg × 6, 5",
+    "week 2: 60 kg × 7, 6",
+    "week 3: 60 kg × 8, 8"
+   ],
+   "note": "8 on every set. earned."
+  },
+  {
+   "type": "structure",
+   "title": "then add weight",
+   "sub": "example.",
+   "items": [
+    "week 4: 62.5 kg × 5, 5",
+    "back near 4–5 reps",
+    "build to 8 again"
+   ],
+   "note": "weight only goes up when you've earned it."
+  },
+  {
+   "type": "structure",
+   "title": "keep it boring",
+   "sub": "what actually works.",
+   "items": [
+    "add weight only after 8 on every set",
+    "same exercises for 12 weeks",
+    "stop ~1 rep short, not at failure"
+   ],
+   "note": "repeat the plan. beat the number."
+  },
+  {
+   "type": "structure",
+   "title": "between sets",
+   "sub": "3 minutes. use them.",
+   "items": [
+    "rest 3 min",
+    "log the set",
+    "check your next target"
+   ],
+   "note": "then go again."
+  },
+  {
+   "type": "structure",
+   "title": "why it works",
+   "sub": "you always know the number.",
+   "items": [
+    "no guessing",
+    "no junk volume",
+    "proof when you've improved"
+   ],
+   "note": "same plan. better numbers."
+  },
+  {
+   "type": "app",
+   "title": [
+    [
+     "EARND tells you",
+     false
+    ],
+    [
+     "what to lift",
+     true
+    ],
+    [
+     "on every set",
+     false
+    ]
+   ],
+   "shot": "01-app/assets/demos/one-tap-frame0.png",
+   "crop": [
+    0,
+    0.03,
+    1,
+    0.62
+   ],
+   "example": false,
+   "footer": "Coming soon to iPhone. Follow for the launch."
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "account": "@earnie.lifts",
+ "account_type": "theme",
+ "canvas": "1080x1350",
+ "ai_images": true,
+ "ai_note": "Ryo art generated with Higgsfield: TikTok AI label ON",
+ "status": "draft, waiting for founder approval; post Fri 27 Nov 23:40 (pre-launch version)",
+ "format": "bluebro-style tier list (white, gritty anime Ryo)",
+ "pain_cover": false,
+ "winner_remake": "'every lat exercise, ranked' (1,082) remake, rule 1: arms as one list (biceps 11-24 and triceps 11-25 ran separately)",
+ "set_id": "2026-11-27-ryo-tier-every-arm-prelaunch",
+ "topic_source": "EARND Upper A/B arm picks (preacher curl, Poliquin pushdown, bayesian/hammer curl, triceps extension); ranking is our opinion",
+ "caption": "every arm exercise, ranked. 2 per upper day is enough. argue with me 👇 #armday #bicepsworkout #tricepsworkout #tierlist #gymtok",
+ "slides": [
+  {
+   "type": "cover",
+   "title": [
+    "every arm exercise,",
+    "ranked."
+   ],
+   "sub": "2 per upper day. that's it.",
+   "pose": "preacher-curl"
+  },
+  {
+   "type": "list",
+   "title": "the whole list",
+   "sub": "pick 1 curl + 1 pushdown per day.",
+   "rows": [
+    [
+     "S",
+     [
+      "preacher curl",
+      "pushdown"
+     ]
+    ],
+    [
+     "A",
+     [
+      "bayesian curl",
+      "overhead extension"
+     ]
+    ],
+    [
+     "B",
+     [
+      "dumbbell curl"
+     ]
+    ],
+    [
+     "C",
+     [
+      "cheat curls"
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "tier",
+   "tier": "S",
+   "name": "preacher curl",
+   "works": "biceps",
+   "lines": [
+    "arm locked on the pad.",
+    "no swinging possible. 2 × 4–8."
+   ],
+   "pose": "preacher-curl"
+  },
+  {
+   "type": "tier",
+   "tier": "S",
+   "name": "pushdown",
+   "works": "triceps",
+   "lines": [
+    "sit down for it.",
+    "elbows pinned, full lockout."
+   ],
+   "pose": "pushdown"
+  },
+  {
+   "type": "tier",
+   "tier": "A",
+   "name": "bayesian curl",
+   "works": "biceps (stretched)",
+   "lines": [
+    "cable behind you, arm back.",
+    "big stretch at the bottom."
+   ],
+   "pose": "bayesian-curl"
+  },
+  {
+   "type": "tier",
+   "tier": "A",
+   "name": "overhead extension",
+   "works": "triceps (long head)",
+   "lines": [
+    "arms overhead.",
+    "slow on the way down."
+   ],
+   "pose": "overhead-extension"
+  },
+  {
+   "type": "tier",
+   "tier": "B",
+   "name": "dumbbell curl",
+   "works": "biceps",
+   "lines": [
+    "fine. easy to cheat.",
+    "palms up, elbows still."
+   ],
+   "pose": "hammer-curl"
+  },
+  {
+   "type": "tier",
+   "tier": "C",
+   "name": "cheat curls",
+   "works": "your ego",
+   "lines": [
+    "the swing does the work.",
+    "lighter weight, cleaner reps."
+   ],
+   "pose": "cheat-curl",
+   "footer": "get the EARND app. coming soon to iPhone"
+  }
+ ]
+}

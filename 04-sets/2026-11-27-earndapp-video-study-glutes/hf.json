@@ -1,0 +1,240 @@
+{
+ "set_id": "2026-11-27-earndapp-video-study-glutes",
+ "account": "@earndapp",
+ "account_type": "brand",
+ "format": "study race A vs B (@appforthegym format), Higgsfield 3D — result on screen in the first second (review 11-22)",
+ "status": "draft, waiting for founder approval; post Fri 27 Nov 15:00",
+ "topic_source": "Paul Carter 11-25 glute post (topic only); Plotkin et al. 2023, Front Physiol 14:1279170 (PMID 37877099), verified 11-27: 34 untrained adults, 9 weeks, MRI: hip thrust vs back squat, similar glute hypertrophy, greater thigh growth with squats",
+ "accent": [
+  198,
+  255,
+  0
+ ],
+ "out": "glutes-prelaunch.mp4",
+ "ai_images": true,
+ "ai_note": "start frame Higgsfield Nano Banana, motion Kling 3.0 pro: AI label ON",
+ "caption": "hip thrust vs squat for glutes. 9 weeks, MRI scans: same glute growth. one side got a bonus. are you the left or the right? 👇 #glutes #hipthrust #squats #gymtok #gymtips",
+ "endcards": {
+  "launch": [
+   "EARND is on the App Store.",
+   "Search EARND Hypertrophy"
+  ],
+  "prelaunch": [
+   "Coming soon to iPhone.",
+   "Follow for the launch."
+  ]
+ },
+ "segments": [
+  {
+   "dur": 10,
+   "clips": [
+    "hf/race.mp4"
+   ]
+  },
+  {
+   "dur": 5,
+   "clips": [
+    "hf/catch.mp4"
+   ]
+  },
+  {
+   "dur": 3.5,
+   "image": "../../01-app/assets/demos/one-tap-frame0.png",
+   "height": 1450,
+   "y": 360
+  }
+ ],
+ "text": [
+  {
+   "t0": 0.1,
+   "t1": 10,
+   "text": "hip thrust",
+   "x": 255,
+   "y": 80,
+   "size": 64,
+   "color": [
+    110,
+    190,
+    255
+   ]
+  },
+  {
+   "t0": 0.1,
+   "t1": 10,
+   "text": "vs",
+   "x": 525,
+   "y": 80,
+   "size": 64,
+   "color": [
+    245,
+    245,
+    245
+   ]
+  },
+  {
+   "t0": 0.1,
+   "t1": 10,
+   "text": "squat.",
+   "x": 770,
+   "y": 80,
+   "size": 64,
+   "color": [
+    198,
+    255,
+    0
+   ]
+  },
+  {
+   "t0": 0.1,
+   "t1": 10,
+   "text": "for glutes",
+   "x": 540,
+   "y": 180,
+   "size": 34,
+   "color": [
+    245,
+    245,
+    245
+   ]
+  },
+  {
+   "t0": 0.1,
+   "t1": 6.4,
+   "text": "same glute growth.",
+   "x": 540,
+   "y": 1640,
+   "size": 46,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 1.0,
+   "t1": 6.4,
+   "text": "WEEK {n}",
+   "x": 540,
+   "y": 260,
+   "size": 46,
+   "color": "white",
+   "n0": 1,
+   "step": 1,
+   "rate": 1.4,
+   "max": 8
+  },
+  {
+   "t0": 1.4,
+   "t1": 6.2,
+   "text": "9 weeks. glutes measured by MRI.",
+   "x": 540,
+   "y": 1745,
+   "size": 34,
+   "color": "white"
+  },
+  {
+   "t0": 6.4,
+   "t1": 10,
+   "text": "WEEK 9",
+   "x": 540,
+   "y": 260,
+   "size": 46,
+   "color": "white"
+  },
+  {
+   "t0": 6.5,
+   "t1": 10,
+   "text": "Glutes: a tie.",
+   "x": 540,
+   "y": 1620,
+   "size": 50,
+   "color": "white",
+   "box": true
+  },
+  {
+   "t0": 6.9,
+   "t1": 10,
+   "text": "34 untrained adults, 9 weeks, MRI",
+   "x": 540,
+   "y": 1725,
+   "size": 30,
+   "color": "grey"
+  },
+  {
+   "t0": 6.9,
+   "t1": 10,
+   "text": "Plotkin et al. 2023 (Frontiers in Physiology)",
+   "x": 540,
+   "y": 1860,
+   "size": 22,
+   "color": "grey"
+  },
+  {
+   "t0": 10.1,
+   "t1": 15,
+   "text": "here's the catch.",
+   "x": 540,
+   "y": 110,
+   "size": 64,
+   "color": [
+    198,
+    255,
+    0
+   ]
+  },
+  {
+   "t0": 10.8,
+   "t1": 15,
+   "text": "the squat also grew the thighs.",
+   "x": 540,
+   "y": 230,
+   "size": 38,
+   "color": "white"
+  },
+  {
+   "t0": 11.7,
+   "t1": 15,
+   "text": "the thrust didn't.",
+   "x": 540,
+   "y": 295,
+   "size": 38,
+   "color": "white"
+  },
+  {
+   "t0": 12.6,
+   "t1": 15,
+   "text": "pick one. then beat it every week.",
+   "x": 540,
+   "y": 360,
+   "size": 38,
+   "color": [
+    198,
+    255,
+    0
+   ]
+  },
+  {
+   "t0": 15.1,
+   "t1": 18.5,
+   "text": "EARND tells you what to lift",
+   "x": 540,
+   "y": 150,
+   "size": 44,
+   "color": "white"
+  },
+  {
+   "t0": 15.6,
+   "t1": 18.5,
+   "text": "on every set.",
+   "x": 540,
+   "y": 225,
+   "size": 38,
+   "color": [
+    198,
+    255,
+    0
+   ]
+  }
+ ],
+ "endcard": [
+  "Coming soon to iPhone.",
+  "Follow for the launch."
+ ]
+}

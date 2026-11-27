@@ -1,0 +1,100 @@
+{
+ "account": "@ezyxbt",
+ "account_type": "founder",
+ "canvas": "1080x1920",
+ "ai_images": false,
+ "ai_note": "real founder photos and a real app screen (demo pack), nothing generated",
+ "status": "draft, waiting for founder approval; post Fri 27 Nov 23:20 (launch version)",
+ "format": "native-text tip slideshow",
+ "pain_cover": false,
+ "set_id": "2026-11-27-ezyxbt-test-pulldown-fixes-launch",
+ "new_format_test": "form fix, lat pulldown (gate passed 11-21; wiilliamli 830K, trstnn.lifts 461K) — first time on @ezyxbt, in his photos",
+ "topic_source": "form cues (opinion, no study claims)",
+ "caption": "3 things i fixed on lat pulldowns. the third one is why i can finally see progress. #latpulldown #backworkout #gymtips #gymtok #formcheck",
+ "slides": [
+  {
+   "type": "cover",
+   "photo": {
+    "file": "b9-02.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "hook": "3 things i fixed on lat pulldowns",
+   "sub": "(the 3rd matters most)",
+   "hook_y": 0.14
+  },
+  {
+   "type": "list",
+   "photo": {
+    "file": "b11-03.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "title": "1 · pull to the upper chest",
+   "lines": [
+    "not to your neck",
+    "not to your belly",
+    "chest up, elbows down"
+   ]
+  },
+  {
+   "type": "list",
+   "photo": {
+    "file": "b9-03.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "title": "2 · don't let it yank you",
+   "lines": [
+    "control the way up",
+    "full stretch at the top",
+    "no bouncing"
+   ]
+  },
+  {
+   "type": "list",
+   "photo": {
+    "file": "b14-08.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "title": "3 · same setup every week",
+   "lines": [],
+   "text": "same seat, same grip. or the number means nothing."
+  },
+  {
+   "type": "tip",
+   "photo": {
+    "file": "b10-05.jpg",
+    "focus": [
+     0.5,
+     0.4
+    ]
+   },
+   "label": "the real tip: same setup, beat the number",
+   "text": "what to lift on every set, so you know when you've improved.",
+   "shot": "01-app/assets/demos/one-tap-frame0.png",
+   "footer": "i'm building it. it's called EARND."
+  },
+  {
+   "type": "cta",
+   "photo": {
+    "file": "b12-01.jpg",
+    "focus": [
+     0.5,
+     0.3
+    ]
+   },
+   "text": "which one did you get wrong?",
+   "sub": "i'm building EARND. search EARND Hypertrophy on the App Store."
+  }
+ ]
+}

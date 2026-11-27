@@ -1,0 +1,84 @@
+{
+ "account": "@ezyxbt",
+ "account_type": "founder",
+ "canvas": "1080x1920",
+ "ai_images": false,
+ "ai_note": "real founder photos and a real app screen (demo pack), nothing generated",
+ "status": "draft, waiting for founder approval; post Fri 27 Nov 19:20 (launch version)",
+ "format": "native-text tip slideshow",
+ "pain_cover": false,
+ "set_id": "2026-11-27-ezyxbt-identity-beats-last-week-launch",
+ "new_format_test": "identity format (rule 5), #2 this week",
+ "topic_source": "identity format (02-research/formats, masterclass rule 5); EARND method",
+ "caption": "be the guy who beats last week. that's the whole plan. #gymmotivation #gymtok #progressiveoverload #discipline #gymtips",
+ "slides": [
+  {
+   "type": "cover",
+   "photo": {
+    "file": "b14-07.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "hook": "be the guy who beats last week",
+   "sub": "",
+   "hook_y": 0.14
+  },
+  {
+   "type": "list",
+   "photo": {
+    "file": "b12-06.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "title": "he doesn't",
+   "lines": [
+    "change plans every month",
+    "train until he can't walk",
+    "guess his weights"
+   ]
+  },
+  {
+   "type": "list",
+   "photo": {
+    "file": "b11-05.jpg",
+    "focus": [
+     0.5,
+     0.45
+    ]
+   },
+   "title": "he just",
+   "lines": [],
+   "text": "rests 3 minutes, then beats the number. every week."
+  },
+  {
+   "type": "tip",
+   "photo": {
+    "file": "b9-01.jpg",
+    "focus": [
+     0.5,
+     0.4
+    ]
+   },
+   "label": "the real tip: know the number",
+   "text": "last time and today's target, on every set.",
+   "shot": "01-app/assets/demos/one-tap-frame0.png",
+   "footer": "i'm building it. it's called EARND."
+  },
+  {
+   "type": "cta",
+   "photo": {
+    "file": "b14-05.jpg",
+    "focus": [
+     0.5,
+     0.3
+    ]
+   },
+   "text": "be that guy.",
+   "sub": "i'm building EARND. search EARND Hypertrophy on the App Store."
+  }
+ ]
+}
