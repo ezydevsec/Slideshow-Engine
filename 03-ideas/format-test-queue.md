@@ -108,7 +108,8 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | "By the end of this you'll know exactly how to get to X" (finance) | scan 11-18: financial.literac83 341K | 1 (other niche) | 2 more accounts |
 | Countdown series ("turning 40 in 3 months, part 2: my exact routine") → @ezyxbt "EARND launches in 10 days, part 1: my exact week" | scan 11-20: yurileeeee 624K (skincare) | 1 (other niche) | @ezyxbt test 11-20 |
 | Checklist (✓ / ✗ per item) | scan 11-20: harleyalexander.fit "Leg day checklist" 310K | 1 | Ryo test candidate |
-| "STOP guessing what to do after every set" series | scan 11-20: trstnn.lifts 141K / 88K / 393K | 1 | @earndapp pain cover |
+| "STOP guessing what to do after every set" series | scan 11-20: trstnn.lifts 141K / 88K / 393K; 11-27: same account 154K / 92K | 1 | @earndapp pain cover (it is literally the app's job) |
+| **Minimum-dose answer: "2 sets, 2× a week. that's it."** (one muscle, one exercise, the whole prescription) | scan 11-27: jackedbyjordyn 3.0M / 96K saves (11-04, cable crunches) | 1 | @earndapp / Ryo: "2 sets, twice a week, that's it" per muscle (our method exactly) |
 | ~~"Here's my full split"~~ **promoted 11-21** (getfitwfola 1.3M 11-14, rubygrifiths 124K 11-20, misspanacea 97K 11-10) | | 3 | see queue |
 
 | ~~"Maximize your X gains with these"~~ **promoted 11-23** (rajandroh 992K 11-19, josiahhduran 190K 11-11, shemoves99 65K 11-14) | | 3 | see @earndapp queue |
@@ -118,7 +119,7 @@ Founder rule (2026-11-10): every account tests at least one new format **every d
 | "X I wish I started sooner" ("3 things i wish i started sooner in the gym") | scan 11-24: harleyalexander.fit 166K (11-22); aleynabarrera 20K (under 50K) | 1 | @ezyxbt test candidate |
 | "This has made X MUCH more Y" (study → "this made my training MUCH more consistent") | scan 11-24: dallasstudydiaries 3.2M (11-01) | 1 (other niche) | @ezyxbt test candidate (app as the reveal, said as ours) |
 | "The most important rule" (dating → "the most important gym rule") | scan 11-24: jimmyonrelationships 98K (11-15) | 1 (other niche) | pairs with "N rules" |
-| "Go quiet for N months" (self-improvement) | scan 11-23: nodecash 413K / 25K saves (11-18) | 1 (other niche) | @quiet.reps4 "go quiet for 12 weeks" |
+| "Go quiet for N months" (self-improvement) | scan 11-23: nodecash 413K / 25K saves (11-18); 11-27: same post 536K / 31.5K saves | 1 (other niche) | @quiet.reps4 "go quiet for 12 weeks" |
 | "N things I stopped doing" list (skincare → "5 things I stopped doing in the gym") | scan 11-22: clearskinerika 343K (11-08) | 1 (other niche) | @ezyxbt test candidate |
 
 ## Winner remakes (rule 1)
